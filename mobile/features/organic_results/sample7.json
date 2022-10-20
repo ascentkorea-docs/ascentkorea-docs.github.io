@@ -1,0 +1,344 @@
+{
+    "html_contents_type": "google-serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "f09f912c-d294-476d-a47e-8def0a62b5ee",
+        "sub_id": 0,
+        "requested_time": "2022-10-04T04:21:31.896Z",
+        "q": "보험연수원 교육홈페이지",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EB%B3%B4%ED%97%98%EC%97%B0%EC%88%98%EC%9B%90+%EA%B5%90%EC%9C%A1%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8",
+        "html_url": "http://node0080.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221004/2210041321/110044034171-6C56FD181836443581F53C8F0A989BDE-00.html",
+        "json_url": "http://node0080.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221004/2210041321/110044034171-6C56FD181836443581F53C8F0A989BDE-00.json",
+        "crawl_start_time": "2022-10-04T04:21:31.936Z",
+        "crawl_end_time": "2022-10-04T04:21:35.935Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "보험대리점",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.2.25.master",
+        "displayed_query": "보험연수원 교육홈페이지",
+        "parsed_time": "2022-10-20T02:18:36.000Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.in.or.kr",
+            "title": "보험연수원",
+            "url": "https://www.in.or.kr/",
+            "snippet": "4차산업기술 BIG5! 수강료: 129,360원; 교육기간: 1개월/21시간; 교육형태: 사이버.",
+            "refinements": [
+                {
+                    "text": "모집종사자",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "회원 로그인",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "자격시험",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "보험심사역",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "주요사업",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "사이버교육",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "보험연수원",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://is.in.or.kr",
+            "title": "보험금융 전문인 양성기관 보험연수원에 오신것을 환영합니다. Global Leader Korea Insurance Institute[WSV]",
+            "url": "https://is.in.or.kr/",
+            "snippet": "모집종사자 교육을 통한 보험산업 발전 보험연수원! 보험설계사 수강신청. 보수교육 아이콘. 보수교육. 신규 등록교육 아이콘. 신규 등록교육. 경력자 등록교육 아이콘."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.in.or.kr › login",
+            "title": "회원 로그인 - 보험금융 전문인 양성기관 보험연수원에 오신것을 환영합니다. Global Leader Korea Insurance Institute[WSV]",
+            "url": "https://www.in.or.kr/login.do",
+            "snippet": "보험연수원 아이디, 비밀번호를 입력해주세요. 로그인. 아이디저장 보안접속 교강사(튜터)."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://is.in.or.kr › bosu › intro",
+            "title": "보수교육안내 - 보험금융 전문인 양성기관 보험연수원에 오신것을 환영합니다. Global Leader Korea Insurance Institute[WSV]",
+            "url": "https://is.in.or.kr/is/intro/bosu/intro.do",
+            "snippet": "보수교육 개요. 보험회사, 보험대리점 및 보험중개사는 소속 보험설계사에게 최초 등록(등록이 유효한 경우로 한정한다)한 날부터 2년이 지날 때마다 2년이 된 날부터 ..."
+        },
+        {
+            "sequence": 5,
+            "type": "google_play",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd > a#_zLQ7Y-C-BITA9APtg7X4DA_25.XfM3uf",
+            "url": "https://play.google.com/store/apps/details?id=com.in.or.kr.kii&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%EB%B3%B4%ED%97%98%EC%97%B0%EC%88%98%EC%9B%90+%EA%B5%90%EC%9C%A1%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&pcampaignid=APPU_1_zLQ7Y-C-BITA9APtg7X4DA",
+            "title": "보험연수원",
+            "snippet": "보험연수원이 제공하는 다양한 서비스를 스마트 기기에서도 자유롭게 이용이 가능한 서비스이며, 주요 메뉴로서 나의 강의실, 교육, 자격시험, 교재판매, 수강안내, ...",
+            "rating": {
+                "rating_count": "(427)",
+                "rating_value": "3.0"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://nhis.in.or.kr › login",
+            "title": "로그인 - 보험금융 전문인 양성기관 보험연수원에 오신것을 환영합니다. Global Leader Korea Insurance Institute[WSV]",
+            "url": "https://nhis.in.or.kr/login.do",
+            "snippet": "보수교육 · 신규등록교육 · 경력자등록교육; 간단보험등록교육; 간단보험보수교육; 간단보험경력자교육. 고객센터. 공지사항 · 문의하기 · 제증명서발급/확인 ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://www.in.or.kr › sukang › reg",
+            "title": "과정안내/신청 - 보험연수원",
+            "url": "https://www.in.or.kr/main/sukang/reg/lectureDetailView.do?course_code=C01220512&search_date=2021",
+            "snippet": "개강안내. 기수, 과정명, 고용보험 환급여부, 회원사 할인, 수강료, 신청기간, 교육기간, 수강신청. 6, 보험대리점 총정리과정-5월, 비환급, 비적용, 20,000원 ...",
+            "properties": [
+                {
+                    "key": "교육시간",
+                    "value": "1개월/14시간"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "보험설계사 교육",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__32 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "보험협회",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__35 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "보험연수원 사이버교육",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__38 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "보험연수원 자격시험",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__40 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "보험설계사 보수교육",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__42 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "생명보험협회",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__43 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://parktech.tistory.com › ...",
+            "title": "보험연수원 사이버교육 www.in.or.kr :: 。§",
+            "url": "https://parktech.tistory.com/166",
+            "snippet": "2020. 7. 13. — 보험연수원 사이버교육 www.in.or.kr 인터넷을 이용하여 보험관련 교육을 전문으로 받을 수 있는 보험연수원 사이버교육센터 홈페이지는 다양한 곳들 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://www.klia.or.kr › File...",
+            "title": "보험연수원 2021년 10월 교육과정 안내",
+            "url": "https://www.klia.or.kr/FileDown.do?fileNo=17650&seq=1",
+            "snippet": "모든 집합교육 및 라이브클래스 일정은 변경될 수 있습니다. ... 각 교육과정에 대한 자세한 사항은 보험연수원 홈페이지(www.in.or.kr) 참조. 월간생명보험."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://www.klia.or.kr › File...",
+            "title": "보험연수원 2022년 5월 교육과정 안내",
+            "url": "https://www.klia.or.kr/FileDown.do?fileNo=18027&seq=1",
+            "snippet": "파이썬을 활용한 보험 데이터 분석 및 모델링(중급) ... 각 교육과정에 대한 자세한 사항은 보험연수원 홈페이지(www.in.or.kr) 참조."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "http://wordncode.com › sub › port_in",
+            "title": "보험연수원 - (주)워드앤코드",
+            "url": "http://wordncode.com/main/sub/portfolio/port_in.html",
+            "snippet": "보험연수원은 보험전문교육을 위하여 국내 총 42개의 생명보험사 및 손해보험사가 출연하여 설립한 국내 유일의 보험교육 전문 기관으로, 보험연수원 홈페이지에서는 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 11,
+            "displayed_link": "https://everyenglish.tistory.com › N...",
+            "title": "NH농협 보험 연수원 nhis.in.or.kr | 농협 보험 보수 교육 홈페이지 - 정보살림꾼",
+            "url": "https://everyenglish.tistory.com/entry/NH%EB%86%8D%ED%98%91-%EB%B3%B4%ED%97%98-%EC%97%B0%EC%88%98%EC%9B%90-nhisinorkr-%EB%86%8D%ED%98%91-%EB%B3%B4%ED%97%98%EA%B8%88%EC%9C%B5-%EC%A0%84%EB%AC%B8%EC%9D%B8-%EC%96%91%EC%84%B1%EA%B8%B0%EA%B4%80",
+            "snippet": "2022. 6. 26. — NH 농협 보험 연수원 | 농협보험 교수교육 홈페이지 nhis.in.or.kr. 보험회사, 보험대리점 및 보험중개사는 소속 보험설계사에게 최초 등록한 날 ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 12,
+            "displayed_link": "https://saleboatchung.tistory.com › ...",
+            "title": "메리츠화재 보험연수원 사이버교육 (https://mfis.in.or.kr)",
+            "url": "https://saleboatchung.tistory.com/152",
+            "snippet": "2020. 12. 22. — 보험금융 전문인 보험연수원 - 모집종사자 교육을 통한 보험산업 발전. 메리츠화재 보험연수원 mfis.in.or.kr 보험금융 전문인 양성기관 보험연수원에 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 13,
+            "displayed_link": "http://www.fins.co.kr › articleView",
+            "title": "보험연수원, 설계사 보수교육 실시 < 날짜없음 < 기사본문 - 보험매일",
+            "url": "http://www.fins.co.kr/news/articleView.html?idxno=42882",
+            "snippet": "보험연수원은 오는 14일부터 보험모집인 보수교육을 실시한다. 지난달 24일 개정된 보험업법에서는 소비자보호 강화를 목적으로 40만명에 달하는 모집종사자에 대해 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 14,
+            "displayed_link": "https://primeassetinfo.tistory.com › ...",
+            "title": "보험연수원 설계사보수교육 꼭 들으세요~~",
+            "url": "https://primeassetinfo.tistory.com/m/120",
+            "snippet": "2016. 4. 27. — 항상 그렇듯이 보험연수원을 통해서 온라인강의로 들어야 하는데요... 교육일정은 30분씩 진행되는 것을 30개의 주제로 나눠서 진행되는 교육이라고 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 15,
+            "displayed_link": "https://hoingdoing.tistory.com › ...",
+            "title": "삼성화재 보험연수원 사이버교육 (http://sfis.in.or.kr) - hoing",
+            "url": "https://hoingdoing.tistory.com/686",
+            "snippet": "2021. 6. 18. — 삼성화재 보험설계사, 보험대리점, 보험중개사 같은 경우는 온라인 홈페이지를 통하여 수강신청을 하시고 보수교육이나 보험교육을 이수하시면 좋을 것 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 16,
+            "displayed_link": "https://hotlines.tistory.com › entry",
+            "title": "농협 보험연수원 보수교육 홈페이지 - hottime",
+            "url": "https://hotlines.tistory.com/entry/%EB%86%8D%ED%98%91-%EB%B3%B4%ED%97%98%EC%97%B0%EC%88%98%EC%9B%90-%EB%B3%B4%EC%88%98%EA%B5%90%EC%9C%A1-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80",
+            "snippet": "오늘은 간단하게 농협 보험연수원 보수교육 홈페이지에 관하여서 알아보도록 하겠습니다. 벌써 2021년도 6월이 되었습니다. 코로나 19 바이러스가 등장하고나서 부터 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 17,
+            "displayed_link": "https://melodybrown.tistory.com › tag",
+            "title": "'보험연수원나의강의실 학습하기' 태그의 글 목록 - 언체인드멜로디",
+            "url": "https://melodybrown.tistory.com/tag/%EB%B3%B4%ED%97%98%EC%97%B0%EC%88%98%EC%9B%90%EB%82%98%EC%9D%98%EA%B0%95%EC%9D%98%EC%8B%A4%20%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0",
+            "snippet": "보험연수원 사이버교육 방문하기 삼성생명 보험연수원 사이버교육 홈페이지 주소는 ... 홈페이지 방문하시면, 상단에 \"나의 강의실\" 메뉴가 있으니 \"보험연수원나의 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 18,
+            "displayed_link": "https://ithola.tistory.com › ...",
+            "title": "보험연수원사이버교육 바로가기 https://www.in.or.kr - 2분전",
+            "url": "https://ithola.tistory.com/960",
+            "snippet": "2021. 2. 4. — 자세한 교육은 공식 홈페이지에서 상세하게 설명되어지고 있어요. 사이버교육 메뉴 같은 경우를 보시면 직무공통 / 보험 DT아카데미 / 상품계리 / 보험 ..."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 19,
+            "displayed_link": "https://m.blog.daum.net › gaprime",
+            "title": "설계사 모집종사자 보수(등록)교육 안내 - Daum 블로그",
+            "url": "https://m.blog.daum.net/gaprime/297",
+            "snippet": "2011. 8. 30. — 보험연수원 모집종사자교육_수료처리방법.ppt. 모집종사자 보수 / 등록교육 FAQ. Ⅰ. 보 수 교 육 교육을 왜 받아야 하나요?"
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "보험연수원 강의",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#zLQ7Y-C-BITA9APtg7X4DA__30 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "보험대리점 시험",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__31 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "삼성 생명 보험연수원 사이버교육",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__33 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "손해보험협회",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__34 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "보험연수원 기출문제",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__36 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "보험연수원 인사이트",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__37 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "농협보험연수원",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__39 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "보험연수원 채용",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#zLQ7Y-C-BITA9APtg7X4DA__41 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
