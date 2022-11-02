@@ -1,0 +1,262 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "93d2a482-95b1-4e35-b565-46876b3436cb",
+        "sub_id": 0,
+        "requested_time": "2022-11-02T03:55:29.754Z",
+        "q": "페이스북 광고하기",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81+%EA%B4%91%EA%B3%A0%ED%95%98%EA%B8%B0&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8",
+        "html_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/221102/2211021255/119207076140-B54E691164334D6582E0170729EC540F-00.html",
+        "json_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/221102/2211021255/119207076140-B54E691164334D6582E0170729EC540F-00.json",
+        "crawl_start_time": "2022-11-02T03:55:29.806Z",
+        "crawl_end_time": "2022-11-02T03:55:36.547Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.2.26.master",
+        "displayed_query": "페이스북 광고하기",
+        "parsed_time": "2022-11-02T03:55:37.095Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://ko-kr.facebook.com › help",
+            "title": "Facebook 페이지에서 광고하기 | Meta 비즈니스 지원 센터",
+            "url": "https://ko-kr.facebook.com/business/help/198653350887222",
+            "snippet": "Facebook 페이지에서 광고하면 비즈니스, 제품 또는 서비스에 관심이 있는 사람들에게 도달할 수 있습니다. 게시물과 이벤트를 홍보하고, 잠재 고객을 확보하거나 웹 ..."
+        },
+        {
+            "sequence": 2,
+            "type": "video_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "페이스북 광고하기 1탄_초보자",
+                    "url": "https://m.youtube.com/watch?v=AnNk-Bd-5GY",
+                    "date": "Mar 25, 2018"
+                },
+                {
+                    "title": "페이스북 광고 세팅 방법. \"비즈니스 관리자\" 활용하기",
+                    "url": "https://m.youtube.com/watch?v=JA_csi5SHe4",
+                    "date": "Mar 3, 2022"
+                },
+                {
+                    "title": "페이스북, 인스타그램 광고하기 – 광고 타겟 설정 방법",
+                    "url": "https://m.youtube.com/watch?v=v_KZCxs1Jbc",
+                    "date": "May 4, 2021"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(7) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 2,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "페이스북 광고, 한번에 이해하기! (캠페인 목표 + 마케팅퍼널+머신러닝 ...",
+            "url": "https://m.youtube.com/watch?v=LhNV6IMor-0",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:7e9b0f19,vid:LhNV6IMor-0",
+                "date": "Aug 8, 2021"
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "http://m.blog.naver.com › ...",
+            "title": "[페이스북 광고하는법] 생각보다 쉬운 페이스북 광고 방법",
+            "url": "http://m.blog.naver.com/yd8907/221173747189",
+            "snippet": "Dec 29, 2017 — 고로 도달률이 높아야 효율적인 광고겠죠? 그러니 참여형 위주로 광고를 해주시는게 페이스북 광고 효과를 극대화하기 좋습니다!"
+        },
+        {
+            "sequence": 5,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "페이스북 광고 만들기",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__20 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 광고 하는 법",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__21 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 광고 계정",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__22 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 광고 가이드 pdf",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__23 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 광고 예시",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__24 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 광고 종류",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "http://www.openads.co.kr › article",
+            "title": "페이스북 광고를 처음 시작한다면_1편",
+            "url": "http://www.openads.co.kr/nTrend/article/7795",
+            "snippet": "Aug 10, 2020 — 페이스북 광고를 본격적으로 시작하기 이전 페이스북 페이지를 직접 만들어보면서 광고 집행을 위한 기본 세팅을 배워봅시다. Facebook 페이지란?"
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://brunch.co.kr › ...",
+            "title": "페이스북 광고 세팅이 궁금하면?",
+            "url": "https://brunch.co.kr/@jaegolee/26",
+            "snippet": "Jul 4, 2020 — 의외로 짧은 포스팅이 될 수 도 있겠네요. 먼저, 페이스북 페이지에서 게시물을 올리고 게시물 홍보하기 버튼으로 광고를 진행하는 것 은 추천하지 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "images",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+            "refinements": [
+                {
+                    "text": "다이내믹광고",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "비즈니스관리자",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "광고세트",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "youtube",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "캠페인",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_59.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "광고관리자",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_61.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "마케팅",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_63.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "맞춤타겟",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_65.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "그램광고",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_67.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "마케터",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_69.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "images": [
+                {
+                    "landing_url": "https://www.i-boss.co.kr/ab-6141-52480"
+                },
+                {
+                    "landing_url": "https://imweb.me/faq?mode=view&category=29&category2=47&idx=71372"
+                },
+                {
+                    "landing_url": "https://brunch.co.kr/@jaegolee/26"
+                },
+                {
+                    "landing_url": "https://www.i-boss.co.kr/ab-6141-52480"
+                },
+                {
+                    "landing_url": "https://post.naver.com/viewer/postView.naver?volumeNo=31927501&memberNo=52556213"
+                },
+                {
+                    "landing_url": "https://www.youtube.com/watch?v=gAZK6AEFxSo"
+                },
+                {
+                    "landing_url": "https://sonet.kr/1207/"
+                },
+                {
+                    "landing_url": "http://m.blog.naver.com/yd8907/221173747189"
+                },
+                {
+                    "landing_url": "http://www.openads.co.kr/nTrend/article/7795"
+                },
+                {
+                    "landing_url": "https://www.hellodigital.kr/blog/how-to-promote-facebook-instagram/"
+                },
+                {
+                    "landing_url": "https://market.dighty.com/contents/?idx=10437395&bmode=view"
+                },
+                {
+                    "landing_url": "https://sonet.kr/1207/"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "페이스북 광고 차단",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#MuphY5uXE8LyhwOUhJvYCA__27 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 상품 소개서 2022",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__28 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 타겟",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__29 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 보기",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__30 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 관리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__31 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고센터",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__32 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 이미지",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__33 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 광고 라이브러리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#MuphY5uXE8LyhwOUhJvYCA__34 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
