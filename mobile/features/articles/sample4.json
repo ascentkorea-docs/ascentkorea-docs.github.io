@@ -1,0 +1,392 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "b23e11dc-3c15-4a63-9987-28036a36f40c",
+        "sub_id": 0,
+        "requested_time": "2022-12-04T23:47:41.238Z",
+        "q": "금리",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EA%B8%88%EB%A6%AC&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/221205/2212050847/119207076141-B23E11DC3C154A63998728036A36F40C-00.html",
+        "json_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/221205/2212050847/119207076141-B23E11DC3C154A63998728036A36F40C-00.json",
+        "crawl_start_time": "2022-12-04T23:47:41.353Z",
+        "crawl_end_time": "2022-12-04T23:47:55.699Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.2.29.master",
+        "displayed_query": "금리",
+        "parsed_time": "2022-12-04T23:47:56.510Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.bok.or.kr › singl › list",
+            "title": "한국은행 기준금리 추이(목록) | 통화정책방향",
+            "url": "https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643"
+        },
+        {
+            "sequence": 2,
+            "type": "articles",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1",
+            "title": "주요 뉴스",
+            "items": [
+                {
+                    "title": "투자 뉴스",
+                    "carousels": [
+                        {
+                            "title": "\"금리 상승기, 주식보다 '이것' 투자하라\" [차은지의 리치리치]",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).amp_re.ppqoE > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.hankyung.com/finance/amp/2022113051176"
+                        },
+                        {
+                            "title": "부자들 84% '금리 7%면 신규대출 포기' - 서울경제",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).amp_re.ppqoE > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://m.sedaily.com/NewsViewAmp/26ERS7EKE9"
+                        },
+                        {
+                            "title": "[부자보고서] 가장 큰 위험은 인플레이션·금리 인상",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3)#tsuid_53.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__21.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4245001"
+                        },
+                        {
+                            "title": "부유층 72% \"내년에도 高금리 계속\" By Hankyung",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4)#tsuid_76.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__24.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://kr.investing.com/news/economy/article-860118"
+                        },
+                        {
+                            "title": "부유층 58.1% \"예금금리 연 6% 시대엔 투자자산 예금으로\"",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid_78.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__27.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://m.nocutnews.co.kr/news/5859492"
+                        },
+                        {
+                            "title": "높은 금리가 부담된다면 주저하지말고 와우스탁론",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid_94.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__30.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202212020199"
+                        },
+                        {
+                            "title": "한국 부자 '금리인상·인플레·부동산규제' 투자 위험요인 꼽아 - 서울경제",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid_80.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__33.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).amp_re.ppqoE > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://m.sedaily.com/NewsViewAmp/26ERSL6Z3P"
+                        },
+                        {
+                            "title": "[부자보고서] 부유층 10명 중 6명 \"금리·물가 상승 내년 종료될것\" - 매일경제 증권센터",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid_32.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__36.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "http://vip.mk.co.kr/news/view/21/21/3562256.html"
+                        },
+                        {
+                            "title": "우리금융 \"부유층 70%, 금리인상 2023년 종료되고 자산가치 하락 전망\"",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid_31.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__39.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.businesspost.co.kr/BP?command=article_view&num=299776"
+                        },
+                        {
+                            "title": "[부자보고서] 금리 오르자 `예·적금`이 부자들의 단기 투자처",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid_59.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__42.iVOoxf > div:nth-child(1).Cq2QEe.VpAEjc.kno-fb-ctx > div:nth-child(1).ppqoE > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "http://www.dt.co.kr/contents.html?article_no=2022120402109963074001"
+                        }
+                    ]
+                },
+                {
+                    "title": "예금 뉴스",
+                    "carousels": [
+                        {
+                            "title": "[사설]금리 5%대 예금 실종시킨 금융위의 갈팡질팡 新관치",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://www.donga.com/news/amp/all/20221204/116842380/1"
+                        },
+                        {
+                            "title": "[벼랑끝 영끌족③]대출금리 제동 나선 금융당국…가산금리 개선 필요성도",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://www.newsis.com/view/?id=NISX20221202_0002110040"
+                        },
+                        {
+                            "title": "\"노후 자금 3억 은행에 넣었더니 이자가…\" 70대 분통",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3)#tsuid_61.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__52.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://www.hankyung.com/economy/amp/2022120217861"
+                        },
+                        {
+                            "title": "금융당국 대출금리 인상 억제 '생색내기' 그치면 안돼",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4)#tsuid_63.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__55.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://www.hankookilbo.com/News/Read/A2022120415470003858"
+                        },
+                        {
+                            "title": "“금리 오르니 마통부터 갚자” 5대 은행 잔액 연초 대비 5조 줄어",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid_84.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__58.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://www.donga.com/news/amp/all/20221205/116844996/1"
+                        },
+                        {
+                            "title": "금융권의 과도한 금리 장사로 생존 위협받는 부동산 개발 시장 [김진수의 부동산 인사이드]",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid_92.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__61.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://www.hankyung.com/realestate/amp/202212043393i"
+                        },
+                        {
+                            "title": "[벼랑끝 영끌족①] 대출금리 인상 속도 역대 최고",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid_82.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__64.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://mobile.newsis.com/view.html?ar_id=NISX20221202_0002109486"
+                        },
+                        {
+                            "title": "금융당국, 은행권 대출금리 주단위 점검…",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid_86.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__67.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "http://vip.mk.co.kr/news/view/21/21/3562246.html"
+                        },
+                        {
+                            "title": "대출금리 인상 지속...정책금융상품 '재조명'",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid_90.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__70.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://www.metroseoul.co.kr/article/20221204500031"
+                        },
+                        {
+                            "title": "제 2금융권까지… 대출 관리 손 뻗는다 -",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_97.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid_55.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__73.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "http://m.dt.co.kr/contents.html?article_no=2022120402109963074004"
+                        }
+                    ]
+                },
+                {
+                    "title": "관련 뉴스",
+                    "carousels": [
+                        {
+                            "title": "약세장에 돌입한 주식…금리 보다 내년 기업실적이 관건",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://www.hani.co.kr/arti/economy/finance/1070179.html"
+                        },
+                        {
+                            "title": "美 연준 \"금리 인상 속도 조절\"...'산타 랠리' 오나",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://www.ytn.co.kr/_ln/0102_202212041632073512"
+                        },
+                        {
+                            "title": "여전히 뜨거운 美 노동시장…\"내년 기준금리 6%까지 오를 수도\"",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3)#tsuid_35.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__83.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://m.mt.co.kr/renew/view_amp.html?no=2022120416071847074"
+                        },
+                        {
+                            "title": "[뉴욕환시-주간] 예상보다 강했던 美고용…달러 약세흐름 이어질까",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4)#tsuid_57.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__86.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4245015"
+                        },
+                        {
+                            "title": "[뉴욕채권-주간] 속도조절 확인…FOMC 앞두고 숨 고르기",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid_39.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__89.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe",
+                            "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4245016"
+                        },
+                        {
+                            "title": "CP금리 진정세에도…증권사는 아직 12%대 - 서울경제",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid_65.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__92.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://m.sedaily.com/NewsViewAmp/26ERTUGBWK"
+                        },
+                        {
+                            "title": "[굿모닝 증시]'금리'·'경기' 우려에 증시는 일희일비",
+                            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_pDGNY_2gO5r8wAP-l6KQCg_75.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid_36.JJZKK > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__95.iVOoxf > div:nth-child(1).kno-fb-ctx.lOg1Vd > div:nth-child(2).amp_re.ppqoE > div:nth-child(1).GtrJ1 > a.WlydOe.amp_r",
+                            "url": "https://cm.asiae.co.kr/ampview.htm?no=2022120508251674147"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "금리란",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__99 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "금리 - 나무위키",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__100 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "금리인상",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__101 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "현재 금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__103 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "미국 금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__104 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "금리인상 의미",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(12).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__105 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › 기준금리",
+            "title": "기준금리 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC",
+            "snippet": "한국의 기준금리는 10년만에 3.0%가 되어 미국과 -0.25%~0% 차이를 보이고 있지만, 향후 연준에서 0.75%p인상을 추가로 결정할 경우 금리차이가 더욱 커질 수 있다. 2022/ ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://portal.kfb.or.kr › loan",
+            "title": "대출금리에 대한 이해 - 은행연합회 소비자포털",
+            "url": "https://portal.kfb.or.kr/compare/loan.php",
+            "snippet": "대출 기준금리와 가산금리의 합으로 대출금리가 표시되고 있습니다. ... 대출 시 은행이 필요한 자금을 시장에서 신규로 조달할 때 지불해야 하는 금리(시장금리)를 의미하며 ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://portal.kfb.or.kr › compare",
+            "title": "예금상품금리비교 - 은행연합회 소비자포털",
+            "url": "https://portal.kfb.or.kr/compare/receiving_deposit_3.php",
+            "snippet": "금융상품정보, 금리/수수료 비교공시, 금융서비스정보, 소비자정보, 금융교육, 보이스피싱정보."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://kosis.kr › statHtml › statHtml",
+            "title": "주요 국제금리 - KOSIS 국가통계포털",
+            "url": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2KAA716"
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://www.fsb.or.kr › mobratedep...",
+            "title": "금리보기 - 예금 - 저축은행중앙회",
+            "url": "https://www.fsb.or.kr/mobratedepo_0100.act",
+            "snippet": "영업 정지된 저축은행 금리는 제공되지 않습니다. 중앙회와 각 저축은행은 최신 정보를 제공하기 위해 적극 노력하고 있으나 저축은행의 적금 상품별 금리ㆍ수수료, 기타 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "우대금리가 뭔가요?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_pDGNY_2gO5r8wAP-l6KQCg_125 > div:nth-child(1) > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__148 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.bok.or.kr › bbs › view",
+                    "url": "https://www.bok.or.kr/portal/bbs/B0000217/view.do?nttId=233448&menuNo=200144",
+                    "title": "[대한민국 경제교실 3강] 금리에 대한 이해 | 금요강좌 VOD(상세) - ...",
+                    "snippet": "우대금리란 결국은 예를 들어서 은행들이 자금이 많이 필요할 때는 예금 많이 끌어야 되니까 예금을 끌기 위해서 금리를 더 주는 게 우대금리입니다."
+                },
+                {
+                    "question": "한국은행 기준금리 1년에 몇번?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_pDGNY_2gO5r8wAP-l6KQCg_125 > div:nth-child(2) > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__151 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.bok.or.kr › progress",
+                    "url": "https://www.bok.or.kr/portal/singl/baseRate/progress.do?dataSeCd=01&menuNo=200656",
+                    "title": "한국은행 기준금리 | 통화정책 운영체제",
+                    "snippet": "한국은행 금융통화위원회는 물가 동향, 국내외 경제 상황, 금융시장 여건 등을 종합적으로 고려하여 연 8회 기준금리를 결정하고 있다."
+                },
+                {
+                    "question": "CD 금리가 뭔가요?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_pDGNY_2gO5r8wAP-l6KQCg_125 > div:nth-child(3) > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__154 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://mbanote2.tistory.com › entry",
+                    "url": "https://mbanote2.tistory.com/entry/CD%EA%B8%88%EB%A6%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-CD%EB%9E%80-%EC%96%91%EB%8F%84%EC%84%B1-%EC%98%88%EA%B8%88%EC%A6%9D%EC%84%9C%EC%9D%98-%EC%A4%84%EC%9E%84%EB%A7%90",
+                    "title": "CD금리란 무엇인가 - CD란 양도성 예금증서의 줄임말",
+                    "snippet": "CD금리란 은행이 발행하는 양도성예금증서인 CD가 발행되어 유통시장에서 거래가 이루어질 때 적용받는 이자율을 의미 하는데 양도성예금증서를 줄여서 CD라고 부릅니다. 양도성 예금증서라는 말에서도 알수가 있듯이 CD는 은행의 정기예금상품에 무기명 양도성을 부여한 금융상품을 뜻합니다.2021. 8. 3."
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://www.standardchartered.co.kr › ...",
+            "title": "여신기준금리 - Standard Chartered",
+            "url": "https://www.standardchartered.co.kr/np/kr/pl/et/StandardInterestRateP.jsp"
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://www.index.go.kr › main › E...",
+            "title": "시장금리 추이 - e-나라지표",
+            "url": "https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1073"
+        },
+        {
+            "sequence": 12,
+            "type": "video_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "잦아진 장단기 금리 역전...자금시장 경색 우려 / YTN",
+                    "url": "https://m.youtube.com/watch?v=6MIjPoK5nps",
+                    "date": "2일 전"
+                },
+                {
+                    "title": "[신선한 경제] 금리 인상에도 연 5%대 예금 사라진 이유는? (2022.11.30 ...",
+                    "url": "https://m.youtube.com/watch?v=oSFMQAX6JzY",
+                    "date": "5일 전"
+                },
+                {
+                    "title": "美 고용시장 아직 '탄탄'...금리 더 오를까? / YTN",
+                    "url": "https://m.youtube.com/watch?v=oPzWniT91qE",
+                    "date": "1일 전"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "unknown",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.KJ7Tg.wHYlTd.cUnQKe.Ww4FFb.vt6azd"
+        },
+        {
+            "sequence": 14,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "한국 기준금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#pDGNY_2gO5r8wAP-l6KQCg__109 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "은행금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__110 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "한국 금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__111 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "대출금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__112 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "금리 이자율",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__113 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "금리 인상 영향",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__114 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "현재 기준금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__115 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "예금 금리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#pDGNY_2gO5r8wAP-l6KQCg__116 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
