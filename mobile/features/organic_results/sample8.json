@@ -1,0 +1,568 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "b5c02ae3-c549-419c-8df8-2bcd3fe16144",
+        "sub_id": 0,
+        "requested_time": "2022-12-11T19:11:53.491Z",
+        "q": "특이한 건물",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%ED%8A%B9%EC%9D%B4%ED%95%9C+%EA%B1%B4%EB%AC%BC&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0041.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120411/106010075196-B5C02AE3C549419C8DF82BCD3FE16144-00.html",
+        "json_url": "http://node0041.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120411/106010075196-B5C02AE3C549419C8DF82BCD3FE16144-00.json",
+        "crawl_start_time": "2022-12-11T19:11:53.584Z",
+        "crawl_end_time": "2022-12-11T19:11:59.054Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "embedding",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.2.26.master",
+        "displayed_query": "특이한 건물",
+        "parsed_time": "2022-12-11T22:46:18.037Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "images",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+            "refinements": [
+                {
+                    "text": "중국",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "건축디자인",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "건축가",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "이색건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "가장특이한",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "창의적인건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "신기한건물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "세계",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "건축구조",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_24.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "유명건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).O6Hcib > div:nth-child(2).BdG8Xe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a#tsuid_26.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "images": [
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://hub.zum.com/heraldcorp/5503"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://hub.zum.com/heraldcorp/5503"
+                },
+                {
+                    "landing_url": "http://www.designsori.com/zero/1160827"
+                },
+                {
+                    "landing_url": "https://m.blog.daum.net/clw2222/6359977"
+                },
+                {
+                    "landing_url": "http://www.designsori.com/zero/1160827"
+                },
+                {
+                    "landing_url": "https://redfriday.co.kr/3350"
+                },
+                {
+                    "landing_url": "https://kisba.info/30"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://www.pinterest.co.kr/a01084490113/%ED%8A%B9%EC%9D%B4%ED%95%9C%EA%B1%B4%EB%AC%BC/"
+                },
+                {
+                    "landing_url": "https://placeboning.tistory.com/213"
+                },
+                {
+                    "landing_url": "https://simplestory.co.kr/413"
+                },
+                {
+                    "landing_url": "https://lesser77.tistory.com/57"
+                },
+                {
+                    "landing_url": "https://kisba.info/30"
+                },
+                {
+                    "landing_url": "https://hub.zum.com/heraldcorp/5503"
+                },
+                {
+                    "landing_url": "http://blog.hwenc.co.kr/598"
+                },
+                {
+                    "landing_url": "https://www.daily.co.kr/life201604785"
+                },
+                {
+                    "landing_url": "https://www.pinterest.co.kr/a01084490113/%ED%8A%B9%EC%9D%B4%ED%95%9C%EA%B1%B4%EB%AC%BC/"
+                },
+                {
+                    "landing_url": "http://www.designsori.com/zero/1160827"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(29) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://m.blog.naver.com › king-hong",
+            "date": "2018. 6. 4.",
+            "title": "세계에서 가장 특이한 건물(건축물) - 네이버 블로그",
+            "url": "https://m.blog.naver.com/king-hong/221291311598",
+            "snippet": "2018. 6. 4. — '슈틴쉬 잘레브스키'란 건축회사가 지은 건물이다. ... 거인국의 한 장면을 보는듯한 착각이 들게 한다. ... 회사를 알리기 위한 홍보수단으로 만들어졌다.",
+            "images": [
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "한국 특이한 건물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__35 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "세계의 특이한 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__36 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "디자인 건물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__37 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "창의적인 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__39 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "흥미로운 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__40 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "특이한 구조시스템 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__41 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://m.hub.zum.com › heraldcorp",
+            "date": "2016. 10. 3.",
+            "title": "세상에서 가장 특이한 건물 10선...`신기하네 - 허브줌",
+            "url": "https://m.hub.zum.com/heraldcorp/5503/",
+            "snippet": "2016. 10. 3. — 동화속에나 나올 법한 독특한 모양의 건물들. 하지만 실제로 존재하고 사람도 산다고 합니다. 인터레스팅 엔지니어링은 '세상에서 가장 특이한 건물 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.hub.zum.com/heraldcorp/5503/",
+                "desc": "특이한 건물(출처: m.hub.zum.com)"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://rozavetrovsibir.ru › migration",
+            "title": "설명과 함께 세계의 특이한 건물. 세계에서 가장 기이하고 이상한 건물",
+            "url": "https://rozavetrovsibir.ru/ko/migration/neobychnye-zdaniya-mira-s-opisaniem-samye-prichudlivye-strannye/",
+            "snippet": "이 건물의 건설은 2003 년 1 월에 시작되었고 2003 년 12 월에 이미 폴란드 마을 주민들 ... 이 특이한 \"해양\"건물은 건축 스튜디오 Diller Scofidio와 Renfro (Diller ..."
+        },
+        {
+            "sequence": 6,
+            "type": "sns",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > g-card#tscffb.XqIXXe",
+            "displayed_link": "https://www.pinterest.co.kr › 특이한...",
+            "title": "190개의 특이한건물 아이디어 | 건축물, 건축, 건축 디자인",
+            "url": "https://www.pinterest.co.kr/a01084490113/%ED%8A%B9%EC%9D%B4%ED%95%9C%EA%B1%B4%EB%AC%BC/",
+            "carousels": [
+                {
+                    "title": "Ziggurat Pyramid, Duba",
+                    "url": "https://www.pinterest.jp/pin/348888302365395614/"
+                },
+                {
+                    "title": "floating city of modular, eco-friendly pyramids is now enrolling citizens",
+                    "url": "https://www.pinterest.com/pin/496592296407111752/"
+                },
+                {
+                    "title": "Tower of Terror",
+                    "url": "https://www.pinterest.com/pin/444167581985090277/"
+                },
+                {
+                    "title": "Floating Towers , Singapore.",
+                    "url": "https://www.pinterest.com/pin/floating-towers-singapore--26810560262728887/"
+                },
+                {
+                    "title": "Green Design",
+                    "url": "https://www.pinterest.com/pin/green-design--254453447666874090/"
+                },
+                {
+                    "title": "NordLB Headquarters",
+                    "url": "https://www.pinterest.com/pin/535928424380018325/"
+                },
+                {
+                    "title": "Des cultures de micro-algues en façade pour réguler thermiquement les \nbâtiments (diaporama)",
+                    "url": "https://www.pinterest.fr/pin/124200902196733685/"
+                },
+                {
+                    "title": "Edificio sustentable en Montpellier",
+                    "url": "https://www.pinterest.com.mx/pin/542754192601277975/"
+                },
+                {
+                    "title": "Elegant Residential Tower with a view Limassol Beach | Orange Architects - \nArch2O.com",
+                    "url": "https://www.pinterest.com/pin/elegant-residential-tower-with-a-view-limassol-beach--680888037424310181/"
+                },
+                {
+                    "title": "What about building a home in city like this for 45+ men???Ted Gagnon,️️ - \nFOREX MARKETCAP",
+                    "url": "https://www.pinterest.com/pin/792563234417662983/"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://awesome-news.tistory.com › ...",
+            "date": "2021. 4. 24.",
+            "title": "세계의 독특한 건축물 17 선 - 어썸뉴스",
+            "url": "https://awesome-news.tistory.com/15",
+            "snippet": "2021. 4. 24. — 세계의 독특한 건축물 17 선 · 1. 댄싱 하우스 (체코) · 2. 버블 하우스 (프랑스) · 3. 슈핏테라우 소각장 (오스트리아) · 4. 트위스트 집 (폴란드) · 5. 발트 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://simplestory.co.kr › ...",
+            "title": "한번 보면 잊을 수 없는 독특한 건축물 - 심플스토리",
+            "url": "https://simplestory.co.kr/413",
+            "snippet": "한번 보면 잊을 수 없는 독특한 건축물들을 소개해드리겠습니다. 1. 연꽃 빌딩(The Lotus Building), 중국중국 창저우에 있는 이 건물은 이름 그대로 인공 호수 위 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://simplestory.co.kr/413",
+                "desc": "특이한 건물(출처: simplestory.co.kr)"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "http://www.designsori.com › zero",
+            "date": "2020. 1. 21.",
+            "title": "세계에서 가장 특이한 건축물 디자인 5가지 - DESIGNSORI",
+            "url": "http://www.designsori.com/zero/1160827",
+            "snippet": "2020. 1. 21. — 도시를 먹여 살리는 건축 디자인 여기, 한번 보면 잊을 수 없는 특이한 건축물들이 있습니다. 개성 있고 독특한 디자인의 건축물들은 큰 화제가 되고 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://www.designsori.com/zero/1160827",
+                "desc": "특이한 건물(출처: www.designsori.com)"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://doreen-vallog.tistory.com › ...",
+            "date": "2021. 8. 10.",
+            "title": "[세계 문화] 지구 상에서 가장 독특하고 기이한 건축물 20개 - 봄앤의 발로그",
+            "url": "https://doreen-vallog.tistory.com/entry/%EC%84%B8%EA%B3%84-%EB%AC%B8%ED%99%94-%EC%A7%80%EA%B5%AC-%EC%83%81%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%8F%85%ED%8A%B9%ED%95%98%EA%B3%A0-%EA%B8%B0%EC%9D%B4%ED%95%9C-%EA%B1%B4%EC%B6%95%EB%AC%BC-20%EA%B0%9C",
+            "snippet": "2021. 8. 10. — 튼튼함, 편의성, 단열 등을 고려함은 물론 미적 감각을 극대화시키는 독특한 디자인도 주저 없이 반영하는 편이죠. 그래서 지구 상에는 우리가 알 던 것 ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://magazine-k.tistory.com › ...",
+            "date": "2017. 6. 9.",
+            "title": "세계의 특이한 건축물 5가지 - 매거진K",
+            "url": "https://magazine-k.tistory.com/103",
+            "snippet": "2017. 6. 9. — 전세계에는 개성이넘치고 독특한 건물들이 굉장히 많습니다. 이런 건축물들은 단순히 외관만 특이한것이 아니라 각각 지어진배경이 다르고 디자인적 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://magazine-k.tistory.com/103",
+                "desc": "특이한 건물(출처: magazine-k.tistory.com)"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://makemone.ru › samye-udivit...",
+            "date": "2020. 11. 26.",
+            "title": "세계에서 가장 놀라운 건물들. 가장 특이한 건물",
+            "url": "https://makemone.ru/ko/installation-repair-and-decoration-of-ceiling/samye-udivitelnye-sooruzheniya-mira-samye-neobychnye-zdaniya-bambukovyi-dom.html",
+            "snippet": "2020. 11. 26. — 가장 특이한 건물. 현대 건축은 시간이 지남에 따라 상당한 변화를 겪습니다. 외부의 비판에도 불구하고 자신의 작품에서 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://dowra-60.tistory.com › ...",
+            "date": "2021. 10. 15.",
+            "title": "세계에서 가장 이상한 건물들 - 나그네 스토리",
+            "url": "https://dowra-60.tistory.com/1256",
+            "snippet": "2021. 10. 15. — 폴란드 건축가 Szotynscy & Zaleski 가 동화책 삽화에서 영감을 받아 설계했습니다. 또한 이상한 이 건물은 특이한 모양으로 세계 사진작가들에게 가장 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://dowra-60.tistory.com/1256",
+                "desc": "특이한 건물(출처: dowra-60.tistory.com)"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 11,
+            "displayed_link": "https://board.realestate.daum.net › re...",
+            "date": "2018. 10. 5.",
+            "title": "신기한 세상에서 가장 특이한 건물 10선. - Daum 부동산",
+            "url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144",
+            "snippet": "2018. 10. 5. — 신기한 세상에서 가장 특이한 건물 10선. · 1. 큐브 하우스(Cubic House)-네덜란드 로테르담. [사진=인터레스팅 엔지니어링] · 2. 해비타트 67(Habitat 67)- ...",
+            "images": [
+                {
+                    "landing_url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144"
+                },
+                {
+                    "landing_url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144"
+                },
+                {
+                    "landing_url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144"
+                },
+                {
+                    "landing_url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144"
+                },
+                {
+                    "landing_url": "https://board.realestate.daum.net/gaia/do/mobile/estate/read?bbsId=knowhow&articleId=174144"
+                }
+            ]
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 12,
+            "displayed_link": "https://mylandrover.ru › 집 › 신체",
+            "title": "세계에서 가장 유명한 건물. 세계에서 가장 특이한 건축물",
+            "url": "https://mylandrover.ru/ko/body/samye-izvestnye-zdaniya-v-mire-samye-neobychnye-arhitekturnye.html",
+            "snippet": "세계에서 가장 특이한 건축물. 벽돌과 박격포로 자신을 표현하려는 파격적인 건축가들의 시도로 세상은 기이한 건물들로 가득 차 있다. 구름을 향해 달려가 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 13,
+            "displayed_link": "https://redfriday.co.kr › ...",
+            "title": "한 번쯤 꼭 직접 보고 싶은 중국의 독특한 건물 TOP 7 [RedFriday.co.kr]",
+            "url": "https://redfriday.co.kr/3350",
+            "snippet": "건축을 좋아하신다면 어디로 여행을 떠나고 싶나요? 가우디가 활동했던 바르셀로나, 혹은 신전에서부터 바로크 시대까지 유명 건축물을 자랑하고 있는 이탈리아를 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://redfriday.co.kr/3350",
+                "desc": "특이한 건물(출처: redfriday.co.kr)"
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "video_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "세상에서 가장 특이한 건물 35개",
+                    "url": "https://m.youtube.com/watch?v=-a0m1GZ_CMo",
+                    "date": "2020. 4. 11."
+                },
+                {
+                    "title": "입이 쩍 벌어지게 만드는 특이한 건물 Top 10",
+                    "url": "https://m.youtube.com/watch?v=5QbR_u_64fU",
+                    "date": "2021. 1. 20."
+                },
+                {
+                    "title": "[#세종항공뷰] 보고도 안 믿기는 특이한 건물들 모음",
+                    "url": "https://m.youtube.com/watch?v=vNKtfKFz7yY",
+                    "date": "2022. 6. 29."
+                }
+            ]
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 14,
+            "displayed_link": "https://beijingori.tistory.com › ...",
+            "date": "2018. 1. 24.",
+            "title": "세계의 독특한 건축물들 - 보리스토리",
+            "url": "https://beijingori.tistory.com/m/12",
+            "snippet": "2018. 1. 24. — 필라델피아 시청사(Philadelphia City Hall)는 필라델피아의 시청 건물이다. 1872년 '존 맥아서 주니어'의 설계로 건축을 시작하여 건축을 시작해 1901년 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://beijingori.tistory.com/m/12",
+                "desc": "특이한 건물(출처: beijingori.tistory.com)"
+            }
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 15,
+            "displayed_link": "https://www.lottehotelmagazine.com › ...",
+            "title": "아름다운 한국의 건축물 10 - 롯데호텔매거진",
+            "url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446",
+            "snippet": "현재 내부는 공연과 전시 등을 위한 복합 문화 공간으로 운영된다. 해가 지면 트라이보울의 상부, 금속성 패널 사이에 부착된 LED 등이 반짝여 더욱 독특한 풍경을 만든다.",
+            "images": [
+                {
+                    "landing_url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446"
+                },
+                {
+                    "landing_url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446"
+                },
+                {
+                    "landing_url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446"
+                },
+                {
+                    "landing_url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446"
+                },
+                {
+                    "landing_url": "https://www.lottehotelmagazine.com/ko/travel_detail?no=446"
+                }
+            ]
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 16,
+            "displayed_link": "https://placeboning.tistory.com › ...",
+            "date": "2016. 12. 10.",
+            "title": "세계에서 가장 아름답고 특이한 현대식 건물 베스트 7 - 조이월드",
+            "url": "https://placeboning.tistory.com/213",
+            "snippet": "2016. 12. 10. — 건축은 예술의 한가지 형태로, 건물이라는 작품 안에서 사람이 돌아다니고 생활할 수도 있습니다. 대도시에서는 단조로운 아파트나 일반 주택처럼 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://placeboning.tistory.com/213",
+                "desc": "특이한 건물(출처: placeboning.tistory.com)"
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 17,
+            "displayed_link": "https://m.fmkorea.com › ...",
+            "date": "2021. 9. 19.",
+            "title": "우리나라 특이한 건축물들 - 포텐 터짐 최신순 - 에펨코리아",
+            "url": "https://m.fmkorea.com/index.php?document_srl=3925400946&mid=best&cpage=1",
+            "snippet": "2021. 9. 19. — 우리나라 특이한 건축물들. [레벨:7] 띨띨하네. 조회 수 140590 추천 수 291 댓글 178.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.fmkorea.com/index.php?document_srl=3925400946&mid=best&cpage=1",
+                "desc": "특이한 건물(출처: m.fmkorea.com)"
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "세계 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#eSuWY-SAK5GqmAXxzp_QCQ__42 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "연꽃 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__43 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "특이한 건축구조",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__44 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "독특한 구조 의 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__45 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카사 밀라",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__46 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "유명한 건축물",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__47 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "캔자스 시립 도서관 건축가",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__48 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "크룩트 하우스",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#eSuWY-SAK5GqmAXxzp_QCQ__49 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
