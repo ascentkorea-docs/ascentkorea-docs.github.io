@@ -1,1 +1,355 @@
-{"search_parameters": {"engine": "google", "id": "111d87df-75e3-4241-86eb-2901504a9f82", "sub_id": 0, "requested_time": "2022-05-12T01:08:58.750Z", "q": "문제해결능력 직업", "location": "South Korea", "gl": "kr", "hl": "ko", "num": 20, "query_string": "q=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8A%A5%EB%A0%A5+%EC%A7%81%EC%97%85&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0", "html_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/223165245094-3A3849A6AF6B43BBB1618494C4142E56-00.html", "json_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/223165245094-3A3849A6AF6B43BBB1618494C4142E56-00.json", "crawl_start_time": "2022-05-12T01:08:58.777Z", "crawl_end_time": "2022-05-12T01:09:04.568Z", "device": "mobile", "usage_id": "intent", "more_action": "default", "sub_name": "default", "sub_q": "default", "meta": {"seed_keyword": "유형", "domain": "", "purpose": "download_serp"}}, "information": {"version": "2.1.30.master", "displayed_query": "문제해결능력 직업", "parsed_time": "2022-05-12T01:09:05.040Z"}, "features": [{"type": "scholar", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c > div:nth-child(1).card-section > table.std", "title": "문제해결능력 직업에 대한 학술자료", "sequence": 1}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 1, "displayed_link": "https://www.ncs.go.kr › ...", "title": "문제해결능력 - NCS통합 > NCS 및 학습모듈검색 > 직업기초능력", "url": "https://www.ncs.go.kr/th03/TH0302List.do?dirSeq=123", "snippet": "문제해결능력 정의. 업무를 수행함에 있어 문제 상황이 발생하였을 경우, 창조적이고 논리적인 사고를 통하여 이를 올바르게 인식하고 적절히 해결하는 능력이다.", "thumbnail": {"type": "image", "url": "https://www.ncs.go.kr/th03/TH0302List.do?dirSeq=123", "desc": "문제해결능력 직업(출처: www.ncs.go.kr)"}, "sequence": 2}, {"type": "people_also_search_for", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c", "searches": [{"query": "문제해결능력 사례", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_6_Kl58Yt-MOZeCoATthI_ADw__3 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "문제해결능력 기출문제 pdf", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_7_Kl58Yt-MOZeCoATthI_ADw__4 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "문제해결능력 테스트", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_8_Kl58Yt-MOZeCoATthI_ADw__5 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "ncs 문제해결능력 기출문제 pdf", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_9_Kl58Yt-MOZeCoATthI_ADw__6 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "ncs 문제해결능력 예시", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_10_Kl58Yt-MOZeCoATthI_ADw__7 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "ncs 문제해결능력 요약", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_11_Kl58Yt-MOZeCoATthI_ADw__8 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}], "sequence": 3}, {"type": "video_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).uVMCKf.mnr-c > div:nth-child(5)", "title": "VideosView All", "videos": [{"title": "[NCS 직업기초능력] 03. 문제해결능력 _ 1. 총론", "url": "https://m.youtube.com/watch?v=VWiBznh35OI"}, {"title": "NCS 직업기초능력(문제해결능력)", "url": "https://m.youtube.com/watch?v=ICH1et39WnE"}, {"title": "[NCS 직업기초능력] 03. 문제해결능력 _ 2.사고력", "url": "https://m.youtube.com/watch?v=YNiivB20HfA"}, {"title": "[NCS 직업기초능력] 03. 문제해결능력 _3.문제처리능력", "url": "https://m.youtube.com/watch?v=ogg8KYgbpmc"}], "sequence": 4}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 2, "displayed_link": "https://brunch.co.kr › ...", "title": "문제해결 - 5대 직업적 능력 - 브런치", "url": "https://brunch.co.kr/@@7kOI/2", "snippet": "2019. 2. 20. — 문제해결 능력은 발생한 문제를 판단하고 그 문제를 해결하기 위해 실제적인 방법과 계획을 수립하는 능력이다. 사업이라는 것을 좀 더 단순화 시켜보면 ...", "sequence": 5}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 3, "displayed_link": "http://www.lec.co.kr › articleView", "title": "NCS직업기초능력평가(81) / 문제해결능력 - 법률저널", "url": "http://www.lec.co.kr/news/articleView.html?idxno=721360", "snippet": "2020. 8. 25. — 문제해결능력은 업무를 수행함에 있어 문제 상황이 발생하였을 경우, 창의적/논리적/비판적 사고를 통해 이를 올바르게 인식하고 적절하게 해결하는 ...", "sequence": 6}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 4, "displayed_link": "http://www.lec.co.kr › articleView", "title": "NCS 직업기초능력평가_문제해결능력_문제처리능력(34) - 법률저널", "url": "http://www.lec.co.kr/news/articleView.html?idxno=712839", "snippet": "2019. 9. 17. — 국가직무능력표준(NCS, National Competency Standards)은 지식·기술·태도 등의 내용을 국가가 체계화해 산업현장에서 직무를 수행에 요구되는 것을 ...", "thumbnail": {"type": "image", "url": "http://www.lec.co.kr/news/articleView.html?idxno=712839", "desc": "문제해결능력 직업(출처: www.lec.co.kr)"}, "sequence": 7}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 5, "displayed_link": "http://mobile.kyobobook.co.kr › KOR", "title": "문제해결능력(직업기초능력평가 NCS)권인아 | 한올- 교보문고", "url": "http://mobile.kyobobook.co.kr/showcase/book/KOR/9791156856146", "snippet": "2018. 1. 15. — 독자대상 : 취업준비생- 구성 : 이론'4차 산업혁명'의 환경에서 살아남기 위해서 필요한 직업적 역량인 문제해결능력.", "thumbnail": {"type": "image", "url": "http://mobile.kyobobook.co.kr/showcase/book/KOR/9791156856146", "desc": "문제해결능력 직업(출처: mobile.kyobobook.co.kr)"}, "sequence": 8}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 6, "displayed_link": "http://m.yes24.com › Goods › Detail", "title": "직업기초능력 가이드북 문제해결능력 (학습자용) - YES24", "url": "http://m.yes24.com/Goods/Detail/102793275", "snippet": "2021. 6. 21. — 이 학습자용 가이드북은 우리나라 직업인에게 공통으로 요구되는 10가지 직업기초능력 가운데 하나인 문제해결능력에 대한 것이다.", "thumbnail": {"type": "image", "url": "http://m.yes24.com/Goods/Detail/102793275", "desc": "문제해결능력 직업(출처: m.yes24.com)"}, "sequence": 9}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 7, "displayed_link": "https://plus.hankyung.com › apps", "title": "문제해결능력을 파악하는 질문은? - 모바일한경", "url": "https://plus.hankyung.com/apps/newsinside.view?aid=202005068117A&category=jobguide&sns=y", "snippet": "2020. 5. 31. — 우선 직업기초능력별 자기소개서 문항을 분석하고, 어떻게 풀어내야 하는지 알아보겠다. 그 첫 번째로 '의사소통능력'과 '문제해결능력'에 대해서 살펴 ...", "thumbnail": {"type": "image", "url": "https://plus.hankyung.com/apps/newsinside.view?aid=202005068117A&category=jobguide&sns=y", "desc": "문제해결능력 직업(출처: plus.hankyung.com)"}, "sequence": 10}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 8, "displayed_link": "http://ncsprint.com › ab-ABS_goods...", "title": "문제해결능력 : 직업기초능력 > NCS print", "url": "http://ncsprint.com/ab-ABS_goods_v-3?category_id=1001", "snippet": "하위능력, 정의, 세부요소. 사고력, 업무와 관련된 문제를 인식하고 해결함에 있어 창조적, 논리적, 비판적으로 생각하는 능력. 창의적 사고; 논리적 사고 ...", "thumbnail": {"type": "image", "url": "http://ncsprint.com/ab-ABS_goods_v-3?category_id=1001", "desc": "문제해결능력 직업(출처: ncsprint.com)"}, "sequence": 11}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 9, "displayed_link": "http://mbook.interpark.com › detail", "title": "NCS 직업기초능력평가 문제해결능력 - 도서 - 인터파크", "url": "http://mbook.interpark.com/shop/product/detail?prdNo=245491578&bid1=NMB_PRD&bid2=author&bid3=authorano&bid4=", "snippet": "NCS 직업기초능력평가 문제해결능력. 기업 공공기관 취업 대비. 한국표준협회 저 박문각 2015.11.10. 할인가. 12,600 원 정가14,000원 10%↓할인.", "thumbnail": {"type": "image", "url": "http://mbook.interpark.com/shop/product/detail?prdNo=245491578&bid1=NMB_PRD&bid2=author&bid3=authorano&bid4=", "desc": "문제해결능력 직업(출처: mbook.interpark.com)"}, "sequence": 12}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 10, "displayed_link": "https://knowledge-is-power.tistory.com › ...", "title": "[직업기초능력평가_문제해결능력]공기업 NCS 모듈형 워크북 요약정리 #1 - 아토즈 티스토리", "url": "https://knowledge-is-power.tistory.com/157", "snippet": "2021. 4. 8. — 모듈형 NCS 전체 10개 능력 중 세번째인 문제해결능력입니다. 문제해결능력은 2개의 하위영역으로 나누어지며 2개의 포스팅으로 나누어 올릴예정 ...", "thumbnail": {"type": "image", "url": "https://knowledge-is-power.tistory.com/157", "desc": "문제해결능력 직업(출처: knowledge-is-power.tistory.com)"}, "properties": [{"key": "문제 제시 방법", "value": "현재 문제가 없지만 보다 나은 방법을 찾기 위한 문제 탐구로, 문제 자체..."}, {"key": "해결 방법", "value": "창의력에 의한 많은 아이디어 작성을 통해 해결"}], "sequence": 13}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 11, "displayed_link": "https://www.aladin.co.kr › mproduct", "title": "직업기초능력 가이드북 : 문제해결능력 (교수자용) - 알라딘", "url": "https://www.aladin.co.kr/m/mproduct.aspx?ItemId=269591240", "snippet": "2021. 4. 15. — 우리나라 직업인에게 공통으로 요구되는 10가지 직업기초능력 가운데 하나인 문제해결능력에 대한 책이다. 문제해결능력이란 직업생활에서 문제 상황 ...", "sequence": 14}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 12, "displayed_link": "https://ridibooks.com › books", "title": "기초직업능력프로그램 문제해결능력 학습자용 워크북 - 리디", "url": "https://ridibooks.com/books/3478006700", "snippet": "『기초직업능력프로그램 문제해결능력』은 우리나라 직업인들에게 공통적으로 요구되는 10가지 직업기초능력 가운데 하나인 문제해결능력에 대한 학습자용 워크북이다.", "thumbnail": {"type": "image", "url": "https://ridibooks.com/books/3478006700", "desc": "문제해결능력 직업(출처: ridibooks.com)"}, "sequence": 15}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 13, "displayed_link": "https://www.wowpass.com › NCSIN...", "title": "취업전략 [NCS직업기초능력] 문제 상황을 잘 분석하면 해결정보 찾을 수 있다 - 와우패스", "url": "https://www.wowpass.com/EMPLOYSTRATEGY/NCSINFO/154565", "snippet": "[출처 : 한국경제 생글생글] 문제 해결 능력이란 직무를 수행하는 과정에서 실제적인 상황, 구체적인 이슈, 기업 전략 등 문제 상황이 발생한 경우 창의적논리적 ...", "thumbnail": {"type": "image", "url": "https://www.wowpass.com/EMPLOYSTRATEGY/NCSINFO/154565", "desc": "문제해결능력 직업(출처: www.wowpass.com)"}, "sequence": 16}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 14, "displayed_link": "https://www.lotteon.com › search", "title": "문제해결능력 : 롯데ON", "url": "https://www.lotteon.com/search/search/search.ecn?render=search&platform=m&q=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8A%A5%EB%A0%A5&mallId=1", "snippet": "NCS 직업기초능력평가 문제해결능력 · 12,600 · 5/4(수) 도착확률 83% ; 무료배송 스마트픽. 2021 NCS 문제해결능력 in PSAT · 19,800 · 5/3(화) 도착확률 90% ; 롯데백화점 무료 ...", "sequence": 17}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 15, "displayed_link": "https://j-kagedu.or.kr › upload › pdf", "title": "NCS 직업기초능력에 기반한 교양교과목 개편방향 연구1)", "url": "https://j-kagedu.or.kr/upload/pdf/kagedu-8-4-45.pdf", "snippet": "양영근 저술 · 12회 인용 — NCS는 이와 같은 문제를 해결하기 위해 2000년대 초부터 교육부, 고. 용부, 그리고 한국직업능력개발원 등은 공급자 중심으로 이원화되어 운영.", "sequence": 18}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 16, "displayed_link": "https://m.mk.co.kr › view › 2021/10", "title": "공기업·공공기관, 채용필기 평가서 `문제해결능력·의사소통능력` 가장 중시 - 매일경제", "url": "https://m.mk.co.kr/news/society/view/2021/10/961645/", "snippet": "2021. 10. 11. — 한편 한국표준협회미디어는 '20~21년 진행한 NCS 직업기초능력 현행화 학습 모듈을 반영한 'NCS 취업가이드'를 발간했다. NCS 취업가이드는 기술능력, ...", "thumbnail": {"type": "image", "url": "https://m.mk.co.kr/news/society/view/2021/10/961645/", "desc": "문제해결능력 직업(출처: m.mk.co.kr)"}, "sequence": 19}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 17, "displayed_link": "https://bokji.eduwill.net › bookInfo", "title": "2021 에듀윌 NCS 직업기초능력평가 BASIC", "url": "https://bokji.eduwill.net/book/bookInfo?progressCd=Z&cateIdx=157&bookIdx=8185&productCode=21Z0E0H00B", "snippet": "1권에는 모든 공사 공단에서 출제되는 NCS의 핵심 대표 3개 영역인 의사소통능력, 수리능력, 문제해결능력을 수록하였고, 2권에는 최근 공사 공단에서 출제 비중이 ...", "sequence": 20}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 18, "displayed_link": "https://www.dbpia.co.kr › articleDetail", "title": "직업기초능력평가 문제해결능력이 마이스터고 및 특성화고 학생의 진로성숙도에 미치는 영향 - DBpia", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02435952", "snippet": "The purpose of this study was to inquiry of influence of Meister high school and specialized vocational high school' students on career maturity in problem ...", "sequence": 21}, {"type": "images", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c", "refinements": [{"text": "의사소통", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "소통능력", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "실전모의고사", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "ncs 직업", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "ncs 문제", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "모듈형", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "능력평가", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "사고력", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "학습자", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid30.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "기출문제", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid32.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "기초능력", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid34.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}, {"text": "분석", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"}], "sequence": 22}, {"type": "related_searches", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c", "results": [{"query": "ncs 문제해결능력", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_67_Kl58Yt-MOZeCoATthI_ADw__15 > div:nth-child(1) > a.iOJVmb"}, {"query": "문제해결능력 ncs 팁", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_68_Kl58Yt-MOZeCoATthI_ADw__16 > div:nth-child(1) > a.iOJVmb"}, {"query": "문제해결능력이란", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_69_Kl58Yt-MOZeCoATthI_ADw__17 > div:nth-child(1) > a.iOJVmb"}, {"query": "문제해결능력 기르기", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_70_Kl58Yt-MOZeCoATthI_ADw__18 > div:nth-child(1) > a.iOJVmb"}, {"query": "NCS 문제 예시", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_71_Kl58Yt-MOZeCoATthI_ADw__19 > div:nth-child(1) > a.iOJVmb"}, {"query": "ncs 문제해결능력 공부법", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_72_Kl58Yt-MOZeCoATthI_ADw__20 > div:nth-child(1) > a.iOJVmb"}, {"query": "ncs 문제해결능력 ppt", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_73_Kl58Yt-MOZeCoATthI_ADw__21 > div:nth-child(1) > a.iOJVmb"}, {"query": "문제해결능력 교육", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_74_Kl58Yt-MOZeCoATthI_ADw__22 > div:nth-child(1) > a.iOJVmb"}], "sequence": 23}]}
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "f8b0c7a3-846e-49cd-bace-b8ed52daca18",
+        "sub_id": 0,
+        "requested_time": "2022-12-11T23:47:23.716Z",
+        "q": "아이 패드 숫자",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%95%84%EC%9D%B4+%ED%8C%A8%EB%93%9C+%EC%88%AB%EC%9E%90&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0042.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120847/049238141090-F8B0C7A3846E49CDBACEB8ED52DACA18-00.html",
+        "json_url": "http://node0042.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120847/049238141090-F8B0C7A3846E49CDBACEB8ED52DACA18-00.json",
+        "crawl_start_time": "2022-12-11T23:47:26.173Z",
+        "crawl_end_time": "2022-12-11T23:47:30.822Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "embedding",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.2.26.master",
+        "displayed_query": "아이 패드 숫자",
+        "parsed_time": "2022-12-11T23:49:00.661Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.Ww4FFb.vt6azd.wF4fFd.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "iPhone, iPad 및 iPod touch용 Numbers의 데이터 입력 간소화에 대해 알아보기",
+                    "displayed_link": "https://support.apple.com › ko-kr",
+                    "url": "https://support.apple.com/ko-kr/HT205374",
+                    "snippet": "iPad에서 숫자나 기호를 빠르게 입력하려면 키를 아래로 드래그한 다음 손가락을 떼거나 iPhone의 경우 숫자 키보드로 전환합니다. 키보드 위의 기호를 탭하여 기호를 입력할 수도 있습니다.",
+                    "emphasis": [
+                        "키를 아래로 드래그한 다음 손가락을 떼거나 iPhone의 경우 숫자 키보드로 전환"
+                    ]
+                }
+            ],
+            "official": true
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://support.apple.com › ipados",
+            "title": "iPad의 Numbers에서 공식 키보드 사용하기 - Apple 지원 (KR)",
+            "url": "https://support.apple.com/ko-kr/guide/numbers-ipad/tan415509af/ipados",
+            "snippet": "iPad의 Numbers에서 공식 키보드를 사용하여 수학 계산, 숫자, 연산자, 상수 및 함수를 입력합니다."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://support.google.com › answer",
+            "title": "스프레드시트의 숫자 형식 지정 - iPhone/iPad - Google Docs 편집기 고객센터",
+            "url": "https://support.google.com/docs/answer/56470?hl=ko&co=GENIE.Platform%3DiOS",
+            "snippet": "스프레드시트에서 숫자, 날짜 또는 통화 형식을 지정하려면 다음 단계를 따르세요. iPhone이나 iPad의 Google Sheets 앱에서 스프레드시트를 엽니다. 셀 또는 셀 범위를 탭 ..."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.clien.net › cm_iphonien",
+            "date": "2021. 6. 5.",
+            "title": "아이패드 프로 터치키보드 위에 숫자키? - 클리앙",
+            "url": "https://www.clien.net/service/board/cm_iphonien/16203387",
+            "snippet": "터치키보드에 위와같이 숫자키가 나오게 하려면 어떻게 하나요? ... 아이포니앙. 아이폰, 아이패드, 터치 소모임입니다."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "http://m.ppomppu.co.kr › bbs_view",
+            "date": "2020. 11. 6.",
+            "title": "아이폰 키보드 자판 상단에 숫자나오게 하는 방법 알려주세요 - 뽐뿌",
+            "url": "http://m.ppomppu.co.kr/new/bbs_view.php?id=iphone&no=447443",
+            "snippet": "2020. 11. 6. — 포럼 > 아이폰포럼 ▽△. 아이폰포럼; 휴대폰포럼; 아이패드포럼; 안드로이드; 앱정보. > 분류. ▽△. 일반; 질문; 자료실; 정보/강좌; 아이튠스/앱 ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://ko.aliexpress.com › wholesal...",
+            "title": "아이패드숫자키패드 결과",
+            "url": "https://ko.aliexpress.com/w/wholesale-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%88%AB%EC%9E%90%ED%82%A4%ED%8C%A8%EB%93%9C.html",
+            "snippet": "아이패드숫자키패드 관련 아이템. 가격: -. 보내기. PLUS 세일 슈퍼 세이브 무료 배송 이상. 에 따라 분류:가장 일치하는 내용주문가격. 보기: SeenDa-블루투스 숫자 ...",
+            "rating": {
+                "rating_count": "(6)",
+                "rating_value": "3.7"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "아이패드 프로 세대 정리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__19 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "아이패드 프로 세대 구분",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__20 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "아이패드 숫자 키패드",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__21 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "아이패드 모델 정리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__22 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "아이패드 모델 확인",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__23 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "아이폰 키보드 숫자 추가",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://apedix.tistory.com › ...",
+            "date": "2012. 11. 14.",
+            "title": "아이폰에서 숫자만 빠르게 입력하는 방법 - INFORMATION FACTORY - 티스토리",
+            "url": "https://apedix.tistory.com/m/3027",
+            "snippet": "2012. 11. 14. — 숫자를 입력하다 스페이스바를 입력하면 다시 한글 키보드로 돌아오게 ... 아이폰5S가 나오는 1분기 후에는 새로운 버전의 아이패드 미니도 출시할 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "http://m.11st.co.kr › products",
+            "title": "코시 무선 블루투스 숫자 키패드 / 노트북 태블릿PC 스마트폰 아이폰 아이패드 저소음 보조 키보드 추천 - 11번가",
+            "url": "http://m.11st.co.kr/products/m/2479169875",
+            "snippet": "코시 무선 블루투스 숫자 키패드 / 노트북 태블릿PC 스마트폰 아이폰 아이패드 저소음 보조 키보드 추천. 23,500원. 배송. 무료배송. 17시까지 주문 시 오늘발송."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "http://m.11st.co.kr › products",
+            "title": "휴대용블루투스 숫자키패드키보드 아이패드에어 미니프로 갤럭시탭 - 11번가",
+            "url": "http://m.11st.co.kr/products/m/3680615349",
+            "snippet": "휴대용블루투스 숫자키패드키보드 아이패드에어 미니프로 갤럭시탭. 54,300원. 배송. 무료배송. 16시까지 주문 시 오늘발송. 내일 12/9(금) 도착 예정 배송 안내 ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://kmug.co.kr › bbs › board",
+            "date": "2018. 9. 27.",
+            "title": "아이패드와 아이폰을 위한 14가지 기본 '키보드 이용 팁' > 팁사용기 - 케이머그",
+            "url": "https://kmug.co.kr/bbs/board.php?bo_table=guide&wr_id=55607",
+            "snippet": "2018. 9. 27. — ' 단축키에서 이 기능을 설정할 수 있다. 쉬운 전환 숫자와 글자 입력 팔레트를 가장 쉽게 전환하는 방법은 123 버튼을 누른 채 원하는 숫자나 기호 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://fmhelp.filemaker.com › fmp",
+            "title": "터치 키보드 유형 변경하기",
+            "url": "https://fmhelp.filemaker.com/help/16/fmp/ko/FMP_Help/display-keyboard.html",
+            "snippet": "숫자 10-키패드. 사용자 설정 10-키패드 키보드(계산기 스타일). 숫자 키패드. iPhone/iPod touch: 표준 iOS 숫자 키보드. iPad: iPhone 숫자 키보드와 일치하는 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 11,
+            "displayed_link": "https://korean.alibaba.com › Blue-to...",
+            "title": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 맥북 Windows를 위한 알루미늄 합금 덮개",
+            "url": "https://korean.alibaba.com/product-detail/Blue-tooth-Numeric-Keyboard-Protable-Keypad-60591227877.html",
+            "snippet": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 ... Ios 안드로이드 윈도우,2.4ghz 미니 Usb 무선 숫자 키패드 19 키 숫자 패드 범퍼 ...",
+            "properties": [
+                {
+                    "key": "특징",
+                    "value": "숫자 키패드"
+                },
+                {
+                    "key": "유형",
+                    "value": "Bluetooth 무선"
+                }
+            ],
+            "rating": {
+                "rating_value": "3.5"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "images",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+            "images": [
+                {
+                    "landing_url": "https://www.clien.net/service/board/cm_iphonien/16203387"
+                },
+                {
+                    "landing_url": "https://support.apple.com/ko-kr/HT205374"
+                },
+                {
+                    "landing_url": "http://m.shop.interpark.com/product/6634041880/0000100000"
+                },
+                {
+                    "landing_url": "http://www.yes24.com/Product/Goods/99271200"
+                }
+            ]
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 12,
+            "displayed_link": "http://m.shop.interpark.com › product",
+            "title": "블루투스 무선 노트북 아이패드 스마트폰 숫자 키패드 - 인터파크",
+            "url": "http://m.shop.interpark.com/product/6659291339/0000100000?fr=pc",
+            "snippet": "0%할인, 추가 회원 중복 할인 쿠폰, 숫자키보드에 대한 상품입니다."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 13,
+            "displayed_link": "http://browse.gmarket.co.kr › search",
+            "title": "숫자키패드 검색결과 - G마켓",
+            "url": "http://browse.gmarket.co.kr/m/search?keyword=%EC%88%AB%EC%9E%90%ED%82%A4%ED%8C%A8%EB%93%9C",
+            "snippet": "블루투스 무선 노트북 아이패드 스마트폰 숫자 키패드 · 상품명 블루투스 무선 노트북 아이패드 스마트폰 숫자 키패드. 상품금액 21,500원. 무료배송. 더 사면 할인."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 14,
+            "displayed_link": "http://m.yes24.com › Goods › Detail",
+            "title": "숫자 (20종세트) 굿노트 아이패드 스티커 - YES24",
+            "url": "http://m.yes24.com/Goods/Detail/99271198",
+            "snippet": "품명 및 모델명, 숫자 (20종세트) 굿노트 아이패드 스티커. 제조자/수입자, 플레플레. 제조국 또는 원산지, 한국. 관련 연락처, 예스이십사 (1544-3800)."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 15,
+            "displayed_link": "http://m.10x10.co.kr › category › c...",
+            "title": "숫자 (20종세트) 굿노트 아이패드 스티커 - 텐바이텐",
+            "url": "http://m.10x10.co.kr/category/category_itemPrd.asp?itemid=3100556",
+            "snippet": "숫자 (20종세트) 굿노트 아이패드 스티커. 100점 6. 30,000 24,000원. 상세 가격 정보 보기. 판매가. 30,000원. 할인판매가. 20% 24,000원. pleple goodnote 무료배송.",
+            "rating": {
+                "rating_count": "(6)",
+                "rating_value": "5.0"
+            }
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 16,
+            "displayed_link": "https://ohou.se › productions › selling",
+            "title": "키보드 > [해외] BOW 무선 넘버 보조 텐키패드 아이패드 노트북 숫자키패드/무선 블루투스 버전",
+            "url": "https://ohou.se/productions/727985/selling",
+            "snippet": "오늘의집 키보드 스토어, [해외] BOW 무선 넘버 보조 텐키패드 아이패드 노트북 숫자키패드/무선 블루투스 버전. 살까 말까 고민 될 땐 평균 4.4점의 리얼 리뷰 11개와 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "images",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+            "images": [
+                {
+                    "landing_url": "http://www.11st.co.kr/products/2479169875"
+                },
+                {
+                    "landing_url": "https://rooney6.tistory.com/134"
+                },
+                {
+                    "landing_url": "https://ko.aliexpress.com/item/1005002368725113.html"
+                },
+                {
+                    "landing_url": "https://thursday1101.tistory.com/entry/%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0"
+                }
+            ]
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 17,
+            "displayed_link": "https://www.coupang.com › search",
+            "title": "기계식숫자패드led - 쿠팡!",
+            "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EA%B3%84%EC%8B%9D%EC%88%AB%EC%9E%90%ED%8C%A8%EB%93%9Cled&channel=&component=&eventCategory=SRP&trcid=&traid=&sorter=scoreDesc&minPrice=&maxPrice=&priceRange=&filterType=&listSize=36&filter=&isPriceRange=false&brand=&offerCondition=&rating=0&page=1&rocketAll=false&searchIndexingToken=1=4&backgroundColor=",
+            "snippet": "숫자 키패드 레트로 무선 노트북 키보드 기계식 축교환 led 넘버패드 보조 블루투스 터치패드 범용 휴대용 with touchpad for tablet pc ipad smart, 9인치(터치패드 ..."
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "아이폰 숫자 키패드",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#DmyWY_-OEY7W0gTf7KKwAg__26 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이패드 시리즈 정리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__27 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "a1980 아이패드",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__28 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이패드 m1",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__29 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이폰 키보드 위에 숫자",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__30 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이패드 세대 구분",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__31 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이폰 숫자입력",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__32 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아이패드 모델번호 조회",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__33 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
