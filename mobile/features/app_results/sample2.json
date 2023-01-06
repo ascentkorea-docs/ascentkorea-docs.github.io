@@ -1,0 +1,344 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "133fbd28-1f72-454e-bbd3-5cfef7630f37",
+        "sub_id": 0,
+        "requested_time": "2023-01-03T06:53:20.758Z",
+        "q": "페메 다운로드",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%ED%8E%98%EB%A9%94+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0062.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230103/2301031553/049236187122-133FBD281F72454EBBD35CFEF7630F37-00.html",
+        "json_url": "http://node0062.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230103/2301031553/049236187122-133FBD281F72454EBBD35CFEF7630F37-00.json",
+        "crawl_start_time": "2023-01-03T06:53:20.822Z",
+        "crawl_end_time": "2023-01-03T06:53:27.358Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "additionally_renewal",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "3.0.0.master",
+        "displayed_query": "페메 다운로드",
+        "parsed_time": "2023-01-06T03:49:27.925Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://facebook-messenger.softonic.kr",
+            "title": "Messenger - 다운로드",
+            "url": "https://facebook-messenger.softonic.kr/",
+            "snippet": "Messenger, 무료 및 안전한 다운로드. Messenger 최신 버전. 페이스 북의 메신저는 공식 인스턴트 메신저 프로그램 이다. 페이스 북 데스크톱의 연락처와 채팅 할 수 ..."
+        },
+        {
+            "sequence": 2,
+            "type": "app_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst",
+            "carousels": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%ED%8E%98%EB%A9%94+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&pcampaignid=APPU_1_4NCzY_CAOoimqtsP2La-yAY",
+                    "title": "Messenger",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > g-card > div:nth-child(1).mnr-c > div:nth-child(1).NhAMn > ul.ZEz0bc > li:nth-child(2).pOWtie",
+                    "rating": {
+                        "rating_value": "4.1",
+                        "rating_count": "(8598만)"
+                    }
+                },
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%ED%8E%98%EB%A9%94+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&pcampaignid=APPU_1_4NCzY_CAOoimqtsP2La-yAY",
+                    "title": "Messenger Lite",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > g-card > div:nth-child(1).mnr-c > div:nth-child(1).NhAMn > ul.ZEz0bc > li:nth-child(4).pOWtie",
+                    "rating": {
+                        "rating_value": "4.3",
+                        "rating_count": "(551만)"
+                    }
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://m.facebook.com › help",
+            "title": "Messenger 데스크톱 앱 다운로드하기 | Facebook 고객 센터",
+            "url": "https://m.facebook.com/help/852837148154446?locale2=ko_KR",
+            "snippet": "Windows용 Messenger 데스크톱 앱을 다운로드할 수 있습니다."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://facebook-messenger.kr.uptodown.com › ...",
+            "title": "Facebook Messenger을 위한 Android - Uptodown에서 APK를 다운로드하세요",
+            "url": "https://facebook-messenger.kr.uptodown.com/android",
+            "snippet": "Facebook Messenger을 위한 Android의 APK를 무료로 다운로드하세요. Facebook 공식 메시지 전송 애플리케이션. Facebook Messenger는 공식 Facebook 메시지 전송 앱 ...",
+            "rating": {
+                "rating_count": "(1,734)",
+                "rating_value": "4.4"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://download.beer › Apps",
+            "title": "페이스북 메신저 다운로드｜Messenger - Download Beer",
+            "url": "https://download.beer/app/facebook-messenger/",
+            "snippet": "페이스북 메신저는 제한 없는 SMS, 통화, 멀티미디어 공유가 가능합니다. 다크모드를 지원하며 페이스북 메신저만의 스티커, 이모티콘을 제공합니다."
+        },
+        {
+            "sequence": 6,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "페메 다운로드 PC",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__97 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페메 무료 다운로드",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__98 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 메신저",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__99 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페메 PC",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__100 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페이스북 메신저 링크",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__101 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "페메 업데이트",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__102 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://the1tree.tistory.com › ...",
+            "date": "2021. 7. 15.",
+            "title": "페메 pc버전 다운로드 링크 정보 - 블로그하는어른이",
+            "url": "https://the1tree.tistory.com/50",
+            "snippet": "2021. 7. 15. — 페메 pc버전 다운로드. 운영체제에 따라 링크가 다르며 맥북 맥 OS에서는 AppStore에서 \"Facebook Messnger\"로 검색을 하면 쉽게 찾을수가 있습니다."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://new-version.download › face...",
+            "title": "페이스북 메신저 다운로드 - Facebook Messanger - New-Version",
+            "url": "https://new-version.download/window/facebook-messenger/",
+            "snippet": "페이스북 메신저 (Facebook Messenger) PC 버전은 Windows 환경에서 PC에서 친구들과 함께 메세지를 주고받을 수 있을뿐만 아니라 음성 통화 및 영상 통화가 가능하다."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://apkpure.com › com.faceboo...",
+            "title": "Android용 Messenger APK 다운로드 - APKPure",
+            "url": "https://m.apkpure.com/kr/facebook-messenger/com.facebook.orca/amp",
+            "snippet": "Android용 Messenger 390.2.0.29.103 APK 다운로드. 그룹 영상 통화, 영상 통화, 음성 통화 및 문자 메시지를 무료로 이용하세요."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://naversoft.tistory.com › entry",
+            "date": "2021. 3. 16.",
+            "title": "페이스북 메신저 PC버전 다운로드 - NAVERSOFT",
+            "url": "https://naversoft.tistory.com/entry/Facebook-Messenger",
+            "snippet": "2021. 3. 16. — ... IOS, Mac 제공기능 SMS, 영상통화, 파일공유 페이스북 메신저 다운로드 - 페이스북 메신저 개요 페이스북 메신저(Facebook Messenger, 페메)는 ...",
+            "properties": [
+                {
+                    "key": "최신버전",
+                    "value": "Facebook Messenger.95.7.118"
+                }
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://www.manualfactory.net › ...",
+            "date": "2019. 10. 4.",
+            "title": "윈도우 10 / PC용 페이스북 메신저 설치하는 방법 - MANUAL FACTORY",
+            "url": "https://www.manualfactory.net/11818",
+            "snippet": "2019. 10. 4. — 윈도우 10 / 본고딕(Noto Sans), 본명조(Noto Serif) 다운로드하고 설치하는 방법. 본고딕(Noto Sans), 본명조(Noto Serif) 구글과 어도비가 협력하여 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://m.blog.naver.com › seojong...",
+            "date": "2016. 12. 18.",
+            "title": "PC에서 페이스북 메신저 하기(PC 페메) - 네이버 블로그",
+            "url": "https://m.blog.naver.com/seojongdeuk/220888607778",
+            "snippet": "2016. 12. 18. — Facebook Messenger for PC. 페메를 컴퓨터로 하기를 원하는 분들은. 아래 사이트에 접속하세요. 설치 없이 메세지를 보낼 수 있습니다."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 11,
+            "displayed_link": "https://anchoki.tistory.com › ...",
+            "date": "2020. 5. 12.",
+            "title": "페메 pc 다운로드 - IT도움말",
+            "url": "https://anchoki.tistory.com/1470",
+            "snippet": "2020. 5. 12. — 페메 PC 버전 다운로드를 통해 웹브라우저를 열어야 된다는 불편함을 줄이고 접근하기가 쉬워졌다는 장점과 함께, 비디오 채팅 영상회의 기능이 추가 ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 12,
+            "displayed_link": "https://powerbgdg.tistory.com › ...",
+            "date": "2020. 6. 5.",
+            "title": "페메 pc 버전 다운로드 안내 - IT Info. - 티스토리",
+            "url": "https://powerbgdg.tistory.com/m/952",
+            "snippet": "2020. 6. 5. — 오늘은 페메 pc 버전 다운로드에 대해 알아보도록 하겠습니다. 페메, 즉 페이스북 메신저는 원래 PC용 앱이 따로 없었지만 이번에 pc에서 사용할 수 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 13,
+            "displayed_link": "https://eoreuni.com › tag › 페메 어...",
+            "title": "페메 어플 다운로드 유도 - 어른이 성장일기",
+            "url": "https://eoreuni.com/tag/%ED%8E%98%EB%A9%94%20%EC%96%B4%ED%94%8C%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EC%9C%A0%EB%8F%84",
+            "snippet": "페메 어플 다운로드 유도. 해당되는 글 1건. thumbnail. 신문물/과학기술 2018.01.21. 06:00. 페이스북 메신저 거짓 알람, 페메 어플 다운받게 하려는 낚시."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 14,
+            "displayed_link": "https://www.adobe.com › how-to",
+            "title": "Facebook Messenger에서 PDF를 공유하는 방법 - Adobe",
+            "url": "https://www.adobe.com/kr/acrobat/hub/how-to/share-a-pdf-on-facebook-messenger",
+            "snippet": "... 에서 PDF를 보내면, 수신자는 이메일을 수신한 것처럼 PDF 파일에 액세스할 수 있어, 클릭하여 보거나 컴퓨터에 바로 다운로드하여 안전하게 보관할 수 있습니다."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 15,
+            "displayed_link": "https://flowerdeer23.tistory.com › ...",
+            "date": "2021. 2. 18.",
+            "title": "페이스북 메신저 pc 다운로드, 데스크톱 버전으로 페메 이용하는 법 - Rosemary Tistory",
+            "url": "https://flowerdeer23.tistory.com/205",
+            "snippet": "2021. 2. 18. — 이번 시간은 페이스북 메신저 pc 다운로드 방법을 알려드리기 위한 정보성 포스팅을 준비했는데 Facebook Messenger는 주변 사람들과 빠르게 연락을 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 16,
+            "displayed_link": "https://diaryrecord.tistory.com › entry",
+            "date": "2021. 6. 23.",
+            "title": "페이스북 메신저 PC버전 다운로드 - 기록하다",
+            "url": "https://diaryrecord.tistory.com/entry/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-%EB%A9%94%EC%8B%A0%EC%A0%80-PC%EB%B2%84%EC%A0%84",
+            "snippet": "2021. 6. 23. — 로그인을 눌러서 로그인 하시면 됩니다. 페메 PC버전 화면. 페이스북 로그인을 하면은, 모바일 페이스북 메신저앱과 동일한 화면이 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 17,
+            "displayed_link": "https://www.microsoft.com › ko-kr",
+            "title": "페이스북메신저 pc버전 - Microsoft",
+            "url": "https://www.microsoft.com/ko-kr/p/messenger/9wzdncrf0083",
+            "snippet": "무료. 스토어 앱에서 다운로드. 설명. 큰 화면에서 더 친밀하게 소통하세요. 데스크톱에 최적화된 환경에서 무료* 문자 메시지, 고품질 음성 및 영상 통화를 이용 ...",
+            "rating": {
+                "rating_count": "(633)",
+                "rating_value": "2.2"
+            }
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 18,
+            "displayed_link": "https://966630326.lipofit.si › 윈도...",
+            "date": "2일 전",
+            "title": "윈도우 8 페메",
+            "url": "https://966630326.lipofit.si/%EC%9C%88%EB%8F%84%EC%9A%B0-8-%ED%8E%98%EB%A9%94.html",
+            "snippet": "2일 전 — 컴퓨터, USB 또는 외장형 드라이브에 다운로드에 사용할 만큼 충분한 데이터 저장 공간 확보. 미디어를 만들려는 경우 4GB 이상의 공간이 있는 빈 USB ..."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 19,
+            "displayed_link": "https://namu.wiki › Messenger",
+            "date": "5일 전",
+            "title": "Messenger - 나무위키",
+            "url": "https://namu.wiki/w/Messenger",
+            "snippet": "5일 전 — 페이스북 메신저를 줄여서 '페메' 라고 부르거나 '펨'이라고도 부른다. ... 에서 다운받을 수 있는 Messenger 앱은 다른 창으로 이동했다 다시 페메를 ..."
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "메신저 다운로드 PC",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#4NCzY_CAOoimqtsP2La-yAY__76 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 다운로드 pc",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__77 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Messenger 다운로드",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__78 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페메 바로가기",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__79 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 다운로드 링크",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__80 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 메세지",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__81 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "무료 PC 메신저",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__82 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "페이스북 메신저 웹",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#4NCzY_CAOoimqtsP2La-yAY__83 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
