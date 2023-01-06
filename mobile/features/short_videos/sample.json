@@ -1,0 +1,375 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "b41fa61b-32d0-4d15-b056-be98418f6500",
+        "sub_id": 0,
+        "requested_time": "2023-01-03T05:06:16.647Z",
+        "q": "mahler 5 youtube",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=mahler+5+youtube&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230103/2301031406/223026243034-B41FA61B32D04D15B056BE98418F6500-00.html",
+        "json_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230103/2301031406/223026243034-B41FA61B32D04D15B056BE98418F6500-00.json",
+        "crawl_start_time": "2023-01-03T05:06:16.822Z",
+        "crawl_end_time": "2023-01-03T05:06:21.296Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "additionally_renewal",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "3.1.0.master",
+        "displayed_query": "mahler 5 youtube",
+        "parsed_time": "2023-01-06T04:10:58.473Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "video_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {},
+                {
+                    "title": "Mahler: 5. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada",
+                    "url": "https://m.youtube.com/watch?v=fEGNNuEM3Fc",
+                    "date": "2017. 3. 27."
+                },
+                {
+                    "title": "Mahler: Symphony no. 5 - Christoph Eschenbach - Sinfónica de Galicia",
+                    "url": "https://m.youtube.com/watch?v=1tCk6nOOdzI",
+                    "date": "2018. 2. 6."
+                },
+                {
+                    "title": "Mahler : Symphony No. 5 conducted by Myung-Whun Chung",
+                    "url": "https://m.youtube.com/watch?v=6srJlTgVAwI",
+                    "date": "2017. 12. 16."
+                },
+                {
+                    "title": "Mahler: Symphony No. 5 (Adagietto) / Rattle · Berliner Philharmoniker",
+                    "url": "https://m.youtube.com/watch?v=39OFMgh6JwY",
+                    "date": "2011. 12. 27."
+                },
+                {
+                    "title": "Mahler - Symphony No. 5 | National Symphony Orchestra (highlights)",
+                    "url": "https://m.youtube.com/watch?v=wWgDkw2WRNg",
+                    "date": "2020. 3. 20."
+                },
+                {
+                    "title": "Gustav Mahler - Symphony No. 5 | Claudio Abbado",
+                    "url": "https://m.youtube.com/watch?v=ESw1g5IVeWs",
+                    "date": "2017. 1. 21."
+                },
+                {
+                    "title": "Mahler: Symphony No. 5 (with Score)",
+                    "url": "https://m.youtube.com/watch?v=mVjHOp2SFfU",
+                    "date": "2022. 6. 21."
+                },
+                {
+                    "title": "Mahler \"Symphony No 5\" Mariss Jansons",
+                    "url": "https://m.youtube.com/watch?v=Jb7TdkWjXa4",
+                    "date": "2019. 12. 12."
+                },
+                {
+                    "title": "Mahler Symphony No. 5 - Adagietto",
+                    "url": "https://m.youtube.com/watch?v=75YmlDR92UQ",
+                    "date": "2015. 11. 22."
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "short_videos",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(25).mnr-c > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__8 > div:nth-child(1).Pdk8Uc",
+            "carousels": [
+                {
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(25).mnr-c > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__8 > div:nth-child(1).Pdk8Uc",
+                    "url": "https://www.youtube.com/shorts/5GhNoiuRoWI",
+                    "title": "Excerpt from Mahler: Symphony No. 5, Obbligato Horn",
+                    "source": "YouTube",
+                    "channel": "Scott Leger Horn",
+                    "date": "2022. 4. 23."
+                },
+                {
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(25).mnr-c > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__9 > div:nth-child(1).Pdk8Uc",
+                    "url": "https://www.youtube.com/shorts/jghFkg09RG4",
+                    "title": "Mahler 5 rehearsals in full swing! #mahler #classicalmusic #klassiek #orchestra #violin #cello",
+                    "source": "YouTube",
+                    "channel": "philharmonie zuidnederland",
+                    "date": "2022. 10. 20."
+                },
+                {
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(25).mnr-c > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ > div:nth-child(3)#ybezY776COSH0Aa_wKzwCw__10 > div:nth-child(1).Pdk8Uc",
+                    "url": "https://www.youtube.com/shorts/XcqyTwn4zBI",
+                    "title": "Mahler Symphony No. 5, Mvt. III, Rehearsal 21-22 Horn Excerpt",
+                    "source": "YouTube",
+                    "channel": "Scott Leger Horn",
+                    "date": "2022. 5. 29."
+                },
+                {
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(25).mnr-c > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ > div:nth-child(4)#ybezY776COSH0Aa_wKzwCw__11 > div:nth-child(1).Pdk8Uc",
+                    "url": "https://www.youtube.com/shorts/QyfyKnwJBkU",
+                    "title": "Gustav Mahler Symphony no.5 Opening Trumpet Solo - Andrey Moskalyov.",
+                    "source": "YouTube",
+                    "channel": "Edward Timershin",
+                    "date": "2022. 7. 6."
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(9) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 1,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler: Adagietto Symphony 5 - Karajan* - YouTube",
+            "url": "https://m.youtube.com/watch?v=Les39aIKbzE",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:4484aa6d,vid:Les39aIKbzE",
+                "date": "2012. 7. 10."
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "What is Mahler's most famous piece?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_ybezY776COSH0Aa_wKzwCw_225 > div:nth-child(1) > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__63 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.theguardian.com › jul",
+                    "url": "https://www.theguardian.com/music/2020/jul/29/mahler-where-to-start-with-his-music",
+                    "title": "Mahler: where to start with his music - The Guardian",
+                    "snippet": "The most famous example is on the soundtrack to Luchino Visconti's Death in Venice in 1971, which uses both the Adagietto from the Fifth Symphony and the fourth-movement setting of Nietzsche from the Third, while an episode in the second season of the TV series Fargo (“Fear and Trembling”) features an arrangement of ...2020. 7. 29."
+                },
+                {
+                    "question": "What is Mahlers 5th about?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_ybezY776COSH0Aa_wKzwCw_225 > div:nth-child(2) > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__66 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://mahlerfoundation.org › mahler",
+                    "url": "https://mahlerfoundation.org/mahler/listening-guide/listening-guide-symphony-no-5-intro/",
+                    "title": "Listening Guide – Symphony No. 5 Intro - Mahler Foundation",
+                    "snippet": "In this sense, the Fifth Symphony might be considered the first of Mahler's existential symphonies, a musical representation of Nietzsche's concept of amor fati, the love of fate and affirms life in the face of death, without reliance on the promise of a better world after death.2021. 4. 9."
+                },
+                {
+                    "question": "What are the best recordings of Mahler symphonies?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_ybezY776COSH0Aa_wKzwCw_225 > div:nth-child(3) > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__69 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.gramophone.co.uk › to...",
+                    "url": "https://www.gramophone.co.uk/features/article/top-10-gustav-mahler-symphony-recordings",
+                    "title": "Top 10 Gustav Mahler symphony recordings - Gramophone"
+                },
+                {
+                    "question": "What caused Gustav Mahler's death?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_ybezY776COSH0Aa_wKzwCw_225 > div:nth-child(4) > div:nth-child(1)#ybezY776COSH0Aa_wKzwCw__75 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/8278964/",
+                    "title": "[The final year of Gustav Mahler] - PubMed",
+                    "snippet": "His rheumatic mitral valve disease, diagnosed in 1907, was probably asymptomatic until recurrent throat infections put an end to his life. At the time of his death Mahler was at the peak of his career as a conductor, with 90 concerts scheduled for the 1910-11 season."
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 2,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler: Symphony No. 5 (Adagietto) - BBC Proms 2014 - YouTube",
+            "url": "https://m.youtube.com/watch?v=P8LZ43LA2nY",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:488bf700,vid:P8LZ43LA2nY",
+                "date": "2014. 8. 11."
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "Mahler 4",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__56 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Mahler Symphony 6",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__57 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Mahler: Symphony 2",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__58 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Mahler Symphony 3",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__59 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "말러 교향곡 5번",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__60 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Debussy youtube",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#ybezY776COSH0Aa_wKzwCw__61 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 3,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Gustav Mahler – Symphony No.5 in C-sharp minor – Herbert von Karajan, Berliner Philharmoniker, 1973 - YouTube",
+            "url": "https://m.youtube.com/watch?v=HsclK5ytvAg",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:89d4a731,vid:HsclK5ytvAg",
+                "date": "2021. 4. 7."
+            }
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 4,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Curtis Symphony Orchestra: MAHLER — Symphony No. 5 - YouTube",
+            "url": "https://m.youtube.com/watch?v=sAc64fH-eIQ",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:44df9042,vid:sAc64fH-eIQ",
+                "date": "2020. 7. 11."
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 5,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Gustav Mahler - Symphony No. 5 in C sharp minor | WDR Sinfonieorchester - YouTube",
+            "url": "https://m.youtube.com/watch?v=qiVERyQXN1A",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:f40d291c,vid:qiVERyQXN1A",
+                "date": "2019. 9. 12."
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 6,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler Symphony no. 5 - Vienna Philharmonic Orchestra - Leonard Bernstein - YouTube",
+            "url": "https://m.youtube.com/watch?v=9KSESLJ0LWA",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:e392ffb1,vid:9KSESLJ0LWA",
+                "date": "2016. 1. 18."
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 7,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler - Symphony No.5 (complete), Adagietto: Sehr Langsam (Century's record.: Sir John Barbirolli) - YouTube",
+            "url": "https://m.youtube.com/watch?v=BXtnkgELVTM",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:bdfda9f6,vid:BXtnkgELVTM",
+                "date": "2021. 4. 24."
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 8,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler Symphony No. 5 - YouTube",
+            "url": "https://m.youtube.com/watch?v=d_sQx9SFUtE",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:2676717a,vid:d_sQx9SFUtE",
+                "date": "2015. 6. 13."
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 9,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler - Symphony No. 5, Mvt 1 | National Symphony Orchestra (excerpt) - YouTube",
+            "url": "https://m.youtube.com/watch?v=kVIs4YpUAaM",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:863ac19c,vid:kVIs4YpUAaM",
+                "date": "2020. 3. 20."
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 10,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "G. MAHLER : Adagietto, from the Symphony no. 5 / Kyuhee Park - YouTube",
+            "url": "https://m.youtube.com/watch?v=bh-9Wy3EenE",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:0e25fcbd,vid:bh-9Wy3EenE",
+                "date": "2021. 2. 25."
+            }
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 11,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "Mahler: Symphony No. 5 in C-Sharp Minor - IV. Adagietto (Sehr langsam) - YouTube",
+            "url": "https://m.youtube.com/watch?v=6QBYJtsFTgw",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:c4c8ec8b,vid:6QBYJtsFTgw",
+                "date": "2018. 8. 15."
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "images",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1).ObfsIf > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+            "images": [
+                {
+                    "landing_url": "https://m.youtube.com/watch?v=6CNHY-S-njQ"
+                },
+                {
+                    "landing_url": "https://www.youtube.com/watch?v=fEGNNuEM3Fc"
+                },
+                {
+                    "landing_url": "https://www.youtube.com/watch?v=Les39aIKbzE"
+                },
+                {
+                    "landing_url": "https://www.youtube.com/watch?v=39OFMgh6JwY"
+                }
+            ]
+        },
+        {
+            "sequence": 17,
+            "type": "unknown",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.KJ7Tg.wHYlTd.cUnQKe.Ww4FFb.vt6azd"
+        }
+    ]
+}
