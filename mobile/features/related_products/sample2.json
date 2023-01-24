@@ -1,0 +1,967 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "f9f3afdc-2bed-4914-b7c6-c4e2c0351330",
+        "sub_id": 0,
+        "requested_time": "2023-01-24T23:40:24.206Z",
+        "q": "ホリパッド for nintendo switch",
+        "location": "Japan",
+        "gl": "jp",
+        "hl": "ja",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89+for+nintendo+switch&hl=ja&gl=jp&uule=w+CAIQICIFSmFwYW4",
+        "html_url": "http://node0059.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/230125/2301250840/049238220105-F9F3AFDC2BED4914B7C6C4E2C0351330-00.html",
+        "json_url": "http://node0059.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/230125/2301250840/049238220105-F9F3AFDC2BED4914B7C6C4E2C0351330-00.json",
+        "crawl_start_time": "2023-01-24T23:40:24.247Z",
+        "crawl_end_time": "2023-01-24T23:40:49.006Z",
+        "device": "mobile",
+        "usage_id": "soohyeonjin",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "3.1.3.master",
+        "displayed_query": "ホリパッド for nintendo switch",
+        "parsed_time": "2023-01-24T23:40:50.140Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ads",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(2).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "ホリパッド for nintendo switchを販売",
+            "carousels": [
+                {
+                    "title": "【Nintendo Switch対応】 ホリパッド for Nintendo Switch",
+                    "url": "/aclk?sa=l&ai=DChcSEwj2td7RsOH8AhVxkmYCHaecBWAYABACGgJzbQ&ae=2&sig=AOD64_1xwHfP4B6-DqgJlNx2ViTYavc7hA&ctype=5&q=&ved=2ahUKEwibtNjRsOH8AhXDSGwGHaFlDgQQwg8oAHoECAUQCA&adurl=",
+                    "price": "￥2,854",
+                    "provider": "Yahoo!ショッピング",
+                    "data-catalog-id": "3150258652013817176",
+                    "data-offer-docid": "13218368386361170241",
+                    "data-merchant-id": "676890154",
+                    "data-offer-id": "sakura-co_s-4961818027183-20221216"
+                },
+                {
+                    "title": "ホリ ホリパッド for Nintendo Switch ブラック [NSW-001 ホリパッド ブラック]",
+                    "url": "/aclk?sa=l&ai=DChcSEwj2td7RsOH8AhVxkmYCHaecBWAYABADGgJzbQ&ae=2&sig=AOD64_2WxFxm1Vp81u82v2PMBGEUqyp_wQ&ctype=5&q=&ved=2ahUKEwibtNjRsOH8AhXDSGwGHaFlDgQQwg8oAHoECAUQDA&adurl=",
+                    "price": "￥3,278",
+                    "provider": "楽天市場",
+                    "data-catalog-id": "3150258652013817176",
+                    "data-offer-docid": "10155057477269409391",
+                    "data-merchant-id": "114540006",
+                    "data-offer-id": "jism:13689107"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(7) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://hori.jp › nsw › horipad",
+            "title": "ホリパッド for Nintendo Switch",
+            "url": "https://hori.jp/products/nsw/horipad/",
+            "snippet": "ホリパッド for Nintendo Switch. 十字ボタンつけ外し機能. 本品は十字ボタンの付け外しができ、十字ボタンと方向ボタンの両方で遊ぶことができます。"
+        },
+        {
+            "sequence": 3,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "title": "詳細",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:image-set",
+                    "values": [
+                        "画像カルーセル"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:organic-offers",
+                    "values": [
+                        "カラー",
+                        "すべての カラー",
+                        "Red",
+                        "ブラック",
+                        "ブルー",
+                        "レッド",
+                        "トイザらス・ベビーザらス オンラインストア",
+                        "ホリパッド for Nintendo Switch",
+                        "送料: ￥600",
+                        "·",
+                        "￥3,269",
+                        "ジョーシン",
+                        "ホリパッド for Nintendo Switch ブラック ニンテンドースイッチ",
+                        "送料: ￥550",
+                        "·",
+                        "￥3,180",
+                        "楽天市場 - Joshin web 家電とPCの大型専門店",
+                        "ホリ ホリパッド for Nintendo Switch ブラック [NSW-001 ホリパッド ブラック]",
+                        "￥3,278",
+                        "その他のショップ",
+                        "その他のショップ",
+                        "特典の読み込みに失敗しました。しばらくしてからもう一度お試しください。"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_variant_pickers",
+                    "values": [
+                        "カラー",
+                        "すべての カラー",
+                        "Red",
+                        "ブラック",
+                        "ブルー",
+                        "レッド"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_grid",
+                    "values": [
+                        "トイザらス・ベビーザらス オンラインストア",
+                        "ホリパッド for Nintendo Switch",
+                        "送料: ￥600",
+                        "·",
+                        "￥3,269",
+                        "ジョーシン",
+                        "ホリパッド for Nintendo Switch ブラック ニンテンドースイッチ",
+                        "送料: ￥550",
+                        "·",
+                        "￥3,180",
+                        "楽天市場 - Joshin web 家電とPCの大型専門店",
+                        "ホリ ホリパッド for Nintendo Switch ブラック [NSW-001 ホリパッド ブラック]",
+                        "￥3,278"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:manufacturer-link",
+                    "values": [
+                        "株式会社 HORI | ホリパッド for Nintendo Switch レッド",
+                        "hori.jp",
+                        "·",
+                        "メーカー"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Officially Licensed by Nintendo.After three decades of innovation as Nintendo's original peripheral licensee, Hori did it again with the HORIPAD ",
+                        "for Nintendo Switch.This sturdy, high-performance Controller boasts an array of features, including fast-action trigger shoulder buttons, a detachable d-pad adapter, high-precision offset analog sticks, turbo settings, and more.",
+                        "… ",
+                        "もっと見る"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:color_theme_1607274",
+                    "values": [
+                        "カラー",
+                        ": ",
+                        "Black, Blue, Mario, Red, White"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:compatibility_728446",
+                    "values": [
+                        "互換性",
+                        ": ",
+                        "Switch"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:connectivity_728286",
+                    "values": [
+                        "接続性",
+                        ": ",
+                        "ワイヤレス"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-composer",
+                    "values": [
+                        "評価とクチコミ",
+                        "レビューを編集",
+                        "レビューを削除",
+                        "あなたのクチコミ",
+                        "クチコミ ",
+                        "レビューを書く",
+                        "問題が発生しました。しばらくしてからもう一度お試しください。",
+                        "レビューを削除しました",
+                        "元に戻す",
+                        "エラーが発生しました。もう一度お試しください。",
+                        "あなたのレビューは評価に合わせて更新されました。"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.5",
+                        "111 件のレビュー",
+                        "5",
+                        "84",
+                        "4",
+                        "15",
+                        "3",
+                        "5",
+                        "2",
+                        "3",
+                        "1",
+                        "4"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-images"
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "連打機能が良い!",
+                        "2 年前",
+                        "あつ森を家族でやる為に購入しましたが あつ森でも連打機能活躍してます! まき餌作るときのDIYや策を作るときなど 同じものを作る時にずっと連打大変だったので この機能を使うととっても楽になりました! アップデートされた海水浴もこの連打機能で スイスイ泳げてます!",
+                        "aya ·  toysrus.co.jp でレビューされました",
+                        "その他のレビュー",
+                        "その他のレビュー"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:editorial-reviews",
+                    "values": [
+                        "リンクからレビューを確認できます。",
+                        "クチコミ抜粋。",
+                        "げめろぐ",
+                        "Switchで使える、非純正のコントローラーが欲しいけど失敗したくない！ そんな人に選ばれているのが、ワイヤレスホリパッドfor Nintendo Switchです。 長年非純正コントローラーを作ってきたホリの、公式認可 […]…",
+                        "詳細",
+                        "さっさん部ログ",
+                        "大乱闘スマッシュブラザーズ SPECIALでどのコントローラーを使おうか迷っている方は多いのではないでしょうか。以前レビューしたホリ クラシックコントローラーをレビューしましたが、今回はホリパッド for Nintendo Switchをレビューしたいと思います。…",
+                        "詳細"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Officially Licensed by Nintendo.After three decades of innovation as Nintendo's original peripheral licensee, Hori did it again with the HORIPAD  for Nintendo Switch.This sturdy, high-performance Controller boasts an array of features, including fast-action trigger shoulder buttons, a detachable d-pad adapter, high-precision offset analog sticks, turbo settings, and more. …  もっと見る"
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:image-set",
+                "kc:/shopping/gpc:organic-offers",
+                "organic_offers_variant_pickers",
+                "organic_offers_grid",
+                "kc:/shopping/gpc:manufacturer-link",
+                "description",
+                "kc:/shopping/game_controller:color_theme_1607274",
+                "kc:/shopping/game_controller:compatibility_728446",
+                "kc:/shopping/game_controller:connectivity_728286",
+                "kc:/shopping/gpc:user-review-composer",
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:user-review-images",
+                "kc:/shopping/gpc:top-user-reviews",
+                "kc:/shopping/gpc:editorial-reviews"
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_29.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid_37.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "概要",
+            "headers": [
+                "概要",
+                "ショップ",
+                "詳細",
+                "レビュー"
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_29.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid_36 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.JlDOsc.LMRCfc.hJSApd.ZNdJHf > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:image-set",
+                    "values": [
+                        "画像カルーセル"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:organic-offers",
+                    "values": [
+                        "カラー",
+                        "すべての カラー",
+                        "Red",
+                        "ブラック",
+                        "ブルー",
+                        "レッド",
+                        "トイザらス・ベビーザらス オンラインストア",
+                        "ホリパッド for Nintendo Switch",
+                        "送料: ￥600",
+                        "·",
+                        "￥3,269",
+                        "ジョーシン",
+                        "ホリパッド for Nintendo Switch ブラック ニンテンドースイッチ",
+                        "送料: ￥550",
+                        "·",
+                        "￥3,180",
+                        "楽天市場 - Joshin web 家電とPCの大型専門店",
+                        "ホリ ホリパッド for Nintendo Switch ブラック [NSW-001 ホリパッド ブラック]",
+                        "￥3,278",
+                        "その他のショップ",
+                        "その他のショップ",
+                        "特典の読み込みに失敗しました。しばらくしてからもう一度お試しください。"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_variant_pickers",
+                    "values": [
+                        "カラー",
+                        "すべての カラー",
+                        "Red",
+                        "ブラック",
+                        "ブルー",
+                        "レッド"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_grid",
+                    "values": [
+                        "トイザらス・ベビーザらス オンラインストア",
+                        "ホリパッド for Nintendo Switch",
+                        "送料: ￥600",
+                        "·",
+                        "￥3,269",
+                        "ジョーシン",
+                        "ホリパッド for Nintendo Switch ブラック ニンテンドースイッチ",
+                        "送料: ￥550",
+                        "·",
+                        "￥3,180",
+                        "楽天市場 - Joshin web 家電とPCの大型専門店",
+                        "ホリ ホリパッド for Nintendo Switch ブラック [NSW-001 ホリパッド ブラック]",
+                        "￥3,278"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:image-set",
+                "kc:/shopping/gpc:organic-offers",
+                "organic_offers_variant_pickers",
+                "organic_offers_grid"
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_29.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid_36 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(11).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "詳細",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:manufacturer-link",
+                    "values": [
+                        "株式会社 HORI | ホリパッド for Nintendo Switch レッド",
+                        "hori.jp",
+                        "·",
+                        "メーカー"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Officially Licensed by Nintendo.After three decades of innovation as Nintendo's original peripheral licensee, Hori did it again with the HORIPAD ",
+                        "for Nintendo Switch.This sturdy, high-performance Controller boasts an array of features, including fast-action trigger shoulder buttons, a detachable d-pad adapter, high-precision offset analog sticks, turbo settings, and more.",
+                        "… ",
+                        "もっと見る"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:color_theme_1607274",
+                    "values": [
+                        "カラー",
+                        ": ",
+                        "Black, Blue, Mario, Red, White"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:compatibility_728446",
+                    "values": [
+                        "互換性",
+                        ": ",
+                        "Switch"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/game_controller:connectivity_728286",
+                    "values": [
+                        "接続性",
+                        ": ",
+                        "ワイヤレス"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Officially Licensed by Nintendo.After three decades of innovation as Nintendo's original peripheral licensee, Hori did it again with the HORIPAD  for Nintendo Switch.This sturdy, high-performance Controller boasts an array of features, including fast-action trigger shoulder buttons, a detachable d-pad adapter, high-precision offset analog sticks, turbo settings, and more. …  もっと見る"
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:manufacturer-link",
+                "description",
+                "kc:/shopping/game_controller:color_theme_1607274",
+                "kc:/shopping/game_controller:compatibility_728446",
+                "kc:/shopping/game_controller:connectivity_728286"
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_29.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid_36 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(12).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-composer",
+                    "values": [
+                        "評価とクチコミ",
+                        "レビューを編集",
+                        "レビューを削除",
+                        "あなたのクチコミ",
+                        "クチコミ ",
+                        "レビューを書く",
+                        "問題が発生しました。しばらくしてからもう一度お試しください。",
+                        "レビューを削除しました",
+                        "元に戻す",
+                        "エラーが発生しました。もう一度お試しください。",
+                        "あなたのレビューは評価に合わせて更新されました。"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.5",
+                        "111 件のレビュー",
+                        "5",
+                        "84",
+                        "4",
+                        "15",
+                        "3",
+                        "5",
+                        "2",
+                        "3",
+                        "1",
+                        "4"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-images"
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "連打機能が良い!",
+                        "2 年前",
+                        "あつ森を家族でやる為に購入しましたが あつ森でも連打機能活躍してます! まき餌作るときのDIYや策を作るときなど 同じものを作る時にずっと連打大変だったので この機能を使うととっても楽になりました! アップデートされた海水浴もこの連打機能で スイスイ泳げてます!",
+                        "aya ·  toysrus.co.jp でレビューされました",
+                        "その他のレビュー",
+                        "その他のレビュー"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:user-review-composer",
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:user-review-images",
+                "kc:/shopping/gpc:top-user-reviews"
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_29.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid_36 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(12).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).TjcfIc.eE3xqf.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:editorial-reviews",
+                    "values": [
+                        "リンクからレビューを確認できます。",
+                        "クチコミ抜粋。",
+                        "げめろぐ",
+                        "Switchで使える、非純正のコントローラーが欲しいけど失敗したくない！ そんな人に選ばれているのが、ワイヤレスホリパッドfor Nintendo Switchです。 長年非純正コントローラーを作ってきたホリの、公式認可 […]…",
+                        "詳細",
+                        "さっさん部ログ",
+                        "大乱闘スマッシュブラザーズ SPECIALでどのコントローラーを使おうか迷っている方は多いのではないでしょうか。以前レビューしたホリ クラシックコントローラーをレビューしましたが、今回はホリパッド for Nintendo Switchをレビューしたいと思います。…",
+                        "詳細"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:editorial-reviews"
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.amazon.co.jp › 【Ninte...",
+            "title": "【Nintendo Switch対応】ホリパッド for Nintendo Switch",
+            "url": "https://www.amazon.co.jp/%E3%80%90Nintendo-Switch%E5%AF%BE%E5%BF%9C%E3%80%91%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89-for-Nintendo-Switch/dp/B071W13D4C",
+            "snippet": "Nintendo Switchに対応したコントローラーです。 十字ボタンの付け外しができ、十字ボタンと方向ボタンの両方で遊ぶこと ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.co.jp/%E3%80%90Nintendo-Switch%E5%AF%BE%E5%BF%9C%E3%80%91%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89-for-Nintendo-Switch/dp/B071W13D4C",
+                "desc": "www.amazon.co.jp からのホリパッド for nintendo switch"
+            },
+            "rating": {
+                "rating_count": "(5,530)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.amazon.co.jp › 【任天...",
+            "title": "【任天堂ライセンス商品】ホリパッド for Nintendo Switch レッド ...",
+            "url": "https://www.amazon.co.jp/%E3%80%90%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E5%95%86%E5%93%81%E3%80%91%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89-Nintendo-Switch-%E3%83%AC%E3%83%83%E3%83%89%E3%80%90Nintendo-Switch%E5%AF%BE%E5%BF%9C%E3%80%91/dp/B08H2C6D1C",
+            "snippet": "この商品について. 本製品はゲームプレイに必要な基本性能を搭載した、お求めやすい価格のコントローラーです。安定した ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.co.jp/%E3%80%90%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E5%95%86%E5%93%81%E3%80%91%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89-Nintendo-Switch-%E3%83%AC%E3%83%83%E3%83%89%E3%80%90Nintendo-Switch%E5%AF%BE%E5%BF%9C%E3%80%91/dp/B08H2C6D1C",
+                "desc": "www.amazon.co.jp からのホリパッド for nintendo switch"
+            },
+            "rating": {
+                "rating_count": "(5,515)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "スイッチ ホリパッド プロコン 違い",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__111 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "ホリパッド for nintendo switch / pc",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__112 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "ホリパッド switch 接続できない",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__113 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "ホリパッド 連射",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__114 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "ホリパッド 連射ホールド",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__115 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "ホリパッド 有線 ジャイロ",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__116 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.yodobashi.com › product",
+            "title": "HORI ホリ NSW-001 [ホリパッド for Nintendo Switch]",
+            "url": "https://www.yodobashi.com/product/100000001003582656/",
+            "snippet": "Nintendo Switch専用コントローラーです。十字ボタンの付け外しができ、十字ボタンと方向ボタンの両方で遊ぶことができ ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.yodobashi.com/product/100000001003582656/",
+                "desc": "www.yodobashi.com からのホリパッド for nintendo switch"
+            },
+            "refinements": [
+                {
+                    "text": "サイバーガジェット cyber...",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(5).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "HORI",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(5).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "HORI ホリ NS2-039 [テーブル...",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(5).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://search.rakuten.co.jp › mall",
+            "title": "【楽天市場】ホリパッド for nintendo switchの通販",
+            "url": "https://search.rakuten.co.jp/search/mall/%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89+for+nintendo+switch/",
+            "snippet": "楽天市場-「ホリパッド for nintendo switch」561件 人気の商品を価格比較・ランキング･レビュー・口コミで検討できます。ご購入でポイント取得がお得。"
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://s.kakaku.com › item",
+            "title": "HORI ホリパッド for Nintendo Switch NSW-001",
+            "url": "https://s.kakaku.com/item/K0000969512/",
+            "snippet": "HORI ホリパッド for Nintendo Switch NSW-001の最安値を見つけよう！全国各地のお店の価格情報がリアルタイムにわかるのは価格.comならでは。製品レビューやクチコミ ...",
+            "rating": {
+                "rating_count": "(22)",
+                "rating_value": "4.1"
+            }
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://joshinweb.jp › game",
+            "title": "ホリパッド for Nintendo Switch ブラック｜NSW-001 ...",
+            "url": "https://joshinweb.jp/game/62429/4961818027183.html",
+            "snippet": "ホリ NSW-001 ﾎﾘﾊﾟｯﾄﾞ ﾌﾞﾗｯｸ 十字ボタン、方向ボタンの両方の操作感を得られるNinten ... ホリ｜ホリパッド for Nintendo Switch ブ ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://joshinweb.jp/game/62429/4961818027183.html",
+                "desc": "joshinweb.jp からのホリパッド for nintendo switch"
+            },
+            "rating": {
+                "rating_count": "(47)",
+                "rating_value": "4.1"
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://www.yamada-denkiweb.com › ...",
+            "title": "ホリパッド for Nintendo Switch NSW-001",
+            "url": "https://www.yamada-denkiweb.com/5714876019/",
+            "snippet": "ホリパッド for Nintendo Switch NSW-001のご購入はヤマダウェブコムで。安心の長期保証、社員による即日・翌日お届 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.yamada-denkiweb.com/5714876019/",
+                "desc": "www.yamada-denkiweb.com からのホリパッド for nintendo switch"
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://auctions.yahoo.co.jp › ホリパ...",
+            "title": "「ホリパッド for nintendo switch」の落札相場・落札価格 - ヤフオク!",
+            "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch/%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89%20for%20nintendo%20switch/0/",
+            "snippet": "「ホリパッド for nintendo switch」関連の新品・未使用品・中古品の過去120日分の落札相場をヤフオク!で確認できます。約 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch/%E3%83%9B%E3%83%AA%E3%83%91%E3%83%83%E3%83%89%20for%20nintendo%20switch/0/",
+                "desc": "auctions.yahoo.co.jp からのホリパッド for nintendo switch"
+            }
+        },
+        {
+            "sequence": 18,
+            "type": "related_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk",
+            "title": "関連商品",
+            "refinements": [
+                {
+                    "text": "HORI HORIPAD",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb > span.WZNUrc.ncGZhe"
+                },
+                {
+                    "text": "ホリ",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb > span.WZNUrc"
+                },
+                {
+                    "text": "その他",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb > span.WZNUrc"
+                }
+            ],
+            "carousels": [
+                {
+                    "title": "ホリ ホリパッド for Nintendo Switch",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1)#_aWzQY9vbA8ORseMPocu5IA_95.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(111)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤレス"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "Switch"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue, Mario, Red, White"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ ホリパッド ミニ for Nintendo Switch",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(2)#_aWzQY9vbA8ORseMPocu5IA_99.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(94)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PC, Switch"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue, Gray, Mario, Pikachu, Pink, Red, Yoshi"
+                        }
+                    ]
+                },
+                {
+                    "title": "ワイヤレスホリパッド for Nintendo Switch",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(3)#_aWzQY9vbA8ORseMPocu5IA_103.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(66)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤレス"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "Switch"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue, Gray, Mario, Pikachu"
+                        }
+                    ]
+                },
+                {
+                    "title": "hori Pro Controller Switch 輸入版",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(4)#_aWzQY9vbA8ORseMPocu5IA_107.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(120)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤレス"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "Switch"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Mario, Pikachu"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ パッドミニ for Nintendo Switch",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(5)#_aWzQY9vbA8ORseMPocu5IA_111.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "5.0",
+                        "rating_count": "(2)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PC, Switch"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Blue, Green, Mario, Pikachu, Purple, Red"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ ホリパッド FPS プラス for PS3/PS4",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(6)#_aWzQY9vbA8ORseMPocu5IA_115.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(14)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PS3, PS4"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Blue, Red"
+                        }
+                    ]
+                },
+                {
+                    "title": "HORIPAD Pro for Xbox Series X|S",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(7)#_aWzQY9vbA8ORseMPocu5IA_119.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "3.2",
+                        "rating_count": "(5)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PC, PS3, Xbox 360, Xbox One, XboxシリーズX / S"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue, Red, White"
+                        }
+                    ]
+                },
+                {
+                    "title": "HORI HORIPAD Controller",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(8)#_aWzQY9vbA8ORseMPocu5IA_123.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(60)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PC, PS4, Switch, Xbox One, XboxシリーズX / S"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue, Matte Black, Red"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ ホリパッド 3 ターボプラス",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(9)#_aWzQY9vbA8ORseMPocu5IA_127.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(4)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PS3"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ ホリパッド 4 FPS",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(10)#_aWzQY9vbA8ORseMPocu5IA_131.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(25)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤード"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "PS3, PS4"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black, Blue"
+                        }
+                    ]
+                },
+                {
+                    "title": "ホリ HORIPAD ULTIMATE",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > g-scrolling-carousel.lIB9mc.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(11)#_aWzQY9vbA8ORseMPocu5IA_135.aaEd9.U30qk",
+                    "rating": {
+                        "rating_value": "5.0",
+                        "rating_count": "(1)"
+                    },
+                    "properties": [
+                        {
+                            "key": "接続性",
+                            "value": "ワイヤレス"
+                        },
+                        {
+                            "key": "互換性",
+                            "value": "Mac"
+                        },
+                        {
+                            "key": "カラー",
+                            "value": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 19,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "ホリパッド for nintendo switch pc接続",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#aWzQY9vbA8ORseMPocu5IA__57 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ワイヤレスホリパッド for nintendo switch",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__58 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド switch 接続方法 有線",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__59 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド 使い方",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__60 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド ワイヤレス",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__61 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド スプラトゥーン",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__62 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド FPS",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__63 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "ホリパッド ジャイロ",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#aWzQY9vbA8ORseMPocu5IA__64 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}
