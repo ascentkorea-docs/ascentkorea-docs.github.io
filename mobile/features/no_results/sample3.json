@@ -1,0 +1,84 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "905de155-db37-47c8-9910-c03a8a24e28a",
+        "sub_id": 0,
+        "requested_time": "2023-02-06T00:41:23.531Z",
+        "q": "rp optimal tmax/tmin /2 -1",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=rp+optimal+tmax%2Ftmin+%2F2+-1&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230206/2302060941/fetcher::192168016012-905DE155DB3747C89910C03A8A24E28A-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230206/2302060941/fetcher::192168016012-905DE155DB3747C89910C03A8A24E28A-00.json",
+        "crawl_start_time": "2023-02-06T00:41:23.563Z",
+        "crawl_end_time": "2023-02-06T00:41:28.869Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "3.1.4.master",
+        "displayed_query": "rp optimal tmax/tmin /2 -1",
+        "parsed_time": "2023-02-06T00:41:28.966Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "no_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).uzjuFc.BmP5tf"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.researchgate.net › figure",
+            "title": "Monthly areal rainfall (a), cumulative rainfall depths (b), the correlation ...",
+            "url": "https://www.researchgate.net/figure/Monthly-areal-rainfall-a-cumulative-rainfall-depths-b-the-correlation-between_fig2_353092121",
+            "snippet": "The performance of simulated rainfall, Tmax, and Tmin of the CMIP5 models were statistically evaluated using observation datasets at eleven stations."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.researchgate.net › 2693...",
+            "title": "Comparison of Thermal Fatigue Test Methods for Die Casting Process",
+            "url": "https://www.researchgate.net/publication/269360676_Comparison_of_Thermal_Fatigue_Test_Methods_for_Die_Casting_Process_A_Finite_Element_Study",
+            "snippet": "Test specimens are then optimized to be more representative of a real die. From the comparison results, we can conclude that least divergence can be ..."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://partnerportal.dieseltechnic.com › ...",
+            "title": "1.16290 Massa vedante silicone, preta (Tmax: 250 °C,Capacidade ...",
+            "url": "https://partnerportal.dieseltechnic.com/pt/massa-vedante-silicone-preta-116290.html",
+            "snippet": "DT Spare Parts 1.16290, Massa vedante silicone, preta (Tmax: 250 °C, Capacidade : 310 ml, Tmin: -40 °C, Tipo de recipiente: Cartucho ), substituir DAF ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://oa.upm.es › indexcodes",
+            "title": "indexcodes.txt",
+            "url": "https://oa.upm.es/9101/3/indexcodes.txt",
+            "snippet": "... INDICE figure 096 recomendar comply may adimensionaliza modificar poder 778 recomiendan proteger movilizacion gobierna optimized incluyendo cumple AROS ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://oa.upm.es › 2 › indexcodes",
+            "title": "indexcodes.txt - Archivo Digital UPM",
+            "url": "https://oa.upm.es/52865/2/indexcodes.txt",
+            "snippet": "... incompatible obedecer pacio masa impli originale ideal tratada 118 resol para ... kirchho exponen calcularlo 019 RP contar formado despue agencia tardia ..."
+        }
+    ]
+}

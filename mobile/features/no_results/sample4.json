@@ -1,0 +1,169 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "d245fa7e-39f8-45f1-98ba-c6b1eee62ea2",
+        "sub_id": 0,
+        "requested_time": "2023-02-06T00:44:25.987Z",
+        "q": "ferragamo tennis tier list",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=ferragamo+tennis+tier+list&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230206/2302060944/fetcher::192168016013-D245FA7E39F845F198BAC6B1EEE62EA2-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230206/2302060944/fetcher::192168016013-D245FA7E39F845F198BAC6B1EEE62EA2-00.json",
+        "crawl_start_time": "2023-02-06T00:44:26.012Z",
+        "crawl_end_time": "2023-02-06T00:44:31.693Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "3.1.4.master",
+        "displayed_query": "ferragamo tennis tier list",
+        "parsed_time": "2023-02-06T00:44:31.892Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "no_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).uzjuFc.BmP5tf"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.ft.com › ... › Life & Arts",
+            "date": "2008. 10. 3.",
+            "title": "Ferragamo's Tuscan estate - Financial Times",
+            "url": "https://www.ft.com/content/44211f92-90e2-11dd-8abb-0000779fd18c",
+            "snippet": "2008. 10. 3. — It is this trend – evidenced by the boom in top-tier rental agents, fractional ownership clubs and hotel “villas” – that Ferragamo seeks to ..."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.ferragamo.com › shoes-1",
+            "title": "Men's Sneakers & Slip On Shoes | Ferragamo US",
+            "url": "https://www.ferragamo.com/shop/us/en/men/shoes-1/sneakers-2",
+            "snippet": "From the classic tennis shoe to the trendy Gancini sneaker, our men's sneakers & slip-ons collection is perfect for adding a metropolitan appeal to your ..."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.si.com › 2022/10/25",
+            "date": "2022. 10. 25.",
+            "title": "Forde-Yard Dash: Seven Potential College Football Playoff Spoilers",
+            "url": "https://www.si.com/.amp/college/2022/10/25/seven-potential-college-football-playoff-spoilers",
+            "snippet": "2022. 10. 25. — These teams aren't playing for much beyond pride and a mid-tier bowl berth. But they could still send a ... The list: ACC: Louisville (31)."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.whowhatwear.co.uk › s...",
+            "date": "3일 전",
+            "title": "Spring/Summer 2023 Fashion Trends: 21 Expert-Approved Looks",
+            "url": "https://www.whowhatwear.co.uk/spring-summer-2023-fashion-trends",
+            "snippet": "3일 전 — The 21 spring/summer 2023 fashion trends for 2023 that you need to know, as told by style experts. See and shop the most important looks for ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.sss.gov.ph › newsinfo",
+            "title": "shockwave free online games_【Register and get 100 free trial ...",
+            "url": "https://www.sss.gov.ph/sss/registrationPages/newsinfo.jsp?id=79488796.html",
+            "snippet": "Ball is the latest rapper to be slain by gunfire in recent years, following Nipsey Hussle, Pop Sm shockwave free online games minecraft farm tier listfree ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://abbeymillsgarage-merton.co.uk › ...",
+            "title": "Ranking the 5 best players in the top 5 European leagues last weekend",
+            "url": "https://abbeymillsgarage-merton.co.uk/216788-ranking-the-5-best-players-in-the-top-5-european-leagues-last-weekend",
+            "snippet": "He's already scored 2 following Fulham's return to England's top tier Mitrovic is the WhoScored Premier League player of the week 31130 Aleksandar Mitrovic ..."
+        },
+        {
+            "sequence": 8,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "Ferragamo",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__24 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                },
+                {
+                    "query": "Ferragamo usa",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                },
+                {
+                    "query": "Ferragamo heel",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__26 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                },
+                {
+                    "query": "Ferragamo briefcase",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__27 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                },
+                {
+                    "query": "Ferragamo shirt",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__28 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                },
+                {
+                    "query": "Gancini sneakers",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#ak3gY5bsLq-gseMPkt-cwA4__29 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).SsavRb.T1lINe.kTSm7b > span.kTSm7b.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://verifiedalarms.co.uk › 16082...",
+            "date": "2일 전",
+            "title": "Graphic Videos Uncensored - Artictle",
+            "url": "https://verifiedalarms.co.uk/160827-graphic-videos-uncensored",
+            "snippet": "2일 전 — ... de cette marque ultra d sirable Vogue Digital Salvatore Ferragamo ... Netflix ad supported tier could arrive sooner than we thought Tom ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://moderncars.co.uk › 199941-...",
+            "title": "Reported backstage details on Tony Khan s stance during internal ...",
+            "url": "https://moderncars.co.uk/199941-reported-backstage-details-on-tony-khan-s-stance-during-internal-meeting-with-aew-talent",
+            "snippet": "... pi ces de cette marque ultra d sirable Vogue Digital Salvatore Ferragamo ... They re set up to be in that tier for 5 years I wouldn t be sacrificing ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://moderncars.co.uk › 603743-...",
+            "title": "Someone Made An amiibo For The Animal Crossing Villager Raymond ...",
+            "url": "https://moderncars.co.uk/603743-random-someone-made-an-amiibo-for-the-animal-crossing-villager-raymond",
+            "snippet": "... pi ces de cette marque ultra d sirable Vogue Digital Salvatore Ferragamo ... Mortal Kombat 11 Tier List May 2019 The Best Fighters According To Top ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://cataclear.co.uk › 388927-ho...",
+            "title": "How to Create a Handy Tools Display to Help People Age in Place",
+            "url": "https://cataclear.co.uk/388927-how-to-create-a-handy-tools-display-to-help-people-age-in-place",
+            "snippet": "(Image 5) Step 5 The Supply List br For building and placing a single 3-foot-long display: 1 rectangular table that's large enough to hold the picket fence ..."
+        }
+    ]
+}
