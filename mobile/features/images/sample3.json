@@ -1,0 +1,466 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "e7af2c0b-f3f6-4bbd-8e2c-7270c6626798",
+        "sub_id": 0,
+        "requested_time": "2023-02-27T07:57:36.307Z",
+        "q": "tv console",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=tv+console&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0088.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230227/2302271657/223026233253-E7AF2C0BF3F64BBD8E2C7270C6626798-00.html",
+        "json_url": "http://node0088.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230227/2302271657/223026233253-E7AF2C0BF3F64BBD8E2C7270C6626798-00.json",
+        "crawl_start_time": "2023-02-27T07:57:37.381Z",
+        "crawl_end_time": "2023-02-27T07:57:43.001Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "renewal",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.62
+    },
+    "information": {
+        "version": "3.1.10.master",
+        "displayed_query": "tv console",
+        "parsed_time": "2023-02-27T07:57:43.524Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "images",
+            "refinements": [
+                {
+                    "text": "sam's club"
+                },
+                {
+                    "text": "floating tv"
+                },
+                {
+                    "text": "coffee table"
+                },
+                {
+                    "text": "parker house"
+                },
+                {
+                    "text": "wall mounted"
+                },
+                {
+                    "text": "84 inch"
+                },
+                {
+                    "text": "costco tv"
+                },
+                {
+                    "text": "console singapore"
+                },
+                {
+                    "text": "mid century"
+                },
+                {
+                    "text": "teak"
+                },
+                {
+                    "text": "58 inch"
+                },
+                {
+                    "text": "enyo"
+                },
+                {
+                    "text": "member mark"
+                },
+                {
+                    "text": "extendable tv"
+                }
+            ],
+            "images": [
+                {
+                    "landing_url": "https://www.castlery.com/sg/blog/how-to-choose-tv-console"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/WAMPAT-Century-Entertainment-Storage-Console/dp/B08HYSMXYH",
+                    "tag": "상품"
+                },
+                {
+                    "landing_url": "https://www.originals.com.sg/products/oak-tv-cupboard-shadow-3-drawers",
+                    "tag": "상품"
+                },
+                {
+                    "landing_url": "https://parker-house.com/collections/tv-consoles"
+                },
+                {
+                    "landing_url": "https://www.costco.com/ashlyn-3-in-1-tv-console.product.100847881.html",
+                    "tag": "상품"
+                },
+                {
+                    "landing_url": "https://www.poshish.pk/product/ashton-tv-console/",
+                    "tag": "상품"
+                },
+                {
+                    "landing_url": "https://www.hipvan.com/products/julian-tv-console-feature-wall-herringbone-oak"
+                },
+                {
+                    "landing_url": "https://megafurniture.sg/blogs/articles/read-this-before-buying-a-tv-console"
+                },
+                {
+                    "landing_url": "https://modernspaceliving.sg/products/lifix-modern-tv-console-coffee-table",
+                    "tag": "상품"
+                },
+                {
+                    "landing_url": "https://www.picketandrail.com/collections/all-americana-tv-cabinets-consoles"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "displayed_link": "https://www.overstock.com › subcat",
+            "date": "Results 1 - 60 of 1062",
+            "title": "Buy TV Console Online at Overstock | Our Best Living Room Furniture Deals",
+            "url": "https://www.overstock.com/Home-Garden/Entertainment-Centers/TV-Console,/type,/2029/subcat.html",
+            "snippet": "Results 1 - 60 of 1062 — TV Console TV Stands & Entertainment Centers : Add a touch style to your living room. Choose from simple metal stands to traditional ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.overstock.com/Home-Garden/Entertainment-Centers/TV-Console,/type,/2029/subcat.html",
+                "desc": "tv console(출처: www.overstock.com)"
+            }
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "displayed_link": "https://www.potterybarn.com › shop",
+            "title": "TV Consoles, Entertainment Centers & Media Cabinets - Pottery Barn",
+            "url": "https://www.potterybarn.com/shop/furniture/tv-stands-media/",
+            "snippet": "Shop Pottery Barn for tv and media consoles that combine classic style with tech-friendly design. Find entertainment centers to store and display every type ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.potterybarn.com/shop/furniture/tv-stands-media/",
+                "desc": "tv console(출처: www.potterybarn.com)"
+            },
+            "refinements": [
+                {
+                    "text": "Media Console TV Stands..."
+                },
+                {
+                    "text": "Arcadia Media Console"
+                },
+                {
+                    "text": "Entertainment Center TV"
+                },
+                {
+                    "text": "Pismo Media Console"
+                },
+                {
+                    "text": "Benchwright Media Console"
+                },
+                {
+                    "text": "Graham Media Console"
+                },
+                {
+                    "text": "Aubrey Media Console"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://www.amazon.com › tv-console",
+            "title": "Tv Console - Amazon.com",
+            "url": "https://www.amazon.com/tv-console/s?k=tv+console",
+            "snippet": "Yaheetech TV Stand for 65 Inch TV with Storage for Living Room, Industrial Entertainment Center.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.com/tv-console/s?k=tv+console",
+                "desc": "tv console(출처: www.amazon.com)"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 4,
+            "displayed_link": "https://www.wayfair.com › furniture",
+            "title": "TV Stands & Entertainment Centers - Wayfair.com",
+            "url": "https://www.wayfair.com/furniture/sb0/tv-stands-entertainment-centers-c1868409.html",
+            "snippet": "Shop Wayfair for all the best TV Stands & Entertainment Centers. Enjoy Free Shipping on most stuff, even big stuff.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.wayfair.com/furniture/sb0/tv-stands-entertainment-centers-c1868409.html",
+                "desc": "tv console(출처: www.wayfair.com)"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://www.crateandbarrel.com › m...",
+            "title": "TV Stands, Modern Media Consoles & TV Cabinets - Crate & Barrel",
+            "url": "https://www.crateandbarrel.com/furniture/media-stands-consoles/",
+            "snippet": "Showcase your TV with modern media consoles, cabinets and TV stands. Media consoles offer functional and stylish storage options.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.crateandbarrel.com/furniture/media-stands-consoles/",
+                "desc": "tv console(출처: www.crateandbarrel.com)"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "What is a TV console called?",
+                    "displayed_link": "https://en.m.wikipedia.org › wiki",
+                    "url": "https://en.m.wikipedia.org/wiki/Entertainment_center",
+                    "title": "Entertainment center - Wikipedia",
+                    "snippet": "An entertainment center (or centre), also known as an entertainment complex, is a piece of furniture designed to house consumer electronic appliances and components, such as televisions."
+                },
+                {
+                    "question": "What is a TV console for?",
+                    "displayed_link": "https://www.castlery.com › blog › h...",
+                    "url": "https://www.castlery.com/sg/blog/how-to-choose-tv-console",
+                    "title": "How to Choose a TV Console | Castlery Singapore",
+                    "snippet": "Storage, storage, storage As well as giving you the perfect place to perch your TV, a new console will allow you to add valuable extra storage to your living space.2022. 8. 16."
+                },
+                {
+                    "question": "What is the difference between a TV stand and console?",
+                    "displayed_link": "https://www.sierralivingconcepts.com › ...",
+                    "url": "https://www.sierralivingconcepts.com/blog/how-to-choose-entertainment-center-media-console-or-tv-stand/",
+                    "title": "How to Choose Entertainment Center, Media Console, or Tv Stand",
+                    "snippet": "Corner TV stand: Corner TV units are designed to save space and will fit in any corner of your place. A corner TV stand will help you fit a big screen in a compact place. Media console: A media console helps you store wired TV gadgets with ease due to the presence of cable management cut-outs at the back.2021. 12. 30."
+                },
+                {
+                    "question": "What can I use instead of a TV console?",
+                    "displayed_link": "https://www.livingspaces.com › tv-s...",
+                    "url": "https://www.livingspaces.com/inspiration/ideas-advice/guides/tv-stand-alternatives",
+                    "title": "7 TV Stand Alternatives - Living Spaces"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "displayed_link": "https://www.target.com › tv-stands-...",
+            "title": "TV Stands & Entertainment Centers - Target",
+            "url": "https://www.target.com/c/tv-stands-entertainment-centers-living-room-furniture/-/N-5xtm0",
+            "snippet": "How to pick the right TV stand? Here are 3 simple ways to set up the perfect entertainment spot.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.target.com/c/tv-stands-entertainment-centers-living-room-furniture/-/N-5xtm0",
+                "desc": "tv console(출처: www.target.com)"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "TV Stand"
+                },
+                {
+                    "query": "IKEA TV stand"
+                },
+                {
+                    "query": "TV Stand 75 inch"
+                },
+                {
+                    "query": "Modern furniture"
+                },
+                {
+                    "query": "Restoration Hardware"
+                },
+                {
+                    "query": "RH Outdoor"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 7,
+            "displayed_link": "https://www.ikea.com › cat › tv-me...",
+            "title": "TV & media furniture - IKEA",
+            "url": "https://www.ikea.com/us/en/cat/tv-media-furniture-10475/",
+            "snippet": "We've come a long way from black-and-white TV units to games, on-demand movies and 3D. One thing hasn't changed – needing a stand or cabinet for the TV unit ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 8,
+            "displayed_link": "https://www.ikea.com › cat › tv-me...",
+            "title": "TV Console, Stands & Cabinet - Living Room Furniture - IKEA",
+            "url": "https://www.ikea.com/sg/en/cat/tv-media-furniture-10475/",
+            "snippet": "Treat your TV to a proper home with our media storage set. Get TV benches, cabinets and storage combination for all your home entertainment items.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.ikea.com/sg/en/cat/tv-media-furniture-10475/",
+                "desc": "tv console(출처: www.ikea.com)"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 9,
+            "displayed_link": "https://www.ashleyfurniture.com › t...",
+            "date": "Products 1 - 36 of 629",
+            "title": "TV Stands - Ashley Furniture",
+            "url": "https://www.ashleyfurniture.com/c/furniture/living-room/tv-stands/",
+            "snippet": "Products 1 - 36 of 629 — Includes TV stand, 2 pier cabinets and bridge; Made of pine wood, pine veneer and engineered wood; Two-tone distressed finish: ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.ashleyfurniture.com/c/furniture/living-room/tv-stands/",
+                "desc": "tv console(출처: www.ashleyfurniture.com)"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 10,
+            "displayed_link": "https://www.walmart.com › home",
+            "title": "TV Stands - Walmart.com",
+            "url": "https://www.walmart.com/browse/home/tv-stands/4044_103150_635499_133114",
+            "snippet": "Black Modern TV Stand, TV Console Cabinet Table, Led Light Entertainment Center with 4 Light Modes,High Gloss TV Stand for TV Up to 55 inches."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 11,
+            "displayed_link": "https://www.westelm.com › furniture",
+            "title": "Modern Media Consoles, Cabinets & Storage | West Elm",
+            "url": "https://www.westelm.com/shop/furniture/consoles-media-storage-cabinets/",
+            "snippet": "Enjoy the ample storage offered by west elm's media storage cabinets. These cabinets can display your TV and offer storage with cabinets and drawers."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 12,
+            "displayed_link": "https://m.kirklands.com › Furniture",
+            "title": "TV Stands | Media Consoles | Kirklands Home",
+            "url": "https://m.kirklands.com/thumbnail/Furniture/Living-Room-Furniture/TV-Stands-Media-Consoles/pc/2285/c/3058/2606.uts",
+            "snippet": "Shop stylish media furniture from Kirkland's Home! From TV stands to media consoles, our selection of home entertainment furniture will meet any need.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.kirklands.com/thumbnail/Furniture/Living-Room-Furniture/TV-Stands-Media-Consoles/pc/2285/c/3058/2606.uts",
+                "desc": "tv console(출처: m.kirklands.com)"
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 13,
+            "displayed_link": "https://www.arhaus.com › collections",
+            "title": "Media Consoles - Arhaus",
+            "url": "https://www.arhaus.com/collections/media-consoles",
+            "snippet": "Arhaus carries a wide array of TV & media consoles to fit every design style. Check out our collection of stylish media consoles today!",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.arhaus.com/collections/media-consoles",
+                "desc": "tv console(출처: www.arhaus.com)"
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 14,
+            "displayed_link": "https://www.macys.com › furniture",
+            "date": "2023. 1. 31.",
+            "title": "TV Consoles & Stands - Macy's",
+            "url": "https://www.macys.com/shop/furniture/tv-stands?id=35424",
+            "snippet": "2023. 1. 31. — Buy TV Consoles at Macys.com! Browse our great prices & discounts on the best entertainment centers. Free Delivery & Warranty Available.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.macys.com/shop/furniture/tv-stands?id=35424",
+                "desc": "tv console(출처: www.macys.com)"
+            }
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 15,
+            "displayed_link": "https://www.samsclub.com › tv-con...",
+            "title": "TV Stands & Media Consoles - Sam's Club",
+            "url": "https://www.samsclub.com/b/tv-consoles/1180101",
+            "snippet": "Entertainment Consoles Buying Info. A traditional TV console will house your television and associated needs such as DVDs. Depending on the space provided, you ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.samsclub.com/b/tv-consoles/1180101",
+                "desc": "tv console(출처: www.samsclub.com)"
+            }
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 16,
+            "displayed_link": "https://www.costco.ca › television-st...",
+            "title": "Television Stands & Consoles - Costco Wholesale",
+            "url": "https://www.costco.ca/television-stands-consoles.html",
+            "snippet": "Find a great collection of Television Stands & Consoles at Costco. Enjoy low warehouse prices on name-brand Television Stands & Consoles products.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.costco.ca/television-stands-consoles.html",
+                "desc": "tv console(출처: www.costco.ca)"
+            }
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 17,
+            "displayed_link": "https://megafurniture.sg › collections",
+            "title": "Buy Tv Console in Singapore at Best Price - Megafurniture",
+            "url": "https://megafurniture.sg/collections/tv-console",
+            "snippet": "A TV console, or a TV stand, is an integral part of the home entertainment system as it supports the television unit and acts as an additional storage space for ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://megafurniture.sg/collections/tv-console",
+                "desc": "tv console(출처: megafurniture.sg)"
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 18,
+            "displayed_link": "https://www.bestbuy.com › tv-stands",
+            "date": "Items 1 - 18 of 611",
+            "title": "TV Stands: Entertainment Centers & TV Tables - Best Buy",
+            "url": "https://www.bestbuy.com/site/tv-stands-mounts-furniture/tv-stands/abcat0106001.c?id=abcat0106001",
+            "snippet": "Items 1 - 18 of 611 — Shop for TV stands at Best Buy to select the best TV table, TV console, or entertainment center to fit your space and needs."
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 19,
+            "displayed_link": "https://urbanmood.sg › collections",
+            "title": "TV Consoles - Urban Mood",
+            "url": "https://urbanmood.sg/collections/tv-consoles",
+            "snippet": "Modern, rustic, industrial, Japandi, wabi-sabi TV consoles and stands."
+        },
+        {
+            "sequence": 23,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "Furniture"
+                },
+                {
+                    "query": "Crate and Barrel"
+                },
+                {
+                    "query": "West Elm"
+                },
+                {
+                    "query": "Pottery Barn"
+                },
+                {
+                    "query": "Furniture usa"
+                }
+            ]
+        }
+    ]
+}
