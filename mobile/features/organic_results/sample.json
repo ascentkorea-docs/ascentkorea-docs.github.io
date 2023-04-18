@@ -1,367 +1,596 @@
 {
-    "html_contents_type": "google_serp",
     "search_parameters": {
         "engine": "google",
-        "id": "d34e67b7-516b-4b7d-ba13-58bb403847dd",
+        "id": "21c5bd76-7f40-4d3b-b170-7287f72f55fd",
         "sub_id": 0,
-        "requested_time": "2022-12-11T23:30:53.627Z",
-        "q": "동물 농장 눈 몬스터 의 침입",
+        "requested_time": "2023-04-18T06:40:46.297Z",
+        "q": "카카오",
         "location": "South Korea",
         "gl": "kr",
         "hl": "ko",
-        "num": 20,
-        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%8F%99%EB%AC%BC+%EB%86%8D%EC%9E%A5+%EB%88%88+%EB%AA%AC%EC%8A%A4%ED%84%B0+%EC%9D%98+%EC%B9%A8%EC%9E%85&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
-        "html_url": "http://node0012.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120830/223026195117-D34E67B7516B4B7DBA1358BB403847DD-00.html",
-        "json_url": "http://node0012.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221212/2212120830/223026195117-D34E67B7516B4B7DBA1358BB403847DD-00.json",
-        "crawl_start_time": "2022-12-11T23:30:53.788Z",
-        "crawl_end_time": "2022-12-11T23:30:58.646Z",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%B9%B4%EC%B9%B4%EC%98%A4&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230418/2304181540/119207076130-21C5BD767F404D3BB1707287F72F55FD-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230418/2304181540/119207076130-21C5BD767F404D3BB1707287F72F55FD-00.json",
+        "crawl_start_time": "2023-04-18T06:40:46.335Z",
+        "crawl_end_time": "2023-04-18T06:40:53.726Z",
         "device": "mobile",
-        "usage_id": "intent",
+        "usage_id": "any",
         "sub_name": "default",
         "sub_q": "default",
-        "meta": {
-            "seed_keyword": "동물농장",
-            "domain": "wp",
-            "purpose": "download_serp"
-        }
+        "crawl_elapsed_time": 7.39
     },
     "information": {
-        "version": "2.2.26.master",
-        "displayed_query": "동물 농장 눈 몬스터 의 침입",
-        "parsed_time": "2022-12-11T23:32:39.606Z"
+        "version": "3.1.13.master",
+        "displayed_query": "카카오",
+        "parsed_time": "2023-04-18T06:40:54.196Z"
     },
     "features": [
         {
             "sequence": 1,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
             "position": 1,
-            "displayed_link": "https://vidkidz.tistory.com › ...",
-            "title": "눈몬스터의 침입 - 쥬니버 동물농장 - 플래시게임 | 와플래시 아카이브",
-            "url": "https://vidkidz.tistory.com/445",
-            "snippet": "쥬니어네이버 동물농장 논몬스터의 침입 플래시게임입니다 조작방법 마우스 제작자 정보 제작자 쥬니어네이버 출처 인터넷아카이브.",
+            "displayed_link": "https://www.kakaocorp.com",
+            "title": "카카오",
+            "url": "https://www.kakaocorp.com/",
+            "snippet": "KaKao. 메인메뉴. 카카오 · 카카오 문화 · 공동체 · 히스토리 · 뉴스 · 기술과 서비스 · 기술 · 서비스 · 약속과 책임 · ESG · 카카오의 ...",
             "thumbnail": {
                 "type": "image",
-                "url": "https://vidkidz.tistory.com/445",
-                "desc": "동물 농장 눈 몬스터 의 침입(출처: vidkidz.tistory.com)"
-            }
-        },
-        {
-            "sequence": 2,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 2,
-            "displayed_link": "https://flashgamemall.tistory.com › ...",
-            "date": "2021. 2. 24.",
-            "title": "눈몬스터의 침입 (뭉게뭉게 왕국을 지켜라) - 플래시게임몰",
-            "url": "https://flashgamemall.tistory.com/710",
-            "snippet": "2021. 2. 24. — 눈몬스터의 침입 조작키 - 마우스 게임방법 : 마우스를 이용하여 캐릭터를 선택하고 클릭을 한 상태로 ... 동물농장 > 초급' 카테고리의 다른 글 ...",
-            "thumbnail": {
-                "type": "image",
-                "url": "https://flashgamemall.tistory.com/710",
-                "desc": "동물 농장 눈 몬스터 의 침입(출처: flashgamemall.tistory.com)"
-            }
-        },
-        {
-            "sequence": 3,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 3,
-            "displayed_link": "https://jmtgame.com › bbs › board",
-            "date": "2012. 4. 21.",
-            "title": "눈 몬스터의 침입 (고급) > 쥬니어네이버 - 존맛탱게임",
-            "url": "https://jmtgame.com/bbs/board.php?bo_table=NaverGame&wr_id=152",
-            "snippet": "2012. 4. 21. — GAME SUBJECT눈 몬스터의 침입 (고급) KEY FEATURES마우스 INSTRUCTION귀여운 몽키 그러니까 원숭이가 나오는 게임인데요, 마우스를 잘 활용을 하셔서 ..."
-        },
-        {
-            "sequence": 4,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 4,
-            "displayed_link": "https://flasharch.com › archive › play",
-            "title": "동물농장 - 눈 몬스터의 침입 - 플래시게임 아카이브",
-            "url": "https://flasharch.com/archive/play/0f20178555f4820bec2ca3bb048bacb7",
-            "snippet": "동물농장 - 눈 몬스터의 침입 Animal Farm - Invasion of Snow Monsters 플래시게임 사이트 플래시애니, 자작게임, 어도비 플래시 플레이어 없이도 어디서나 SWF ...",
-            "thumbnail": {
-                "type": "image",
-                "url": "https://flasharch.com/archive/play/0f20178555f4820bec2ca3bb048bacb7",
-                "desc": "동물 농장 눈 몬스터 의 침입(출처: flasharch.com)"
-            }
-        },
-        {
-            "sequence": 5,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 5,
-            "displayed_link": "https://gamegogo.co.kr › bbs › board",
-            "date": "2021. 3. 21.",
-            "title": "눈 몬스터의 침입 (고급) > 추억_쥬니어네이버게임 모음 | 게임고고 [플래시게임 아카이브]",
-            "url": "https://gamegogo.co.kr/bbs/board.php?bo_table=game_navergame&wr_id=64",
-            "snippet": "2021. 3. 21. — 크라라 공주와 이상한 방 (고급) - 쥬니버 동물농장 … 작성자 최고관리자 작성일 03-21 조회 7258.",
-            "thumbnail": {
-                "type": "video",
-                "url": "https://gamegogo.co.kr/bbs/board.php?bo_table=game_navergame&wr_id=64",
-                "desc": "동물 농장 눈 몬스터 의 침입 동영상"
-            }
-        },
-        {
-            "sequence": 6,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 6,
-            "displayed_link": "https://flashgameheaven.com › ...",
-            "title": "동물농장 눈 몬스터의 침입 (고급) 플래시게임",
-            "url": "https://flashgameheaven.com/406",
-            "snippet": "동물농장 눈 몬스터의 침입 (고급) 플래시게임입니다. 눈 몬스터의 침입 (고급) 조작법마우스 게임 방법마우스로 원하는 캐릭터를 선택하여클릭을 한 상태로 드래그 ...",
-            "thumbnail": {
-                "type": "image",
-                "url": "https://flashgameheaven.com/406",
-                "desc": "동물 농장 눈 몬스터 의 침입(출처: flashgameheaven.com)"
-            }
-        },
-        {
-            "sequence": 7,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 7,
-            "displayed_link": "https://flashgameheaven.com › ...",
-            "title": "동물농장 눈 몬스터의 침입 (초급) 플래시게임",
-            "url": "https://flashgameheaven.com/408",
-            "snippet": "동물농장 눈 몬스터의 침입 (초급) 뭉게뭉게 왕국을 지켜라눈 몬스터가 뭉게뭉게 왕국에 쳐들어와서 눈싸움을 벌여서 막는 게임입니다. 눈 몬스터의 침입 (초급) ..."
-        },
-        {
-            "sequence": 8,
-            "type": "people_also_search_for",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
-            "searches": [
+                "url": "https://www.kakaocorp.com/",
+                "desc": "카카오(출처: www.kakaocorp.com)"
+            },
+            "refinements": [
                 {
-                    "query": "동물 농장 눈 굴리기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__27 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "카카오톡"
                 },
                 {
-                    "query": "동물농장 물건 찾기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__28 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "카카오 문화"
                 },
                 {
-                    "query": "쟈스민의 김밥만들기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__29 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "뉴스"
                 },
                 {
-                    "query": "동물 농장 빵공장",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__31 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "공동체"
                 },
                 {
-                    "query": "크라 라 의 집 찾기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__32 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "카카오 소식 모아보기"
                 },
                 {
-                    "query": "동물 농장 택시 드라이버",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__33 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "text": "히스토리"
+                },
+                {
+                    "text": "Contact Us"
                 }
             ]
         },
         {
-            "sequence": 9,
+            "sequence": 2,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 8,
-            "displayed_link": "https://flashgamesite.tistory.com › ...",
-            "title": "동물농장게임 눈몬스터의 침입 눈싸움 게임하기 - 플래시게임천국",
-            "url": "https://flashgamesite.tistory.com/385",
-            "snippet": "눈몬스터의 침입 뭉게뭉게 왕국을 지켜라 뭉게뭉게 왕국에 다가온 강추위는 바로 눈 몬스터들 때문이라고하네요 뭉게뭉게 왕국 성벽 을 모두 허물기 전에 침범하는 눈 ..."
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › 카카오(기업)",
+            "date": "3일 전",
+            "title": "카카오(기업) - 나무위키",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4(%EA%B8%B0%EC%97%85)",
+            "snippet": "3일 전 — 카카오는 다양한 모바일 및 인터넷 서비스를 제공하는 IT 기업이다. 2022년 기준 재계서열 15위다.2022년 공정거래위원회 발표. 2021년 6월 이후 국내 ...",
+            "refinements": [
+                {
+                    "text": "비판 및 논란"
+                },
+                {
+                    "text": "남궁훈"
+                },
+                {
+                    "text": "카카오게임즈"
+                },
+                {
+                    "text": "서울아레나"
+                },
+                {
+                    "text": "카카오모빌리티"
+                },
+                {
+                    "text": "카카오엔터프라이즈"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "금융·투자",
+                    "value": "카카오뱅크 | 카카오페이 | 카카오인베스트먼트 | 카카오벤처스"
+                },
+                {
+                    "key": "헬스케어",
+                    "value": "카카오헬스케어"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://namu.wiki › 카카오",
+            "date": "2023. 4. 5.",
+            "title": "카카오 - 나무위키",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4",
+            "snippet": "2023. 4. 5. — 초콜릿의 원재료로 유명한 식물과 그 열매. 쌍떡잎식물 아욱목 아욱과의 교목이다. 속명 테오브로마는 그리스어 θεός(신)과 βρῶμα(음식)의 합성어다. 단어 ..."
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "searches": [
+                {
+                    "query": "카카오 홈페이지"
+                },
+                {
+                    "query": "카카오 주식"
+                },
+                {
+                    "query": "카카오 로그인"
+                },
+                {
+                    "query": "카카오계정"
+                },
+                {
+                    "query": "카카오톡 pc"
+                },
+                {
+                    "query": "카카오톡 pc 로그인"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "google_play",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd > a#_bzs-ZPvdI9PbkPIPzJ6A2A4_38.XfM3uf",
+            "url": "https://play.google.com/store/apps/details?id=com.kakao.talk&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%EC%B9%B4%EC%B9%B4%EC%98%A4&pcampaignid=APPU_1_bzs-ZPvdI9PbkPIPzJ6A2A4",
+            "title": "카카오톡 KakaoTalk",
+            "snippet": "카카오톡은 전세계 어디서나 안드로이드폰과 아이폰 사용자간 메시지를 주고 받을 수 있는 메신저 서비스입니다. 가입과 로그인 없이 전화번호만 있으면 실시간 그룹 ...",
+            "rating": {
+                "rating_count": "(317만)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "attrids": [
+                {
+                    "attrid": "description",
+                    "values": [
+                        "주식회사 카카오는 대한민국의 IT 기업이다. 국내 1위 모바일 메신저인 카카오톡을 비롯하여, 다음, 카카오 T, 멜론 등 다양한 모바일 서비스를 제공하고 있다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/issuer:stock quote",
+                    "values": [
+                        "주가",
+                        ":",
+                        "035720",
+                        "(KRX)",
+                        "₩59,000",
+                        "-1,100.00 (-1.83%)",
+                        "4월 18일 오후 2:36 GMT+9 - ",
+                        "면책조항"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:customer service phone",
+                    "values": [
+                        "고객 서비스",
+                        ":",
+                        "1577-3754"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/organizations:subsidiaries",
+                    "values": [
+                        "자회사",
+                        ":",
+                        "카카오게임즈",
+                        ", ",
+                        "카카오엔터테인먼트",
+                        ", ",
+                        "스타쉽 엔터테인먼트",
+                        ", ",
+                        "카카오프렌즈 주식회사",
+                        ",",
+                        "더보기"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:headquarters",
+                    "values": [
+                        "본사",
+                        ":",
+                        "제주시"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:founder",
+                    "values": [
+                        "창립자",
+                        ":",
+                        "김범수"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:founded",
+                    "values": [
+                        "창립",
+                        ":",
+                        "2010년 3월"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:emergency phone",
+                    "values": [
+                        "긴급 지원",
+                        ":",
+                        "1577-3357"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:ceo",
+                    "values": [
+                        "CEO",
+                        ":",
+                        "홍은택",
+                        " (2022년 7월 14일–)"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "주식회사 카카오는 대한민국의 IT 기업이다. 국내 1위 모바일 메신저인 카카오톡을 비롯하여, 다음, 카카오 T, 멜론 등 다양한 모바일 서비스를 제공하고 있다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/issuer:stock quote",
+                    "values": [
+                        "주가",
+                        ":",
+                        "035720",
+                        "(KRX)",
+                        "₩59,000",
+                        "-1,100.00 (-1.83%)",
+                        "4월 18일 오후 2:36 GMT+9 - ",
+                        "면책조항"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:customer service phone",
+                    "values": [
+                        "고객 서비스",
+                        ":",
+                        "1577-3754"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/organizations:subsidiaries",
+                    "values": [
+                        "자회사",
+                        ":",
+                        "카카오게임즈",
+                        ", ",
+                        "카카오엔터테인먼트",
+                        ", ",
+                        "스타쉽 엔터테인먼트",
+                        ", ",
+                        "카카오프렌즈 주식회사",
+                        ",",
+                        "더보기"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:headquarters",
+                    "values": [
+                        "본사",
+                        ":",
+                        "제주시"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:founder",
+                    "values": [
+                        "창립자",
+                        ":",
+                        "김범수"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:founded",
+                    "values": [
+                        "창립",
+                        ":",
+                        "2010년 3월"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:emergency phone",
+                    "values": [
+                        "긴급 지원",
+                        ":",
+                        "1577-3357"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:ceo",
+                    "values": [
+                        "CEO",
+                        ":",
+                        "홍은택",
+                        " (2022년 7월 14일–)"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "주식회사 카카오는 대한민국의 IT 기업이다. 국내 1위 모바일 메신저인 카카오톡을 비롯하여, 다음, 카카오 T, 멜론 등 다양한 모바일 서비스를 제공하고 있다.  ",
+                    "properties": [
+                        {
+                            "attrid": "kc:/business/issuer:stock quote",
+                            "key": "주가",
+                            "value": "035720 (KRX) ₩59,000 -1,100.00 (-1.83%)4월 18일 오후 2:36 GMT+9 - 면책조항"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:customer service phone",
+                            "key": "고객 서비스",
+                            "value": "1577-3754"
+                        },
+                        {
+                            "attrid": "hw:/collection/organizations:subsidiaries",
+                            "key": "자회사",
+                            "value": "카카오게임즈, 카카오엔터테인먼트, 스타쉽 엔터테인먼트, 카카오프렌즈 주식회사, 더보기"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:headquarters",
+                            "key": "본사",
+                            "value": "제주시"
+                        },
+                        {
+                            "attrid": "kc:/business/business_operation:founder",
+                            "key": "창립자",
+                            "value": "김범수"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:founded",
+                            "key": "창립",
+                            "value": "2010년 3월"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:emergency phone",
+                            "key": "긴급 지원",
+                            "value": "1577-3357"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:ceo",
+                            "key": "CEO",
+                            "value": "홍은택 (2022년 7월 14일–)"
+                        },
+                        {
+                            "attrid": "kc:/business/issuer:stock quote",
+                            "key": "주가",
+                            "value": "035720 (KRX) ₩59,000 -1,100.00 (-1.83%)4월 18일 오후 2:36 GMT+9 - 면책조항"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:customer service phone",
+                            "key": "고객 서비스",
+                            "value": "1577-3754"
+                        },
+                        {
+                            "attrid": "hw:/collection/organizations:subsidiaries",
+                            "key": "자회사",
+                            "value": "카카오게임즈, 카카오엔터테인먼트, 스타쉽 엔터테인먼트, 카카오프렌즈 주식회사, 더보기"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:headquarters",
+                            "key": "본사",
+                            "value": "제주시"
+                        },
+                        {
+                            "attrid": "kc:/business/business_operation:founder",
+                            "key": "창립자",
+                            "value": "김범수"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:founded",
+                            "key": "창립",
+                            "value": "2010년 3월"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:emergency phone",
+                            "key": "긴급 지원",
+                            "value": "1577-3357"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:ceo",
+                            "key": "CEO",
+                            "value": "홍은택 (2022년 7월 14일–)"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "description",
+                "kc:/business/issuer:stock quote",
+                "kc:/organization/organization:customer service phone",
+                "hw:/collection/organizations:subsidiaries",
+                "kc:/organization/organization:headquarters",
+                "kc:/business/business_operation:founder",
+                "kc:/organization/organization:founded",
+                "kc:/organization/organization:emergency phone",
+                "kc:/organization/organization:ceo",
+                "description",
+                "kc:/business/issuer:stock quote",
+                "kc:/organization/organization:customer service phone",
+                "hw:/collection/organizations:subsidiaries",
+                "kc:/organization/organization:headquarters",
+                "kc:/business/business_operation:founder",
+                "kc:/organization/organization:founded",
+                "kc:/organization/organization:emergency phone",
+                "kc:/organization/organization:ceo"
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "twitter",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(2) > div:nth-child(1) > g-card.g.F6CFcc",
+            "carousels": [
+                {
+                    "displayed_link": "Twitter › KBSnews",
+                    "channel_name": "KBS 뉴스",
+                    "url": "https://twitter.com/KBSnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                },
+                {
+                    "displayed_link": "Twitter › KBSnews",
+                    "channel_name": "KBS 뉴스",
+                    "url": "https://twitter.com/KBSnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                },
+                {
+                    "displayed_link": "Twitter › KBSnews",
+                    "channel_name": "KBS 뉴스",
+                    "url": "https://twitter.com/KBSnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                },
+                {
+                    "displayed_link": "Twitter › KBSnews",
+                    "channel_name": "KBS 뉴스",
+                    "url": "https://twitter.com/KBSnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                },
+                {
+                    "displayed_link": "Twitter › overaction_DK",
+                    "channel_name": "すこぶる動くウサギ【公式】",
+                    "url": "https://twitter.com/overaction_DK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                },
+                {
+                    "displayed_link": "Twitter › KBSnews",
+                    "channel_name": "KBS 뉴스",
+                    "url": "https://twitter.com/KBSnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://cs.kakao.com",
+            "title": "카카오 고객센터 - Kakao",
+            "url": "https://cs.kakao.com/",
+            "snippet": "카카오 고객센터를 통해 각 서비스 도움말을 확인해보세요."
+        },
+        {
+            "sequence": 9,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).cUnQKe.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "카카오 어떤 회사인가?",
+                    "displayed_link": "https://m.catch.co.kr › Comp › Com...",
+                    "url": "https://m.catch.co.kr/Comp/CompSummary/041800",
+                    "title": "카카오 기업정보 - 연봉 17200만원 - 캐치",
+                    "snippet": "카카오는 어떤 기업일까? 1995년에 설립된 카카오는 국내 1위 메신저인 카카오톡을 포함한 다양한 모바일 서비스를 제공 중이며, 커머스, 모빌리티, 페이, 게임, 뮤직, 콘텐츠 등 다양한 영역에서 사업을 영위하고 있는 온라인 플랫폼 기업이다."
+                },
+                {
+                    "question": "카카오톡 계정 몇개까지?",
+                    "displayed_link": "https://cs.kakao.com › helps_html",
+                    "url": "https://cs.kakao.com/helps_html/1073195157?locale=ko",
+                    "title": "본인확인 개수 제한에 걸렸어요. 어떻게 해결하나요? - 카카오 ...",
+                    "snippet": "어떻게 해결하나요? 카카오계정은 한 사람의 명의로 최대 3개의 카카오계정에서 본인확인을 할 수 있습니다. 현재 로그인한 계정으로 서비스를 이용하기 원한다면, 동일한 정보를 가진 계정을 탈퇴하셔야 합니다."
+                },
+                {
+                    "question": "사용중인카카오계정이있나요?",
+                    "displayed_link": "https://cs.kakao.com › helps_html",
+                    "url": "https://cs.kakao.com/helps_html/1073183851?locale=ko",
+                    "title": "카카오계정이 기억나지 않아요. - kakao 고객센터",
+                    "snippet": "프로필 이름 대신 검색용으로 설정한 카카오톡 아이디나 카카오스토리 아이디를 입력해도 카카오계정을 찾을 수 있습니다. 카카오에서 본인인증정보를 등록한 적이 있다면 휴대폰 본인인증을 통해 카카오계정을 찾을 수 있습니다. 휴대폰인증으로 계정찾기를 통해 카카오계정 전체를 확인하실 수 있습니다."
+                },
+                {
+                    "question": "카카오톡 어떻게 설치 하나요?",
+                    "displayed_link": "https://m.youtube.com › watch",
+                    "url": "https://m.youtube.com/watch?v=8t1iHL4OGDw",
+                    "title": "카카오톡 설치 재설치 하기 install - kakaotalk - YouTube"
+                }
+            ]
         },
         {
             "sequence": 10,
             "type": "organic_results",
             "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 9,
-            "displayed_link": "https://gamegg.tistory.com › ...",
-            "date": "2019. 12. 14.",
-            "title": "동물농장게임 눈몬스터의침입 눈싸움 플래시게임하기",
-            "url": "https://gamegg.tistory.com/148",
-            "snippet": "2019. 12. 14. — 동물농장게임 눈몬스터의침입. 스토리. 눈싸움 잘 하시나요? 이번 게임은 동물농장게임으로 뭉게뭉게 왕국에. 몬스터들때문에 강추위가 왔다고 하네요.",
+            "position": 5,
+            "displayed_link": "https://m.youtube.com › channel",
+            "title": "카카오 - YouTube",
+            "url": "https://m.youtube.com/channel/UCBjvBJgIp3NGkrTBEfWBUVw",
+            "snippet": "일상에 스며든 카카오의 다양한 이야기를 전합니다. 카카오 공식 유튜브 채널.",
             "thumbnail": {
                 "type": "image",
-                "url": "https://gamegg.tistory.com/148",
-                "desc": "동물 농장 눈 몬스터 의 침입(출처: gamegg.tistory.com)"
+                "url": "https://m.youtube.com/channel/UCBjvBJgIp3NGkrTBEfWBUVw",
+                "desc": "카카오(출처: m.youtube.com)"
             }
         },
         {
             "sequence": 11,
             "type": "organic_results",
             "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 10,
-            "displayed_link": "https://inter87.tistory.com › category",
-            "date": "2022. 8. 14.",
-            "title": "'동물농장' 카테고리의 글 목록",
-            "url": "https://inter87.tistory.com/category/%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5",
-            "snippet": "2022. 8. 14. — 눈 몬스터 잡기 쥬니어네이버 동물농장 게임하기 ○ 쥬니어네이버 동물농장 눈 몬스터 잡기 게임소개 눈 몬스터 잡기는 키보드 위, 아래 방향키를 ..."
+            "position": 6,
+            "displayed_link": "https://store.kakaofriends.com",
+            "title": "카카오 프렌즈샵",
+            "url": "https://store.kakaofriends.com/",
+            "snippet": "내 손 안에서 프렌즈의 이야기, 재밌는 이벤트, 새로운 쇼핑! 3만원 이상 구매 시 배송비 무료!"
         },
         {
             "sequence": 12,
             "type": "organic_results",
             "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 11,
-            "displayed_link": "https://namu.wiki › 동물농장(게임)",
-            "date": "2022. 9. 11.",
-            "title": "동물농장(게임)/포인트 게임 - 나무위키:대문",
-            "url": "https://namu.wiki/w/%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5(%EA%B2%8C%EC%9E%84)/%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EA%B2%8C%EC%9E%84",
-            "snippet": "2022. 9. 11. — 눈 몬스터의 침입(초급/중급/고급): 눈 몬스터가 동물농장에 또 쳐둘어와서 눈싸움을 벌인다. 3마리의 동물 친구가 나오며, 2번 맞으면 끝나고 눈 ..."
+            "position": 7,
+            "displayed_link": "https://kakaoent.com",
+            "title": "카카오엔터테인먼트: 홈",
+            "url": "https://kakaoent.com/",
+            "snippet": "카카오의 엔터테인먼트 비지니스 기업, Kakao Entertainment Corp."
         },
         {
             "sequence": 13,
-            "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://flasharch.com/archive/play/0f20178555f4820bec2ca3bb048bacb7"
-                },
-                {
-                    "landing_url": "https://flashgameheaven.com/m/391"
-                },
-                {
-                    "landing_url": "https://flasharch.com/archive?q=%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5&sT=3&o=2"
-                },
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                }
-            ]
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://m.kakaobank.com",
+            "title": "카카오뱅크",
+            "url": "https://m.kakaobank.com/",
+            "snippet": "카카오뱅크 이용안내, 상담하기, 소비자보호, 증명서발급, 회사소개, 인재채용, (주)카카오뱅크."
         },
         {
             "sequence": 14,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 12,
-            "displayed_link": "https://flashgameheaven.tistory.com › ...",
-            "title": "티스토리 - 플래시게임천국",
-            "url": "https://flashgameheaven.tistory.com/m",
-            "snippet": "동물농장 눈 몬스터의 침입 (고급) 플래시게임동물농장 눈 몬스터의 침입 (고급) 플래시게임입니다. 눈 몬스터의 침입 (고급) 조작법마우스 게임 방법마우스로 원하는 ..."
-        },
-        {
-            "sequence": 15,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 13,
-            "displayed_link": "https://footballog.net › bbs › board",
-            "title": "눈 몬스터 잡기 - 쥬니버 동물농장 게임",
-            "url": "https://footballog.net/bbs/board.php?bo_table=memory_Junanimal&wr_id=10",
-            "snippet": "Game Review '눈 몬스터 잡기 - 쥬니버 동물농장 게임Review' Game Control 방향키, 스페이스바 Game Story 여러분들은 길 위에서 마구 움직이며 다니고 있는 몬스터 ..."
-        },
-        {
-            "sequence": 16,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 14,
-            "displayed_link": "https://archive.ph › WzQAb",
-            "date": "2016. 3. 30.",
-            "title": "쥬니어네이버 - 동물농장 - Archive.today",
-            "url": "https://archive.ph/WzQAb",
-            "snippet": "2016. 3. 30. — 동물농장 > 포인트 얻기 > 게임 > 크라라와 이상한방 ... 꽃바구니 만들기; 신 나는 놀이동산 바이킹; 눈 몬스터의 침입; 초보마녀의 마법실습."
-        },
-        {
-            "sequence": 17,
-            "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                },
-                {
-                    "landing_url": "https://flashgameheaven.com/406"
-                },
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                },
-                {
-                    "landing_url": "https://gamegg.tistory.com/148"
-                }
-            ]
-        },
-        {
-            "sequence": 18,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
-            "position": 15,
-            "displayed_link": "https://m.youtube.com › watch",
-            "title": "돼범이, 무단 주거 침입은 끝! 드디어 생긴 가족 I TV동물농장 (Animal Farm) | SBS Story",
-            "url": "https://m.youtube.com/watch?v=9KADe6aVJsU",
-            "thumbnail": {
-                "type": "direct_video",
-                "url": "#fpstate=ive&vld=cid:63c1842e,vid:9KADe6aVJsU",
-                "date": "2021. 5. 30."
-            }
-        },
-        {
-            "sequence": 19,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 16,
-            "displayed_link": "https://saimaalokaali.fi › ...",
-            "title": "농장 플래시 게임",
-            "url": "https://saimaalokaali.fi/471476.html",
-            "snippet": "Y8에서 닭을 비롯한 다양한 동물을 전문가처럼 번식시켜 당신의 농장을 번영시키 ... 눈사람 몬스터가 눈을 던지기 시작하네요 플래시게임몰 :: 플래시게임몰 키즈짱24 ...",
-            "rating": {
-                "rating_count": "(1,394)",
-                "rating_value": "5.0"
-            }
-        },
-        {
-            "sequence": 20,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 17,
-            "displayed_link": "https://www.yeongam.go.kr › movie",
-            "title": "영화상영 < 열린마당 < 영암군",
-            "url": "https://www.yeongam.go.kr/home/library/openinfo/movie/yeongam.go?page=5&keyword=",
-            "snippet": "숀더쉽 동물농장대소동(2019.03.23.토요일.14:00삼호도서관) 양 숀의 재미있는 농장 이야기. 새 봄에는 아카데미 미술상에 빛나는 월래스 앤 그로밋을 탄생시킨 어린 ..."
-        },
-        {
-            "sequence": 21,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 18,
-            "displayed_link": "https://v.daum.net › ...",
-            "date": "2022. 11. 19.",
-            "title": "한밤에 4만마리 '우르르' … 美 농장서 사라진 동물은 - Daum",
-            "url": "https://v.daum.net/v/20221119223020466",
-            "snippet": "2022. 11. 19. — 농장 측은 한 동물보호단체가 농장에 무단 침입해 우리 문을 열고 밍크 ... 탈출한 밍크의 먹잇감이 된 특정 동물의 개체 수가 감소하면서 지역 생태 ..."
-        },
-        {
-            "sequence": 22,
             "type": "related_searches",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "results": [
                 {
-                    "query": "동물농장 과일깎기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#LWiWY_LuN-mKr7wP7bOHsAY__34 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오톡 다운로드"
                 },
                 {
-                    "query": "동물구출 대작전 공략",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__35 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오 이모티콘"
                 },
                 {
-                    "query": "동물농장 돌고래",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__36 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오톡 pc 설치"
                 },
                 {
-                    "query": "동물농장 클라라",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__37 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오톡 고객센터"
                 },
                 {
-                    "query": "아슬 아슬 수레 밀기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__38 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오 채용"
                 },
                 {
-                    "query": "동물 농장 족제비 줄넘기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__39 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오맵"
                 },
                 {
-                    "query": "라즈 벨 의 마법 실습",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__40 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오팀"
                 },
                 {
-                    "query": "크라 라 공주와 이상한 방",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__41 > div:nth-child(1) > a.iOJVmb"
+                    "query": "카카오비즈니스"
                 }
             ]
         }
