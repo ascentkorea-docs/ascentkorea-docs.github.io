@@ -1,0 +1,320 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "41487016-d741-44e3-9751-0b797e66e9b4",
+        "sub_id": 0,
+        "requested_time": "2023-05-11T08:05:08.895Z",
+        "q": "지금 우리 연구소는 국수단 체크팀",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%A7%80%EA%B8%88+%EC%9A%B0%EB%A6%AC+%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94+%EA%B5%AD%EC%88%98%EB%8B%A8+%EC%B2%B4%ED%81%AC%ED%8C%80&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0044.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230511/2305111705/103011025059-41487016D74144E397510B797E66E9B4-00.html",
+        "json_url": "http://node0044.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230511/2305111705/103011025059-41487016D74144E397510B797E66E9B4-00.json",
+        "crawl_start_time": "2023-05-11T08:05:09.247Z",
+        "crawl_end_time": "2023-05-11T08:05:17.183Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "명품 서류가방",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 7.93
+    },
+    "information": {
+        "version": "5.0.4.master",
+        "displayed_query": "지금 우리 연구소는 국수단 체크팀",
+        "parsed_time": "2023-05-11T08:05:18.630Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "position": 1,
+            "title": "지금 우리 연구소는 - 네이버 웨일",
+            "url": "https://whale.naver.com/banner/webtoon/",
+            "snippet": "지금 우리 연구소는. 주동근. 효산시에서 극적으로 탈출한 온조와 남라는 연구원이 되어 좀비 바이러스의 비밀을 파헤치는데,. 과연 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://whale.naver.com/banner/webtoon/",
+                "desc": "지금 우리 연구소는 국수단 체크팀(출처: whale.naver.com)"
+            }
+        },
+        {
+            "sequence": 2,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "지금 우리 연구소는 정답"
+                },
+                {
+                    "query": "지금 우리 연구소는 퀴즈"
+                },
+                {
+                    "query": "지금 우리 연구소는 정답 디시"
+                },
+                {
+                    "query": "지금 우리 연구소는 웹툰 국 수단"
+                },
+                {
+                    "query": "지금 우리 연구소는 쿠키 정답"
+                },
+                {
+                    "query": "지금 우리 연구소는 5 화 정답"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "title": "[23.05.09][네이버 시리즈 쿠키] 아수라 게이트 1화에 등장하는 [수라단 단장 ...",
+            "url": "https://ilovehavinglotsofmoney.tistory.com/m/81",
+            "snippet": "웹테크, 앱테크, 짠테크, 온라인 폐지, 디지털 폐지, 사이버 폐지, 출석 체크, 현금화, 포인트, 아재 개그, 넌센스, 꿀잼, 재미, 드립, joke, 영어 표현, 미드 명언."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 3,
+            "date": "2022. 11. 15.",
+            "title": "네이버 웹툰 쿠키 - 지금 우리 연구소는 퀴즈 0000년 이후 지어진 연구소들은...",
+            "url": "https://jeongnue.tistory.com/m/711",
+            "snippet": "2022. 11. 15. — 문> 온조의 모바일에 '대천시 연구원 1명 PC 자동 접속'이라고 알림이 뜬 앱의 이름은 <국수단 OOO 체크팀> 입니다. 답> 바이탈 ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_shorts",
+            "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
+            "title": "지금 우리 연구소는 국수단 체크팀｜TikTok 검색",
+            "url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80",
+            "carousels": [
+                {
+                    "url": "https://www.tiktok.com/@memelabbb/video/7194634960664333570",
+                    "duration": "0:59"
+                },
+                {
+                    "url": "https://www.tiktok.com/@chueonny9277/video/7162104971066903810",
+                    "duration": "0:59"
+                },
+                {
+                    "url": "https://www.tiktok.com/@user5365493961790/video/7209107633402400002",
+                    "duration": "3:00"
+                },
+                {
+                    "url": "https://www.tiktok.com/@chueonny9277/video/7185872181820132610",
+                    "duration": "0:59"
+                },
+                {
+                    "url": "https://www.tiktok.com/@ginl_.6x2/video/7061143941692804354",
+                    "duration": "0:37"
+                },
+                {
+                    "url": "https://www.tiktok.com/@hi_p_hop_xd/video/7121602427748437249",
+                    "duration": "1:09"
+                },
+                {
+                    "url": "https://www.tiktok.com/@osnews84/video/7182584864464473346",
+                    "duration": "2:49"
+                }
+            ],
+            "snippet": "2022. 11. 4. — TikTok (틱톡) 에서 지금 우리 연구소는 국수단 체크팀 관련 동영상을 찾아보세요."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 5,
+            "title": "지금우리연구소 6화 - 네이버 웹툰 마이너 갤러리 - 디시인사이드",
+            "url": "https://m.dcinside.com/board/naverwebtoon/2165",
+            "snippet": "지금우리연구소 6화. ㅇㅇ(175.202); 2022.11.16 00:12. 조회수 12363; 추천 53; 댓글 21. 마우스. 추천검색. 개념글 추천하기. 53 고정닉 추천수0. 비추천하기."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 6,
+            "title": "네이버 웹툰 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
+            "url": "https://m.dcinside.com/board/naverwebtoon",
+            "snippet": "네이버 웹툰을 즐겨보는 독자들을 위한 곳입니다 - 네이버 웹툰 갤러리에 다양한 이야기를 남겨주세요."
+        },
+        {
+            "sequence": 8,
+            "type": "images",
+            "images": [
+                {
+                    "landing_url": "https://whale.naver.com/banner/webtoon/"
+                },
+                {
+                    "landing_url": "https://whale.naver.com/banner/webtoon/"
+                },
+                {
+                    "landing_url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80"
+                },
+                {
+                    "landing_url": "https://jeongnue.tistory.com/m/711"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 7,
+            "date": "2023. 2. 13.",
+            "title": "지금 우리 학교는/등장인물 - 나무위키",
+            "url": "https://namu.wiki/w/%EC%A7%80%EA%B8%88%20%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%EB%8A%94/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+            "snippet": "2023. 2. 13. — 1화에 숏컷 머리 연구원이 온조가 아니냐는 추측이 있다. 이후 2화에서 숏컷 연구원이 온조라는 게 밝혀졌다(!) 연구실 안으로 들어온 좀비를 피한 남라 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 8,
+            "date": "2일 전",
+            "title": "웹툰 쿠키 정답",
+            "url": "https://901355701.jigikeisari.fi/%EC%9B%B9%ED%88%B0-%EC%BF%A0%ED%82%A4-%EC%A0%95%EB%8B%B5.html",
+            "snippet": "2일 전 — 시리즈 쿠키 지금 우리 연구소는 8화 퀴즈 웹툰 '지금 우리 연구소는' 감상이 ... 접속'이라고 알림이 뜬 앱의 이름은 <국수단 OOO 체크팀> 입니다."
+        },
+        {
+            "sequence": 11,
+            "type": "images",
+            "images": [
+                {
+                    "landing_url": "https://whale.naver.com/banner/webtoon/"
+                },
+                {
+                    "landing_url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80"
+                },
+                {
+                    "landing_url": "https://ilovehavinglotsofmoney.tistory.com/81"
+                },
+                {
+                    "landing_url": "https://whale.naver.com/banner/webtoon/"
+                }
+            ]
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 9,
+            "date": "5일 전",
+            "title": "국수단 체크팀",
+            "url": "https://236360079.dopamina.edu.pl/%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80.html",
+            "snippet": "5일 전 — 디시인사이드입니다 11/23 시리즈 쿠키 지금 우리 연구소는 7화 퀴즈 정답 온조와 수혁은 웨일의 화상 회의 기능 000을 통해 예상치 못한 연락을 ...",
+            "rating": {
+                "rating_count": "(1,830)",
+                "rating_value": "4.0"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 10,
+            "title": "가. 『삼국사기』 백제 본기 온조왕 즉위 조 - 우리역사넷",
+            "url": "http://contents.history.go.kr/mobile/mid/ht_001_0040_0010_0010",
+            "snippet": "백제의 건국 시조에 관한 전승은 삼국의 건국 시조 전승 중에서도 독특한 양상을 띤다. 고구려와는 달리 다양한 계통의 시조 전승이 전해진다는 점에서는 3개 성(姓)의 ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 11,
+            "title": "[웹툰/만화] 지금 우리 연구소는 - 웹툰의 모든 것! 웹툰가이드",
+            "url": "https://www.webtoonguide.com/ko/db/content-2/%EC%A7%80%EA%B8%88%EC%9A%B0%EB%A6%AC%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94/843708",
+            "snippet": "[웹툰/만화] 지금 우리 연구소는 | 네이버 웨일 브라우저의 브랜드 웹툰입니다. 효산시에서 극적으로 탈출한 온조와 남라는 연구원이 되어 좀비 바이러스의 비밀을 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 12,
+            "date": "2007. 7. 24.",
+            "title": "외교부 “접촉 유지하며 효과적 수단 동원” - KBS 뉴스",
+            "url": "https://news.kbs.co.kr/mobile/news/view.do?ncd=1396489",
+            "snippet": "2007. 7. 24. — 앵커 멘트> 정부는 협상 급진전 소식을 접하고 모든 채널을 동원해 확인에 나섰습니다. 외교 통상부 연결..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 13,
+            "date": "2022. 1. 31.",
+            "title": "세월호·팬데믹·학교폭력... '지우학'이 기존 K좀비물과 다른 이유 - 한국일보",
+            "url": "https://m.hankookilbo.com/News/Read/A2022013005130002997",
+            "snippet": "2022. 1. 31. — 넷플릭스 '지금 우리 학교는' 28일 공개 후 전 세계 1위 - 까지서사이다 ... 드라마는 생존 학생들의 사투를 두 팀으로 나눠 진행시키고 강력한 악당 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 14,
+            "date": "2020. 5. 24.",
+            "title": "NEW IMPETUS - NAVER",
+            "url": "https://www.navercorp.com/navercorp_/ir/annualReport/2020/NAVER_2019AR_Design_TCG0524_KOR.pdf",
+            "snippet": "2020. 5. 24. — 기술을 더 쉽게 활용한다면 우리는 더욱 가치 있는 일에 도전할 수 있습니다. 따라서 네이버는 AI, 로봇, 자율주행 등과 같은 첨단기술을 누구나 쉽고 ...",
+            "file_format": "PDF"
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 15,
+            "title": "이웃사촌, 사는 이야기 - 성남시청",
+            "url": "https://www.seongnam.go.kr/contents/down/History/HistoryOfSeongnamCity_8.pdf",
+            "snippet": "우리는 고향의 어떤 장소를 통해 우리의 경험과 추억을 자식들에게 이야기로 전해줄 수 ... 지금 우리들의 눈에는 성남의 높은 아파트와 건물들만 눈에 들어오지만, ...",
+            "file_format": "PDF"
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 16,
+            "title": "근로기준법질의회시집 - 고용노동부",
+            "url": "https://www.moel.go.kr/local/seoulgwanak/common/downloadFile.do?file_seq=21171216660&bbs_seq=1173141048169&bbs_id=23",
+            "snippet": "개정 근로기준법 시행과 관련하여 교원(특히 시간강사), 사무직원, 연구소 등에 ... 우리 방역본부는 가축전염병예방법 제9조의 규정에 의하여 설립된 특수법인으로서 ...",
+            "file_format": "HWP"
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 17,
+            "date": "7시간 전",
+            "title": "[5.11.목.정례브리핑 보도자료] 코로나19 위기상황에서 벗어나 일상 ...",
+            "url": "https://ncov.kdca.go.kr/tcmBoardView.do?gubun=BDJ&brdId=3&brdGubun=31&dataGubun=&ncvContSeq=7240&board_id=312&contSeq=7240",
+            "snippet": "7시간 전 — 중앙재난안전대책본부는 질병관리청(청장 지영미)으로부터「코로나19 위기단계 하향 및 방역조치 전환」 내용을 보고받고 이를 논의하였다."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 18,
+            "date": "4일 전",
+            "title": "지금 우리 연구소는 퀴즈",
+            "url": "https://387892530.cyberbusiness.edu.pl/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%ED%80%B4%EC%A6%88.html",
+            "snippet": "4일 전 — 11/24 시리즈 쿠키 지금 우리 연구소는 7화 퀴즈 정답 남라가 사용한 ... 포함 정보 프로필 더보기 국수단 바이탈 체크팀 정답은 바이탈 알아두세요!"
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "지금 우리 연구소는 5화"
+                },
+                {
+                    "query": "지금 우리 연구소는 유인"
+                },
+                {
+                    "query": "지금 우리 연구소는 6화 정답"
+                },
+                {
+                    "query": "지금 우리 연구소는 8화"
+                },
+                {
+                    "query": "네이버 지금 우리 연구소는 노트북 주인"
+                },
+                {
+                    "query": "지금 우리 연구소는 남라"
+                },
+                {
+                    "query": "지금 우리 연구소는 8화 정답"
+                },
+                {
+                    "query": "지금 우리 연구소는 7화 정답"
+                }
+            ]
+        }
+    ]
+}
