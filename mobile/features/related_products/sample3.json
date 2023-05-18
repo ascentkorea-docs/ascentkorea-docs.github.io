@@ -1,0 +1,475 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "d0d5c07c-3a75-4f20-a3f8-b65823328b77",
+        "sub_id": 0,
+        "requested_time": "2023-05-18T07:51:04.626Z",
+        "q": "galaxy s22",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=galaxy+s22&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181651/119207076130-D0D5C07C3A754F20A3F8B65823328B77-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181651/119207076130-D0D5C07C3A754F20A3F8B65823328B77-00.json",
+        "crawl_start_time": "2023-05-18T07:51:04.674Z",
+        "crawl_end_time": "2023-05-18T07:51:12.755Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 8.08
+    },
+    "information": {
+        "version": "5.1.0.master",
+        "displayed_query": "galaxy s22",
+        "parsed_time": "2023-05-18T07:51:15.822Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ads",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(2).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "Sponsored        My Ad Center",
+            "carousels": [
+                {
+                    "title": "Samsung Galaxy S22, 128GB in Phantom Black (Unlocked)(SM-S901UZKAXAA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAOGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_16qGgIGGdNWxQmuhkCgwgxXYDvzQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$699.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "15913407900732045596",
+                    "data-offer-docid": "2372036649925344721",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-S901UZKAXAA"
+                },
+                {
+                    "title": "Samsung Galaxy S22, 128GB in Pink (Unlocked)(SM-S901UIDAXAA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAMGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_06MozWDOU3fFR7b616NgKQ_STuJA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$699.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "2680213282679031982",
+                    "data-offer-docid": "3451852670646872085",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-S901UIDAXAA"
+                },
+                {
+                    "title": "Samsung Galaxy S22 Ultra - Burgundy - 128GB (with 24 monthly payments) - Samsung Galaxy Phone",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAPGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_0xtjCVHiBC734VDb_uYhNGSXmUtA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "16637051732764590974",
+                    "data-offer-docid": "4967633863582397469",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "610214672766 (Installment)"
+                },
+                {
+                    "title": "Samsung Galaxy S22 Ultra 128 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAKGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_0hzkcSPqj1oDSoGLEnbP1kyOkxEA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "5086827828398787605",
+                    "data-offer-docid": "11842768465439516393",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "SMS908UZGV"
+                },
+                {
+                    "title": "Samsung Galaxy S22 Ultra, 256GB in Red (Unlocked)(SM-S908UZREXAA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABALGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_0k-i4F0i55LE5Z3p8V5nQuW9dGOQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$1,299.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "14271654689048730354",
+                    "data-offer-docid": "9042732337763750320",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-S908UZREXAA"
+                },
+                {
+                    "title": "Samsung Galaxy S22, 256GB in Green (Unlocked)(SM-S901UZGEXAA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAJGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_3ACPG4M4x0rg_VhxlDSn5qVm-N-A&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$759.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "11085251758147016451",
+                    "data-offer-docid": "3580670843930000112",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-S901UZGEXAA"
+                },
+                {
+                    "title": "Samsung Galaxy S22 256 GB in Bora Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABAIGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_1k8W7qiRy6MlstoE6aGVpb0wMMwg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "17913345867109159141",
+                    "data-offer-docid": "11108567429979437244",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "SMS901ULVEV"
+                },
+                {
+                    "title": "Samsung Galaxy S22, 256GB in Bora Purple (Unlocked)(SM-S901ULVEXAA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjorqqIsf7-AhWBKK0GHRtTDxsYABANGgJwdg&ohost=www.google.com&cid=CAASI-RoMtwjV2So1bgqUdKUDAb4vJ4iQBTAWrhk5qZQ8GhDvG-Y&sig=AOD64_20oOrNv5cDiGFpTISe6cgjDpYvNg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$759.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "6238907415914414938",
+                    "data-offer-docid": "15856771613102833705",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-S901ULVEXAA"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(16).Ww4FFb.vt6azd.g > div:nth-child(2).BYM4Nd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.samsung.com › galax...",
+            "title": "Samsung Galaxy S22 & Galaxy S22+ ...",
+            "url": "https://www.samsung.com/us/smartphones/galaxy-s22/",
+            "snippet": "What kind of cameras do Galaxy S22 and S22+ have?",
+            "sitelinks": [
+                {
+                    "url": "https://www.samsung.com/us/smartphones/galaxy-s22/buy/",
+                    "title": "Buy Galaxy S22, 128GB ..."
+                },
+                {
+                    "url": "https://www.samsung.com/global/galaxy/galaxy-s22/specs/",
+                    "title": "Specifications"
+                },
+                {
+                    "url": "https://www.samsung.com/us/business/smartphones/galaxy-s22/buy/",
+                    "title": "Galaxy S22"
+                },
+                {
+                    "url": "https://www.samsung.com/us/smartphones/galaxy-s22/buy/galaxy-s22-256gb-unlocked-sm-s901uzkexaa/",
+                    "title": "Buy Galaxy S22, 256GB ..."
+                },
+                {
+                    "url": "https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/",
+                    "title": "Buy Galaxy S22 Ultra, 128GB ..."
+                },
+                {
+                    "url": "https://www.samsung.com/us/smartphones/galaxy-s22-ultra/",
+                    "title": "S22 Ultra"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 106517
+                    },
+                    "_func": "header",
+                    "title": "Samsung Galaxy S22",
+                    "rating": {
+                        "rating_value": "4.3",
+                        "rating_count": "(29K)"
+                    }
+                },
+                {
+                    "ved": {
+                        "type": 27980
+                    },
+                    "_func": "sticky_header_tabs",
+                    "tabs": [
+                        {
+                            "text": "Overview",
+                            "selected": false
+                        },
+                        {
+                            "text": "Reviews",
+                            "selected": false
+                        },
+                        {
+                            "text": "Details",
+                            "selected": false
+                        },
+                        {
+                            "text": "Stores",
+                            "selected": false
+                        },
+                        {
+                            "text": "Videos",
+                            "selected": false
+                        },
+                        {
+                            "text": "Accessories",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "ved": {
+                        "type": 4174
+                    },
+                    "_func": "description",
+                    "attrid": "description",
+                    "description": "Capture and share every moment Meet Galaxy S22, a smartphone designed for creators who want to capture every moment. It’s packed with next-level\ninnovations you didn’t even know were possible. This is a game-changing device that can create breath-taking low-light videos to make every day - and night - even more epic. But that’s not all. Stay entertained on an incredibly bright Dynamic AMOLED 2X display even in bright sunlight. With more of what you want, you can do more of what you love.\n…\nMore\ninnovations you didn’t even know were possible. This is a game-changing device that can create breath-taking low-light videos to make every day - and night - even more epic. But that’s not all. Stay entertained on an incredibly bright Dynamic AMOLED 2X display even in bright sunlight. With more of what you want, you can do more of what you love.\n…\nMore\n…\nMore\nMore\nMore"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).cUnQKe.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "What is special in Samsung S22?",
+                    "displayed_link": "https://www.samsung.com › rmx › f...",
+                    "url": "https://www.samsung.com/us/rmx/galaxy-s22/features/#:~:text=Stream%20in%20high%20def%2C%20video,4nm%20processor%20on%20a%20Galaxy.&text=Go%20all%20day%20and%20into,conserves%20energy%20on%20its%20own.&text=Get%20all%2Dday%20battery%20in,fast%20charging%20for%20S22%20Ultra.",
+                    "title": "Galaxy S22 Series Features - Samsung",
+                    "snippet": "Stream in high def, video chat, stay on top of trends in real time and game on with the fastest 4nm processor on a Galaxy. Go all day and into the next on a single charge2 with intelligent battery that conserves energy on its own. Get all-day battery in 20 minutes with super-fast charging for S22 Ultra."
+                },
+                {
+                    "question": "When did S22 come out?",
+                    "displayed_link": "https://en.m.wikipedia.org › wiki",
+                    "url": "https://en.m.wikipedia.org/wiki/Samsung_Galaxy_S22#:~:text=The%20three%20phones%20were%20released,by%20the%20Samsung%20Galaxy%20S23.",
+                    "title": "Samsung Galaxy S22 - Wikipedia",
+                    "snippet": "The three phones were released in the United States and Europe on 25 February 2022. The Galaxy S22, S22+, and S22 Ultra launch with prices at $799.99, $999.99, and $1199.99, respectively. It was succeeded by the Samsung Galaxy S23."
+                },
+                {
+                    "question": "Is the S22 still good?",
+                    "displayed_link": "https://www.tomsguide.com › sam...",
+                    "url": "https://www.tomsguide.com/reviews/samsung-galaxy-s22#:~:text=Samsung%20Galaxy%20S22%20review%3A%20Verdict&text=This%20is%20a%20solid%20step,title%20than%20this%20older%20phone.",
+                    "title": "Samsung Galaxy S22 review | Tom's Guide",
+                    "snippet": "Samsung Galaxy S22 review: Verdict This is a solid step ahead for Samsung, with the improvements to the display and the camera particularly noticeable. As to Samsung's claim on the title of best phone, the Galaxy S23 devices led by the Galaxy S23 Ultra have a much better claim on the title than this older phone.Mar 8, 2023"
+                },
+                {
+                    "question": "Is Galaxy S22 worth buying?",
+                    "displayed_link": "https://www.trustedreviews.com › sa...",
+                    "url": "https://www.trustedreviews.com/reviews/samsung-galaxy-s22#:~:text=your%20audio%20article-,Verdict,down%20by%20lacklustre%20battery%20life.",
+                    "title": "Samsung Galaxy S22 Review: Is it still worth buying in 2023?",
+                    "snippet": "Verdict. It may be a year old but the Samsung Galaxy S22 remains an excellent compact phone, with superb performance and an excellent camera being particular highlights. However, it's let down by lacklustre battery life.Feb 17, 2023"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.digitaltrends.com › sam...",
+            "date": "Feb 2, 2023",
+            "title": "Samsung Galaxy S22 review: Sleeper powerhouse | Digital Trends",
+            "url": "https://www.digitaltrends.com/mobile/samsung-galaxy-s22-review-price-specs-should-you-buy/",
+            "snippet": "Feb 2, 2023 — The Samsung Galaxy S22 is a small phone with a big heart. Yes, it has a few shortcomings, but there's a lot to like here for its asking ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.digitaltrends.com/mobile/samsung-galaxy-s22-review-price-specs-should-you-buy/",
+                "desc": "galaxy s22 from www.digitaltrends.com"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.xda-developers.com › s...",
+            "date": "Mar 12, 2022",
+            "title": "Samsung Galaxy S22 Review: Good choice for most people, but not revolutionary",
+            "url": "https://www.xda-developers.com/samsung-galaxy-s22-review/",
+            "snippet": "Mar 12, 2022 — The base model Samsung Galaxy S22 isn't quite as exciting as the S22 Ultra, but it's still one of the best Android phones around right now.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.xda-developers.com/samsung-galaxy-s22-review/",
+                "desc": "galaxy s22 from www.xda-developers.com"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.phonearena.com › sa...",
+            "date": "Feb 22, 2023",
+            "title": "Samsung Galaxy S22 review: top features - PhoneArena",
+            "url": "https://www.phonearena.com/reviews/samsung-galaxy-s22-review_id5324",
+            "snippet": "Feb 22, 2023 — The Galaxy S22 bucks the trend of ever-larger phone and is instead smaller, aiming right for the heart of compact phone lovers.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.phonearena.com/reviews/samsung-galaxy-s22-review_id5324",
+                "desc": "galaxy s22 from www.phonearena.com"
+            }
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.amazon.com › SAMSU...",
+            "title": "SAMSUNG Galaxy S22 Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K ...",
+            "url": "https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Brightest-Processor/dp/B09MVZSBB7",
+            "snippet": "SAMSUNG Galaxy S22 Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video, Night Mode, Brightest Display Screen, 50MP Photo Resolution, Long ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Brightest-Processor/dp/B09MVZSBB7",
+                "desc": "galaxy s22 from www.amazon.com"
+            },
+            "properties": [
+                {
+                    "key": "Product Dimensions",
+                    "value": "‎6 x 2 x 0.4 inches"
+                },
+                {
+                    "key": "Item Weight",
+                    "value": "‎5.9 ounces"
+                }
+            ],
+            "rating": {
+                "rating_count": "(729)",
+                "rating_value": "4.4"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://www.androidpolice.com › sa...",
+            "date": "Apr 26, 2023",
+            "title": "Samsung Galaxy S22 review: Former flagship feeling fine - Android Police",
+            "url": "https://www.androidpolice.com/samsung-galaxy-s22-review/",
+            "snippet": "Apr 26, 2023 — If you can get past it's biggest flaw, the Galaxy S22 is still a very solid phone.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.androidpolice.com/samsung-galaxy-s22-review/",
+                "desc": "galaxy s22 from www.androidpolice.com"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://www.engadget.com › sams...",
+            "date": "Feb 24, 2022",
+            "title": "Samsung Galaxy S22 review: Sprucing up a solid foundation | Engadget",
+            "url": "https://www.engadget.com/samsung-galaxy-s-22-review-sprucing-up-a-solid-foundation-151522033.html",
+            "snippet": "Feb 24, 2022 — While retaining a familiar design, the new Galaxy S22 and S22+ boast some fancy new hardware including super bright displays, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.engadget.com/samsung-galaxy-s-22-review-sprucing-up-a-solid-foundation-151522033.html",
+                "desc": "galaxy s22 from www.engadget.com"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c",
+            "position": 8,
+            "displayed_link": "https://m.youtube.com · Simple Alp...",
+            "title": "Samsung Galaxy S22 In 2023! (Still Worth Buying?) (Review) - YouTube",
+            "url": "https://m.youtube.com/watch?v=0GzaXcoP6as",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:f16e7aa9,vid:0GzaXcoP6as",
+                "date": "Jan 26, 2023"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "related_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk",
+            "title": "Related products",
+            "refinements": [
+                {
+                    "text": "Android"
+                },
+                {
+                    "text": "Compact"
+                },
+                {
+                    "text": "Samsung Galaxy S series"
+                },
+                {
+                    "text": "Samsung"
+                }
+            ],
+            "items": [
+                {
+                    "title": "Samsung Galaxy S22 Ultra",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(38K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy S22+",
+                    "price": "$740+",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(20K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy A53 5G",
+                    "price": "$120+",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(24K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy S23 Ultra",
+                    "price": "$1,000+",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(23K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy Z Flip 4",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(9.7K)"
+                    },
+                    "hidden": true
+                },
+                {
+                    "title": "Samsung Galaxy S23",
+                    "price": "$740+",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(6.1K)"
+                    },
+                    "hidden": true
+                },
+                {
+                    "title": "Samsung Galaxy Z Fold 4",
+                    "price": "$1,200+",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(6.7K)"
+                    },
+                    "hidden": true
+                },
+                {
+                    "title": "Google Pixel 7 Pro",
+                    "rating": {
+                        "rating_value": "4.3",
+                        "rating_count": "(3.4K)"
+                    },
+                    "hidden": true
+                },
+                {
+                    "title": "Google Pixel 7",
+                    "price": "$440+",
+                    "rating": {
+                        "rating_value": "4.3",
+                        "rating_count": "(3.1K)"
+                    },
+                    "hidden": true
+                },
+                {
+                    "title": "Pixel 6a",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(3.2K)"
+                    },
+                    "hidden": true
+                }
+            ]
+        }
+    ]
+}
