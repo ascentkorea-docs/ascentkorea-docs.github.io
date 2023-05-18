@@ -1,0 +1,436 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "0d8412b9-e072-46f1-afb4-97cec5fabe66",
+        "sub_id": 0,
+        "requested_time": "2023-05-18T06:37:57.671Z",
+        "q": "samsung galaxy s",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=samsung+galaxy+s&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181538/119207076131-0D8412B9E07246F1AFB497CEC5FABE66-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181538/119207076131-0D8412B9E07246F1AFB497CEC5FABE66-00.json",
+        "crawl_start_time": "2023-05-18T06:37:57.712Z",
+        "crawl_end_time": "2023-05-18T06:38:05.996Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 8.28
+    },
+    "information": {
+        "version": "5.1.0.master",
+        "displayed_query": "samsung galaxy s",
+        "parsed_time": "2023-05-18T06:38:07.792Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(6) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.samsung.com › mobile",
+            "title": "Galaxy S Series Phones | S23, S22, S21, S20 | Samsung US",
+            "url": "https://www.samsung.com/us/mobile/phones/galaxy-s/",
+            "snippet": "Select and compare the latest features and innovations available in the new Galaxy S Phones including the new S23. Find the perfect Samsung phones for you!"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(6) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.samsung.com › levant",
+            "title": "Galaxy S Series - Browse Smartphones | Samsung Levant",
+            "url": "https://www.samsung.com/levant/smartphones/galaxy-s/",
+            "snippet": "Discover the full range of Samsung Galaxy S series at Samsung Levant. Compare models by the the specs and features that matter to you. Learn more."
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).cUnQKe.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "How old is the Samsung Galaxy S?",
+                    "displayed_link": "https://en.m.wikipedia.org › wiki",
+                    "url": "https://en.m.wikipedia.org/wiki/Samsung_Galaxy_S_series#:~:text=The%20original%20Samsung%20Galaxy%20S,released%20on%20June%204th%2C%202010.",
+                    "title": "Samsung Galaxy S series - Wikipedia",
+                    "snippet": "The original Samsung Galaxy S smartphone was announced in March 2010 and released on June 4th, 2010."
+                },
+                {
+                    "question": "Which is better Samsung S series or A series?",
+                    "displayed_link": "https://www.phonebot.com.au › blog",
+                    "url": "https://www.phonebot.com.au/blog/difference-between-the-samsung-a-series-and-the-s-series#:~:text=There%20is%20quite%20a%20difference,want%20to%20consider%20looking%20into",
+                    "title": "Samsung A series and the S series: Which one to choose - Phonebot",
+                    "snippet": "There is quite a difference between both, the Samsung A series is greatly known for its mid-range models and if you want to have a well-rounded smartphone experience you would most likely find it in the A series better, whereas if you are looking for a high-end range of phones, you might want to consider looking into ...Mar 15, 2023"
+                },
+                {
+                    "question": "What is the latest version of Galaxy S?",
+                    "displayed_link": "https://www.sammobile.com › what...",
+                    "url": "https://www.sammobile.com/what-is-the-newest-samsung-phone/#:~:text=Galaxy%20S,Qualcomm%20has%20modified%20for%20Samsung.",
+                    "title": "What is the newest Samsung phone? - May 2023 - SamMobile",
+                    "snippet": "Galaxy S. The Samsung 2023 flagship lineup refresh begun with the Galaxy S23 series. The newest Samsung phones in this series are the Galaxy S23, Galaxy S23+, and the Galaxy S23 Ultra. All three devices are powered by the Snapdragon 8 Gen 2 chipset that Qualcomm has modified for Samsung.May 3, 2023"
+                },
+                {
+                    "question": "What is the difference between a Samsung S and a?",
+                    "displayed_link": "https://www.coolblue.nl › advice › s...",
+                    "url": "https://www.coolblue.nl/en/advice/samsung-galaxy-j-of-a-s-series.html#:~:text=The%20largest%20difference%20between%20the,can%20take%20razor%2Dsharp%20photos.",
+                    "title": "Samsung Galaxy S, A, or Z series? - Coolblue - anything for a smile",
+                    "snippet": "The largest difference between the Samsung Galaxy A and S models are the cameras and the speed. Samsung Galaxy S series devices are suitable for the most demanding tasks and they can take razor-sharp photos.May 5, 2023"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "news.samsung.com",
+            "date": "Feb 10, 2022",
+            "title": "Samsung Galaxy S22 Ultra Offers the Ultimate and Most Premium S ...",
+            "url": "https://news.samsung.com/global/samsung-galaxy-s22-ultra-offers-the-ultimate-and-most-premium-s-series-experience-yet",
+            "snippet": "Feb 10, 2022 — The best camera, performance and connectivity ever on a Galaxy smartphone, Galaxy S22 Ultra reimagines the mobile experience by merging the ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://news.samsung.com/global/samsung-galaxy-s22-ultra-offers-the-ultimate-and-most-premium-s-series-experience-yet",
+                "desc": "samsung galaxy s from news.samsung.com"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(5) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "Samsung Galaxy S - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Samsung_Galaxy_S",
+            "snippet": "The Samsung Galaxy S is a series of high-end Android phones made by Samsung. It may refer to: SmartphonesEdit · Samsung Galaxy S.",
+            "refinements": [
+                {
+                    "text": "Samsung Galaxy S (2010"
+                },
+                {
+                    "text": "Samsung Galaxy S II"
+                },
+                {
+                    "text": "Samsung Galaxy S III"
+                },
+                {
+                    "text": "Samsung Galaxy S Duos"
+                },
+                {
+                    "text": "Samsung Galaxy S Duos 2"
+                },
+                {
+                    "text": "Samsung Galaxy S III Mini"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(5) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "Samsung Galaxy S series",
+            "url": "https://en.m.wikipedia.org/wiki/Samsung_Galaxy_S_series",
+            "snippet": "The Samsung Galaxy S series is a line of flagship Android smartphone and tablet computer produced by Samsung Electronics. Together with the foldable Galaxy ...",
+            "properties": [
+                {
+                    "key": "Release date",
+                    "value": "4 June 2010; 12 years ago"
+                },
+                {
+                    "key": "System on a chip",
+                    "value": "Samsung Exynos ;  Qualcomm Snapdragon"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "immersive_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Samsung Galaxy S23",
+                            "price": "$799.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(6k+)"
+                            },
+                            "snippet": "Impressive performance · Lacks ultra wideband supportTom's Guide"
+                        },
+                        {
+                            "title": "Samsung Galaxy S23 Ultra",
+                            "price": "$1,379.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.8",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Impressive performanceTom's Guide"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Samsung Galaxy S22 Ultra",
+                            "price": "$899.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Most powerful deviceXDA Developers"
+                        },
+                        {
+                            "title": "Samsung Galaxy S23+",
+                            "price": "$999.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.7",
+                                "rating_count": "(4k+)"
+                            },
+                            "snippet": "120Hz-capable display · Brand new 200MP cameraPocket-lint"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://www.walmart.com › browse",
+            "title": "Galaxy S Series in Samsung Galaxy Phones by Model(313)",
+            "url": "https://www.walmart.com/browse/cell-phones/galaxy-s-series/1105910_7551331_1986562_1231202_1562593",
+            "snippet": "Shop for Galaxy S Series in Samsung Galaxy Phones by Model. Buy products such as Restored Samsung Galaxy S9 Unlocked - 64GB - Midnight Black (Refurbished) ..."
+        },
+        {
+            "sequence": 9,
+            "type": "immersive_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Samsung Galaxy S22",
+                            "price": "$699.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.3",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Slightly bigger and better display · Best IP ratingXDA Developers"
+                        },
+                        {
+                            "title": "Samsung Galaxy S22+",
+                            "price": "$999.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Slightly bigger and better display · Most powerful deviceXDA Developers"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Samsung Galaxy S21 FE 5G",
+                            "price": "$599.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Fast and smooth scrolling experience · Offers a lot for the priceScreen Rant"
+                        },
+                        {
+                            "title": "Samsung Galaxy S21 5G",
+                            "price": "$429.00",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Fantastic display · Powerful camerasTom's Guide"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://www.pocket-lint.com › timel...",
+            "date": "May 5, 2023",
+            "title": "From Galaxy S to Galaxy S22: A timeline of Samsung phones",
+            "url": "https://www.pocket-lint.com/timeline-of-samsung-galaxy-flagship-android-phones-in-pictures/",
+            "snippet": "May 5, 2023 — Samsung continues to be one of the most popular phone manufacturers in the world and with good reason. The company's Galaxy S flagship ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.pocket-lint.com/timeline-of-samsung-galaxy-flagship-android-phones-in-pictures/",
+                "desc": "samsung galaxy s from www.pocket-lint.com"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "immersive_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Samsung Galaxy S22 5G",
+                            "price": "$949.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Slightly bigger and better display · Best IP ratingXDA Developers"
+                        },
+                        {
+                            "title": "Samsung Galaxy Tab S8+ 12.4 (2022)",
+                            "price": "$899.99",
+                            "provider": "SSamsung, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.8",
+                                "rating_count": "(3k+)"
+                            },
+                            "snippet": "Keys are large and well spacedZDNET"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Samsung Galaxy S III",
+                            "price": "$52.49",
+                            "provider": "AAmazon.com, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Easy and simple to use · Lock focus by tappingDPReview"
+                        },
+                        {
+                            "title": "Samsung Galaxy S20 FE 5G",
+                            "price": "$198.50",
+                            "provider": "WWalmart - WirelessGlobe, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Lower priceScreen Rant"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "short_videos",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(2).Ph8vHd > div:nth-child(1).vbbrJ",
+            "carousels": [
+                {
+                    "url": "#fpstate=ive&vld=cid:6111773c,vid:sNrmWhW0G6w",
+                    "title": "Samsung Galaxy S 23 Ultra Design Vs S 22 Ultra #s23ultra #s22ultra",
+                    "source": "YouTube",
+                    "channel": "AppX"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:a6663a1f,vid:xrv-I6tvico",
+                    "title": "Reasons to Buy Galaxy S 23 Ultra over iPhone 14 Pro Max",
+                    "source": "YouTube",
+                    "channel": "AppX"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:41e165ff,vid:sZKEtLGZMoI",
+                    "title": "Time to Switch to Galaxy S 23 Ultra from your iPhones",
+                    "source": "YouTube",
+                    "channel": "AppX"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:3a29bd59,vid:f1_qdnX_QOQ",
+                    "title": "Samsung Galaxy S23 is Underrated!",
+                    "source": "YouTube",
+                    "channel": "Matthew Moniz"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://www.makeuseof.com › galax...",
+            "date": "Feb 6, 2023",
+            "title": "Galaxy S vs. A Phones: Here Are 10 Reasons to Skip the Galaxy S Range",
+            "url": "https://www.makeuseof.com/galaxy-s-vs-galaxy-a/",
+            "snippet": "Feb 6, 2023 — Buying a Samsung Galaxy phone? Here's why you should skip the flagships and choose a mid-range device instead.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.makeuseof.com/galaxy-s-vs-galaxy-a/",
+                "desc": "samsung galaxy s from www.makeuseof.com"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "immersive_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Samsung Galaxy S21 5G 128gb",
+                            "price": "$229.95",
+                            "provider": "WWalmart - Noble Planet Inc., 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Video stabilization does a good job in static scenesDxOMark"
+                        },
+                        {
+                            "title": "Samsung Galaxy S10e",
+                            "price": "$124.00",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(8k+)"
+                            },
+                            "snippet": "Back edges are nicely curved to fit into your hand · Plenty of dynamic rangeAndroid Authority"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Samsung Galaxy S20",
+                            "price": "$167.49",
+                            "provider": "WWalmart - BREED, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "You can upload and share at high speeds · Videos sharperSamsung"
+                        },
+                        {
+                            "title": "Samsung Galaxy S10 5G",
+                            "price": "$162.63",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(2k+)"
+                            },
+                            "snippet": "Larger 4,500mAh battery · Bigger 6.7-inch displaySamMobile"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
