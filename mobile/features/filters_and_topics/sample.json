@@ -1,0 +1,741 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "3a99df5f-9029-4c03-912d-6f003d42a1b6",
+        "sub_id": 0,
+        "requested_time": "2023-05-25T04:11:47.598Z",
+        "q": "냉장고추천",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%83%89%EC%9E%A5%EA%B3%A0%EC%B6%94%EC%B2%9C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230525/2305251311/119207076130-3A99DF5F90294C03912D6F003D42A1B6-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230525/2305251311/119207076130-3A99DF5F90294C03912D6F003D42A1B6-00.json",
+        "crawl_start_time": "2023-05-25T04:11:47.641Z",
+        "crawl_end_time": "2023-05-25T04:11:54.823Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 7.18
+    },
+    "information": {
+        "version": "5.3.1.master",
+        "displayed_query": "냉장고추천",
+        "parsed_time": "2023-05-26T05:26:37.336Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "이미지"
+                },
+                {
+                    "type": "filter",
+                    "text": "동영상"
+                },
+                {
+                    "type": "topic",
+                    "text": "가성 비",
+                    "query": "가성비 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "LG",
+                    "query": "LG 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "1 인",
+                    "query": "1인 냉장고 추천"
+                },
+                {
+                    "type": "filter",
+                    "text": "쇼핑"
+                },
+                {
+                    "type": "topic",
+                    "text": "일반형",
+                    "query": "일반형 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "4 도어",
+                    "query": "4도어 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "2 도어",
+                    "query": "2도어 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "소형",
+                    "query": "소형 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "삼성",
+                    "query": "삼성 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "신혼",
+                    "query": "신혼 냉장고 추천"
+                },
+                {
+                    "type": "topic",
+                    "text": "디시",
+                    "query": "냉장고 추천 디시"
+                },
+                {
+                    "type": "filter",
+                    "text": "뉴스"
+                },
+                {
+                    "type": "filter",
+                    "text": "지도"
+                },
+                {
+                    "type": "filter",
+                    "text": "도서"
+                },
+                {
+                    "type": "filter",
+                    "text": "항공편"
+                },
+                {
+                    "type": "filter",
+                    "text": "금융"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "ads",
+            "position": 1,
+            "title": "스폰서        내 광고 센터",
+            "carousels": [
+                {
+                    "title": "BESPOKE 냉장고 4도어 프리스탠딩 875 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAIGgJjZQ&sig=AOD64_2E0_qqMUGA9iNSSNQuFsXjWjf5dw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,600,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "1050940952251721231",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RF85B90023Y"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 양문형 냉장고 메탈 832L 방문설치 클레이민트(상단) 베이지(하단) S834MTE10",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAKGgJjZQ&sig=AOD64_0GhPBlyrK0y1cV_Hu3l1BTwsMfrw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,271,170",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "7765466488062507329",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I14747658241"
+                },
+                {
+                    "title": "삼성전자 양문형냉장고 엘리건트 이녹스 RS82M6000S8",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABANGgJjZQ&sig=AOD64_0cugAUKqXXCY7zIKFSwbqzYHuUcA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩969,250",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "10016592041708263527",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11645714937"
+                },
+                {
+                    "title": "BESPOKE 냉장고 4도어 875 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAJGgJjZQ&sig=AOD64_2xlS68vqpzsOqeqFMohWQk--CPiw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,050,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "12770002206551946045",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RF85C90D2AP"
+                },
+                {
+                    "title": "하이얼 글램 글라스 양문형냉장고 방문설치 HRS445MNWP",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAMGgJjZQ&sig=AOD64_075qp06PMlUZUAEu3om3zKEQKppQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩799,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "1453797939763115439",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11386696866"
+                },
+                {
+                    "title": "양문형 정수기 냉장고 805 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAOGgJjZQ&sig=AOD64_29TcRY2VWW0W7XQzJ-M7TK3yT7fQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,400,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "6123066275446084301",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RS80B5190B4"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 매직스페이스 양문형 냉장고 메탈 832L 방문설치 메탈 베이지 S834MEE30",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAPGgJjZQ&sig=AOD64_0R3SDnJbi51iUBxvAsl4XRLbc5vg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,448,680",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "6193216436188519604",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I14722753506"
+                },
+                {
+                    "title": "삼성전자 일반형냉장고 엘리건트 블랙 RB30R4051B1",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABALGgJjZQ&sig=AOD64_3M4Z8AINa-v2JKjibV_BApwc-Hhw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩475,750",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "14906036539077144898",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I1012353195"
+                },
+                {
+                    "title": "삼성전자 비스포크 프리스탠딩 4도어 냉장고 875L 방문설치 코타 화이트 RF85B911101",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAXGgJjZQ&sig=AOD64_1jy8m-LZvcTWycN2buH6nGatAPkQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,699,870",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "14832774928494239413",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I13743610058"
+                },
+                {
+                    "title": "캐리어 클라윈드 피트인 4도어 냉장고 방문설치 메탈실버 KRNF427SPH1",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAaGgJjZQ&sig=AOD64_1zr2JnRqb9_c7nySWWEr0Ed66lgw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩699,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "13127499462319941378",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I15762165520"
+                },
+                {
+                    "title": "일룸 [클릭시추가쿠폰]일룸 프리스토 1000폭 수납장 (조명형) / 냉장고장",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAWGgJjZQ&sig=AOD64_10-EtdVGZitv16BsjkQP7A1jIKgA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩569,000",
+                    "delivery": "무료 배송",
+                    "provider": "롯데홈쇼핑",
+                    "data-offer-docid": "3335540465622451081",
+                    "data-merchant-id": "126110005",
+                    "data-offer-id": "1.82E+09"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 노크온 4도어 냉장고 글라스 870L 방문설치 크림 스카이 + 크림 화이트 H874GYW312",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAZGgJjZQ&sig=AOD64_2opxwZ3eBobL2hya8mJpMa8HEgSg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,300,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "6973571658272157991",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I17147416339"
+                },
+                {
+                    "title": "LG 디오스 매직스페이스 S834S32V (양문형)",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAcGgJjZQ&sig=AOD64_0L__cVR_MfFtM8aL1pdu2ru1Vv4g&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,328,400",
+                    "delivery": "무료 배송",
+                    "provider": "gsshop",
+                    "data-offer-docid": "9748136817847179421",
+                    "data-merchant-id": "121566792",
+                    "data-offer-id": "1017768162"
+                },
+                {
+                    "title": "[색상선택형] LG전자 디오스 오브제컬렉션 4도어 냉장고 메탈 870L 방문설치 T873MEE012 오브제컬렉션 베이지 + 베이지",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAbGgJjZQ&sig=AOD64_2VT0cXurDUmFDmp5ViaInevr0UhA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,606,880",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "18031732039945083813",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I16851273517"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 4도어 냉장고 메탈 870L 방문설치 오브제컬렉션 클레이 핑크 + 베이지 T873MKE111",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAiGgJjZQ&sig=AOD64_2j8QsLnp8323tjtcVyQfmrYcwhhw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,759,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "5138520765594238526",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I16851273516"
+                },
+                {
+                    "title": "삼성전자 BESPOKE 프리스탠딩 4도어 냉장고 RF85B911155 875L 방문설치 글램 화이트 + 글램 핑크",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAnGgJjZQ&sig=AOD64_2jQoN7_aunjhc-QNa26RB_0WE0lA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,800,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "14804462749146409179",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I13842649553"
+                },
+                {
+                    "title": "[색상선택형] 삼성전자 비스포크 냉장고 방문설치 코타 화이트 코타 화이트 코타 화이트",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAlGgJjZQ&sig=AOD64_1IslajF4nWnMJ6wJ5YXGt08MmWLA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩649,330",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "12351986963740722658",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I10758131554"
+                },
+                {
+                    "title": "LG전자 오브제컬렉션 얼음정수기 디오스 4도어 냉장고 글라스 820L 방문설치 W823AAA472(W823GPB472S) 핑크(상단) 베이지(하단)",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAmGgJjZQ&sig=AOD64_2pFiKCkx3sJbowqN_g7Mld3tS7bw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩5,250,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "8729277348000244904",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I17553203910"
+                },
+                {
+                    "title": "삼성전자 양문형냉장고 리얼 메탈 RH62A504EB4",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABApGgJjZQ&sig=AOD64_13g7GMXjaIIeaJJWqabGqJoJ2lYg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,212,260",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "2031104211068377868",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I8652434055"
+                },
+                {
+                    "title": "양문형 냉장고 846 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAoGgJjZQ&sig=AOD64_1TojM50S_sERd_AF7ozMON4nrsgw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,250,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "8336240959745125597",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RS84B5061M9"
+                },
+                {
+                    "title": "LG전자 디오스 매직스페이스 양문형 냉장고 메탈 832L 방문설치 샤이니 사피아노 S834SN35",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABAqGgJjZQ&sig=AOD64_095eqNHOXxyB6M6KPN8_s8vXyLNg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,540,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "1432990929941120104",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I17969775338"
+                },
+                {
+                    "title": "LG 디오스 노크온 오브제컬렉션 T873MEE312 870L 4도어냉장고",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABArGgJjZQ&sig=AOD64_39tGAnytj1nBjfRuggKJxocyJvXw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,769,000",
+                    "delivery": "무료 배송",
+                    "provider": "G마켓",
+                    "data-offer-docid": "5063059590495637849",
+                    "data-merchant-id": "660398352",
+                    "data-offer-id": "2496571567"
+                },
+                {
+                    "title": "LG전자 일반 냉장고 189L 화이트 방문설치,B187WM,화이트",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA5GgJjZQ&sig=AOD64_1Nz9rKFYR9l3AJbcjQ_gyFs2ow0w&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩385,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "18254930634823469758",
+                    "data-merchant-id": "565743687",
+                    "data-offer-id": "I2057704487V70417055385A365209496"
+                },
+                {
+                    "title": "삼성전자 냉장고 615L 방문설치 RT62A7049S9 리파인드 이녹스",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA0GgJjZQ&sig=AOD64_0xmHo56YVE1AOpSa15hzef7DrvhQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩934,460",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "4363923916669853918",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I16351204947"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 얼음정수기 양문형 냉장고 810L 방문설치 오브제컬렉션 베이지 + 베이지 J814MEE35",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA1GgJjZQ&sig=AOD64_0VddMRbgCLA3Uv48rkwmDEuM41Gw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,288,120",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "16197043063007728588",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I17593819436"
+                },
+                {
+                    "title": "삼성전자 양문형 냉장고 846L 방문설치 내츄럴 RS84B5071SL",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA2GgJjZQ&sig=AOD64_2ttr7reu2oHkBUcP-ucSE5fcnl0Q&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,113,430",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "4594271859988376130",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I16719080653"
+                },
+                {
+                    "title": "[색상선택형] LG전자 디오스 오브제컬렉션 빌트인타입 베이직 4도어 냉장고 글라스 610L M623AAA042 클레이민트 클레이민트 베이지 베이지 M623GTB042S 클레이 민트 + 베이지",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA8GgJjZQ&sig=AOD64_3QHpae1EvpqOTFn95jMh68UiQpDQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,192,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "16632373435563986248",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I14966956278"
+                },
+                {
+                    "title": "LG 디오스 오브제컬렉션 노크온 H874GKB312",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA6GgJjZQ&sig=AOD64_0b9b8IvOqpLUeHEWOU29Labc2s8w&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,448,600",
+                    "delivery": "무료 배송",
+                    "provider": "gsshop",
+                    "data-offer-docid": "3828267305100102960",
+                    "data-merchant-id": "121566792",
+                    "data-offer-id": "1026363477"
+                },
+                {
+                    "title": "BESPOKE 냉장고 4도어 738 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA3GgJjZQ&sig=AOD64_2AQhz6V0icJfuWEg4XZJQelkHZJQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩3,040,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "15496136779338437990",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RF75CB861312"
+                },
+                {
+                    "title": "LG 디오스 오브제컬렉션 양문형 냉장고 S834MGW1D 832L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABA4GgJjZQ&sig=AOD64_3qdPnjMhOT3m6P7-Ao-dyZB5WxYA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,249,000",
+                    "delivery": "무료 배송",
+                    "provider": "G마켓",
+                    "data-offer-docid": "17713876448543472908",
+                    "data-merchant-id": "660398352",
+                    "data-offer-id": "2815641040"
+                },
+                {
+                    "title": "[색상선택형] LG전자 디오스 오브제 컬렉션 양문형 글라스 무드업 노크온 방문설치 색상가변 글라스 M874GNN3A1",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBCGgJjZQ&sig=AOD64_0xaNFvrbgJeALOP8CNQBpQ97O0Mg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩5,668,200",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "8257528899773006495",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I18478558248"
+                },
+                {
+                    "title": "LG전자 일반형 냉장고 방문설치 화이트 B242W32",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBDGgJjZQ&sig=AOD64_1fgDcGrXQ7ZpO59vLXxZ4NMoRb4A&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩447,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "14564502673451282115",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I16189588091"
+                },
+                {
+                    "title": "삼성전자 일반형냉장고 실버 RT38K5039SL",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBFGgJjZQ&sig=AOD64_05KdRaFcHTEFYCZS_UFTYVvmYPIg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩683,430",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "16887737815476052333",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11648081162"
+                },
+                {
+                    "title": "LG전자 컨버터블 일반형냉장고 샤인 R321S",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBHGgJjZQ&sig=AOD64_3GfoW53cNqpLpeyeRZovogLTVJIQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩731,150",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "15265539186303699487",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11947719143"
+                },
+                {
+                    "title": "BESPOKE 정수기 냉장고 4도어 825 L",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBGGgJjZQ&sig=AOD64_3_2ZuYYkGI5JhQ4zbpQATN4rcjqQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩5,126,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "10293170683496818924",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RF85C98Y2AP"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 냉장고 S834MKE10 비씨샵",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBIGgJjZQ&sig=AOD64_17Effo2WNaiKwjLrj4Ar1sSbOxIw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,218,000",
+                    "delivery": "+ 배송비 ₩70,000",
+                    "provider": "G마켓",
+                    "data-offer-docid": "478635438857853263",
+                    "data-merchant-id": "660398352",
+                    "data-offer-id": "2506689655"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 양문형 냉장고 글라스 832L 방문설치 글라스 베이지 S834BB10",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBLGgJjZQ&sig=AOD64_3kcO7tSRBdPbsJU4r64s7ANPuafw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩1,650,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "10923175399781723153",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I17029043610"
+                },
+                {
+                    "title": "삼성전자 BESPOKE 프리스탠딩 4도어 냉장고 RF85B9111T1 875L 방문설치 브라우니 실버",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBNGgJjZQ&sig=AOD64_0yw0W8YWReWocreekQYm4D87HWIA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩2,100,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "1174514160475360",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I13842649543"
+                },
+                {
+                    "title": "삼성전자 일반냉장고 RT53N603HS8 525L 방문설치 Elegant Inox",
+                    "url": "/aclk?sa=l&ai=DChcSEwjMiOSNzY__AhWgQUgAHQMeDBUYABBMGgJjZQ&sig=AOD64_0OK5PLWvcTIzFkBuN-TNr9mHIkhw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "₩750,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "5753000116659158001",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11648281624"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 14054
+                    },
+                    "_func": "thumbnails",
+                    "title": "냉장고 추천",
+                    "carousels": [
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "인기 많은 브랜드별 양문형 냉장고 추천 BEST4 [가격/성능/품질]"
+                            },
+                            "landing_url": "https://www.youtube.com/watch?v=0zNZytzhI_E"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "양문형 냉장고 추천 TOP5 +구매가이드[2022] - 이거사"
+                            },
+                            "landing_url": "https://eegosa.com/%EC%96%91%EB%AC%B8%ED%98%95-%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C-top5-%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C2022/"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "2021년 가장 많이 팔린 인기 김치냉장고 추천 TOP 5"
+                            },
+                            "landing_url": "https://www.youtube.com/watch?v=siMd_uz6jNs"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "TOP 7 냉장고 추천, 삼성, LG 냉장고 (2023 순위) - 프로 가이드"
+                            },
+                            "landing_url": "https://proguide.co.kr/best-refrigerators/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 1,
+            "displayed_link": "https://nosearch.com › 냉장고",
+            "date": "2023. 2. 14.",
+            "title": "냉장고 추천 : LG, 삼성 브랜드별 TOP 6 리뷰&비교 (2023년) - 노써치",
+            "url": "https://nosearch.com/recommendation/pick/kitchen/refrigerator",
+            "snippet": "2023. 2. 14. — 가장 추천하는 LG전자 냉장고는 오브제컬렉션 M873MWW152S으로 홈바를 탑재한 LG 4도어 냉장고 중 가격, 성능 모든면에서 최고의 밸런스를 갖춘 제품 ...",
+            "rating": {
+                "rating_count": "(6)",
+                "rating_value": "5.0"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 2,
+            "displayed_link": "https://review1004.com › ... › 냉장고",
+            "date": "2023. 1. 3.",
+            "title": "가성비 냉장고 추천 2023년 순위 BEST 7 - 리뷰천사",
+            "url": "https://review1004.com/%EA%B0%80%EC%84%B1%EB%B9%84-%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C-2022%EB%85%84-%EC%88%9C%EC%9C%84-best-5/",
+            "snippet": "2023. 1. 3. — 1. 삼성전자 양문형냉장고 · 2. LG전자 디오스 오브제컬렉션 양문형 냉장고 매직스페이스 832L 방문설치 · 3. 삼성전자 3도어 양문형 냉장고 RS84T5081SA ...",
+            "refinements": [
+                {
+                    "text": "냉장고 잘 고르는 팁 !"
+                },
+                {
+                    "text": "냉장고 타입별 장단점"
+                },
+                {
+                    "text": "가족구성원에 따른 냉장고 크기..."
+                },
+                {
+                    "text": "가성비 냉장고 추천 BEST 7"
+                },
+                {
+                    "text": "삼성전자 양문형냉장고"
+                },
+                {
+                    "text": "LG전자 디오스 오브제컬렉션..."
+                },
+                {
+                    "text": "삼성전자 3도어 양문형 냉장고..."
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "LG 냉장고 추천 클리앙"
+                },
+                {
+                    "query": "냉장고 브랜드 순위"
+                },
+                {
+                    "query": "LG 냉장고 모델명 T"
+                },
+                {
+                    "query": "해외 냉장고 브랜드"
+                },
+                {
+                    "query": "냉장고 리뷰"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://themomstory.co.kr › 냉장고-...",
+            "date": "2023. 2. 20.",
+            "title": "TOP 6 성능 좋은 냉장고 추천 2023 - 더맘스토리",
+            "url": "https://themomstory.co.kr/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "2023. 2. 20. — 1. LG DIOS 매직 스페이스 · 2. LG 디오스 F871SS11 · 3. LG전자 일반 냉장고 B507SM · 4. 삼성전자 지펠 T9000 · 5. 대우 루컴즈 R161M1-G · 6. 하이메이드 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 4,
+            "displayed_link": "https://beautifulreview21.com › 냉...",
+            "title": "냉장고 추천 2023년 인기 순위 TOP 10 – 브랜드 비교 및 크기 별 추천",
+            "url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "1위 삼성 비스포크 냉장고 RF85A9103AP · 2위 LG 디오스 오브제컬렉션 냉장고 S834MEE30 · 3위 삼성 양문형 냉장고 RS82M6000S8 · 4위 삼성 비스포크 키친핏 냉장고 ...",
+            "images": [
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                },
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                },
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                },
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                },
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                },
+                {
+                    "landing_url": "https://beautifulreview21.com/%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/"
+                }
+            ],
+            "refinements": [
+                {
+                    "text": "냉장고 구매가이드"
+                },
+                {
+                    "text": "600L 이상 냉장고 추천 판매 순..."
+                },
+                {
+                    "text": "소형 냉장고 추천 판매 순위..."
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "video_results",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "LG 냉장고 사실 분들은 꼭 보세요!(비슷한 냉장고의 가격이 달라지는 ...",
+                    "url": "https://m.youtube.com/watch?v=v8wrONAgD_Q",
+                    "date": "2023. 3. 10."
+                },
+                {
+                    "title": "2022년 가장 인기 많은 4도어냉장고 추천순위 TOP10",
+                    "url": "https://m.youtube.com/watch?v=S5KRQZwIqTs",
+                    "date": "2022. 8. 31."
+                },
+                {
+                    "title": "2023년 인기 가성비 미니 냉장고 추천 TOP5",
+                    "url": "https://m.youtube.com/watch?v=xvpOVYSh9BA",
+                    "date": "2023. 2. 2."
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://mojikmo.com › lg-냉장고-...",
+            "title": "엘지 LG 냉장고 추천 가이드 TOP 5 - 모직모",
+            "url": "https://mojikmo.com/lg-%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "엘지 LG 냉장고 추천 가이드 TOP 5 · 1. LG 오브제컬렉션 2도어 양문형 냉장고 · 2. LG 오브제컬렉션 상냉장 하냉동 4도어 냉장고 · 3. LG 3도어 상냉장 하냉동 프렌치디오스 ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 6,
+            "displayed_link": "https://mungermarketing.com › 소...",
+            "title": "소형냉장고 추천, 원룸 자취생 미니 인기 제품 TOP 7 - 멍거마케팅",
+            "url": "https://mungermarketing.com/%EC%86%8C%ED%98%95%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "안녕하세요 소형냉장고 추천 및 인기 순위에 대해서 알아보겠습니다. 소형 냉장고는 작은 공간에 적합한 크기로 제작된 제품으로, 혼자 사는 싱글족이나 작은 원룸에 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 7,
+            "displayed_link": "https://gyeomipang.co.kr › refrigera...",
+            "date": "2023. 2. 13.",
+            "title": "냉장고 추천 TOP 7 구매가이드 2023 3도어 | 4도어 - 겨미팡",
+            "url": "https://gyeomipang.co.kr/refrigerator-recommended-products/",
+            "snippet": "2023. 2. 13. — 냉장고 추천 순위 TOP 7 · 1. 삼성전자 양문형 냉장고 815L · 2. 삼성전자 일반냉장고 306L · 3. 캐리어 클라윈드 슬림형 냉장고 168L · 4. LG전자 디오스 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 8,
+            "displayed_link": "https://reviewguide.co.kr › 양문형-...",
+            "title": "저렴한 양문형 냉장고 추천 순위 TOP7(구매TIP, 삼성, LG) - 리뷰가이드",
+            "url": "https://reviewguide.co.kr/%EC%96%91%EB%AC%B8%ED%98%95-%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "양문형 냉장고 추천 인기 순위 및 정보를 공유합니다. 양문형 냉장고는 일반 가정에서 가장 많이 사용하는 냉장고 종류인데요. 2도어부터 5도어까지 다양합니다."
+        }
+    ]
+}
