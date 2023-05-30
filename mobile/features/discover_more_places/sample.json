@@ -1,1 +1,691 @@
-{"search_parameters": {"engine": "google", "id": "decd24d9-5966-4d90-bd04-d60c74a6e803", "sub_id": 0, "requested_time": "2022-06-08T00:58:21.302Z", "q": "Kolon Seacloud Hotel", "location": "United States", "gl": "us", "hl": "en", "num": 10, "query_string": "q=Kolon+Seacloud+Hotel&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0", "html_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220608/2206080958/183110235213-ACC6F1EC71C14AA5AB1FC2EC5E6844FA-00.html", "json_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220608/2206080958/183110235213-ACC6F1EC71C14AA5AB1FC2EC5E6844FA-00.json", "crawl_start_time": "2022-06-08T00:58:21.343Z", "crawl_end_time": "2022-06-08T00:58:29.023Z", "device": "mobile", "usage_id": "any", "more_action": "default", "sub_name": "default", "sub_q": "default"}, "information": {"version": "2.1.45.master", "displayed_query": "Kolon Seacloud Hotel", "parsed_time": "2022-06-08T00:58:29.746Z"}, "features": [{"sequence": 1, "type": "sticky_header_tabs", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid43.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0", "selected": "Overview", "headers": ["Overview", "Prices", "Reviews", "Location", "Photos", "About"]}, {"sequence": 2, "type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "attrids": [{"attrid": "kc:/location/location:actions", "values": ["Call", "Directions", "Share", " Save"]}, {"attrid": "kc:/local:hotel action", "values": ["Check availability"]}, {"attrid": "kc:/local:pending edits"}, {"attrid": "kc:/location/location:address", "values": ["287 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea"]}, {"attrid": "kc:/local:hotel booking", "values": ["Check in", "Wed, Jun 15", "Check out", "Thu, Jun 16", "2", "1 guest", "2 guests", "3 guests", "4 guests", "Advertisements", "Featured options", "These ads are based on your current search terms.", "Prices are the public rates available from our partners for the dates shown.", "These partners' prices are lower non-public prices for which you’re eligible:", "• KAYAK.com, Hotels.com, and Expedia.com", "Learn more about prices", "Unless you specified dates, we chose the dates shown based on room availability, or browsing activity and recent searches saved in your ", "Web & App Activity", ". You can manage how your data is used in ", "Privacy settings", ".", "ad settings", "$60", "KAYAK.com", "Free cancellation until", "Jun 11", "$61", "Hotels.com", "Free cancellation until", "Jun 12", "$61", "Expedia.com", "Free cancellation until", "Jun 12", "All options", "$29", "Agoda", "Free cancellation until", "Jun 11", "$61", "Hotels.com", "Free cancellation until", "Jun 12", "View 12 more", "from", "\n      $29\n    ", "Couldn't update prices. ", "Try again", "."]}], "_attrids": ["kc:/location/location:actions", "kc:/local:hotel action", "kc:/local:pending edits", "kc:/location/location:address", "kc:/local:hotel booking"]}, {"sequence": 3, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(9).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 1, "displayed_link": "https://www.agoda.com › busan-kr", "title": "Kolon Seacloud Hotel, Busan | 2022 Updated Prices, Deals - Agoda", "url": "https://www.agoda.com/kolon-seacloud-hotel/hotel/busan-kr.html", "snippet": "Whatever your reason for visiting Busan, Kolon Seacloud Hotel is the perfect venue for an exhilarating and exciting break away. ...", "thumbnail": {"type": "image", "url": "https://www.agoda.com/kolon-seacloud-hotel/hotel/busan-kr.html", "desc": "Kolon Seacloud Hotel from www.agoda.com"}, "rating": {"rating_count": "(1,134)", "rating_value": "7.8/10"}}, {"sequence": 4, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(9).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 2, "displayed_link": "https://www.tripadvisor.com › Hot...", "title": "KOLON SEACLOUD HOTEL $60 ($̶1̶0̶4̶) - Prices & Reviews", "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d1148181-Reviews-Kolon_Seacloud_Hotel-Busan.html", "snippet": "Located in an international leisure resort, Haeundae,Busan Seacloud hotel provides high-class service to meet your needs for ...", "thumbnail": {"type": "image", "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d1148181-Reviews-Kolon_Seacloud_Hotel-Busan.html", "desc": "Kolon Seacloud Hotel from www.tripadvisor.com"}, "rating": {"rating_count": "(278)", "rating_value": "4.0"}}, {"sequence": 5, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(9).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 3, "displayed_link": "https://www.booking.com › hotel", "title": "Kolon Seacloud Hotel (Hotel), Busan (South Korea) Deals - booking.com ...", "url": "https://www.booking.com/hotel/kr/seacloud-busan.html", "snippet": "Seacloud Hotel is a 15-minute drive from Guanganli Beach, famous for its seafood and night views. ...", "thumbnail": {"type": "image", "url": "https://www.booking.com/hotel/kr/seacloud-busan.html", "desc": "Kolon Seacloud Hotel from www.booking.com"}, "properties": [{"key": "Location", "value": "9.0"}], "rating": {"rating_count": "(437)", "rating_value": "6.9/10"}}, {"sequence": 6, "type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(16).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "title": "About", "attrids": [{"attrid": "kc:/local:edit info", "values": ["Suggest an edit", "Suggest an edit", "Change name or other details", "Edit name, location, hours, etc", "Thanks for your feedback.", "Your responses help to improve the Google Search experience.", "Note: Your feedback won't directly influence the ranking of any single page.", "Got it", "Learn more", "Unable to add this file. Please check that it is a valid photo.", "Close or remove", "Mark as closed, non-existent, or duplicate", "Thanks for your feedback.", "Your responses help to improve the Google Search experience.", "Note: Your feedback won't directly influence the ranking of any single page.", "Got it", "Learn more", "Unable to add this file. Please check that it is a valid photo.", "Own this business? Claim it now", "Add website", "Thanks for your feedback.", "Your responses help to improve the Google Search experience.", "Note: Your feedback won't directly influence the ranking of any single page.", "Got it", "Learn more", "Unable to add this file. Please check that it is a valid photo."]}], "_attrids": ["kc:/local:edit info"]}, {"sequence": 7, "type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(18).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "title": "Reviews", "attrids": [{"attrid": "kc:/collection/knowledge_panels/local_reviewable:review_summary", "values": ["Google review summary", "Reviews are automatically processed to detect inappropriate content like fake reviews and spam. We may take down reviews that are flagged in order to comply with ", "Google policies", " or legal obligations.", "4.0", "(1)", "More Google reviews"]}], "_attrids": ["kc:/collection/knowledge_panels/local_reviewable:review_summary"]}, {"sequence": 8, "type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(19).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "title": "Questions & answers", "attrids": [{"attrid": "kc:/local:hotel place qa", "values": ["Be the first to ask a question", "See questions"]}], "_attrids": ["kc:/local:hotel place qa"]}, {"sequence": 9, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 4, "displayed_link": "https://english.visitkorea.or.kr › enu", "title": "KOLON SEACLOUD HOTEL [Korea Quality] / 코오롱씨클라우드호텔 ...", "url": "https://english.visitkorea.or.kr/enu/ACM/AC_EN_4_8.jsp?out_service=&kqyn=Y&kqyn=Y&cid=2351201", "snippet": "As Busan's first residence hotel, Seacloud Hotel is a 30-story building commanding a great view of Haeundae Beach. All the guestrooms are furnished with ..."}, {"sequence": 10, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 5, "displayed_link": "https://www.expedia.com › Busan-...", "title": "Kolon Seacloud Hotel in Busan, South Korea - Expedia", "url": "https://www.expedia.com/Busan-Hotels-Kolon-Seacloud-Hotel.h16526664.Hotel-Information", "snippet": "3.5-star Busan hotel in Haeundae, walk to Haeundae Beach · A restaurant, a fitness center, and a coffee shop/cafe are available at this smoke-free hotel. · Kolon ...", "rating": {"rating_count": "(579)", "rating_value": "3.8"}}, {"sequence": 11, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(3) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 6, "displayed_link": "https://kolon-seacloud-hotel-busan.booked.net", "title": "°KOLON SEACLOUD HOTEL BUSAN 4* (South Korea) - from US$ 154 ...", "url": "https://kolon-seacloud-hotel-busan.booked.net/amp.html", "snippet": "Kolon Seacloud Hotel - Comfortable Kolon Seacloud Hotel Busan is a 4-star property situated only 5 minutes' stroll of the local discount Save Zone Building ..."}, {"sequence": 12, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 7, "displayed_link": "https://www.oyster.com › Hotels", "title": "Kolon Seacloud Hotel Review: What To REALLY Expect If You Stay", "url": "https://www.oyster.com/busan/hotels/kolon-seacloud-hotel/", "snippet": "The most reliable place for accurate and unbiased hotel reviews. Oyster.com secret investigators tell all about Kolon Seacloud ...", "thumbnail": {"type": "image", "url": "https://www.oyster.com/busan/hotels/kolon-seacloud-hotel/", "desc": "Kolon Seacloud Hotel from www.oyster.com"}}, {"sequence": 13, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 8, "displayed_link": "https://ph.hotels.com › kolon-seacl...", "title": "Kolon Seacloud Hotel - Hotels.com Philippines", "url": "https://ph.hotels.com/ho642496/kolon-seacloud-hotel-busan-south-korea/", "snippet": "View deals for Kolon Seacloud Hotel, including fully refundable rates with free cancellation. Guests enjoy the locale. Haeundae Beach is minutes away.", "rating": {"rating_count": "(587)", "rating_value": "7.6/10"}}, {"sequence": 14, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 9, "displayed_link": "https://www.hrs.com › hotel › kolo...", "title": "Kolon Seacloud hotel - 4 HRS star hotel in Busan (Busan Metropolitan ...", "url": "https://www.hrs.com/en/hotel/kolon-seacloud-hotel/a-881571/", "snippet": "Kolon Seacloud hotel (Busan) 287 Haeundaehaebyeon-ro , 48095 Busan - Busan-si · 1 bottle of mineral water · Parking directly ...", "thumbnail": {"type": "image", "url": "https://www.hrs.com/en/hotel/kolon-seacloud-hotel/a-881571/", "desc": "Kolon Seacloud Hotel from www.hrs.com"}, "rating": {"rating_count": "(10)", "rating_value": "7/10"}}, {"sequence": 15, "type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).WvKfwe.a3spGf > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 10, "displayed_link": "https://www.hotelscombined.com › ...", "title": "Kolon Seacloud Hotel, Busan, South Korea - Compare Deals", "url": "https://www.hotelscombined.com/Hotel/Kolon_Seacloud_Hotel.htm", "snippet": "Kolon Seacloud Hotel, Busan, South Korea - Find the best deal at HotelsCombined. Compare all the top ...", "thumbnail": {"type": "image", "url": "https://www.hotelscombined.com/Hotel/Kolon_Seacloud_Hotel.htm", "desc": "Kolon Seacloud Hotel from www.hotelscombined.com"}, "properties": [{"key": "Contact Number", "value": "+82 (0) 51 933 1000"}], "rating": {"rating_count": "(540)", "rating_value": "70%"}}, {"sequence": 16, "type": "discover_more_places", "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LvSfYs-iL5Lp4-EPkIiCiAk5.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(21).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "items": [{"title": "Similar to Kolon Sea Cloud Hotel", "carousels": [{"url": "https://search.google.com/local/places/hotel/navigational?q=%EC%97%98%EB%A6%AC%EC%8B%9C%EC%95%84+%EB%B6%80%ED%8B%B0%ED%81%AC+%ED%98%B8%ED%85%94&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARjejxG_dpfXg&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAB6BAhaEAY", "title": "엘리시아 부티크 호텔", "distance": "0.1 mi away", "price": "$23"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=Kolon+Seacloud+Hotel&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARpGgYJRAQFAM&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAF6BAhaEAg", "title": "Kolon Seacloud Hotel", "distance": "0.1 mi away", "price": "$36"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=Suncloud+Hotel&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARthtNP5zEsk4&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAJ6BAhaEAo", "title": "Suncloud Hotel", "distance": "0.1 mi away", "price": "$52"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=Sunset+Business+Hotel&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARqSAK7TEUcWc&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAN6BAhaEAw", "title": "Sunset Business Hotel", "distance": "0.1 mi away", "price": "$41"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=Best+Western+Haeundae+Hotel&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARARgWn-mBkMk&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAR6BAhaEA4", "title": "Best Western Haeundae Hotel", "distance": "0.1 mi away", "price": "$45"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=The+Bay+Guesthouse&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAAR7H0ayXyu5zU&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAV6BAhaEBA", "title": "The Bay Guesthouse", "distance": "0.1 mi away", "price": "$41"}, {"url": "https://search.google.com/local/places/hotel/navigational?q=Nuri+Hotel+Haeundae&hotel_dates=2022-06-15,2022-06-16&placeid=ChIJAAAAAAAAAAARbSxDSWm5iDE&hl=en&gl=us&pws=0&sa=X&ved=2ahUKEwjP8bqd05z4AhWS9DgGHRCEAJEQxN4EKAZ6BAhaEBI", "title": "Nuri Hotel Haeundae", "distance": "0.1 mi away"}]}, {"title": "Popular hotels in Busan"}]}]}
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "bac80352-5231-4982-a5d9-2caa933dc53b",
+        "sub_id": 0,
+        "requested_time": "2023-01-04T00:34:03.740Z",
+        "q": "제주 신화월드 메리어트",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%A0%9C%EC%A3%BC+%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C+%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0101.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230104/2301040934/110093160072-BAC8035252314982A5D92CAA933DC53B-00.html",
+        "json_url": "http://node0101.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230104/2301040934/110093160072-BAC8035252314982A5D92CAA933DC53B-00.json",
+        "crawl_start_time": "2023-01-04T00:34:03.830Z",
+        "crawl_end_time": "2023-01-04T00:34:11.785Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "제주시",
+            "domain": "wp",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "3.0.0.master",
+        "displayed_query": "제주 신화월드 메리어트",
+        "parsed_time": "2023-01-06T02:03:04.503Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid_23.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0",
+            "selected": "개요",
+            "headers": [
+                "개요",
+                "가격",
+                "리뷰",
+                "위치",
+                "사진",
+                "정보"
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/location/location:actions",
+                    "values": [
+                        "전화",
+                        "경로",
+                        "공유",
+                        "웹사이트",
+                        " 저장"
+                    ]
+                },
+                {
+                    "attrid": "kc:/local:hotel action",
+                    "values": [
+                        "객실 예약"
+                    ]
+                },
+                {
+                    "attrid": "kc:/local:pending edits"
+                },
+                {
+                    "attrid": "kc:/location/location:address",
+                    "values": [
+                        "제주특별자치도 서귀포시 특별자치도, 38 Sinhwayeoksa-Ro 304beon-Gil Andeok-Myeon,Seogwipo-Si"
+                    ]
+                },
+                {
+                    "attrid": "kc:/local:located in",
+                    "values": [
+                        "다음 장소에 위치:",
+                        "제주신화월드"
+                    ]
+                },
+                {
+                    "attrid": "kc:/local:hotel booking",
+                    "values": [
+                        "체크인",
+                        "1월 8일 (일)",
+                        "체크아웃",
+                        "1월 9일 (월)",
+                        "2",
+                        "사용 인원 1명",
+                        "사용 인원 2명",
+                        "사용 인원 3명",
+                        "사용 인원 4명",
+                        "스폰서",
+                        "·",
+                        "추천 옵션",
+                        "현재 검색어를 바탕으로 표시된 광고입니다. 또한 다음을 바탕으로 표시되었을 수도 있습니다.",
+                        "• ",
+                        "이 기기를 사용하여 Google에서 이뤄진 활동(예: 검색)",
+                        "가격은 선택한 날짜에 Google 파트너가 제공하는 공개 가격입니다.",
+                        "자격을 갖춘 사용자에게는 더 낮은 비공개 파트너 가격이 제공됩니다.",
+                        "• Hotels.com, Agoda 및 Trip.com",
+                        "가격에 대해 자세히 알아보기",
+                        "날짜를 명시하지 않는 경우 객실 이용가능 여부 또는 ",
+                        "웹 및 앱 활동",
+                        "에 저장된 탐색 활동 및 최근 검색어를 바탕으로 표시된 날짜가 선택됩니다. 데이터 사용 방식은 ",
+                        "개인정보 보호 설정",
+                        "에서 관리할 수 있습니다.",
+                        "광고 설정",
+                        "₩275,000",
+                        "Jeju Shinhwa World Marriott Resort",
+                        " · ",
+                        "공식 사이트",
+                        "₩277,200",
+                        "Hotels.com",
+                        "₩275,000",
+                        "Agoda",
+                        "모든 옵션",
+                        "₩275,000",
+                        "Jeju Shinhwa World Marriott Resort",
+                        " · ",
+                        "공식 사이트",
+                        "₩144,010",
+                        "Trip.com",
+                        "무료 취소 기한:",
+                        "1월 6일",
+                        "11개 더보기",
+                        "시작가",
+                        "\n      ₩166,169\n    ",
+                        "가격을 업데이트할 수 없습니다. ",
+                        "다시 시도",
+                        "."
+                    ]
+                }
+            ],
+            "ads_exist": true,
+            "_attrids": [
+                "kc:/location/location:actions",
+                "kc:/local:hotel action",
+                "kc:/local:pending edits",
+                "kc:/location/location:address",
+                "kc:/local:located in",
+                "kc:/local:hotel booking"
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.marriott.co.kr › travel",
+            "title": "제주도에 있는 호텔 | 제주신화월드 메리어트 리조트",
+            "url": "https://www.marriott.co.kr/hotels/travel/cjumj-jeju-shinhwa-world-marriott-resort/",
+            "snippet": "호텔 예약을 원하시면 제주신화월드 메리어트 리조트로 예약하세요! 제주도 호텔은 프리미엄 숙박 시설을 제공하며 위치 또한 편리합니다.",
+            "refinements": [
+                {
+                    "text": "객실",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "다이닝",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "프로모션",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "위치",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "갤러리",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "주변 지역",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "피트니스",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(4).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                }
+            ],
+            "rating": {
+                "rating_count": "(353)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(11).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "정보",
+            "attrids": [
+                {
+                    "attrid": "kc:/local:best_photos",
+                    "values": [
+                        "신고"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/local:best_photos"
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(12).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "리뷰",
+            "attrids": [
+                {
+                    "attrid": "kc:/collection/knowledge_panels/local_reviewable:review_summary",
+                    "values": [
+                        "Google 리뷰 요약",
+                        "리뷰는 거짓 리뷰나 스팸과 같은 부적절한 콘텐츠를 걸러내도록 자동 처리됩니다. 신고된 리뷰는 ",
+                        "Google 정책",
+                        " 또는 법적 의무를 준수하기 위해 삭제될 수 있습니다.",
+                        "4.2",
+                        "(7,451)",
+                        "Google 리뷰 더보기"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/collection/knowledge_panels/local_reviewable:review_summary"
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(13).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.marriott.co.kr › travel",
+            "title": "제주도 호텔 상세 및 안내 | 제주신화월드 메리어트 리조트",
+            "url": "https://www.marriott.co.kr/hotels/fact-sheet/travel/cjumj-jeju-shinhwa-world-marriott-resort/",
+            "snippet": "제주도 제주신화월드 메리어트 리조트 안내와 숙박 관련 상세 정보를 확인하세요. 잊지 못할 특별한 추억을 선사합니다. 지금 예약하세요!",
+            "rating": {
+                "rating_count": "(353)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(14).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.marriott.co.kr › hotels",
+            "title": "제주도 객실 및 호텔 어메니티 | 제주신화월드 메리어트 리조트",
+            "url": "https://www.marriott.co.kr/hotels/hotel-rooms/cjumj-jeju-shinhwa-world-marriott-resort/",
+            "snippet": "제주신화월드 메리어트 리조트 객실에는 다양한 어메니티가 마련되어 있습니다. 지금 예약하시고 제주도의 볼거리와 즐길 거리를 확인하세요!",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.marriott.co.kr/hotels/hotel-rooms/cjumj-jeju-shinhwa-world-marriott-resort/",
+                "desc": "제주 신화월드 메리어트(출처: www.marriott.co.kr)"
+            },
+            "rating": {
+                "rating_count": "(353)",
+                "rating_value": "4.2"
+            }
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(16).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.agoda.com › hotel › jej...",
+            "title": "제주신화월드 메리어트 리조트 (Jeju Shinhwa World Marriott Resort) 실제 이용후기 및 할인 특가 - Agoda",
+            "url": "https://www.agoda.com/ko-kr/jeju-shinhwa-world-marriott-resort_3/hotel/jeju-island-kr.html",
+            "snippet": "아고다에서 제주신화월드 메리어트 리조트 (Jeju Shinhwa World Marriott Resort)의 실제 투숙객 이용후기 및 할인 특가를 확인하세요! 최저가 보장제 및 예약 무료 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.agoda.com/ko-kr/jeju-shinhwa-world-marriott-resort_3/hotel/jeju-island-kr.html",
+                "desc": "제주 신화월드 메리어트(출처: www.agoda.com)"
+            },
+            "properties": [
+                {
+                    "key": "가격 대비 만족도",
+                    "value": "8.7"
+                },
+                {
+                    "key": "숙소 위치 평가 점수",
+                    "value": "8.0"
+                }
+            ],
+            "rating": {
+                "rating_count": "(985)",
+                "rating_value": "8.6/10"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(17).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.booking.com › hotel",
+            "title": "메리어트관 제주신화월드 호텔앤리조트 (대한민국 서귀포) - Booking.com",
+            "url": "https://www.booking.com/hotel/kr/jeju-shinhwa-world-marriott-resort.ko.html",
+            "snippet": "메리어트관 제주신화월드 호텔앤리조트는 실내 및 야외 수영장, 스파 시설, 카지노, 비즈니스 센터를 갖추고 있습니다. 모든 객실에 무료 Wi-Fi가 제공됩니다.",
+            "rating": {
+                "rating_count": "(888)",
+                "rating_value": "8.3/10"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(18).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://kr.hotels.com › melieoteugw...",
+            "title": "메리어트관 제주신화월드 호텔앤리조트 - 호텔스닷컴",
+            "url": "https://kr.hotels.com/ho687113152/melieoteugwan-jejusinhwawoldeu-hotel-aenlijoteu-seogwipo-hangug/",
+            "snippet": "메리어트관 제주신화월드 호텔앤리조트 · Marriott Jeju Shinhwa World Hotels & Resorts · 객실 옵션 · 프리미어 스위트, 침실 1개 · 디럭스 스위트, 침실 1개, 금연 · 룸, 킹 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://kr.hotels.com/ho687113152/melieoteugwan-jejusinhwawoldeu-hotel-aenlijoteu-seogwipo-hangug/",
+                "desc": "제주 신화월드 메리어트(출처: kr.hotels.com)"
+            },
+            "rating": {
+                "rating_count": "(886)",
+                "rating_value": "8.8/10"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(19).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://www.expedia.co.kr › Seogwi...",
+            "title": "서귀포의 메리어트관 제주신화월드 호텔앤리조트 2023 특가 및 실제 이용후기 - 익스피디아",
+            "url": "https://www.expedia.co.kr/Seogwipo-Hotels-Marriott-Jeju-Shinhwa-World-Hotels-Resorts.h21441036.Hotel-Information",
+            "snippet": "메리어트관 제주신화월드 호텔앤리조트. Marriott Jeju Shinhwa World Hotels & Resorts. 5성급 숙박 시설. 8.8/10 - 훌륭해요. 886개 ...",
+            "rating": {
+                "rating_count": "(886)",
+                "rating_value": "8.8/10"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://m.blog.naver.com › kayak71",
+            "date": "2022. 3. 25.",
+            "title": "제주도 한달살기 숙소 : 제주 신화월드 메리어트 호텔 가격 비용 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/kayak71/222683120593?isInf=true",
+            "snippet": "2022. 3. 25. — 2022년 힌클랑 제주도 한달살기 숙소 는. 제주 신화월드 메리어트 호텔로 1월에 24박하고 왔는데요. 2021년에 이어 올해도 이용한 힌클랑 단골 제주도 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.blog.naver.com/kayak71/222683120593?isInf=true",
+                "desc": "제주 신화월드 메리어트(출처: m.blog.naver.com)"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(21).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://www.tripadvisor.co.kr › Hot...",
+            "title": "메리어트관 제주신화월드 호텔 앤 리조트 (Jeju Shinhwa World Marriott Resort, 서귀포)",
+            "url": "https://www.tripadvisor.co.kr/Hotel_Review-g297892-d12711766-Reviews-Jeju_Shinhwa_World_Marriott_Resort-Seogwipo_Jeju_Island.html",
+            "snippet": "메리어트관은 제주신화월드의 중심부에 자리 잡고 있는 세계적인 명성의 인터내셔널 체인 호텔입니다. 객실에는 매일 무료로 채워지는 미니바와 프리미엄 어메니티가 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.tripadvisor.co.kr/Hotel_Review-g297892-d12711766-Reviews-Jeju_Shinhwa_World_Marriott_Resort-Seogwipo_Jeju_Island.html",
+                "desc": "제주 신화월드 메리어트(출처: www.tripadvisor.co.kr)"
+            },
+            "rating": {
+                "rating_count": "(634)",
+                "rating_value": "5.0"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(22).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://www.lovely-days.co.kr › ...",
+            "date": "2022. 2. 3.",
+            "title": "제주 신화월드 메리어트 디럭스 킹룸 후기, 객실뷰 신경쓰였던 이유",
+            "url": "https://www.lovely-days.co.kr/m/3626",
+            "snippet": "2022. 2. 3. — 제주 신화 월드에는 총 네 개의 호텔이 있다. 랜딩관, 신화관, 메리어트관, 서머셋. 서머셋은 빌라 형태이고 보통 대규모 인원이나 대가족 등이 주로 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(23).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 11,
+            "displayed_link": "https://www.yanolja.com › kids",
+            "title": "6세맘이 직접 다녀온 신화월드 꼼꼼 총정리 - 야놀자",
+            "url": "https://www.yanolja.com/magazine/kids/635",
+            "snippet": "공항에서 40분 거리, 서귀포시 안덕면에 위치한 제주 신화월드는 2017년 봄 문을 열어 2020년 완공 ... 메리어트-신화-랜딩은 기본 객실 크기와 구성은 거의 비슷해요."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(24).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 12,
+            "displayed_link": "http://m.danawa.com › product",
+            "title": "제주신화월드 메리어트관 제주신화월드 호텔앤리조트 (서귀포) : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/product.html?code=13376120&cateCode=19231551",
+            "snippet": "제주신화월드 메리어트관 제주신화월드 호텔앤리조트 (서귀포) ... 숙박시설 / 오프라인 전용(방문사용) / 제주도 / 호텔 / 주의사항: 쇼핑몰 상세정보 확인.",
+            "rating": {
+                "rating_count": "(37)",
+                "rating_value": "4.7"
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 13,
+            "displayed_link": "http://browse.gmarket.co.kr › search",
+            "title": "제주신화월드메리어트 검색결과 - G마켓",
+            "url": "http://browse.gmarket.co.kr/m/search?keyword=%EC%A0%9C%EC%A3%BC%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8",
+            "snippet": "상품명 |7%할인|제주 호텔| 메리어트관 제주신화월드 호텔앤리조트 (서귀포시). 상품금액 187,000원. 카드 7%. 만족도 94% 입니다. 상품평(7)건; 구매 628건."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 14,
+            "displayed_link": "https://www.hotelpkg.com › view",
+            "title": "메리어트관 제주신화월드 호텔앤리조트 | 서귀포 숙박 숙소 - 호텔패키지닷컴",
+            "url": "https://www.hotelpkg.com/m/goods/view.php?customer_id=1638",
+            "snippet": "제주 서귀포시 안덕면에 위치한 메리어트관 제주신화월드 호텔앤리조트 세계적인 호텔 체인 메리어트의 고품격 서비스를 제주에서 느껴보세요.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.hotelpkg.com/m/goods/view.php?customer_id=1638",
+                "desc": "제주 신화월드 메리어트(출처: www.hotelpkg.com)"
+            }
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(27).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 15,
+            "displayed_link": "https://www.google.com › entity › a...",
+            "title": "제주신화월드 메리어트 리조트 - Google 호텔",
+            "url": "https://www.google.com/travel/hotels/entity/CgoI37T9kq3R9oQ2EAE?hl=ko-KR&gl=kr&gsas=1&ei=daUXYuWpNdSQ2QL25rvwBA&sa=X&ved=0CAAQ5JsGahcKEwjY8r2Pyqf8AhUAAAAAHQAAAAAQBQ&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjnDxABGAQSBwjnDxABGAUYATICEAAqCQoFOgNLUlcaAA&authuser",
+            "snippet": "제주 신화월드 내에 위치하고 있는 리조트로 랜딩관, 신화관, 서머셋관과 함께 제주 신화월드 메리어트관이 있는데요, 전체적인 분위기는 좀 비슷해보이지만 세계적인 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 16,
+            "displayed_link": "https://m.kkday.com › 한국 › 제주도",
+            "title": "제주 신화월드 메리어트관 - KKday",
+            "url": "https://m.kkday.com/ko/product/132939",
+            "snippet": "신화월드 메리어트관은 제주 신화월드의 중심부에 자리 잡고 있는 세계적인 명성의 인터내셔널 체인 호텔입니다. 객실에는 무료 미니바와 프리미엄 어메니티가 제공 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.kkday.com/ko/product/132939",
+                "desc": "제주 신화월드 메리어트(출처: m.kkday.com)"
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 17,
+            "displayed_link": "http://mtour.interpark.com › Goods",
+            "title": "[카텔] 메리어트관 제주신화월드 + 렌터카 3일 - 인터파크투어",
+            "url": "http://mtour.interpark.com/tour/Goods.aspx?baseGoodsCD=AAA12482",
+            "snippet": "항공권 · 1. 렌트카 대여일 기준 만 21세 이상, 운전면허 취득 1년이상 · 2. 승합차 사용시 만 26세이상 운전 경력 5년이상 · 3. 렌트카 최대 48시간 포함, 미사용분은 환불 ...",
+            "rating": {
+                "rating_count": "(3,800)",
+                "rating_value": "3.5"
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(30).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 18,
+            "displayed_link": "http://browse.auction.co.kr › search",
+            "title": "신화월드 메리어트 : 모바일 쇼핑은 옥션",
+            "url": "http://browse.auction.co.kr/m/search?keyword=%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8",
+            "snippet": "상품명 |7%할인|제주 호텔| 메리어트관 제주신화월드 호텔앤리조트 (서귀포시). 상품금액209,000원. 무료배송. 후기평점 4.7점. 후기 52건; 구매 223건.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://browse.auction.co.kr/m/search?keyword=%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8",
+                "desc": "제주 신화월드 메리어트(출처: browse.auction.co.kr)"
+            }
+        },
+        {
+            "sequence": 23,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(31).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 19,
+            "displayed_link": "https://jadu0924.tistory.com › ...",
+            "date": "2022. 10. 27.",
+            "title": "제주 신화월드 메리어트 프리미어 패밀리룸 (온수수영장 신화테마파크) 후기 - 자두",
+            "url": "https://jadu0924.tistory.com/3",
+            "snippet": "2022. 10. 27. — 안녕하세요 이번에 제주여행 때 다녀온 신화월 메리어트관 저렴하게 다녀와서 후기 올려요^^ 작년에 신화 월드 신화관에서 숙박한 적이 있는데 이번에 ..."
+        },
+        {
+            "sequence": 24,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(32).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "질문과 답변",
+            "attrids": [
+                {
+                    "attrid": "kc:/local:hotel place qa",
+                    "values": [
+                        "커뮤니티에 질문",
+                        "질문 보기(7개)"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/local:hotel place qa"
+            ]
+        },
+        {
+            "sequence": 25,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(33).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 20,
+            "displayed_link": "https://m.shoppinghow.kakao.com › ...",
+            "title": "제주 신화월드 메리어트 - 검색결과 - 쇼핑하우",
+            "url": "https://m.shoppinghow.kakao.com/m/search/q/%EC%A0%9C%EC%A3%BC%20%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8",
+            "snippet": "무료배송 · 할인쿠폰 · 32만원~64만원 · 오픈마켓 · 백화점/홈쇼핑 · 전문몰 · 종합몰 · 소호몰",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.shoppinghow.kakao.com/m/search/q/%EC%A0%9C%EC%A3%BC%20%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8",
+                "desc": "제주 신화월드 메리어트(출처: m.shoppinghow.kakao.com)"
+            }
+        },
+        {
+            "sequence": 26,
+            "type": "discover_more_places",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(34).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).hijiJc",
+            "items": [
+                {
+                    "title": "제주신화월드 메리어트 리조트과(와) 비슷한 호텔",
+                    "carousels": [
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EC%8B%A0%ED%99%94%EA%B4%80+%EC%A0%9C%EC%A3%BC%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C+%ED%98%B8%ED%85%94%EC%95%A4%EB%A6%AC%EC%A1%B0%ED%8A%B8&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR_le4lTV76pU&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAB6BAhcEAY",
+                            "title": "신화관 제주신화월드 호텔앤리조트",
+                            "distance": "0.2km 거리",
+                            "price": "₩203,290"
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EB%9E%9C%EB%94%A9%EA%B4%80+%EC%A0%9C%EC%A3%BC%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C+%ED%98%B8%ED%85%94%EC%95%A4%EB%A6%AC%EC%A1%B0%ED%8A%B8&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARyGXS_y9wDpw&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAF6BAhcEAg",
+                            "title": "랜딩관 제주신화월드 호텔앤리조트",
+                            "distance": "0.2km 거리",
+                            "price": "₩154,691"
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%ED%85%8C%EB%94%94%EB%B0%B8%EB%A6%AC+%EA%B3%A8%ED%94%84%26%EB%A6%AC%EC%A1%B0%ED%8A%B8&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARhZ2BsulADcU&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAJ6BAhcEAo",
+                            "title": "테디밸리 골프&리조트",
+                            "distance": "3.3km 거리",
+                            "price": "₩159,221"
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=Mercure+Ambassador+Jeju&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARVcugh5w11uc&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAN6BAhcEAw",
+                            "title": "Mercure Ambassador Jeju",
+                            "distance": "3.3km 거리",
+                            "price": "₩137,982"
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EB%A8%B8%ED%81%90%EC%96%B4+%EC%95%B0%EB%B0%B0%EC%84%9C%EB%8D%94+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR882GrLHnhXE&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAR6BAhcEA4",
+                            "title": "머큐어 앰배서더 제주",
+                            "distance": "3.3km 거리",
+                            "price": "₩156,750"
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%ED%98%B8%ED%85%94%ED%85%8C%EB%94%94%EB%B0%B8%EB%A6%AC%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR0u-I6ksLEJo&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQxN4EKAV6BAhcEBA",
+                            "title": "호텔테디밸리제주",
+                            "distance": "3.3km 거리",
+                            "price": "₩155,941"
+                        }
+                    ]
+                },
+                {
+                    "title": "서귀포시 인기 호텔",
+                    "carousels": [
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EC%A0%9C%EC%A3%BC%EC%8B%A0%EB%9D%BC%ED%98%B8%ED%85%94&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR4jnTKUd1pwk&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAB6BAhcEBY",
+                            "title": "제주신라호텔",
+                            "distance": "10.7km 거리",
+                            "price": "₩343,928",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARwcUN_UgUQx0&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAF6BAhcEBg",
+                            "title": "롯데호텔 제주",
+                            "distance": "10.9km 거리",
+                            "price": "₩366,700",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EA%B7%B8%EB%9E%9C%EB%93%9C+%EC%A1%B0%EC%84%A0+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARPWN_8DqfkrQ&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAJ6BAhcEBo",
+                            "title": "그랜드 조선 제주",
+                            "distance": "10.4km 거리",
+                            "price": "₩269,389",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=WE%ED%98%B8%ED%85%94+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARs7hn6t5mrdQ&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAN6BAhcEBw",
+                            "title": "WE호텔 제주",
+                            "distance": "12km 거리",
+                            "price": "₩183,105",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EC%8A%A4%EC%9C%84%ED%8A%B8%ED%98%B8%ED%85%94+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARdHtRxdEwYHM&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAR6BAhcEB4",
+                            "title": "스위트호텔 제주",
+                            "distance": "10.6km 거리",
+                            "price": "₩186,324",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EB%8D%94+%EA%B7%B8%EB%9E%9C%EB%93%9C+%EC%84%AC%EC%98%A4%EB%A6%84&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARSE5KsU_ru4A&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAV6BAhcECA",
+                            "title": "더 그랜드 섬오름",
+                            "distance": "19.8km 거리",
+                            "price": "₩119,548",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EB%B2%A0%EC%9D%B4%ED%9E%90%ED%92%80%EC%95%A4%EB%B9%8C%EB%9D%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR7kK2ztU0diI&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAZ6BAhcECI",
+                            "title": "베이힐풀앤빌라",
+                            "distance": "9.4km 거리",
+                            "price": "₩205,453",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%ED%8C%8C%EB%A5%B4%EB%82%98%EC%8A%A4+%ED%98%B8%ED%85%94+%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAAR23SvReNVtEk&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAd6BAhcECQ",
+                            "title": "파르나스 호텔 제주",
+                            "distance": "10.8km 거리",
+                            "price": "₩306,852",
+                            "hidden": true
+                        },
+                        {
+                            "url": "https://search.google.com/local/places/hotel/navigational?q=%EC%8D%A8%EB%8B%88%EB%8D%B0%EC%9D%B4%EC%A0%9C%EC%A3%BC&hotel_dates=2023-01-08,2023-01-09&placeid=ChIJAAAAAAAAAAARhLQ8KkCEpqg&num=20&hl=ko&gl=kr&sa=X&ved=2ahUKEwjGuJ271az8AhXVmVYBHWrfCtEQi6wFKAh6BAhcECY",
+                            "title": "써니데이제주",
+                            "distance": "13.3km 거리",
+                            "price": "₩91,800",
+                            "hidden": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 27,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "제주 신화월드 메리어트 후기",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#e8m0Y4aPOdWz2roP6r6riA0__198 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주 신화월드 메리어트관",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__199 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "신화월드 메리어트 조식",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__201 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주신화월드 워터파크",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__203 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주 신화월드 후기",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__205 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주신화월드 호텔",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__206 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주신화 호텔",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__207 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "제주신화월드 랜딩관",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_e8m0Y4aPOdWz2roP6r6riA0_19.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#e8m0Y4aPOdWz2roP6r6riA0__209 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "22b73e67-5a21-43cd-aae0-428de0e76fd0",
+        "sub_id": 0,
+        "requested_time": "2023-05-22T00:07:38.838Z",
+        "q": "아이 루@ 얽 붉",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%95%84%EC%9D%B4+%EB%A3%A8%40+%EC%96%BD+%EB%B6%89&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://node0107.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/230522/2305220907/122099164024-22B73E675A2143CDAAE0428DE0E76FD0-00.html",
+        "json_url": "http://node0107.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/230522/2305220907/122099164024-22B73E675A2143CDAAE0428DE0E76FD0-00.json",
+        "crawl_start_time": "2023-05-22T00:07:39.329Z",
+        "crawl_end_time": "2023-05-22T00:07:47.722Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 8.39
+    },
+    "information": {
+        "version": "5.2.0.master",
+        "displayed_query": "아이 루@ 얽 붉",
+        "parsed_time": "2023-05-25T07:34:08.587Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › 동반자 아이루",
+            "date": "2023. 2. 16.",
+            "title": "동반자 아이루 - 나무위키",
+            "url": "https://namu.wiki/w/%EB%8F%99%EB%B0%98%EC%9E%90%20%EC%95%84%EC%9D%B4%EB%A3%A8",
+            "snippet": "2023. 2. 16. — 부위파괴로 얻을수 있는 소재를 얻지 못하거나, 아이루 동반 불가 퀘스트에서 고생을 하는게 주요 특징이다. 그리고 최신 iOS판 몬스터 헌터 포터블 ...",
+            "missing_words": [
+                "얽"
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://namu.wiki › 동반자",
+            "date": "2023. 4. 20.",
+            "title": "몬스터 헌터 라이즈/동반자 - 나무위키",
+            "url": "https://namu.wiki/w/%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%97%8C%ED%84%B0%20%EB%9D%BC%EC%9D%B4%EC%A6%88/%EB%8F%99%EB%B0%98%EC%9E%90",
+            "snippet": "2023. 4. 20. — 동반자가 가드(아이루), 흘리기(가루크)에 성공하면 카운터 공격을 가해 몬스터에게 피해를 입힌다. 칠전팔기술 / 기억력: 2 / 습득 레벨: 45 선브레이크 ..."
+        },
+        {
+            "sequence": 3,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=5iWpTJ8TswQ"
+                        },
+                        {
+                            "source": "MONSTER HUNTER RISE | CAPCOM",
+                            "landing_url": "https://www.monsterhunter.com/rise/kr/buddy/"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "나무위키",
+                            "landing_url": "https://namu.wiki/w/%EB%8F%99%EB%B0%98%EC%9E%90%20%EC%95%84%EC%9D%B4%EB%A3%A8"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=zvGLCaaP184"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "나무위키",
+                            "landing_url": "https://namu.wiki/w/%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%97%8C%ED%84%B0%20%EB%9D%BC%EC%9D%B4%EC%A6%88/%EB%8F%99%EB%B0%98%EC%9E%90"
+                        },
+                        {
+                            "source": "인벤",
+                            "landing_url": "https://m.inven.co.kr/webzine/wznews.php?idx=204742&site=mhf"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "루리웹",
+                            "landing_url": "https://bbs.ruliweb.com/family/4442/board/185601/read/17975"
+                        },
+                        {
+                            "source": "나무위키",
+                            "landing_url": "https://namu.wiki/w/%EC%88%98%EC%9D%B8%EC%A2%85"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://game.capcom.com › page",
+            "title": "동반자 아이루 | MONSTER HUNTER RISE SUNBREAK 공식 Web 매뉴얼",
+            "url": "https://game.capcom.com/manual/MHRISE/ko/switch/page/12/2",
+            "snippet": "아이루면서 헌터의 자격을 갖춘 아이루를 동반자 아이루라고 부릅니다. 동반자 아이루는 회복과 덫 설치 등 헌터를 서포트하는 데 특화되어 있습니다.",
+            "missing_words": [
+                "얽",
+                "붉"
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 6,
+            "displayed_link": "https://game.capcom.com › page",
+            "title": "Iceborne 공식 Web 매뉴얼 | 동반자 아이루의 육성/장비",
+            "url": "https://game.capcom.com/manual/MHW_PC/ko/steam/page/12/2",
+            "snippet": "동반자 아이루가 레벨 업하면 체력과 공격력이 상승합니다. 레벨 업하려면 동반자 아이루와 함께 퀘스트와 탐색을 하십시오. 헌터와의 사냥에서 경험치를 취득해 레벨 ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 7,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "[몬헌 라이즈 : 선브레이크] 몬스터 사냥으로는 획득불가! 마스터 랭크 특수 ...",
+            "url": "https://m.youtube.com/watch?v=SabQb93fzck",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:2d774333,vid:SabQb93fzck",
+                "date": "2022. 7. 29."
+            },
+            "missing_words": [
+                "얽"
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 8,
+            "displayed_link": "http://62.197.49.66 › ...",
+            "title": "[1d02] 몬헌 슬액",
+            "url": "http://62.197.49.66:19004/061433.pdf",
+            "snippet": "빙아룡+ 소재의 11레어 무기. dps와 수렵시간에 얽메이지 않고 천천히 사냥할 용 ... 현재 커스텀은 '간파' 스킬을 따로 세팅하지 않아 '파이트' 아이루를 필수적으로 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "선브레이크 아이루"
+                },
+                {
+                    "query": "아이루 장비 추천"
+                },
+                {
+                    "query": "아이루 서포트 행동"
+                },
+                {
+                    "query": "아이루 약탈의 칼"
+                },
+                {
+                    "query": "파이트 아이루 회심"
+                },
+                {
+                    "query": "선브 아이루"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 9,
+            "displayed_link": "https://store.nintendo.co.kr › ...",
+            "title": "【코스튬】아이루 모자 - 닌텐도 온라인 스토어",
+            "url": "https://store.nintendo.co.kr/70050000025920",
+            "snippet": "『몬스터헌터』 시리즈로부터 아이루 모자가 등장! 시리즈에서도 익숙한 헌터의 듬직한 동반자 「아이루」가 분위기를 띄운다냥! 둥글고 귀엽고 사랑스러운 아이루가 ...",
+            "missing_words": [
+                "얽"
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 10,
+            "displayed_link": "https://schrels.pw › Artictles New",
+            "date": "9시간 전",
+            "title": "제로게임 백산 죽음 - 2023",
+            "url": "https://schrels.pw/1499126--",
+            "snippet": "9시간 전 — 쌍둥이라 그런지 눈색 (백산은 붉은색, 백신우는 하늘색)을 제외하면 거의 ... 제로게임 #백산 #빛나산파세요 #퍼니메이트 오리지널 사운드 - 똘아이 ..."
+        }
+    ]
+}

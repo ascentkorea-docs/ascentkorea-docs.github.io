@@ -1,0 +1,158 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "994c0000-2a6b-4472-b171-a4cd072fbaa2",
+        "sub_id": 0,
+        "requested_time": "2022-12-19T01:38:29.869Z",
+        "q": "엄격성 지수",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%97%84%EA%B2%A9%EC%84%B1+%EC%A7%80%EC%88%98&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://node0013.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/221219/2212191038/049238204227-994C00002A6B4472B171A4CD072FBAA2-00.html",
+        "json_url": "http://node0013.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/221219/2212191038/049238204227-994C00002A6B4472B171A4CD072FBAA2-00.json",
+        "crawl_start_time": "2022-12-19T01:38:29.933Z",
+        "crawl_end_time": "2022-12-19T01:38:34.399Z",
+        "device": "mobile",
+        "usage_id": "soohyeonjin",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.3.0.master",
+        "displayed_query": "엄격성 지수",
+        "parsed_time": "2022-12-19T01:38:34.689Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "scholar",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "title": "엄격성 지수에 대한 학술자료",
+            "cards": [
+                {
+                    "title": "엄격성지수 (RI) 를 활용한 FTA 원산지규정 분석",
+                    "url": "https://scholar.google.co.kr/scholar_url?url=https://www.dbpia.co.kr/Journal/articleDetail%3FnodeId%3DNODE11008925&hl=ko&sa=X&ei=lsCfY-XaNNKxywSqmKWoBQ&scisig=AAGBfm0FClXg_ks6o_UweAOigoTRNKPpVA&oi=scholarr"
+                },
+                {
+                    "title": "한국 FTA 원산지규정의 엄격성이 무역거래량에 미치는 …",
+                    "url": "https://scholar.google.co.kr/scholar_url?url=https://www.dbpia.co.kr/Journal/articleDetail%3FnodeId%3DNODE01775346&hl=ko&sa=X&ei=lsCfY-XaNNKxywSqmKWoBQ&scisig=AAGBfm2Cgk4ZkmfkqIoMmiDYPELBd39yvQ&oi=scholarr"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://namu.wiki › 엄격성 지수",
+            "date": "2022. 8. 24.",
+            "title": "엄격성 지수 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%97%84%EA%B2%A9%EC%84%B1%20%EC%A7%80%EC%88%98",
+            "snippet": "2022. 8. 24. — 영국 옥스퍼드 대학교 블라바트닉 행정대학원(Blavatnik School of Government)의 연구진이 국가별 코로나19 대응 수준을 수치화하여 발표한 보고서 ..."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "http://www.mohw.go.kr › react",
+            "date": "2021. 11. 11.",
+            "title": "주요국 코로나19 대응 전략 비교",
+            "url": "http://www.mohw.go.kr/react/modules/download.jsp?BOARD_ID=140&CONT_SEQ=368821&FILE_SEQ=330849",
+            "snippet": "2021. 11. 11. — Ⅰ. 코로나19 방역 대응, 비교와 평가. Ⅱ. 정부 대응 엄격성 지수 (w/ OxCGRT data). Ⅲ. 경제 vs 방역. Ⅳ. 백신 접종. Ⅴ. '단계적 일상회복'?"
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.gidcc.or.kr › 경...",
+            "date": "2021. 7. 15.",
+            "title": "경기도 일일상황분석 보고서",
+            "url": "https://www.gidcc.or.kr/wp-content/uploads/2021/07/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EC%9D%BC%EC%9D%BC%EC%83%81%ED%99%A9%EB%B6%84%EC%84%9D-%EB%B3%B4%EA%B3%A0%EC%84%9C-386%ED%98%B82021.7.15..pdf",
+            "snippet": "2021. 7. 15. — 엄격성 지수(Stringency Index). - 정부의 코로나19 대응 수준을 수치화하여 나타내는 지수. - 영국 옥스퍼드 대학교 Blavatnik school of ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.kci.go.kr › kciportal",
+            "title": "FTA 원산지결정기준의 엄격성지수에 관한 연구: 수산물을 중심으로 - 한국학술지인용색인",
+            "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002305341",
+            "snippet": "A Study on Restrictiveness Index of Product Specific Rule(PSR) under FTA: Focusing on the Fishery product - Restrictiveness Index;Product Specific Rule(PSR) ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.earticle.net › Article",
+            "date": "전은구 저술",
+            "title": "엄격성 지수 분석에 따른 감염병 대응 정책 효과성 분석 - eArticle",
+            "url": "https://www.earticle.net/Article/A420026",
+            "snippet": "전은구 저술 · 2022 — 한국재난정보학회는 공공기관, 학계, 연구기관 그리고 민간관련회사 등의 상호협력과 유대강화를 통하여 국가 및 민간차원의 안전관련 재난정보 공유를 통한 재난사고에 ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://policy.nl.go.kr › searchDetail",
+            "title": "중동 및 북아프리카의 코로나바이러스감염증-19(COVID-19) 정책 및 제도적 대응 - POINT 정책정보포털 | 상세정보",
+            "url": "https://policy.nl.go.kr/search/searchDetail.do?rec_key=SH2_PLC20200258821",
+            "snippet": "상세정보 · 저자. Yasmina Abouzzohour · 발행처. Brookings Institution · 발행연도. 2020 · 분류(BRM). 보건-보건의료, 일반공공행정-국정운영 · 소개 · 출처 URL · 국가명."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://news.kbs.co.kr › news › view",
+            "date": "2022. 1. 11.",
+            "title": "[팩트체크K] 한국의 코로나19 방역 통제, 가장 낮은 수준이다? - KBS뉴스",
+            "url": "https://news.kbs.co.kr/news/view.do?ncd=5369310",
+            "snippet": "2022. 1. 11. — '방역패스(접종증명·음성확인제)'의 효력을 두고 법정 공방이 이어지고 있는 가운데 어제(10일)부터 본격..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://eiec.kdi.re.kr › domesticView",
+            "date": "2020. 11. 20.",
+            "title": "코로나19에 대한 정부 대응이 경제에 미친 영향 | 국내연구자료 - KDI 경제정보센터",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000154618",
+            "snippet": "2020. 11. 20. — 현대경제연구원은 본고에서 코로나19 확산 방지를 위한 정부 정책 대응이 주요국 실물 경제 각 분야에 미친 영향의 크기를 파악하고자 하였다."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "http://m.tbs.seoul.kr › newsView",
+            "date": "2022. 1. 4.",
+            "title": "청와대 \"한국 '엄격성 지수' 최하위…방역 통제 강하지 않아\" | 서울특별시 미디어재단 TBS",
+            "url": "http://m.tbs.seoul.kr/news/newsView.do?seq_800=20451723&typ_800=9",
+            "snippet": "2022. 1. 4. — 청와대는 한국의 방역 통제 상황이 다른 나라보다 비교적 낮은 수준이라고 밝혔습니다. 박수현 청와대 국민소통수석 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.tbs.seoul.kr/news/newsView.do?seq_800=20451723&typ_800=9",
+                "desc": "엄격성 지수(출처: m.tbs.seoul.kr)"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://www.donga.com › article › all",
+            "date": "2021. 11. 11.",
+            "title": "[단독]英옥스퍼드大 “한국 코로나 방역 강도, G20 최저 수준” - 동아일보",
+            "url": "https://www.donga.com/news/amp/all/20211111/110186081/1",
+            "snippet": "2021. 11. 11. — 한국의 신종 코로나바이러스 감염증(코로나19) 대응 수위가 주요 국가에 비해 크게 낮은 것으로 분석됐다. 단계적 일상 회복(위드 코로나) 시작으로 ..."
+        }
+    ]
+}

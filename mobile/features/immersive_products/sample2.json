@@ -1,0 +1,631 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "9e97fd9a-f1f3-4582-98af-0cc2d8720d32",
+        "sub_id": 0,
+        "requested_time": "2023-05-18T06:48:00.725Z",
+        "q": "ipad",
+        "location": "Japan",
+        "gl": "jp",
+        "hl": "ja",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=ipad&hl=ja&gl=jp&uule=w+CAIQICIFSmFwYW4",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181548/119207076130-9E97FD9AF1F3458298AF0CC2D8720D32-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230518/2305181548/119207076130-9E97FD9AF1F3458298AF0CC2D8720D32-00.json",
+        "crawl_start_time": "2023-05-18T06:48:00.770Z",
+        "crawl_end_time": "2023-05-18T06:48:08.741Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 7.97
+    },
+    "information": {
+        "version": "5.1.0.master",
+        "displayed_query": "ipad",
+        "parsed_time": "2023-05-18T06:48:11.373Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.apple.com › ipad",
+            "title": "iPad - Apple（日本）",
+            "url": "https://www.apple.com/jp/ipad/",
+            "snippet": "iPadの世界へようこそ。まったく新しいiPadとiPad Pro、パワフルなiPad AirとiPad miniを紹介します。",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.apple.com/jp/ipad/",
+                "desc": "www.apple.com からのipad"
+            },
+            "refinements": [
+                {
+                    "text": "iPad Air"
+                },
+                {
+                    "text": "iPad Pro"
+                },
+                {
+                    "text": "10.2インチiPad（第9世代）"
+                },
+                {
+                    "text": "整備済製品"
+                },
+                {
+                    "text": "iPad mini"
+                },
+                {
+                    "text": "iPad Airを購入"
+                },
+                {
+                    "text": "iPad Proを購入"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4).cUnQKe.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "iPadの寿命は何年？",
+                    "displayed_link": "https://www.pc819.com › media › i...",
+                    "url": "https://www.pc819.com/media/tablet-trouble/ipad-lifespan/#:~:text=iPad%E3%81%AE%E5%AF%BF%E5%91%BD%E3%81%AF%E3%80%81%E5%B9%B3%E5%9D%87,%E8%B2%B7%E3%81%84%E6%9B%BF%E3%81%88%E3%82%92%E6%A4%9C%E8%A8%8E%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+                    "title": "iPadの寿命は何年？買い替えのタイミングや古いiPadの処分方法も ...",
+                    "snippet": "iPadの寿命は、平均3～5年です。 Apple公式の見解によると3年ですが、それ以上使用することも可能です。 充電回数を減らし、温度管理や保護ケースに入れるなど、大切に扱うことで寿命を延ばすことができます。 しかし、OSのバージョンアップの対象外になった場合は買い替えを検討しましょう。2022/03/03"
+                },
+                {
+                    "question": "iPad 学割 何円引き？",
+                    "displayed_link": "https://livewell-m.com › entry › ipa...",
+                    "url": "https://livewell-m.com/entry/ipad-gakuwari/#:~:text=%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F,%E3%81%AE%E5%89%B2%E5%BC%95%E7%8E%87%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82",
+                    "title": "【2023年版】iPadを学割で購入する方法を解説！注意したい条件とは？",
+                    "snippet": "よくある質問 Appleの学割でiPadをどれくらい安く買えますか？ iPadモデルや選択するストレージ容量によりますが、通常価格から約10%前後の割引率となります。2023/05/06"
+                },
+                {
+                    "question": "iPad AIRとは何ですか？",
+                    "displayed_link": "https://www.kashi-mo.com › media",
+                    "url": "https://www.kashi-mo.com/media/8569/#:~:text=iPad%20Air(%E7%AC%AC5%E4%B8%96%E4%BB%A3)%E3%81%AF%E3%80%812022%E5%B9%B43,%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+                    "title": "iPad種類の違い比較と選び方｜iPad・Pro・Air・miniどれが ...",
+                    "snippet": "iPad Air(第5世代)は、2022年3月18日に発売されたモデルです。 Appleの高性能なチップを搭載しており、5G通信にも対応しています。"
+                },
+                {
+                    "question": "iPad 第一世代 何年？",
+                    "displayed_link": "https://www.kashi-mo.com › media",
+                    "url": "https://www.kashi-mo.com/media/83702/",
+                    "title": "歴代iPad全モデルを比較！発売日・価格・サイズ・各モデルの見分け方"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "video_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "【損をしない】iPadどれ買うべきか実機で紹介!後悔しない選び方 ...",
+                    "url": "https://m.youtube.com/watch?v=FZuHSLGjJKc",
+                    "date": "1か月前"
+                },
+                {
+                    "title": "今コスパの良いiPadはズバリこれ！iPadの全モデルについて語り ...",
+                    "url": "https://m.youtube.com/watch?v=cGnRT42YiJk",
+                    "date": "2023/02/20"
+                },
+                {
+                    "title": "【バトル勃発？！】iPadは要らない？iPadアンチとガチトークしてみた！",
+                    "url": "https://m.youtube.com/watch?v=F13_CxjLzBk",
+                    "date": "20時間前"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "immersive_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(9).baPFxb.g.kSMK2",
+            "title": "人気商品",
+            "refinements": [
+                {
+                    "text": "￥29,999以下"
+                },
+                {
+                    "text": "￥29,999～￥89,999"
+                },
+                {
+                    "text": "￥89,999以上"
+                }
+            ],
+            "carousels": [
+                {
+                    "title": "Apple iPad (第9世代)",
+                    "snippet": "2 件以上のハイライト速い2,104 件のユーザー レビュー使いやすい1,777 件のユーザー レビュー速い2,104 件のユーザー レビュー使いやすい1,777 件のユーザー レビュー",
+                    "price": "￥49,800",
+                    "provider": "AAmazon公式サイト他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "url": "https://yourlog.me/ipad-8-smart-keyboad/",
+                    "title": "Apple iPad (第8世代)",
+                    "snippet": "3 件以上のハイライトディスプレイが大きい。, iPadOSはタブレット史上いちばん使いやすい。Yourlogディスプレイが大きい。, iPadOSはタブレット史上いちばん使いやすい。",
+                    "price": "￥47,000再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad (第4世代)",
+                    "snippet": "4 件以上のハイライトiPad3に比べて、処理速度が2倍速い, 「Lightning」コネクタに変更された事で、前の周辺機器には変換コネクタが必要iPad中古比較.comiPad3に比べて、処理速度が2倍速い, 「Lightning」コネクタに変更された事で、前の周辺機器には変換コネクタが必要",
+                    "price": "￥68,800",
+                    "provider": "~ヨドバシカメラ他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "APPLE iPad 第10世代 10.9インチ Wi-Fi 64GB MPQ13J/A ブルー",
+                    "snippet": "2 件以上のハイライト使いやすい779 件のユーザー レビュー速い528 件のユーザー レビュー使いやすい779 件のユーザー レビュー速い528 件のユーザー レビュー",
+                    "price": "￥68,800",
+                    "provider": "AApple他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Pro 11インチ 第4世代 Wi-Fi 128GB MNXD3J/A",
+                    "snippet": "4 件以上のハイライト速い169 件のユーザー レビュー画質のよいディスプレイ117 件のユーザー レビュー速い169 件のユーザー レビュー画質のよいディスプレイ117 件のユーザー レビュー",
+                    "price": "￥47,000",
+                    "provider": "Ccitypalaceresort.com他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "url": "https://kakutakei.com/ipadmini-accessary/",
+                    "title": "Apple iPad mini 6",
+                    "snippet": "4 件以上のハイライトきれいに使えて、売る時も高くなる, 購入するのにお金がかかるけいたろー通信きれいに使えて、売る時も高くなる, 購入するのにお金がかかる",
+                    "price": "￥78,799",
+                    "provider": "AAmazon公式サイト他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(7k+)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad mini (第5世代)",
+                    "snippet": "3 件以上のハイライトiPad mini4から約3年半ぶりのmini新モデル, 他メーカーの7インチタブレットと比べて値段が高めiPad中古比較.comiPad mini4から約3年半ぶりのmini新モデル, 他メーカーの7インチタブレットと比べて値段が高め",
+                    "price": "￥39,800中古",
+                    "provider": "~イオシス",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(3k+)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad mini 4",
+                    "snippet": "4 件以上のハイライトiPad全シリーズ中、最軽量＆最薄, 他メーカーの7インチタブレットと比べて値段が高めiPad中古比較.comiPad全シリーズ中、最軽量＆最薄, 他メーカーの7インチタブレットと比べて値段が高め",
+                    "price": "￥22,300再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(7k+)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad Air (第3世代)",
+                    "snippet": "4 件以上のハイライトiPad Air2発売から約4年半ぶりのAir新モデル, 通常のiPadより値段が高いiPad中古比較.comiPad Air2発売から約4年半ぶりのAir新モデル, 通常のiPadより値段が高い",
+                    "price": "￥35,800中古",
+                    "provider": "~イオシス他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(4k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad (第6世代)",
+                    "snippet": "2 件以上のハイライト速い587 件のユーザー レビュー使いやすい333 件のユーザー レビュー速い587 件のユーザー レビュー使いやすい333 件のユーザー レビュー",
+                    "price": "￥26,300再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad (第7世代)",
+                    "snippet": "2 件以上のハイライト使いやすい669 件のユーザー レビュー速い651 件のユーザー レビュー使いやすい669 件のユーザー レビュー速い651 件のユーザー レビュー",
+                    "price": "￥40,981再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Pro 第4世代 (11)",
+                    "snippet": "3 件以上のハイライト速い267 件のユーザー レビュー画質のよいディスプレイ165 件のユーザー レビュー速い267 件のユーザー レビュー画質のよいディスプレイ165 件のユーザー レビュー",
+                    "price": "￥68,090中古",
+                    "provider": "PPCガレージ他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(3k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Air 4",
+                    "snippet": "3 件以上のハイライト使いやすい753 件のユーザー レビュー速い703 件のユーザー レビュー使いやすい753 件のユーザー レビュー速い703 件のユーザー レビュー",
+                    "price": "￥6,980中古",
+                    "provider": "~イオシス",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Air",
+                    "snippet": "3 件以上のハイライト使いやすい1,100 件のユーザー レビュー速い778 件のユーザー レビュー使いやすい1,100 件のユーザー レビュー速い778 件のユーザー レビュー",
+                    "price": "￥10,800中古",
+                    "provider": "~イオシス",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad mini",
+                    "snippet": "3 件以上のハイライト使いやすい1,268 件のユーザー レビュー長い電池寿命804 件のユーザー レビュー使いやすい1,268 件のユーザー レビュー長い電池寿命804 件のユーザー レビュー",
+                    "price": "￥6,710中古",
+                    "provider": "~ゲオオンラインストア",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad (第5世代)",
+                    "snippet": "2 件以上のハイライト速い447 件のユーザー レビュー使いやすい319 件のユーザー レビュー速い447 件のユーザー レビュー使いやすい319 件のユーザー レビュー",
+                    "price": "￥29,580再生品",
+                    "provider": "BBack Market他 5 店舗以上",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Pro 第５世代 (12.9)",
+                    "snippet": "4 件以上のハイライト画質のよいディスプレイ193 件のユーザー レビュー速い179 件のユーザー レビュー画質のよいディスプレイ193 件のユーザー レビュー速い179 件のユーザー レビュー",
+                    "price": "￥67,500",
+                    "provider": "Eerkantozluyurt.com他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(2k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad（第9世代）用Smart Keyboard",
+                    "snippet": "3 件以上のハイライト使いやすい21 件のユーザー レビュー軽い15 件のユーザー レビュー使いやすい21 件のユーザー レビュー軽い15 件のユーザー レビュー",
+                    "price": "￥24,800",
+                    "provider": "AApple他 5 店舗以上",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(333)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad Pro 第2世代 (12,9)",
+                    "snippet": "5 件以上のハイライト旧iPad Proよりも薄く・軽く、CPU性能も約50%アップ, ホームボタンの排除により、ベゼル（枠）が小さくなったiPad中古比較.com旧iPad Proよりも薄く・軽く、CPU性能も約50%アップ, ホームボタンの排除により、ベゼル（枠）が小さくなった",
+                    "price": "￥47,980中古",
+                    "provider": "~じゃんぱら",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(2k+)"
+                    }
+                },
+                {
+                    "url": "https://www.maturikun.com/ipadpro2018-review#:~:text=%E7%94%BB%E9%9D%A2%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8FiPhone%E3%82%88%E3%82%8A%E6%93%8D%E4%BD%9C%E6%80%A7%E3%81%AB%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81Apple%20Pencil%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%AE%E3%81%A7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E4%BD%9C%E6%A5%AD%E3%82%82%E5%8F%AF%E8%83%BD.",
+                    "title": "Apple iPad Pro 第5世代 (11)",
+                    "snippet": "5 件以上のハイライト…が大きくiPhoneより操作性に優れており、Apple Pencilが使えるのでクリエイティブな作業も可能…maturikun.com…が大きくiPhoneより操作性に優れており、Apple Pencilが使えるのでクリエイティブな作業も可能…",
+                    "price": "￥118,690￥140,690",
+                    "provider": "Ddocomo Online Shop他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Apple 12.9インチiPad Pro（第5世代）用Magic Keyboard",
+                    "snippet": "言語・配列QWERTY, 日本語使用用途タブレット, 携帯電話キーボードケース言語・配列使用用途キーボードケース",
+                    "price": "￥53,800",
+                    "provider": "AApple他 10 店舗以上"
+                },
+                {
+                    "title": "Apple iPad Air 5",
+                    "snippet": "3 件以上のハイライト速い853 件のユーザー レビュー画質のよいディスプレイ442 件のユーザー レビュー速い853 件のユーザー レビュー画質のよいディスプレイ442 件のユーザー レビュー",
+                    "price": "￥89,700",
+                    "provider": "EEtoren.com他 3 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(7k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Pro 第3世代 (11)",
+                    "snippet": "4 件以上のハイライト速い89 件のユーザー レビュー画質のよいディスプレイ58 件のユーザー レビュー速い89 件のユーザー レビュー画質のよいディスプレイ58 件のユーザー レビュー",
+                    "price": "￥86,700再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "アップル iPad Wi-Fi - 第3世代 - タブレット - 32 ギガバイト - 9.7\" IPS (2048 x 1536) - ホワイト",
+                    "snippet": "4 件以上のハイライトRetinaディスプレイ搭載で液晶画面が綺麗（電子書籍等の文字も鮮明）, iPad2に比べて、50g重くなったiPad中古比較.comRetinaディスプレイ搭載で液晶画面が綺麗（電子書籍等の文字も鮮明）, iPad2に比べて、50g重くなった",
+                    "price": "￥6,950中古",
+                    "provider": "~楽天市場 - ソフマップ中古専門楽天市場店",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(7k+)"
+                    }
+                },
+                {
+                    "title": "【楽天1位】iPad 10.9 第10世代 2022 10.9 10世代 第9世代 iPad mini6 第6世代 第5世代 第4世代 着脱式 ケース キーボード 9世代 ペン収納 pro 11インチ air 第4世代 air 5 キーボードつき かわいい 9.7インチ おしゃれ ipadケース",
+                    "snippet": "言語・配列QWERTYキーボードケース互換性iOS言語・配列キーボードケース互換性",
+                    "price": "￥2,780",
+                    "provider": "~楽天市場 - ホビナビ"
+                },
+                {
+                    "url": "https://www.ipad-hikaku.com/choice8.html",
+                    "title": "Apple iPad Pro 第x世代 (9.7)",
+                    "snippet": "4 件以上のハイライト4K動画撮影などカメラ画質の向上, iPad Pro（12.9インチ）と比べると値段は安めだが、同サイズのiPad Air2と比べると値段は高めiPad中古比較.com4K動画撮影などカメラ画質の向上, iPad Pro（12.9インチ）と比べると値段は安めだが、同サイズのiPad Air2と比べると値段は高め",
+                    "price": "￥29,175再生品",
+                    "provider": "BBack Market",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(5k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPad 10.9インチ 第10世代 Wi-Fi 256GB MPQA3J/A",
+                    "snippet": "3 件以上のハイライト速い168 件のユーザー レビュー画質のよいディスプレイ148 件のユーザー レビュー速い168 件のユーザー レビュー画質のよいディスプレイ148 件のユーザー レビュー",
+                    "price": "￥97,800",
+                    "provider": "EEtoren.com他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(2k+)"
+                    }
+                },
+                {
+                    "title": "JP:Apple iPad (第7世代）・iPad Air（第3世代）用Smart Keyboard",
+                    "snippet": "3 件以上のハイライト使いやすい183 件のユーザー レビュー軽い60 件のユーザー レビュー使いやすい183 件のユーザー レビュー軽い60 件のユーザー レビュー",
+                    "price": "￥24,800",
+                    "provider": "AAmazon公式サイト他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Apple 11インチiPad Pro（第3世代）・iPad Air（第4世代）用Magic Keyboard",
+                    "snippet": "2 件以上のハイライト使いやすい54 件のユーザー レビュー魅力的50 件のユーザー レビュー使いやすい54 件のユーザー レビュー魅力的50 件のユーザー レビュー",
+                    "price": "￥44,800",
+                    "provider": "AAmazon公式サイト他 10 店舗以上",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(674)"
+                    }
+                },
+                {
+                    "title": "Apple iPad Pro 12,9 (第3世代)",
+                    "snippet": "4 件以上のハイライト速い94 件のユーザー レビュー画質のよいディスプレイ76 件のユーザー レビュー速い94 件のユーザー レビュー画質のよいディスプレイ76 件のユーザー レビュー",
+                    "price": "￥75,980中古",
+                    "provider": "~じゃんぱら",
+                    "rating": {
+                        "rating_value": "4.8",
+                        "rating_count": "(1k+)"
+                    }
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.apple.com › ipad-10",
+            "title": "10.2インチiPad（第9世代）",
+            "url": "https://www.apple.com/jp/ipad-10.2/",
+            "snippet": "iPad（第9世代）の魅力は、パワフルなA13 Bionicチップ、センターフレームに対応した12MP超広角フロントカメラ、True ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.apple.com/jp/ipad-10.2/",
+                "desc": "www.apple.com からのipad"
+            },
+            "refinements": [
+                {
+                    "text": "購入"
+                },
+                {
+                    "text": "iPadを選ぶ理由"
+                },
+                {
+                    "text": "仕様"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.apple.com › ipad-10",
+            "title": "10.9インチiPad（第10世代）",
+            "url": "https://www.apple.com/jp/ipad-10.9/",
+            "snippet": "まったく新しいiPad、登場。オールスクリーンのデザイン。A14 Bionicチップ。横向きのフロントカメラ。4つのカラー。Apple PencilとMagic Keyboard Folioも使えます。"
+        },
+        {
+            "sequence": 7,
+            "type": "articles",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).xSoq1",
+            "items": [
+                {
+                    "title": "トップニュース",
+                    "carousels": [
+                        {
+                            "title": "アップル、シンプルUIなどiPhone/iPadでアクセシビリティ強化",
+                            "url": "https://www.watch.impress.co.jp/docs/news/1501229.html"
+                        },
+                        {
+                            "title": "iPadのための「Final Cut Pro」と「Logic Pro」がついに登場！ ただし注意点も",
+                            "url": "https://www.lifehacker.jp/article/2305you-can-finally-use-final-cut-pro-and-logic-pro-on-your/"
+                        },
+                        {
+                            "title": "AppleがiPhone／iPadの新アクセシビリティ機能を発表 簡易ホーム画面や自分の音声作成など - ITmedia Mobile",
+                            "url": "https://www.itmedia.co.jp/mobile/amp/2305/17/news214.html"
+                        },
+                        {
+                            "title": "【2023年最高5選】「iPadは使用できません iTunesに接続」と出た場合の原因と直し方",
+                            "url": "https://prtimes.jp/main/html/rd/p/000000280.000098839.html"
+                        },
+                        {
+                            "title": "iPhoneやiPadのアクセシビリティが強化。自分の声を再現する機能も",
+                            "url": "https://www.gizmodo.jp/2023/05/apple-accessibility-2023.html"
+                        },
+                        {
+                            "title": "Apple、iOS/iPadOS17で導入する新たなアクセシビリティ機能を紹介",
+                            "url": "https://iphone-mania.jp/news-537268/amp/"
+                        },
+                        {
+                            "title": "「ほぼ、裸！」に見えるiPad Proケース。11インチ（第4世代）対応の超薄型・超軽量ケースが新登場",
+                            "url": "https://ignite.jp/2023/05/548639/"
+                        },
+                        {
+                            "title": "iPhoneやiPadのアクセシビリティが強化。自分の声を再現する機能も",
+                            "url": "https://newspicks.com/news/8457802?ref=pickstream_2025&displayOrder=2&firstLoad=true&direction=BACKWARD&loadedAt=1684320134"
+                        },
+                        {
+                            "title": "iPadの活用をさらに広げるために必要なものは？EDIX東京、Apple関連のブースを紹介",
+                            "url": "https://edu.watch.impress.co.jp/docs/report/1500325.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.apple.com › buy-ipad",
+            "title": "10.9インチiPad(第10世代)金利0%の分割払い",
+            "url": "https://www.apple.com/jp/shop/buy-ipad/ipad",
+            "snippet": "まったく新10.9インチiPad(第10世代)が、4つの魅力的なカラーで登場。下取りがない場合は12回払いで5733円/月から‡または ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.apple.com/jp/shop/buy-ipad/ipad",
+                "desc": "www.apple.com からのipad"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.apple.com › compare",
+            "title": "iPad - モデルを比較する",
+            "url": "https://www.apple.com/jp/ipad/compare/",
+            "snippet": "iPad Pro、iPad Air、iPad、iPad miniの各モデルの解像度、サイズ、重量、パフォーマンス、バッテリー駆動時間、容量などを比較できます。"
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://www.apple.com › ipad-pro",
+            "title": "iPad Pro - Apple（日本）",
+            "url": "https://www.apple.com/jp/ipad-pro/",
+            "snippet": "M2チップ搭載の新しいiPad Pro。12.9インチのLiquid Retina XDRディスプレイと、11インチのLiquid Retinaディスプレイ。 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.apple.com/jp/ipad-pro/",
+                "desc": "www.apple.com からのipad"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://www.au.com › ipad",
+            "title": "iPad | 製品情報",
+            "url": "https://www.au.com/ipad/",
+            "snippet": "最新のiPad製品情報、iPadのキャンペーン、料金プラン、ご契約手続き、iPadのお取り扱いのあるau Style/auショップをご紹 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.au.com/ipad/",
+                "desc": "www.au.com からのipad"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://used.sofmap.com › category",
+            "title": "中古iPad・iPad周辺機器・アクセサリ - リコレ！|ソフマップの中古通販 ...",
+            "url": "https://used.sofmap.com/r/category/ipad",
+            "snippet": "中古iPad・iPad周辺機器・アクセサリを買うなら、ソフマップの公式通販 中古専門サイト『リコレ！』におまかせください。 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://used.sofmap.com/r/category/ipad",
+                "desc": "used.sofmap.com からのipad"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "ipad 安く買う"
+                },
+                {
+                    "query": "ipad 最新モデル"
+                },
+                {
+                    "query": "ipad 第9世代"
+                },
+                {
+                    "query": "ipad airとipadの違い"
+                },
+                {
+                    "query": "iPadAmazon"
+                },
+                {
+                    "query": "ipad 価格表"
+                },
+                {
+                    "query": "iPad Air"
+                },
+                {
+                    "query": "ipad 第10世代"
+                }
+            ]
+        }
+    ]
+}

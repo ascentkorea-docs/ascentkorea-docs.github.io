@@ -1,0 +1,133 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "365727be-04ba-4a6e-aacc-15912764ff0b",
+        "sub_id": 0,
+        "requested_time": "2023-04-18T07:04:30.016Z",
+        "q": "경기도사서협의회",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%82%AC%EC%84%9C%ED%98%91%EC%9D%98%ED%9A%8C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230418/2304181604/119207076135-365727BE04BA4A6EAACC15912764FF0B-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230418/2304181604/119207076135-365727BE04BA4A6EAACC15912764FF0B-00.json",
+        "crawl_start_time": "2023-04-18T07:04:30.059Z",
+        "crawl_end_time": "2023-04-18T07:04:35.410Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 5.35
+    },
+    "information": {
+        "version": "3.1.13.master",
+        "displayed_query": "경기도사서협의회",
+        "parsed_time": "2023-04-18T07:04:35.573Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://m.facebook.com › gglibrarian",
+            "title": "경기도사서협의회 - Facebook",
+            "url": "https://m.facebook.com/gglibrarian/",
+            "snippet": "경기도사서협의회. 좋아하는 사람 614명. 경기도 자치단체 소속 사서직원들의 교류와 협력의 장입니다."
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://memory.library.kr › o...",
+            "title": "경기도사서협의회",
+            "url": "https://memory.library.kr/files/original/6cb7fa45b0a2ca4fd33ef19aecebfc6c.pdf",
+            "snippet": "이를 위해서 경기도 사서. 협의회는 공공도서관 발전을 위한 조사연구 및 연구물 간행, 회원 연수와 업무 교류, 단위 도서관. 의 모범 사례 발굴 보급을 비롯한 다양한 ...",
+            "file_format": "PDF"
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "http://www.ebooksbooks.com › list",
+            "title": "북스북스",
+            "url": "http://www.ebooksbooks.com/product/list.html?cate_no=272",
+            "snippet": "핫딜,특가도서,북스북스,공동구매,경기도학교도서관사서협의회,도서목록,신간목록."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.smalllibrary.org › data",
+            "title": "[서울시공공도서관협의회,경기도사서협의회]2020 전국 도서관대회 자료집",
+            "url": "https://www.smalllibrary.org/helper/data/926?currentPage=2&type=&title=",
+            "snippet": "[서울시공공도서관협의회,경기도사서협의회]2020 전국 도서관대회 자료집 : 재난상황에서 공공도서관의 역할을 고민하다 ... 작은도서관 회원 및 SNS계정을 ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.kla.kr",
+            "title": "한국도서관협회",
+            "url": "https://www.kla.kr/",
+            "snippet": "회원가입: 바로가기 > · 사서자격증: 바로가기 > · 국가도서관통계: 바로가기 >. 협회소식; 도서관계소식; 최신도서관뉴스; 성명서·입장문."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://conference.kla.kr › board",
+            "title": "대한민국 사서의 수서권 독립을 위하여 | 서울시사서협의회 & 경기도사서 ...",
+            "url": "https://conference.kla.kr/kla_con/bbs/board.php?bo_table=menu0502&wr_id=582",
+            "snippet": "서울시사서협의회(서사협)과 경기도사서협의회(경사협)은 7차 사서릴레이대토론회를 통해 최근 도서 선정과 관련하여 도서관 현장에 겪고 있는 각종 압력행사 및 문제제기 ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://librarian.nl.go.kr › contents",
+            "date": "2021. 11. 8.",
+            "title": "제58회 전국도서관대회·전시회 참관기 - #메타도서관 새로운 세상과의 연결",
+            "url": "https://librarian.nl.go.kr/LI/contents/L30202000000.do?schM=view&id=40535&schBcid=BBSMSTR_453",
+            "snippet": "2021. 11. 8. — 도서관대회는 한국도서관협회가 주관해 도서관의 지식, 정보, 교육, ... 서울시사서협의회와 경기도사서협의회은 최근 도서 선정과 관련하여 도서관 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "http://www.ksla.net",
+            "title": "한국학교도서관협의회",
+            "url": "http://www.ksla.net/",
+            "snippet": "사서교사 커뮤니티에서 다양한 정보를 공유하세요. KSLA English. Assistant for the Students' Dream, Korean School ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://product.kyobobook.co.kr › ...",
+            "date": "2021. 3. 15.",
+            "title": "학교도서관사서협의회 추천도서(2021 상반기) | 김임숙 - 모바일교보문고",
+            "url": "https://product.kyobobook.co.kr/detail/S000001939025",
+            "snippet": "2021. 3. 15. — 경기도학교도서관사서협의회는 2006년부터 추천도서목록을 발간하고 있습니다. 본 자료집은 2018년도에 우리나라에서 발행한 도서를 기준으로 유아, ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 10,
+            "displayed_link": "https://m.cafe.daum.net › schoollibr...",
+            "title": "학교도서관 사서 - Daum 카페",
+            "url": "https://m.cafe.daum.net/schoollibrary",
+            "snippet": "필독 2023 초등 교과수업 연계도서(경기도학교도서관사서협의회) 공지목록 펼치기/접기 ... 작성시간 23.04.11 조회수 21 · [(사)2.28민주운동기념사업회] 도서관 사서 ..."
+        }
+    ]
+}

@@ -1,0 +1,892 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "290499d4-7cd2-4d38-8a4f-5bf4c11735f2",
+        "sub_id": 0,
+        "requested_time": "2023-01-24T23:23:44.068Z",
+        "q": "s21 fe",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=s21+fe&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "html_url": "http://node0080.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/230125/2301250824/049238207251-290499D47CD24D388A4F5BF4C11735F2-00.html",
+        "json_url": "http://node0080.k8s.prod.ascentlab.io:8080/serpapi/dev-serpdata/any/230125/2301250824/049238207251-290499D47CD24D388A4F5BF4C11735F2-00.json",
+        "crawl_start_time": "2023-01-24T23:23:44.109Z",
+        "crawl_end_time": "2023-01-24T23:24:00.156Z",
+        "device": "mobile",
+        "usage_id": "soohyeonjin",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "3.1.3.master",
+        "displayed_query": "s21 fe",
+        "parsed_time": "2023-01-24T23:24:01.657Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ads",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(2).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "Shop s21 fe",
+            "carousels": [
+                {
+                    "title": "Samsung Samsung Galaxy S21 FE 5G - 128GB - Graphite (with 24 monthly payments) - Samsung Galaxy Phone",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABANGgJzZg&sig=AOD64_2yo-6HXFisPOD0zlmTxlyC4R2X0g&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQCw&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "8052423732949436994",
+                    "data-offer-docid": "1628523498918035583",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "610214676078 (Installment)"
+                },
+                {
+                    "title": "Samsung Galaxy S21 FE 5G, 128GB in White (Unlocked)(SM-G990UZWFXAA)",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAPGgJzZg&sig=AOD64_3DdZeIzPRF4y41VuI40w16o6hy8Q&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQDg&adurl=",
+                    "price": "$699.99",
+                    "provider": "Samsung",
+                    "data-catalog-id": "13159809531723940968",
+                    "data-offer-docid": "2776297278926211507",
+                    "data-merchant-id": "113074110",
+                    "data-offer-id": "SM-G990UZWFXAA"
+                },
+                {
+                    "title": "Samsung Galaxy S21 FE 5G - Graphite - 128GB - (with 36 monthly installment payments + plan)",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABALGgJzZg&sig=AOD64_2fp44PnpRaR2J_yr15CPWs7rtnWA&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQEw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Optimum Mobile",
+                    "data-catalog-id": "11002000759558594499",
+                    "data-offer-docid": "18281071904665958065",
+                    "data-merchant-id": "144728268",
+                    "data-offer-id": "M10476A"
+                },
+                {
+                    "title": "Samsung Galaxy S21 FE 5G 128GB Graphite - Cricket Wireless",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAOGgJzZg&sig=AOD64_1RwuL0f5A6AOF_c_zl9rHIu8uVHg&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQFg&adurl=",
+                    "price": "$499.99",
+                    "provider": "Cricket Wireless",
+                    "data-catalog-id": "5165298309026847976",
+                    "data-offer-docid": "14698931874709324914",
+                    "data-merchant-id": "113641365",
+                    "data-offer-id": "DSMW4143"
+                },
+                {
+                    "title": "Samsung Galaxy S20 FE 5G UW in Cloud Navy, Size: 128 GB with installment",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAMGgJzZg&ae=2&sig=AOD64_0SqzGyiRyx27FR1ZvEn6Ixjax3yQ&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQGQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "17961770760098788217",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "SMG781VZBV"
+                },
+                {
+                    "title": "Galaxy S21 FE 5G 128GB Graphite Fully unlocked (GSM & CDMA)",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAIGgJzZg&ae=2&sig=AOD64_2dTyh82GJFCzBuwz6y9wS_tAjYzA&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQHA&adurl=",
+                    "price": "$229.42",
+                    "provider": "Back Market",
+                    "data-catalog-id": "9416789768366867749",
+                    "data-offer-docid": "11422174752282579865",
+                    "data-merchant-id": "118622995",
+                    "data-offer-id": "375164"
+                },
+                {
+                    "title": "Samsung Galaxy S21 FE 5G Prepaidblack Smartphone",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAKGgJzZg&sig=AOD64_1Ssypoknnc7bRv_e7jrCX02TVXtw&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQIA&adurl=",
+                    "price": "$499.99",
+                    "provider": "StraightTalk Wireless",
+                    "data-catalog-id": "1984809377234449524",
+                    "data-offer-docid": "13082492739617812868",
+                    "data-merchant-id": "100873189",
+                    "data-offer-id": "STSAG990U3CP"
+                },
+                {
+                    "title": "Samsung - Galaxy S21 FE 5G 128GB - Graphite (Verizon) - 36 monthly installments",
+                    "url": "/aclk?sa=l&ai=DChcSEwjcpqr1rOH8AhVXHCsKHfK8CRcYABAJGgJzZg&sig=AOD64_3cf7tTjk46PSBQY7U33Shg5pY_Cg&ctype=5&q=&ved=2ahUKEwjhnKL1rOH8AhWySWwGHZr4DKkQwg8oAHoECAUQIw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "13982024748680639365",
+                    "data-offer-docid": "3214301465329997595",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6468291"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:image-set",
+                    "values": [
+                        "Image Carousel",
+                        "More",
+                        "From the web"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:organic-offers",
+                    "values": [
+                        "Color",
+                        ": ",
+                        "Any Color",
+                        "Carrier",
+                        "Any Carrier",
+                        "Unlocked",
+                        "AT&T",
+                        "Boost Mobile",
+                        "T-Mobile",
+                        "U.S. Cellular",
+                        "Verizon",
+                        "Storage Capacity",
+                        "Storage Capacity",
+                        "128 GB",
+                        "256 GB",
+                        "Price Insights",
+                        "Typically ",
+                        "$430–$810",
+                        "Is this price information helpful?",
+                        "Info on low and typical prices is based on stores across the web over the past 3 months.",
+                        "Thanks for helping us improve!",
+                        "Samsung",
+                        "3.9/5",
+                        "Samsung Galaxy S21 FE 5G, 128GB in White (Unlocked)(SM-G990UZWFXAA)",
+                        "Free delivery",
+                        "·",
+                        "$699.99",
+                        "Amazon.com",
+                        "4.6/5",
+                        "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery",
+                        "Free delivery",
+                        "·",
+                        "$549.99",
+                        "Best Buy",
+                        "4.7/5",
+                        "Samsung - Galaxy S21 FE 5G 128GB (Unlocked) - Navy",
+                        "Free",
+                        " delivery Jan 30 – Feb 1",
+                        "·",
+                        "$700",
+                        "$549.99",
+                        "SALE",
+                        "More prices & stores",
+                        "Failed to load offers. Please try again later."
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_variant_pickers",
+                    "values": [
+                        "Color",
+                        ": ",
+                        "Any Color",
+                        "Carrier",
+                        "Any Carrier",
+                        "Unlocked",
+                        "AT&T",
+                        "Boost Mobile",
+                        "T-Mobile",
+                        "U.S. Cellular",
+                        "Verizon",
+                        "Storage Capacity",
+                        "Storage Capacity",
+                        "128 GB",
+                        "256 GB"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_grid",
+                    "values": [
+                        "Samsung",
+                        "3.9/5",
+                        "Samsung Galaxy S21 FE 5G, 128GB in White (Unlocked)(SM-G990UZWFXAA)",
+                        "Free delivery",
+                        "·",
+                        "$699.99",
+                        "Amazon.com",
+                        "4.6/5",
+                        "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery",
+                        "Free delivery",
+                        "·",
+                        "$549.99",
+                        "Best Buy",
+                        "4.7/5",
+                        "Samsung - Galaxy S21 FE 5G 128GB (Unlocked) - Navy",
+                        "Free",
+                        " delivery Jan 30 – Feb 1",
+                        "·",
+                        "$700",
+                        "$549.99",
+                        "SALE"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th",
+                        "e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1)",
+                        "… ",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th",
+                        "e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1)",
+                        "… ",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.4",
+                        "26K reviews"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "Upgrading from the original Google Pixel (first gen), I am ASTOUNDED by Samsung's superiority in the smart phone market. I purchased Samsung's Galaxy S 21 FE 5G (256gb graphite) on sale from Samsung.com for about $150 off, making it an even better deal. As a computer scientists and photographer, I use and appreciate the countless features Samsung phones have very day. Photography wise, I appreciate the options to change the ISO, shutter speed, focus and white balance manually on pro mode. I can also set the camera to save images in RAW format in the camera settings, which drastically helps post-image editing, especially for astrophotography. Using my Samsung camera almost feels like using a professional DSLR or mirrorless camera because of the customizable camera features and striking quality. I use these features to take incredible pictures of everything from the Milky Way/night sky to portraits of my loved ones and time lapses of the clouds. For such a low price, no other company could possibly beat Samsung's edge on advanced technology and superior features. The under - display fingerprint sensor is lightning quick and very useful, and the overall design is very pleasing. To this day, even after having it for months, everytime I look at at my phone I notice how beautiful of a phone it is; it looks like a meticulously crafted expensive piece of jewelry. Others seem to think so, too, because I get compliments on it's look all the time. I don't understand why anyone would choose not to buy a Samsung phone because they're the best on the market, especially for their price. In fact, just yesterday one of my iPhone using friends' phone died, and when I showed her I could charge it with my phone by just putting their backs together using the power share feature, she was utterly shocked that such \"futuristic\" and \"amazing\" technology existed. She even said she wanted to buy a Samsung smartphone just for that feature. Little does she know, although, about the countless other amazing features that she would discover about Samsungs if she did so; features like Dolby Atmos, multi device connectivity in 'media output' settings, the highly customizable and adaptable Samsung keyboard, etc.. Overall, the Galaxy S21 FE is an incredible phone that I highly recommend, especially for the price. In fact, I recommend any Samsung s-series or z-sries phone in general because you cant go wrong with them. The numberless unique features that you will continue to discover about your Samsung phone months later is only one of the many experiences Samung users get that its competitors don't. If you're a photographer, Samsung is definitely the best way to go as it has highly versatile camera features that other companies lack. You can never go wrong with a Samsung. All of the attached photos were taken by me on my Samsung Galaxy S21 FE 5G",
+                        "Reviewed on samsung.com",
+                        " Shopper",
+                        "Reviewed on ",
+                        "Report this photo",
+                        "This is photo from ",
+                        ". Something wrong with it? Let us know and we'll review it.",
+                        "If we remove it from Google, you might still see it on ",
+                        ".",
+                        "Report photo",
+                        "Failed to load review"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.4",
+                        "26K reviews"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "Upgrading from the original Google Pixel (first gen), I am ASTOUNDED by Samsung's superiority in the smart phone market. I purchased Samsung's Galaxy S 21 FE 5G (256gb graphite) on sale from Samsung.com for about $150 off, making it an even better deal. As a computer scientists and photographer, I use and appreciate the countless features Samsung phones have very day. Photography wise, I appreciate the options to change the ISO, shutter speed, focus and white balance manually on pro mode. I can also set the camera to save images in RAW format in the camera settings, which drastically helps post-image editing, especially for astrophotography. Using my Samsung camera almost feels like using a professional DSLR or mirrorless camera because of the customizable camera features and striking quality. I use these features to take incredible pictures of everything from the Milky Way/night sky to portraits of my loved ones and time lapses of the clouds. For such a low price, no other company could possibly beat Samsung's edge on advanced technology and superior features. The under - display fingerprint sensor is lightning quick and very useful, and the overall design is very pleasing. To this day, even after having it for months, everytime I look at at my phone I notice how beautiful of a phone it is; it looks like a meticulously crafted expensive piece of jewelry. Others seem to think so, too, because I get compliments on it's look all the time. I don't understand why anyone would choose not to buy a Samsung phone because they're the best on the market, especially for their price. In fact, just yesterday one of my iPhone using friends' phone died, and when I showed her I could charge it with my phone by just putting their backs together using the power share feature, she was utterly shocked that such \"futuristic\" and \"amazing\" technology existed. She even said she wanted to buy a Samsung smartphone just for that feature. Little does she know, although, about the countless other amazing features that she would discover about Samsungs if she did so; features like Dolby Atmos, multi device connectivity in 'media output' settings, the highly customizable and adaptable Samsung keyboard, etc.. Overall, the Galaxy S21 FE is an incredible phone that I highly recommend, especially for the price. In fact, I recommend any Samsung s-series or z-sries phone in general because you cant go wrong with them. The numberless unique features that you will continue to discover about your Samsung phone months later is only one of the many experiences Samung users get that its competitors don't. If you're a photographer, Samsung is definitely the best way to go as it has highly versatile camera features that other companies lack. You can never go wrong with a Samsung. All of the attached photos were taken by me on my Samsung Galaxy S21 FE 5G",
+                        "Reviewed on samsung.com",
+                        " Shopper",
+                        "Reviewed on ",
+                        "Report this photo",
+                        "This is photo from ",
+                        ". Something wrong with it? Let us know and we'll review it.",
+                        "If we remove it from Google, you might still see it on ",
+                        ".",
+                        "Report photo",
+                        "Failed to load review"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:hero_card_more_about",
+                    "values": [
+                        "Feedback",
+                        "More about this product"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1) …  More"
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:image-set",
+                "kc:/shopping/gpc:organic-offers",
+                "organic_offers_variant_pickers",
+                "organic_offers_grid",
+                "description",
+                "description",
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:top-user-reviews",
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:top-user-reviews",
+                "kc:/shopping/gpc:hero_card_more_about"
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_38.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(14) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:image-set",
+                    "values": [
+                        "Image Carousel",
+                        "More",
+                        "From the web"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:organic-offers",
+                    "values": [
+                        "Color",
+                        ": ",
+                        "Any Color",
+                        "Carrier",
+                        "Any Carrier",
+                        "Unlocked",
+                        "AT&T",
+                        "Boost Mobile",
+                        "T-Mobile",
+                        "U.S. Cellular",
+                        "Verizon",
+                        "Storage Capacity",
+                        "Storage Capacity",
+                        "128 GB",
+                        "256 GB",
+                        "Price Insights",
+                        "Typically ",
+                        "$430–$810",
+                        "Is this price information helpful?",
+                        "Info on low and typical prices is based on stores across the web over the past 3 months.",
+                        "Thanks for helping us improve!",
+                        "Samsung",
+                        "3.9/5",
+                        "Samsung Galaxy S21 FE 5G, 128GB in White (Unlocked)(SM-G990UZWFXAA)",
+                        "Free delivery",
+                        "·",
+                        "$699.99",
+                        "Amazon.com",
+                        "4.6/5",
+                        "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery",
+                        "Free delivery",
+                        "·",
+                        "$549.99",
+                        "Best Buy",
+                        "4.7/5",
+                        "Samsung - Galaxy S21 FE 5G 128GB (Unlocked) - Navy",
+                        "Free",
+                        " delivery Jan 30 – Feb 1",
+                        "·",
+                        "$700",
+                        "$549.99",
+                        "SALE",
+                        "More prices & stores",
+                        "Failed to load offers. Please try again later."
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_variant_pickers",
+                    "values": [
+                        "Color",
+                        ": ",
+                        "Any Color",
+                        "Carrier",
+                        "Any Carrier",
+                        "Unlocked",
+                        "AT&T",
+                        "Boost Mobile",
+                        "T-Mobile",
+                        "U.S. Cellular",
+                        "Verizon",
+                        "Storage Capacity",
+                        "Storage Capacity",
+                        "128 GB",
+                        "256 GB"
+                    ]
+                },
+                {
+                    "attrid": "organic_offers_grid",
+                    "values": [
+                        "Samsung",
+                        "3.9/5",
+                        "Samsung Galaxy S21 FE 5G, 128GB in White (Unlocked)(SM-G990UZWFXAA)",
+                        "Free delivery",
+                        "·",
+                        "$699.99",
+                        "Amazon.com",
+                        "4.6/5",
+                        "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery",
+                        "Free delivery",
+                        "·",
+                        "$549.99",
+                        "Best Buy",
+                        "4.7/5",
+                        "Samsung - Galaxy S21 FE 5G 128GB (Unlocked) - Navy",
+                        "Free",
+                        " delivery Jan 30 – Feb 1",
+                        "·",
+                        "$700",
+                        "$549.99",
+                        "SALE"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:image-set",
+                "kc:/shopping/gpc:organic-offers",
+                "organic_offers_variant_pickers",
+                "organic_offers_grid"
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_38.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(37) > div:nth-child(1).B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th",
+                        "e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1)",
+                        "… ",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th",
+                        "e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1)",
+                        "… ",
+                        "More"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Get more out of the activities you heart most with Galaxy S21 FE 5G. Whether you're a gaming guru or social media star, this crowd pleaser has th e style, power and pro-grade camera to unleash epic in the everyday. Ahhh-inspiring design DISPLAY Dazzling and durable SUPER SMOOTH 120HZ Smooth Scrolling Responsive and silky smooth. This screen gives you a seamless scrolling experience so you can do what you love without interruptions. Conveniently sized at 6.4\", it's also super durable and easy on the eyes, whether you're outside or inside — day or night. IMMERSIVE DISPLAY Big screen. Bigger Action. An immersive screen so real that it blurs the line. Slim bezels give a wide view and Dynamic AMOLED 2X display boasts vibrant color in any light. Plus, scrapes and cracks have met their match with super-strong Gorilla Glass Victus. CAMERA There’s a lot to smile about PRO-GRADE CAMERA Makes every pic epic Capture epic pics and create legendary flicks. This multi-lens camera delivers crave-worthy content — shooting incredibly realistic photos and videos with superior levels of detail. PORTRAIT Studio-quality shots Let your camera's AI do the hard work. Portrait Mode automatically detects and focuses on your subject. Simply point, apply effect and snap portraits so good even your most camera-shy friends will want to be center frame. SELFIE Turning selfies into masterpieces No filter, no fear. Slay the selfie game with the 32MP front camera. Your features are highlighted and refined so you look your best on all your socials. DUAL RECORDING Lights. Camera. You.Turn your fan story into a share-ready movie on the spot with multi-cam recording. Dual Recording Mode lets you record with the front and back cameras simultaneously and connect with your audiences in new and fresh ways. NIGHT MODE Let there be night Capture epic after-hour photos with A 32MP front camera and AI multi-frame processing that brings out more color and detail, because life happens even in low light. 30X SPACE ZOOM Take a closer look Capture that sideline shot all the way from the back of the bleachers. Space Zoom2 gives you power and clarity while Zoom Lock helps keep your subject in focus and less shaky. PROCESSOR A new level of go A processor that works hard, so you can play hard. This chip is so fast, so powerful and so intelligent you can tackle graphic-heavy gaming and multitasking with ease. ALL-DAY BATTERY Dusk 'til dawn on one charge Get the power you need. Energy efficient processors and a smart battery intuitively manage power and conserve energy to keep you sharing, streaming and connecting without charging. HYPERFAST 5G 5G speeds that make you go \"Whoa\" Why wait to catch up on your favorite shows, or upload content from your latest adventure? Share photos and videos in a flash with Hyperfast 5G. IP68 Phone wet? No sweat. Keeps your phone safe from splashes and spills. Rated for water up to 5 feet deep for up to 30 minutes. EYE COMFORT SHIELD Sight for sore eyes The Infinity-O Display helps reduce harmful blue light at night so you can stream your favorite shows comfortably. SUPER FAST CHARGING More than 50% charge in 30 minutes When you've got low battery and no time to wait, you can get hours of power with only minutes of charging FAST WIRELESS CHARGING Fast Wireless Charging 2.0 Get a speedy power-up without needing to plug in. Simply place your phone down on a compatible charger to get back to 100% quickly. WIRELESS POWERSHARE Share a charge, even while you charge Multitasking isn't just for apps. You can use your phone to charge your buds, watch or even a friend's phone. SECURITY The velvet rope has gone digital Samsung Knox offers end to end security in hardware and software to protect your data in real time. WHAT'S IN THE BOX Unbox epic fan power Everything you need to take your passions to the next level — the device, USB Type-C data cable, ejection pin and Quick Start Guide all come in the box. Processor Processor frequency: 1.8 GHz Processor family: Qualcomm Snapdragon Processor model: 888 Processor cores: 8 Processor boost frequency: 2.84 GHz Display Display diagonal: 16.3 cm (6.4\") Display resolution: 2340 x 1080 pixels Touchscreen: Y Screen shape: Flat Display type: Dynamic AMOLED 2X Maximum refresh rate: 120 Hz Touchscreen type: Capacitive Pixel density: 401 ppi Rounded display corners: Y Ports & interfaces USB port: Y USB connector type: USB Type-C USB version: 2.0/3.2 Gen 1 (3.1 Gen 1) …  More"
+                }
+            ],
+            "_attrids": [
+                "description",
+                "description"
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_38.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(38) > div:nth-child(1).B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.4",
+                        "26K reviews"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "Upgrading from the original Google Pixel (first gen), I am ASTOUNDED by Samsung's superiority in the smart phone market. I purchased Samsung's Galaxy S 21 FE 5G (256gb graphite) on sale from Samsung.com for about $150 off, making it an even better deal. As a computer scientists and photographer, I use and appreciate the countless features Samsung phones have very day. Photography wise, I appreciate the options to change the ISO, shutter speed, focus and white balance manually on pro mode. I can also set the camera to save images in RAW format in the camera settings, which drastically helps post-image editing, especially for astrophotography. Using my Samsung camera almost feels like using a professional DSLR or mirrorless camera because of the customizable camera features and striking quality. I use these features to take incredible pictures of everything from the Milky Way/night sky to portraits of my loved ones and time lapses of the clouds. For such a low price, no other company could possibly beat Samsung's edge on advanced technology and superior features. The under - display fingerprint sensor is lightning quick and very useful, and the overall design is very pleasing. To this day, even after having it for months, everytime I look at at my phone I notice how beautiful of a phone it is; it looks like a meticulously crafted expensive piece of jewelry. Others seem to think so, too, because I get compliments on it's look all the time. I don't understand why anyone would choose not to buy a Samsung phone because they're the best on the market, especially for their price. In fact, just yesterday one of my iPhone using friends' phone died, and when I showed her I could charge it with my phone by just putting their backs together using the power share feature, she was utterly shocked that such \"futuristic\" and \"amazing\" technology existed. She even said she wanted to buy a Samsung smartphone just for that feature. Little does she know, although, about the countless other amazing features that she would discover about Samsungs if she did so; features like Dolby Atmos, multi device connectivity in 'media output' settings, the highly customizable and adaptable Samsung keyboard, etc.. Overall, the Galaxy S21 FE is an incredible phone that I highly recommend, especially for the price. In fact, I recommend any Samsung s-series or z-sries phone in general because you cant go wrong with them. The numberless unique features that you will continue to discover about your Samsung phone months later is only one of the many experiences Samung users get that its competitors don't. If you're a photographer, Samsung is definitely the best way to go as it has highly versatile camera features that other companies lack. You can never go wrong with a Samsung. All of the attached photos were taken by me on my Samsung Galaxy S21 FE 5G",
+                        "Reviewed on samsung.com",
+                        " Shopper",
+                        "Reviewed on ",
+                        "Report this photo",
+                        "This is photo from ",
+                        ". Something wrong with it? Let us know and we'll review it.",
+                        "If we remove it from Google, you might still see it on ",
+                        ".",
+                        "Report photo",
+                        "Failed to load review"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:user-review-summary",
+                    "values": [
+                        "4.4",
+                        "26K reviews"
+                    ]
+                },
+                {
+                    "attrid": "kc:/shopping/gpc:top-user-reviews",
+                    "values": [
+                        "Upgrading from the original Google Pixel (first gen), I am ASTOUNDED by Samsung's superiority in the smart phone market. I purchased Samsung's Galaxy S 21 FE 5G (256gb graphite) on sale from Samsung.com for about $150 off, making it an even better deal. As a computer scientists and photographer, I use and appreciate the countless features Samsung phones have very day. Photography wise, I appreciate the options to change the ISO, shutter speed, focus and white balance manually on pro mode. I can also set the camera to save images in RAW format in the camera settings, which drastically helps post-image editing, especially for astrophotography. Using my Samsung camera almost feels like using a professional DSLR or mirrorless camera because of the customizable camera features and striking quality. I use these features to take incredible pictures of everything from the Milky Way/night sky to portraits of my loved ones and time lapses of the clouds. For such a low price, no other company could possibly beat Samsung's edge on advanced technology and superior features. The under - display fingerprint sensor is lightning quick and very useful, and the overall design is very pleasing. To this day, even after having it for months, everytime I look at at my phone I notice how beautiful of a phone it is; it looks like a meticulously crafted expensive piece of jewelry. Others seem to think so, too, because I get compliments on it's look all the time. I don't understand why anyone would choose not to buy a Samsung phone because they're the best on the market, especially for their price. In fact, just yesterday one of my iPhone using friends' phone died, and when I showed her I could charge it with my phone by just putting their backs together using the power share feature, she was utterly shocked that such \"futuristic\" and \"amazing\" technology existed. She even said she wanted to buy a Samsung smartphone just for that feature. Little does she know, although, about the countless other amazing features that she would discover about Samsungs if she did so; features like Dolby Atmos, multi device connectivity in 'media output' settings, the highly customizable and adaptable Samsung keyboard, etc.. Overall, the Galaxy S21 FE is an incredible phone that I highly recommend, especially for the price. In fact, I recommend any Samsung s-series or z-sries phone in general because you cant go wrong with them. The numberless unique features that you will continue to discover about your Samsung phone months later is only one of the many experiences Samung users get that its competitors don't. If you're a photographer, Samsung is definitely the best way to go as it has highly versatile camera features that other companies lack. You can never go wrong with a Samsung. All of the attached photos were taken by me on my Samsung Galaxy S21 FE 5G",
+                        "Reviewed on samsung.com",
+                        " Shopper",
+                        "Reviewed on ",
+                        "Report this photo",
+                        "This is photo from ",
+                        ". Something wrong with it? Let us know and we'll review it.",
+                        "If we remove it from Google, you might still see it on ",
+                        ".",
+                        "Report photo",
+                        "Failed to load review"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:top-user-reviews",
+                "kc:/shopping/gpc:user-review-summary",
+                "kc:/shopping/gpc:top-user-reviews"
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_38.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(39).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/shopping/gpc:hero_card_more_about",
+                    "values": [
+                        "Feedback",
+                        "More about this product"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/shopping/gpc:hero_card_more_about"
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "question": "What is the difference between S21 and S21 FE?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_189 > div:nth-child(1) > div:nth-child(1)#gWjQY6HYOLKTseMPmvGzyAo__111 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.samsung.com › samsun...",
+                    "url": "https://www.samsung.com/uk/mobile-phone-buying-guide/samsung-s21-vs-s21-fe/#:~:text=The%20Galaxy%20S21%20FE%20offers,S21%20with%20its%2064%2Dmegapixels.",
+                    "title": "Galaxy S21 FE Vs S21 | What's The Difference? | Samsung UK",
+                    "snippet": "The Galaxy S21 FE offers a slightly larger FHD+ Dynamic display which may be more beneficial if you work or game a lot on your phone. Both phones have industry leading cameras but if you're looking for an exceptional Telephoto lens opt for the Galaxy S21 with its 64-megapixels."
+                },
+                {
+                    "question": "What does the FE mean in Galaxy S21?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_189 > div:nth-child(2) > div:nth-child(1)#gWjQY6HYOLKTseMPmvGzyAo__114 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.xda-developers.com › s...",
+                    "url": "https://www.xda-developers.com/samsung-galaxy-s21-vs-samsung-galaxy-s21-fe/#:~:text=Following%20months%20of%20rumors%2C%20leaks,of%20last%20year's%20Galaxy%20S21.",
+                    "title": "Samsung Galaxy S21 vs Galaxy S21 FE: Which phone is worth your ...",
+                    "snippet": "Following months of rumors, leaks, and (possible) delays, Samsung finally released the Galaxy 21 FE on January 3, 2022 — the 'FE' standing for 'Fan Edition. ' The phone is a sequel to the much-loved Galaxy S20 FE, and mainly serves as a more budget-friendly version of last year's Galaxy S21.Jan 22, 2022"
+                },
+                {
+                    "question": "Is Samsung S21 FE worth buying?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_189 > div:nth-child(3) > div:nth-child(1)#gWjQY6HYOLKTseMPmvGzyAo__117 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.androidauthority.com › ...",
+                    "url": "https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/#:~:text=Its%20price%20might%20be%20low,S22%20might%20be%20worth%20it.",
+                    "title": "Samsung Galaxy S21 FE buyer's guide: Everything you need to know",
+                    "snippet": "Its price might be low, but it's not so much lower to make it a no-brainer purchase as we saw with the Samsung Galaxy S20 FE. For specific types of buyers, the Galaxy S21 FE might be a good choice. For most, though, checking out the Galaxy S22 might be worth it.Dec 15, 2022"
+                },
+                {
+                    "question": "Why is S21 FE cheaper?",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb.vt6azd > div:nth-child(4).ouy7Mc > div:nth-child(2)#_gWjQY6HYOLKTseMPmvGzyAo_189 > div:nth-child(4) > div:nth-child(1)#gWjQY6HYOLKTseMPmvGzyAo__120 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.androidpolice.com › sa...",
+                    "url": "https://www.androidpolice.com/samsung-galaxy-s21-fe-new-version-lte-only/#:~:text=As%20you%20might%20expect%2C%20the,with%20Samsung's%20mid%2Drange%20goals.",
+                    "title": "Samsung may fix the Galaxy S21 FE's biggest problem with some ...",
+                    "snippet": "As you might expect, the processor takes a hit to bring down the price. Gone is the Snapdragon 888 that powered the original model, replaced with a Snapdragon 720G that fits better with Samsung's mid-range goals.Jun 15, 2022"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
+            "position": 1,
+            "displayed_link": "https://www.samsung.com › galaxy-...",
+            "title": "Galaxy S21 FE 5G - Fan Edition",
+            "url": "https://www.samsung.com/us/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/",
+            "snippet": "With Galaxy S21 FE 5G, the things you love are made even more epic with bold colors, a fast processor and, of course, a pro- ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/",
+                "desc": "s21 fe from www.samsung.com"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 2,
+            "displayed_link": "https://www.cnn.com › reviews › sa...",
+            "date": "Jan 13, 2022",
+            "title": "Samsung Galaxy S21 FE review: A solid budget phone, but is it right for ...",
+            "url": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s21-fe",
+            "snippet": "Jan 13, 2022 — The Samsung Galaxy S21 FE trickles down the Galaxy S21's great display, impressive cameras and versatile software into a more affordable, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s21-fe",
+                "desc": "s21 fe from www.cnn.com"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 3,
+            "displayed_link": "https://www.androidpolice.com › ga...",
+            "date": "Feb 17, 2022",
+            "title": "Samsung Galaxy S21 FE review: Stuck in the middle - Android Police",
+            "url": "https://www.androidpolice.com/galaxy-s21-fe-review/",
+            "snippet": "Feb 17, 2022 — In 2020, Samsung's Galaxy S20 FE wowed us when it came to value, cutting down its $1,000 flagship into an affordably exciting $700 package ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.androidpolice.com/galaxy-s21-fe-review/",
+                "desc": "s21 fe from www.androidpolice.com"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 4,
+            "displayed_link": "https://www.gsmarena.com",
+            "title": "Samsung Galaxy S21 FE 5G - Full phone specifications",
+            "url": "https://m.gsmarena.com/samsung_galaxy_s21_fe_5g-ampp-10954.php",
+            "snippet": "Samsung Galaxy S21 FE 5G Android smartphone. Announced Jan 2022. ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.gsmarena.com/samsung_galaxy_s21_fe_5g-ampp-10954.php",
+                "desc": "s21 fe from m.gsmarena.com"
+            },
+            "properties": [
+                {
+                    "key": "Internal",
+                    "value": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+                },
+                {
+                    "key": "Price",
+                    "value": "$ 278.90 / C$ 829.98 / £ 418.00 / € 479.99 / ₹ 36,480"
+                }
+            ]
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 5,
+            "displayed_link": "https://www.pcmag.com › reviews",
+            "date": "Jan 4, 2022",
+            "title": "Samsung Galaxy S21 FE Review - PCMag",
+            "url": "https://www.pcmag.com/reviews/samsung-galaxy-s21-fe",
+            "snippet": "Jan 4, 2022 — The Samsung Galaxy S21 FE is similar to the standard S21 model, but it costs $100 less and adds dual-SIM functionality to the company's US ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.pcmag.com/reviews/samsung-galaxy-s21-fe",
+                "desc": "s21 fe from www.pcmag.com"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 6,
+            "displayed_link": "https://www.engadget.com › samsu...",
+            "date": "Feb 2, 2022",
+            "title": "Samsung Galaxy S21 FE review: Good phone, wrong time | Engadget",
+            "url": "https://www.engadget.com/samsung-galaxy-s-21-fe-review-a-solid-remix-thats-unfashionably-late-143019388.html",
+            "snippet": "Feb 2, 2022 — The Galaxy S21 FE is a solid remix of the original S21 and S21+ at a good price.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.engadget.com/samsung-galaxy-s-21-fe-review-a-solid-remix-thats-unfashionably-late-143019388.html",
+                "desc": "s21 fe from www.engadget.com"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 7,
+            "displayed_link": "https://www.amazon.com › Samsun...",
+            "title": "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android ...",
+            "url": "https://www.amazon.com/Samsung-Unlocked-Smartphone-Intelligent-Graphite/dp/B09BFTMQH9",
+            "snippet": "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.com/Samsung-Unlocked-Smartphone-Intelligent-Graphite/dp/B09BFTMQH9",
+                "desc": "s21 fe from www.amazon.com"
+            },
+            "refinements": [
+                {
+                    "text": "40",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(6).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "+6",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(6).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "SAMSUNG Galaxy S21+ Plus...",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(6).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                },
+                {
+                    "text": "UniqueMe [3+2 Pack...",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).GLI8Bc.UK95Uc > div:nth-child(6).Z26q7c.UK95Uc.VGXe8 > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "Form Factor",
+                    "value": "‎Smartphone"
+                },
+                {
+                    "key": "OS",
+                    "value": "‎Android 12.0"
+                }
+            ],
+            "rating": {
+                "rating_count": "(13,578)",
+                "rating_value": "4.5"
+            }
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 8,
+            "displayed_link": "https://www.t-mobile.com › samsun...",
+            "title": "Samsung Galaxy S21 FE 5G | 1 color in 128GB",
+            "url": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s21-fe-5g",
+            "snippet": "Galaxy S21 FE 5G ; MEMORY. 128GB ; COLOR : Graphite ; estimated ship date · January 24 - January 27 ; Key Features. 12MP (Wide) + 8MP (Tele) + 12MP (Ultra-Wide) Rear ...",
+            "images": [
+                {
+                    "landing_url": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s21-fe-5g"
+                },
+                {
+                    "landing_url": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s21-fe-5g"
+                },
+                {
+                    "landing_url": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s21-fe-5g"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "Mobile Hotspot Capable",
+                    "value": "true"
+                },
+                {
+                    "key": "Frequency",
+                    "value": "GSM: 850 MHz, 900 MHz, 1800 MHz, 1900 MHz; LTE: 2, 4, 5, 12, 66, 71; ..."
+                },
+                {
+                    "key": "Processor",
+                    "value": "Qualcomm® Snapdragon™ 888 (5nm)"
+                },
+                {
+                    "key": "Ram",
+                    "value": "6 GB"
+                }
+            ],
+            "rating": {
+                "rating_count": "(210)",
+                "rating_value": "3.9"
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+            "position": 9,
+            "displayed_link": "https://www.bestbuy.com › site › sa...",
+            "title": "Samsung Galaxy S21 FE 5G 128GB (Unlocked) Navy SM-G990UZBDXAA",
+            "url": "https://www.bestbuy.com/site/samsung-galaxy-s21-fe-5g-128gb-unlocked-navy/6465019.p?skuId=6465019",
+            "snippet": "Whether you're a gaming guru, social star or fashionista, Samsung Galaxy S21 FE 5G is jam-packed with features that help you get more out of whatever you're ...",
+            "rating": {
+                "rating_count": "(261)",
+                "rating_value": "4.5"
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
+            "position": 10,
+            "displayed_link": "https://m.youtube.com · Kevin Bree...",
+            "title": "Samsung Galaxy S21 FE in 2023 - (Still Worth It?) - YouTube",
+            "url": "https://m.youtube.com/watch?v=MguyZQ70wCc",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#fpstate=ive&vld=cid:68b51bd8,vid:MguyZQ70wCc",
+                "date": "3 weeks ago"
+            }
+        },
+        {
+            "sequence": 18,
+            "type": "unknown",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).MjjYud > div:nth-child(1).AuVD.KJ7Tg.wHYlTd.cUnQKe.Ww4FFb.vt6azd"
+        },
+        {
+            "sequence": 19,
+            "type": "related_products",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk",
+            "title": "Related products",
+            "refinements": [
+                {
+                    "text": "Android",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(1).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+                },
+                {
+                    "text": "Samsung Galaxy S21",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(2).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+                },
+                {
+                    "text": "Samsung",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(3).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+                },
+                {
+                    "text": "Other",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(4).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+                }
+            ],
+            "items": [
+                {
+                    "title": "Pixel 6a",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(1).I8iMf",
+                    "price": "$320+",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(1.9K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy S22+",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(2).I8iMf",
+                    "price": "$790+",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(53K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy S22 Ultra",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(3).I8iMf",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(39K)"
+                    }
+                },
+                {
+                    "title": "Samsung Galaxy S21 Ultra 5G",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(4).I8iMf",
+                    "price": "$290+",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(37K)"
+                    }
+                }
+            ]
+        },
+        {
+            "sequence": 20,
+            "type": "related_searches",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
+            "results": [
+                {
+                    "query": "Samsung Galaxy S21 FE 5G specs",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#gWjQY6HYOLKTseMPmvGzyAo__76 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Galaxy S21 FE Case",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#gWjQY6HYOLKTseMPmvGzyAo__77 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Samsung S21 FE processor",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#gWjQY6HYOLKTseMPmvGzyAo__78 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Samsung S21 FE price in USA",
+                    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(4).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#gWjQY6HYOLKTseMPmvGzyAo__79 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}

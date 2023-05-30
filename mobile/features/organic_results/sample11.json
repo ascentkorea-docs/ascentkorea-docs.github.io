@@ -1,0 +1,1087 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "30ba071b-f74d-4196-9985-237d27efad18",
+        "sub_id": 0,
+        "requested_time": "2023-05-25T07:48:02.896Z",
+        "q": "iphone",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=iphone&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230525/2305251648/119207076131-30BA071BF74D41969985237D27EFAD18-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/230525/2305251648/119207076131-30BA071BF74D41969985237D27EFAD18-00.json",
+        "crawl_start_time": "2023-05-25T07:48:02.941Z",
+        "crawl_end_time": "2023-05-25T07:48:10.822Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 7.88
+    },
+    "information": {
+        "version": "5.2.0.master",
+        "displayed_query": "iphone",
+        "parsed_time": "2023-05-25T07:48:34.151Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ads",
+            "position": 1,
+            "title": "Sponsored        My Ad Center",
+            "carousels": [
+                {
+                    "title": "Apple iPhone 14 Pro Max 512 GB in Deep Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vI97r-kaEkeATS4h7iA8IUuhOiw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "6476169866541788296",
+                    "data-offer-docid": "7201963341000945308",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ913LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - Deep Purple - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABANGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_38nbC8iAzSgit5jdpoYckmjizffw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "16937790946660303462",
+                    "data-offer-docid": "6074779238541489719",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253378808 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 128 GB in Red, (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2WIpF5cmse9lMEiAHk5aYdo203Iw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "14819308117938080093",
+                    "data-offer-docid": "15599798458735003895",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPV73LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro 128 GB in Space Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABALGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1Ukta6uRav6aCOTJXvfWIjMt8WAA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "6741333915000446283",
+                    "data-offer-docid": "4272124666831390189",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPXT3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max 512 GB in Gold with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2FGO2990ydv1ioIAaqDYzVAj-T9Q&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "14696554679888710529",
+                    "data-offer-docid": "11089285492183926218",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ903LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in Pink with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2SllCmQ6vcssGRGfwIN89H3h4FDA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "4054964387986857954",
+                    "data-offer-docid": "8960427824678573778",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA73LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - Silver - 256GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1MOwhBpxYrwUjrHRx496-YTYCKow&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$99.99",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "14070024943408200226",
+                    "data-offer-docid": "15410779605125741021",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253378822 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max 512 GB in Silver with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_31MgFDIbDXXpJwJ9NZaJhrjjzxug&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "15004094141707485224",
+                    "data-offer-docid": "11891707643198015347",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ8Y3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 - Black - 64GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0Wr6AS3KQqjRsmCmpQvxbbnwVHwQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-offer-docid": "12104219445832840489",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194252028094 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 12 64 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1XY36YA9xg5R6Qdlsvne-drV9a8w&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "15801136546454007708",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MJN13LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max 512 GB in Space Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2CkP2nCDpRTXLCzcgbXnFxpWhs0g&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "16247320280634399744",
+                    "data-offer-docid": "17518951331472422672",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ8X3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - 128GB - Deep Purple",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2iLondvK5yynomf2bAh3Shzec2Pw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "AT&T",
+                    "data-catalog-id": "17456132250488246450",
+                    "data-offer-docid": "13408795175285681400",
+                    "data-merchant-id": "1216693",
+                    "data-offer-id": "sku2680267"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro 1TB in Deep Purple, Size: 1 TB with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1QBYZogNsgixDdd0V1S0UmC3CbKw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "14742496940836535567",
+                    "data-offer-docid": "14178199600801121199",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ303LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 256 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_04Ga6v3JvEJraO16TX1NWBYPqKGA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13288511876487830629",
+                    "data-offer-docid": "9640478728773637853",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPW83LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3OZGXUOM5xehW_V8fp8Fi4dQuVfw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "17896432791222531608",
+                    "data-offer-docid": "9758711068120672784",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGFD3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - Space Black - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_05OIPPc_HDOnreLJoazwuV0fNUYA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "15875367367874481734",
+                    "data-offer-docid": "8791423715132144945",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253378778 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro 128 GB in Silver with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0MkbiMxh3wz0Aj_GuQ_Y8OBHa38A&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13887902928828161131",
+                    "data-offer-docid": "5081769868178989593",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ003LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 - Pink- 512GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0SLDqjiXa809sHuPRxh2Bxk7h81A&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$299.99",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "4035498593187268808",
+                    "data-offer-docid": "1582560565567454130",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194252705759 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro 1TB in Gold, Size: 1 TB with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABApGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0KDImdgCqhd8VgUqFSKeN_bG56Tw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "15487320276788091137",
+                    "data-offer-docid": "5919126406274378203",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ2T3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus 128 GB in (PRODUCT) RED, (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABArGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3KAnPw3UP0MNQJ2f8EUL_0ukqhWg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "7708396092954536008",
+                    "data-offer-docid": "2708367422425048683",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ3V3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro - Gold - 256GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2kEu5gmkrvb2MRsPGwhgncTVB_Uw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "11639689503205027083",
+                    "data-offer-docid": "13486304700324629935",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253402886 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_12vm63s_P8_j7m9CcVJ1K_VBXjnA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "612229038237127299",
+                    "data-offer-docid": "7650863553082960363",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAA3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 11 Prepaid black - 64GB",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAvGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0AgSFPv2Ra3lKc5XB3ma5lfc7K3A&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$249.99$300",
+                    "provider": "StraightTalk Wireless",
+                    "data-catalog-id": "54448018888290646",
+                    "data-offer-docid": "27899006917967916",
+                    "data-merchant-id": "100873189",
+                    "data-offer-id": "GPAPI11C64BKV4P"
+                },
+                {
+                    "title": "Apple iPhone 14 128 GB in Yellow with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Mymh0oeQXp8uGgGWuCdQmM337iw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "13137250782310383927",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MR3J3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 - 128GB - Pink",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA7GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2C_mIzwX1eMBo-NwJqkx_9zqRPOA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "AT&T",
+                    "data-catalog-id": "10452460388767887381",
+                    "data-offer-docid": "3064677083311637227",
+                    "data-merchant-id": "1216693",
+                    "data-offer-id": "sku2360531"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus 512 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA4GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2GLgEX4KUqBOywF0ZHcndMfoLmgA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13888822010558663268",
+                    "data-offer-docid": "3461879542133032491",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ463LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 128 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA5GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0U6r0Xk6zRD8poZZYol63Tn14VZQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "6774763555415908678",
+                    "data-offer-docid": "14284464471463292251",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPVH3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus 128 GB in Yellow with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA6GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_08mf9wgOl7eoF_NARbivNyxe90-Q&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "16082449136946120472",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MR5N3LL/A"
+                },
+                {
+                    "title": "Apple iPhone SE (3rd gen) - Midnight - 64GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA9GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_09-V0H-mCRzkFcB-KgS2BJHR2BIw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-offer-docid": "9741391868805594483",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253012580 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in White with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA8GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1IyCJZhCH3TnmKHAVua7pSZelMFA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "1671595058533117553",
+                    "data-offer-docid": "9932155879298362905",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGFA3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA-GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0wpiXwGKAaqJe7Jq9Ia2jP63-dyg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "4565872133228771932",
+                    "data-offer-docid": "836853827735655458",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MNG63LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - Deep Purple - 256GB - (with 36 monthly installment payments + plan)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA_GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2530uk5DjYbIrlFL0qqAw3HHjceA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Optimum Mobile",
+                    "data-offer-docid": "9350651206400934476",
+                    "data-merchant-id": "144728268",
+                    "data-offer-id": "M10463A"
+                },
+                {
+                    "title": "Apple iPhone 13 mini 128 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3oH2eUg135Fs6JpsZl4KB5tidCkA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "765013604903287824",
+                    "data-offer-docid": "8330402421658314371",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAD3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus 512 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0XrqrlcMLb1WrGpITNg_tw1tnBWA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "7499221017042379064",
+                    "data-offer-docid": "10589270943497299404",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ493LL/A"
+                },
+                {
+                    "title": "Apple iPhone SE (3rd gen) - Starlight - 64GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBLGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0-pslWs4_UZ36b3V39Vjz6RwtRbA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "5212613535177566918",
+                    "data-offer-docid": "9525486427377258765",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253012627 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0JGqmIMLH3qpJNcF6fDQKYVZIqeg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "12926624676403213699",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGF93LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 - Midnight - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBNGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3uIV2kZldkNsw-rKZglIDZQzbtuQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-offer-docid": "6032596706125945767",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194252705391 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - 256GB - Space Black",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0V3S8KoRpifeqeat0BjuqA2Z4kxQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "AT&T",
+                    "data-catalog-id": "4557142766605651432",
+                    "data-offer-docid": "14052134522977312473",
+                    "data-merchant-id": "1216693",
+                    "data-offer-id": "sku2680276"
+                },
+                {
+                    "title": "Apple iPhone 13 mini 128 GB in Pink with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_39LDMo1KZsTAel5ahJJLG9edACqg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "1107402431454042626",
+                    "data-offer-docid": "17022836955412640477",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA63LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus 128 GB in Midnight, Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1qoWUi42_XDXMi-FS29fFgNMFgSA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "994787446366803444",
+                    "data-offer-docid": "18214433819079846357",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MQ3R3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 128 GB in Midnight, Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3IXWMBRZ7FPLPWyOVxQKz1KAdKZA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2034325709290670335",
+                    "data-offer-docid": "9470025064886016116",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPUA3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro - Space Black - 256GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0PT9HYqJfnlFCK7jbhjsxWlm7o4g&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "5470987220557110316",
+                    "data-offer-docid": "9215674473303819057",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253402220 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - 256GB - Gold",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1P-IJ9bbM-IOYhcn6X73wHaIQXMQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "AT&T",
+                    "data-catalog-id": "3707667166632068373",
+                    "data-offer-docid": "1941809767914963660",
+                    "data-merchant-id": "1216693",
+                    "data-offer-id": "sku2680279"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in Midnight, Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1ZMGXuK7IO9f8in0ADz6BHg1a_rA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13536812278053012065",
+                    "data-offer-docid": "2824299440727003791",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA23LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 64 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3jf_AtuTy7s1fzhtdMgbxGo-sUIw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "12054447410393870481",
+                    "data-offer-docid": "5827131443366599271",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGF83LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 - (PRODUCT)RED - 256GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1DMuUHfTXo6tWYKiMVsb7vVHkp1w&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "13326428524840297042",
+                    "data-offer-docid": "13606957318357094160",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253410621 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 12 64 GB in (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2W-wpLZV1oeL0JO2bR50lsvz1q9Q&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "17136862382468089329",
+                    "data-offer-docid": "13018719329213355164",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGF63LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in Starlight with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_22DSdMi7480oQFH5QSv7N0MAti9g&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "7502357671879519457",
+                    "data-offer-docid": "16245425755439457891",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA43LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 mini 128 GB in Midnight, Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vMRQwRTBbqB9d4NW_j5tUAgcVHg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13064264707580931889",
+                    "data-offer-docid": "2833861940267072742",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA13LL/A"
+                },
+                {
+                    "title": "NEW Apple iPhone SE black - 64GB - Reconditioned",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBpGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2ijA09aaVrXH0jJ3aXxgy7ZBsDWw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$74.99",
+                    "provider": "StraightTalk Wireless",
+                    "data-offer-docid": "3361435210630316537",
+                    "data-merchant-id": "100873189",
+                    "data-offer-id": "GPAPISE2C64BKV4R"
+                },
+                {
+                    "title": "Apple iPhone 13 256 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0_U01tUIia0PPOH5KN89M2GFY1TQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "6086303518099720933",
+                    "data-offer-docid": "16237771034986579832",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLC13LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 256 GB in Starlight with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBrGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0a3OBDhU0fvkTGKgOzoQ4MV1ghWQ&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "5877047163323596986",
+                    "data-offer-docid": "1886069220126807960",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MPW23LL/A"
+                },
+                {
+                    "title": "Apple iPhone 14 - Blue - 512GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_015mnHg43IAZORwmwfCou91OBtaw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "3081859809080456157",
+                    "data-offer-docid": "8506734013949645747",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253412601 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus - (PRODUCT)RED - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1wucEg3dlz-zD2Okzdwo9oyCBS6g&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "4387066348494462253",
+                    "data-offer-docid": "6091202139667003092",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253372394 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro - Silver - 1TB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1TVccD-jwDfAtfXYSXHwUDG0xZow&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$49.99",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "12689089588340757321",
+                    "data-offer-docid": "10629302407496831477",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194252714485 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Pro Max - Gold - 128GB - (with 36 monthly installment payments + plan)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBwGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2csik76F-CveLtBIsIzi8dTUJ8vg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "Optimum Mobile",
+                    "data-catalog-id": "9058867385786699701",
+                    "data-offer-docid": "2290891883620306833",
+                    "data-merchant-id": "144728268",
+                    "data-offer-id": "M10458A"
+                },
+                {
+                    "title": "Apple iPhone 13 - 128GB - Green",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB0GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3n5l7EZq1oJttpq2YG0XGdzQNrwg&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "AT&T",
+                    "data-catalog-id": "17274988188480631983",
+                    "data-offer-docid": "17469324311258031000",
+                    "data-merchant-id": "1216693",
+                    "data-offer-id": "sku11050250"
+                },
+                {
+                    "title": "Apple iPhone 14 - Midnight - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB1GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Du1jAA1sqvcsf8bzriTGZODXMDA&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "3209274970867899212",
+                    "data-offer-docid": "14675246369877989557",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253407980 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 - Purple - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB2GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1u2bFvsCCbUZNzyjHrkctd52Udww&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "1399006006026080358",
+                    "data-offer-docid": "17239606658743745587",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253408642 (Installment)"
+                },
+                {
+                    "title": "Apple iPhone 14 Plus - Purple - 128GB (with 24 monthly payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB3GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1c9vt4Q2B_6rTijJ8zqfMm_iYkOw&ctype=5&q=&ved=1986&adurl=",
+                    "price": "$0.00",
+                    "provider": "T-Mobile",
+                    "data-catalog-id": "10401315360980246200",
+                    "data-offer-docid": "12835568173016061469",
+                    "data-merchant-id": "8393380",
+                    "data-offer-id": "194253372387 (Installment)"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "displayed_link": "https://www.apple.com › iphone",
+            "title": "iPhone - Apple",
+            "url": "https://www.apple.com/iphone/",
+            "snippet": "interact with iPhone. Emergency SOS via satellite. Emergency SOS. Crash Detection. Pro camera system. 48MP Main Ultra Wide Telephoto Photonic Engine for ...",
+            "sitelinks": [
+                {
+                    "url": "https://www.apple.com/shop/buy-iphone",
+                    "title": "Shop iPhone"
+                },
+                {
+                    "url": "https://www.apple.com/iphone-14-pro/",
+                    "title": "iPhone 14 Pro"
+                },
+                {
+                    "url": "https://www.apple.com/iphone/compare/",
+                    "title": "Compare iPhone Models"
+                },
+                {
+                    "url": "https://www.apple.com/shop/buy-iphone/iphone-13",
+                    "title": "Buy iPhone 13"
+                },
+                {
+                    "url": "https://www.apple.com/shop/buy-iphone/iphone-12",
+                    "title": "Buy iPhone 12"
+                },
+                {
+                    "url": "https://www.apple.com/iphone-14/",
+                    "title": "iPhone 14"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "Which iPhone is best in low price?",
+                    "displayed_link": "https://economictimes.indiatimes.com › ...",
+                    "url": "https://economictimes.indiatimes.com/top-trending-products/mobile-phones/5-best-iphone-models-worth-buying-that-suit-every-budget/articleshow/97738466.cms#:~:text=The%20iPhone%20SE%2C%20released%20in,and%20offers%20decent%20battery%20life.",
+                    "title": "5 Best iPhone Models Worth Buying that suit every Budget",
+                    "snippet": "The iPhone SE, released in 2022, is the least expensive iPhone model that you buy. The iPhone SE is superb in its performance - it runs on the same processor as the iPhone 14 and offers decent battery life.Feb 8, 2023"
+                },
+                {
+                    "question": "How much will iPhone 14 cost?",
+                    "displayed_link": "https://www.cnet.com › deals › best...",
+                    "url": "https://www.cnet.com/deals/best-iphone-14-deals/#:~:text=US%20prices%20start%20at%20%24799,14%20Pro%20and%20Pro%20Max.",
+                    "title": "iPhone 14 Deals: Up to $1,000 Off, Trade-In Promos and More - CNET",
+                    "snippet": "US prices start at $799 for the iPhone 14, though there are plenty of ways to save if you know where to look. First unveiled at Apple's September 2022 event, the company's flagship phone lineup includes the iPhone 14 and 14 Plus, as well as the iPhone 14 Pro and Pro Max.May 2, 2023"
+                },
+                {
+                    "question": "Is ‌iPhone 13‌ discontinued?",
+                    "displayed_link": "https://www.91mobiles.com › hub",
+                    "url": "https://www.91mobiles.com/hub/these-iphones-likely-discontinued-post-15-launch/#:~:text=Last%20year%2C%20after%20the%20launch,the%20Pro%20models%20last%20year.",
+                    "title": "These iPhones may be discontinued post iPhone 15 launch: check full list",
+                    "snippet": "Last year, after the launch of the iPhone 14 lineup, the company discontinued the iPhone 13 Pro and the iPhone 13 Pro Max, the iPhone 12 mini and the iPhone 11 in several markets, including India. It was surprising to many users when Apple discontinued the Pro models last year."
+                },
+                {
+                    "question": "Is iPhone 15 coming out?",
+                    "displayed_link": "https://inews.co.uk › technology › i...",
+                    "url": "https://inews.co.uk/news/technology/iphone-15-coming-when-release-date-news-new-apple-phone-latest-rumours-features-2361190#:~:text=That%20means%20that%20we%20can,or%20Wednesday%2013%20September%2C%202023.",
+                    "title": "When is the iPhone 15 coming out? Release date news for the new ...",
+                    "snippet": "That means that we can expect the iPhone 15 to arrive – via an Apple launch event – on one of four dates: Tuesday 5, Wednesday 6, Tuesday 12 or Wednesday 13 September, 2023.21 hours ago"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "displayed_link": "https://www.wired.com › gallery",
+            "date": "Apr 25, 2023",
+            "title": "Best iPhone (2023): Which Model Should You Actually Buy? | WIRED",
+            "url": "https://www.wired.com/gallery/iphone-buying-guide/",
+            "snippet": "Apr 25, 2023 — An iPhone 15 is on the way. If you're thinking of upgrading, start with our ultimate breakdown of Apple's smartphones.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.wired.com/gallery/iphone-buying-guide/",
+                "desc": "iphone from www.wired.com"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "immersive_products",
+            "title": "Apple iPhone 11 Cell Phones",
+            "carousels": [
+                {
+                    "title": "Apple iPhone 11",
+                    "price": "$249.00$299",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 11 Unlocked",
+                    "price": "$299.00$399",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 11 Pro",
+                    "price": "$423.00Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 11 Pro Max",
+                    "price": "$529.99",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "iPhone 11 64GB Green Unlocked",
+                    "price": "$281.98Refurbished",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Refurbished Apple IPhone11, 64 GB, Grade A, Fully Unlocked - Black",
+                    "price": "$311.92Refurbished",
+                    "rating": {
+                        "rating_value": "3.7",
+                        "rating_count": "(37)"
+                    }
+                },
+                {
+                    "title": "Used Purple Iphone 11, 64 Gb, Unblocked And Ready To Activate.",
+                    "price": "$300.00Pre-owned"
+                },
+                {
+                    "title": "Apple iPhone 12 mini",
+                    "price": "$268.00Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 12",
+                    "price": "$499.00",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone",
+                    "price": "$394.95Refurbished",
+                    "rating": {
+                        "rating_value": "4.1",
+                        "rating_count": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 12 Pro Max",
+                    "price": "$615.33Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 12 Pro",
+                    "price": "$514.95Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(6k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 12 A2172 White",
+                    "price": "$325.00Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 13 Mini",
+                    "price": "$514.97Refurbished",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max",
+                    "price": "$897.95Refurbished",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(7k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 13",
+                    "price": "$729.00",
+                    "rating": {
+                        "rating_value": "4.6",
+                        "rating_count": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 13 Pro",
+                    "price": "$710.88Refurbished",
+                    "rating": {
+                        "rating_value": "4.7",
+                        "rating_count": "(6k+)"
+                    }
+                },
+                {
+                    "title": "Apple Iphone 13 - 128gb - Alpine Green Look This Deal Wont Last",
+                    "price": "$600.00Pre-owned"
+                },
+                {
+                    "title": "iPhone 13 Pro Max 128 GB",
+                    "price": "$1,099.99"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB In Midnight - Electronics | Color: White",
+                    "price": "$450.00Pre-owned"
+                },
+                {
+                    "title": "used Apple iPhone 13 128gb Storage Fully Unlocked Pink Like New",
+                    "price": "$749.99Pre-owned"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://www.macrumors.com › iph...",
+            "date": "May 16, 2023",
+            "title": "iPhone 15: Launch Date, Features, and Rumors - MacRumors",
+            "url": "https://www.macrumors.com/roundup/iphone-15/",
+            "snippet": "May 16, 2023 — The 2023 iPhone 15 models are expected to feature USB-C instead of Lightning, faster modem chips, upgraded camera technology, and more.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.macrumors.com/roundup/iphone-15/",
+                "desc": "iphone from www.macrumors.com"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 4,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "iPhone - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/IPhone",
+            "snippet": "iPhone is a line of smartphones produced by Apple Inc. that use Apple's own iOS mobile operating system. The first-generation iPhone was announced by ...",
+            "refinements": [
+                {
+                    "text": "iPhone 7"
+                },
+                {
+                    "text": "iPhone SE"
+                },
+                {
+                    "text": "iPhone X"
+                },
+                {
+                    "text": "iPhone 8"
+                },
+                {
+                    "text": "iPhone 6"
+                },
+                {
+                    "text": "iPhone 3G"
+                },
+                {
+                    "text": "iPhone 6s"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "Manufacturer",
+                    "value": "Contract manufacturers ::  Foxconn ;  Pegatron ;  Wistron"
+                },
+                {
+                    "key": "Units sold",
+                    "value": "2.2 billion (as of November 1, 2018)"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://www.youtube.com · zollotech",
+            "title": "iPhone 15, 15 Pro - Hands On First Look - YouTube",
+            "url": "https://www.youtube.com/watch?v=93OLveum9Qg",
+            "video": {
+                "url": "#fpstate=ive&vld=cid:a22ab6c8,vid:93OLveum9Qg",
+                "date": "16 hours ago"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "immersive_products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Apple iPhone 11",
+                            "price": "$249.00",
+                            "provider": "WWalmart, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Great dual-lens camera · Fast enough for everyday tasksCNET"
+                        },
+                        {
+                            "title": "Apple iPhone 14 Plus",
+                            "price": "$709.00",
+                            "provider": "BBack Market, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(3k+)"
+                            },
+                            "snippet": "Low-light selfies are 2x betterMacRumors"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Apple iPhone SE",
+                            "price": "$130.95",
+                            "provider": "RReebelo USA, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Image quality is mostly excellent · Lack of Night modeTom's Guide"
+                        },
+                        {
+                            "title": "Apple iPhone 14 Pro Max",
+                            "price": "$1,099.99",
+                            "provider": "TTarget, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(7k+)"
+                            },
+                            "snippet": "Neat camera improvements · Better performancePhoneArena"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 6,
+            "displayed_link": "www.cnn.com",
+            "date": "May 1, 2023",
+            "title": "The iPhone 14 is more of a good thing — but is it the right phone for you?",
+            "url": "https://www.cnn.com/cnn-underscored/reviews/iphone-14",
+            "snippet": "May 1, 2023 — The iPhone 14's excellent camera, battery life and performance make it the best new iPhone for those long overdue for an upgrade.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cnn.com/cnn-underscored/reviews/iphone-14",
+                "desc": "iphone from www.cnn.com"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "short_videos",
+            "carousels": [
+                {
+                    "url": "#fpstate=ive&vld=cid:d4793136,vid:r1VFvleHAZY",
+                    "title": "Google Offers A Lot For iPhone",
+                    "source": "YouTube",
+                    "channel": "UFD Tech"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:d8440e47,vid:FzBAVtswrMY",
+                    "title": "5 Quick iPhone Actions You Are Not Using",
+                    "source": "YouTube",
+                    "channel": "mobiscrub"
+                },
+                {
+                    "url": "https://www.tiktok.com/@the.rabbit.holeppt52/video/7227124240779070763",
+                    "title": "Strange Iphone Theory That No One Is Talking About...#viralvideo #fyp ...",
+                    "source": "TikTok",
+                    "channel": "the.rabbit.holeppt52"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:dc762217,vid:5-woPRhUf5M",
+                    "title": "5 AMAZING iPhone Hidden Features!",
+                    "source": "YouTube",
+                    "channel": "The Apple Circle"
+                }
+            ]
+        },
+        {
+            "sequence": 12,
+            "type": "immersive_products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Apple iPhone 12 mini",
+                            "price": "$268.00",
+                            "provider": "RReebelo USA, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Improved gamingMacRumors"
+                        },
+                        {
+                            "title": "Apple iPhone 12",
+                            "price": "$499.00",
+                            "provider": "WWalmart, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Twice as fast as conventional wireless charging · Charge other devices wirelesslyScreen Rant"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "Apple iPhone SE (2020)",
+                            "price": "$119.99",
+                            "provider": "EeBay - ipandaelectronics, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "1. Build Quality, Form Factor · Dated DesignGadgets To Use"
+                        },
+                        {
+                            "title": "Apple iPhone 13 Mini",
+                            "price": "$514.97",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(9k+)"
+                            },
+                            "snippet": "Fantastic graphicsApple"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
