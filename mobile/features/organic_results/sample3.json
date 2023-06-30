@@ -1,1 +1,393 @@
-{"search_parameters": {"engine": "google", "id": "c585c1cc-dad5-4d21-9605-83691286359d", "sub_id": 0, "requested_time": "2022-05-12T01:09:10.121Z", "q": "stir-fried", "location": "South Korea", "gl": "kr", "hl": "ko", "num": 20, "query_string": "q=stir-fried&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0", "html_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/211189154105-68B2859E0BD44278A26F3D8C2DF4F7C0-00.html", "json_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/211189154105-68B2859E0BD44278A26F3D8C2DF4F7C0-00.json", "crawl_start_time": "2022-05-12T01:09:10.144Z", "crawl_end_time": "2022-05-12T01:09:14.233Z", "device": "mobile", "usage_id": "intent", "more_action": "default", "sub_name": "default", "sub_q": "default", "meta": {"seed_keyword": "차이점", "domain": "", "purpose": "download_serp"}}, "information": {"version": "2.1.30.master", "displayed_query": "stir-fried", "parsed_time": "2022-05-12T01:09:14.807Z"}, "features": [{"type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub", "attrids": [{"attrid": "image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "description", "values": ["볶기는 불에 달군 프라이팬이나 냄비에 기름을 두르고 식품을 넣어서 가열하면 식품이 볶아지면서 익는 조리법으로, 굽기와 튀기기의 중간 방법이다. 볶는 조리법은 독특한 향기와 고소한 맛이 생기며, 지방과 지용성 비타민의 흡수가 좋아진다.", "위키백과"]}], "cards": [{"card_name": "images", "_debug_name": "small_images", "images": [{"height": "144px", "width": "150px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "158px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "158px"}, {"height": "144px", "width": "192px"}]}, {"Description": "볶기는 불에 달군 프라이팬이나 냄비에 기름을 두르고 식품을 넣어서 가열하면 식품이 볶아지면서 익는 조리법으로, 굽기와 튀기기의 중간 방법이다. 볶는 조리법은 독특한 향기와 고소한 맛이 생기며, 지방과 지용성 비타민의 흡수가 좋아진다.  "}], "_attrids": ["image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "description"], "sequence": 1}, {"type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_Nl58Yqu1D5HO2roP2OOfMA11.osrp-blk > div:nth-child(3) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.JlDOsc.LMRCfc.Giv2qe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.CGCvRb.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "attrids": [{"attrid": "image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}, {"attrid": "secondary image"}], "cards": [{"card_name": "images", "_debug_name": "small_images", "images": [{"height": "144px", "width": "150px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "158px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "96px"}, {"height": "144px", "width": "192px"}, {"height": "144px", "width": "158px"}, {"height": "144px", "width": "192px"}]}], "_attrids": ["image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image", "secondary image"], "sequence": 2}, {"type": "knowledge_panel", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_Nl58Yqu1D5HO2roP2OOfMA11.osrp-blk > div:nth-child(3) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.JlDOsc.SHuCDf > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.TjcfIc.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms", "attrids": [{"attrid": "description", "values": ["볶기는 불에 달군 프라이팬이나 냄비에 기름을 두르고 식품을 넣어서 가열하면 식품이 볶아지면서 익는 조리법으로, 굽기와 튀기기의 중간 방법이다. 볶는 조리법은 독특한 향기와 고소한 맛이 생기며, 지방과 지용성 비타민의 흡수가 좋아진다.", "위키백과"]}], "cards": [{"Description": "볶기는 불에 달군 프라이팬이나 냄비에 기름을 두르고 식품을 넣어서 가열하면 식품이 볶아지면서 익는 조리법으로, 굽기와 튀기기의 중간 방법이다. 볶는 조리법은 독특한 향기와 고소한 맛이 생기며, 지방과 지용성 비타민의 흡수가 좋아진다.  "}], "_attrids": ["description"], "sequence": 3}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 1, "displayed_link": "https://dictionary.cambridge.org › st...", "title": "영어로 stir-fried의 뜻", "url": "https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/stir-fried", "snippet": "2022. 4. 27. — stir-fried 의미, 정의, stir-fried의 정의: 1. past participle, past simple of stir-fry 2. to fry small pieces of meat, vegetables, etc…", "sequence": 4}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 2, "displayed_link": "https://dictionary.cambridge.org › st...", "title": "영어로 stir-fry의 뜻", "url": "https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/stir-fry", "snippet": "8일 전 — stir-fry 의미, 정의, stir-fry의 정의: 1. to fry small pieces of meat, vegetables, etc. quickly while mixing them around: 2. a method of…", "sequence": 5}, {"type": "people_also_search_for", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c", "searches": [{"query": "stir-fried 뜻", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_33_Nl58Yqu1D5HO2roP2OOfMA__34 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "Stir-fried noodles", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_34_Nl58Yqu1D5HO2roP2OOfMA__35 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "Stir fry", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_35_Nl58Yqu1D5HO2roP2OOfMA__36 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "Stir fried shrimp", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_36_Nl58Yqu1D5HO2roP2OOfMA__37 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "Stir fry vegetables", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_37_Nl58Yqu1D5HO2roP2OOfMA__39 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}, {"query": "Cooking", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_38_Nl58Yqu1D5HO2roP2OOfMA__40 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"}], "sequence": 6}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 3, "displayed_link": "https://en.m.wikipedia.org › wiki", "title": "Stir frying - Wikipedia", "url": "https://en.m.wikipedia.org/wiki/Stir_frying", "snippet": "Stir frying (Chinese: 炒; pinyin: chǎo) is a Chinese cooking technique in which ingredients are fried in a small amount of very hot oil while being stirred ...", "thumbnail": {"type": "image", "url": "https://en.m.wikipedia.org/wiki/Stir_frying"}, "sequence": 7}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 4, "displayed_link": "https://therecipecritic.com › vegetabl...", "title": "Easiest Vegetable Stir Fry | The Recipe Critic", "url": "https://therecipecritic.com/vegetable-stir-fry/", "snippet": "2019. 9. 1. — Stir frying is a Chinese cooking technique in which ingredients are fried in a small amount of very hot oil while being stirred in a wok. The ...", "thumbnail": {"type": "video", "url": "https://therecipecritic.com/vegetable-stir-fry/", "desc": "stir-fried 동영상"}, "rating": {"rating_count": "(45)", "rating_value": "4.9"}, "sequence": 8}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 5, "displayed_link": "https://www.ldoceonline.com › stir-fry", "title": "stir-fry | Longman Dictionary of Contemporary English에서 stir-fry의 어의 | LDOCE", "url": "https://www.ldoceonline.com/ko/dictionary/stir-fry", "snippet": "stir-fry 어의, 의미, stir-fry의 의미: to cook small pieces of food quickly by ...: 자세히 알아보기.", "sequence": 9}, {"type": "video_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).uVMCKf.mnr-c > div:nth-child(5)", "title": "VideosView All", "videos": [{"title": "How to Stir-Fry", "url": "https://m.youtube.com/watch?v=8bEBVO1jiXU"}, {"title": "Korean Spicy Stir-fried Noodles", "url": "https://www.youtube.com/watch?v=_Tr6DD2Ncp8&vl=ko"}, {"title": "상큼한 토마토와 계란의 만남, 토마토 계란볶음 / Stir-fried tomato eggs", "url": "https://m.youtube.com/watch?v=1AntGZ5mlig"}, {"title": "집밥 먹방 :) 밥도둑 조기조림에 밤 듬뿍 돌솥밥, 쏘야, 오징어실채볶음, 방풍나물. 후식은 달달한 수박.", "url": "https://www.youtube.com/watch?v=reXqLlFYI1o&vl=ko"}], "sequence": 10}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 6, "url": "https://haemukja.com/m/recipes/2899", "thumbnail": {"type": "image"}, "sequence": 11}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 7, "displayed_link": "https://www.collinsdictionary.com › ...", "title": "Stir-fried definition and meaning | Collins English Dictionary", "url": "https://www.collinsdictionary.com/ko/dictionary/english/stir-fried", "snippet": "Stir-fried definition: to cook (small pieces of meat , vegetables , etc) rapidly by stirring them in a wok or... | Meaning, pronunciation, translations and ...", "sequence": 12}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 8, "displayed_link": "https://www.collinsdictionary.com › ...", "title": "Stir-fry definition and meaning | Collins English Dictionary", "url": "https://www.collinsdictionary.com/ko/dictionary/english/stir-fry", "snippet": "2022. 5. 3. — Stir-fry definition: If you stir-fry vegetables, meat, or fish , you cook small pieces of them quickly by... | Meaning, pronunciation ...", "sequence": 13}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 9, "displayed_link": "http://ko.wordow.com › dictionary", "title": "stir-fried 뜻 - 영어 사전", "url": "http://ko.amp.wordow.com/english/dictionary/stir-fried", "snippet": "에서 한국어 내부, 우리는 어떻게 설명 할stir-fried영어 단어 그것은? stir-fried영어 단어는 다음과 같은 의미를 한국어 :- 볶음, 볶음. Meaning of stir-fried for ...", "sequence": 14}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 10, "displayed_link": "https://surestepup.tistory.com › ...", "title": "stir-fry 뜻은? 요리 영어단어표현 총 정리", "url": "https://surestepup.tistory.com/m/46", "snippet": "2020. 7. 6. — stir-fry는 무슨 뜻일까요? 알고 보면 우리가 많이 쓰는 요리 용어들,. 영어로는 어떤 것이 있는지 알아 보아요 :) ...", "sequence": 15}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 11, "displayed_link": "https://www.bbcgoodfood.com › stir...", "title": "Stir-fry recipes | BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/collection/stir-fry-recipes/amp", "snippet": "Items 1 - 22 of 81 — Use our fragrant stir-fry recipes to whip up a speedy midweek meal. Season your wok with Singapore noodles, chicken chow mein, fried rice, ...", "thumbnail": {"type": "image", "url": "https://www.bbcgoodfood.com/recipes/collection/stir-fry-recipes/amp", "desc": "stir-fried(출처: www.bbcgoodfood.com)"}, "sequence": 16}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 12, "displayed_link": "https://www.bbcgoodfood.com › si...", "title": "Simple stir-fry recipe | BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/simple-stir-fry/amp", "snippet": "2021. 12. 16. — Ingredients · 500g vegetables such as carrots, baby corn, broccoli, courgettes, red peppers and cabbage or pak choi · 1 tbsp rapeseed oil · 1 ...", "thumbnail": {"type": "image", "url": "https://www.bbcgoodfood.com/recipes/simple-stir-fry/amp", "desc": "stir-fried(출처: www.bbcgoodfood.com)"}, "rating": {"rating_count": "(12)", "rating_value": "5.0"}, "sequence": 17}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 13, "displayed_link": "https://www.dictionary.com › browse", "title": "Stir-fried Definition & Meaning | Dictionary.com", "url": "https://www.dictionary.com/browse/stir-fried", "snippet": "Stir-fried definition, (of food) prepared by cooking quickly in a small amount of oil over high heat: stir-fried shrimp and snow peas. See more.", "sequence": 18}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 14, "displayed_link": "https://www.bbc.co.uk › recipes › sa...", "title": "Easy vegetable stir-fry recipe - BBC Food", "url": "https://www.bbc.co.uk/food/recipes/sachas_stir-fry_17077/amp", "snippet": "Method · Heat a wok on a high heat and add the sunflower oil. · Add the carrot, red pepper and baby sweetcorn and stir-fry for 2 minutes. · Add 1 tablespoon water, ...", "thumbnail": {"type": "image", "url": "https://www.bbc.co.uk/food/recipes/sachas_stir-fry_17077/amp", "desc": "stir-fried(출처: www.bbc.co.uk)"}, "rating": {"rating_count": "(24)", "rating_value": "4.7"}, "sequence": 19}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 15, "displayed_link": "https://tr-ex.me › 번역 › stir+fry", "title": "STIR FRY - 한국어 뜻 - 한국어 번역 - Tr-ex", "url": "https://tr-ex.me/%EB%B2%88%EC%97%AD/%EC%98%81%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4/stir+fry", "snippet": "In a stir fry you start out cooking everything in very high heat until its 2/3 the way cooked then add a sauce wine vinegar broth or water and simmer until ...", "sequence": 20}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 16, "displayed_link": "https://www.justonecookbook.com › ...", "title": "Stir-Fried Vegetables (Yasai Itame) (Video) 野菜炒め - Just One Cookbook", "url": "https://www.justonecookbook.com/stir-fry-vegetables/", "snippet": "Many Japanese home cooks also use a frying pan to cook Yasai Itame. This recipe when cooked on a standard stove may not taste the same as a stir fry vegetable ...", "thumbnail": {"type": "video", "url": "https://www.justonecookbook.com/stir-fry-vegetables/", "desc": "stir-fried 동영상"}, "rating": {"rating_count": "(68)", "rating_value": "4.6"}, "sequence": 21}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 17, "displayed_link": "https://www.allrecipes.com › ... › Beef", "title": "Quick Beef Stir-Fry Recipe | Allrecipes", "url": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/", "snippet": "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes. Move beef to the side of the wok and add ...", "thumbnail": {"type": "video", "url": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/", "desc": "stir-fried 동영상"}, "rating": {"rating_count": "(364)", "rating_value": "4.4"}, "sequence": 22}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 18, "displayed_link": "https://www.budgetbytes.com › easy...", "title": "Easy Vegetable Stir Fry - Budget Bytes", "url": "https://www.budgetbytes.com/easy-vegetable-stir-fry/", "snippet": "2022. 3. 15. — Make the stir fry sauce first. · Chop the vegetables into similar-sized pieces. · Add the cooking oil to a very large skillet or wok. · Next, add ...", "thumbnail": {"type": "image", "url": "https://www.budgetbytes.com/easy-vegetable-stir-fry/", "desc": "stir-fried(출처: www.budgetbytes.com)"}, "rating": {"rating_count": "(6)", "rating_value": "5.0"}, "sequence": 23}, {"type": "organic_results", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi", "position": 19, "displayed_link": "https://www.foodnetwork.com › ho...", "title": "How to Stir-Fry: A Step-by-Step Guide - Food Network", "url": "https://www.foodnetwork.com/how-to/articles/how-to-stir-fry-a-step-by-step-guide", "snippet": "A wok is best for stir-fries because its shape keeps the food moving. Put it over super-high heat, add the oil and then add aromatics like garlic and ginger.", "thumbnail": {"type": "image", "url": "https://www.foodnetwork.com/how-to/articles/how-to-stir-fry-a-step-by-step-guide", "desc": "stir-fried(출처: www.foodnetwork.com)"}, "sequence": 24}, {"type": "related_searches", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c", "results": [{"query": "Stir 뜻", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_91_Nl58Yqu1D5HO2roP2OOfMA__38 > div:nth-child(1) > a.iOJVmb"}, {"query": "Sautéed", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_92_Nl58Yqu1D5HO2roP2OOfMA__41 > div:nth-child(1) > a.iOJVmb"}, {"query": "볶음 meaning", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_93_Nl58Yqu1D5HO2roP2OOfMA__42 > div:nth-child(1) > a.iOJVmb"}, {"query": "Sautéing", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_94_Nl58Yqu1D5HO2roP2OOfMA__43 > div:nth-child(1) > a.iOJVmb"}, {"query": "Chow mein", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_95_Nl58Yqu1D5HO2roP2OOfMA__44 > div:nth-child(1) > a.iOJVmb"}, {"query": "Gentle frying", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_96_Nl58Yqu1D5HO2roP2OOfMA__45 > div:nth-child(1) > a.iOJVmb"}, {"query": "Water spinach", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_97_Nl58Yqu1D5HO2roP2OOfMA__46 > div:nth-child(1) > a.iOJVmb"}, {"query": "Baby corn", "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_98_Nl58Yqu1D5HO2roP2OOfMA__47 > div:nth-child(1) > a.iOJVmb"}], "sequence": 25}]}
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "41718a72-4211-48b1-8e2f-d206ce143cfa",
+        "sub_id": 0,
+        "requested_time": "2023-06-30T08:51:22.245Z",
+        "q": "2022 여자 염색",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=2022+%EC%97%AC%EC%9E%90+%EC%97%BC%EC%83%89&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0032.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230630/2306301751/122099136089-41718A72421148B18E2FD206CE143CFA-00.html",
+        "json_url": "http://node0032.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230630/2306301751/122099136089-41718A72421148B18E2FD206CE143CFA-00.json",
+        "crawl_start_time": "2023-06-30T08:51:23.326Z",
+        "crawl_end_time": "2023-06-30T08:51:29.386Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "여자머리",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 6.05
+    },
+    "information": {
+        "version": "5.5.1.master",
+        "displayed_query": "2022 여자 염색",
+        "parsed_time": "2023-06-30T13:06:21.195Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "이미지"
+                },
+                {
+                    "type": "filter",
+                    "text": "동영상"
+                },
+                {
+                    "type": "filter",
+                    "text": "뉴스"
+                },
+                {
+                    "type": "filter",
+                    "text": "쇼핑"
+                },
+                {
+                    "type": "filter",
+                    "text": "지도"
+                },
+                {
+                    "type": "filter",
+                    "text": "도서"
+                },
+                {
+                    "type": "filter",
+                    "text": "항공편"
+                },
+                {
+                    "type": "filter",
+                    "text": "금융"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "featured_snippet",
+            "results": [
+                {
+                    "title": "[2022 여자 헤어스타일] 가을이 다가왔다...앞서서 준비하는 ... - 문화뉴스",
+                    "displayed_link": "https://www.mhns.co.kr › articleView",
+                    "url": "https://www.mhns.co.kr/news/articleView.html?idxno=533400",
+                    "snippet": "가을과 겨울에 들어서는 애쉬그레이 색상이 인기가 많다. 색상이 밝은 편에 속하며 탈색을 2~3번은 거쳐야 나오는 색상이다. 완전한 쥐색이라고도 불린다. 회색의 차갑지만 따뜻한 느낌으로 차가운 계절에 어울리며, 남녀 모두에게 잘 어울리는 색상이어서 더 선호도가 높다.",
+                    "emphasis": [
+                        "애쉬그레이"
+                    ]
+                }
+            ],
+            "official": true
+        },
+        {
+            "sequence": 3,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "문화뉴스",
+                            "landing_url": "https://www.mhns.co.kr/news/articleView.html?idxno=533400"
+                        },
+                        {
+                            "source": "언니의파우치",
+                            "landing_url": "https://www.unpa.me/tip/detail/2bdcdb0f-db11-4552-adff-dce16de82d79"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "Perfect Corp.",
+                            "landing_url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021"
+                        },
+                        {
+                            "source": "언니의파우치",
+                            "landing_url": "https://www.unpa.me/tip/detail/2bdcdb0f-db11-4552-adff-dce16de82d79"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "post.naver.com",
+            "displayed_link": "https://m.post.naver.com › postView",
+            "title": "셀럽 헤어스타일로 보는 2022 여자 여름 염색 추천 - NAver",
+            "url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33962378&memberNo=485094",
+            "snippet": "셀럽 헤어스타일로 보는 2022 여자 여름 염색 추천 ; 꾸안꾸의 ·, 이젠 ; 밝은 오렌지 컬러가 ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://m.post.naver.com › postView",
+            "date": "2022. 5. 6.",
+            "title": "셀럽SNS 속 살펴본 2022여자헤어스타일 트렌드[염색, 탈색 ... - NAver",
+            "url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33750801&memberNo=35404784",
+            "snippet": "2022. 5. 6. — 2022여자헤어스타일 트렌드 [염색, 탈색, 단발, 레이어드컷 까지]. 분위기 전환하고 싶다면, 헤어스타일에 변화를 줘보자! 요 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33750801&memberNo=35404784",
+                "desc": "2022 여자 염색(출처: m.post.naver.com)"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "여자 염색 추천 2023"
+                },
+                {
+                    "query": "여자 머리 염색 색깔 추천"
+                },
+                {
+                    "query": "2022 여자 헤어스타일"
+                },
+                {
+                    "query": "여자 헤어스타일 2023"
+                },
+                {
+                    "query": "머리 염색 추천 2023"
+                },
+                {
+                    "query": "여자 염색 색깔"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "perfectcorp.com",
+            "displayed_link": "https://www.perfectcorp.com › hair",
+            "date": "2022. 5. 25.",
+            "title": "2022 여자 남자 머리 염색 추천! 어플로 헤어 컬러 트렌드 체험하기 | PERFECT",
+            "url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021",
+            "snippet": "2022. 5. 25. — 스타일 변신을 원한다면 염색만한 방법이 없죠! 지금 뜨고 있는 남자 여자 염색 추천 컬러와 함께 어플로 어울리는 머리색 찾는 법을 알아보세요!",
+            "carousels": [
+                {
+                    "url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021",
+                    "title": "1. 염색 추천 #1: 옴브레 브라운"
+                },
+                {
+                    "url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021",
+                    "title": "2. 염색 추천 #2: 블루 블랙 투톤"
+                },
+                {
+                    "url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021",
+                    "title": "3. 염색 추천 #3: 핑크"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "allurekorea.com",
+            "displayed_link": "https://www.allurekorea.com › 오렌...",
+            "date": "2022. 4. 11.",
+            "title": "2022 여자 염색 추천, 오렌지 헤어로 변신한 블랙핑크 제니 - 얼루어 코리아",
+            "url": "https://www.allurekorea.com/2022/04/11/%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%97%A4%EC%96%B4%EB%A1%9C-%EB%B3%80%EC%8B%A0%ED%95%9C-%EC%A0%9C%EB%8B%88-%EC%97%AD%EC%8B%9C-%EC%A0%9C%EB%8B%88-is-%EB%AD%94%EB%93%A4/",
+            "snippet": "2022. 4. 11. — 따뜻한 봄 날씨에 맞춰 헤어 컬러를 바꾸고 싶은 건 제니도 같은 마음일까요? 오랫동안 흑발을 고수해오던 제니가 오렌지 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.allurekorea.com/2022/04/11/%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%97%A4%EC%96%B4%EB%A1%9C-%EB%B3%80%EC%8B%A0%ED%95%9C-%EC%A0%9C%EB%8B%88-%EC%97%AD%EC%8B%9C-%EC%A0%9C%EB%8B%88-is-%EB%AD%94%EB%93%A4/",
+                "desc": "2022 여자 염색(출처: www.allurekorea.com)"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "tiktok.com",
+            "displayed_link": "https://www.tiktok.com › video",
+            "title": "#2022여자스타일 #2022여자염색추천 #2022여자염색 #2022헤어스타일 ...",
+            "url": "https://www.tiktok.com/@lliam0415/video/7056224715727277313",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://www.tiktok.com/@lliam0415/video/7056224715727277313",
+                "date": "2022. 10. 4."
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "tiktok.com",
+            "displayed_link": "https://www.tiktok.com › video",
+            "title": "#베리핑크#2022여자염색 #2022여자염색추천 #2022여자탈색 ... - TikTok",
+            "url": "https://www.tiktok.com/@lliam0415/video/7058211394256342274",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://www.tiktok.com/@lliam0415/video/7058211394256342274",
+                "date": "2022. 8. 28."
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "youtube.com",
+            "displayed_link": "https://m.youtube.com › results › se...",
+            "title": "#2022여자겨울염색추천 - YouTube",
+            "url": "https://m.youtube.com/results?search_query=%232022%EC%97%AC%EC%9E%90%EA%B2%A8%EC%9A%B8%EC%97%BC%EC%83%89%EC%B6%94%EC%B2%9C",
+            "snippet": "You're offline. Check your connection. Retry ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "v.daum.net",
+            "displayed_link": "https://v.daum.net › ...",
+            "title": "단발부터 탈색, 염색까지! 2022 여자 헤어트렌트 모음.zip | 패시네이션",
+            "url": "https://v.daum.net/v/EfJGLSy9e0",
+            "snippet": "단발부터 탈색, 염색까지! 2022 여자 헤어트렌트 모음.zip. 조회수 2022. 6. 24. 09:02. 댓글닫힘. 번역 설정. 번역beta Translated by kaka i. 한국어 -"
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 11,
+            "displayed_link": "https://v.daum.net › ...",
+            "date": "2022. 6. 22.",
+            "title": "셀럽 헤어스타일로 보는 2022 여자 여름 염색 추천 | 언니의파우치 - Daum",
+            "url": "https://v.daum.net/v/EhCycyu4ZQ",
+            "snippet": "2022. 6. 22. — 2022 여자 염색 추천 컬러들을 살펴봤어! 곧 방학도 다가오고 여름휴가도 다가오니 셀럽들의 염색을 참고해 기분전환은 물 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://v.daum.net/v/EhCycyu4ZQ",
+                "desc": "2022 여자 염색(출처: v.daum.net)"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "atelier7.co.kr",
+            "displayed_link": "http://m.atelier7.co.kr › filebbs",
+            "title": "2022 여자 헤어스타일 - 아뜰리에7",
+            "url": "http://m.atelier7.co.kr/m/filebbs.asp?act=view&idx=1155",
+            "snippet": "2022 여자 헤어스타일. 긴머리 염색 시크릿투톤칼라. 가벼운 여자 웨이브펌. 안녕하세요^^. 여자 긴머리 염색. 투톤 시크릿염색. 예쁘게 잘하는 명동미용실."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "zoommytrip.kr",
+            "displayed_link": "https://zoommytrip.kr › Trend",
+            "title": "탈색 없이도 가능한 염색 컬러 추천 리스트 - 내여행 찾아줌",
+            "url": "https://zoommytrip.kr/%ED%83%88%EC%83%89-%EC%97%86%EC%9D%B4%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%97%BC%EC%83%89-%EC%BB%AC%EB%9F%AC-%EC%B6%94%EC%B2%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8/",
+            "snippet": "탈색 없이도 가능한 염색 컬러 추천 리스트. By ZoomMyTrip 2021년 10월 28일 Trend 0 Comments. Related Posts. 추성훈, 발 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://zoommytrip.kr/%ED%83%88%EC%83%89-%EC%97%86%EC%9D%B4%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%97%BC%EC%83%89-%EC%BB%AC%EB%9F%AC-%EC%B6%94%EC%B2%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8/",
+                "desc": "2022 여자 염색(출처: zoommytrip.kr)"
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "facebook.com",
+            "displayed_link": "https://m.facebook.com › ... › Videos",
+            "title": "2022 컬러를 헤어로 표현하다. #에비뉴쉬에뜨 #그린컬러... - Facebook",
+            "url": "https://m.facebook.com/AvenueChiett/videos/2022-%EC%BB%AC%EB%9F%AC%EB%A5%BC-%ED%97%A4%EC%96%B4%EB%A1%9C-%ED%91%9C%ED%98%84%ED%95%98%EB%8B%A4%EC%97%90%EB%B9%84%EB%89%B4%EC%89%AC%EC%97%90%EB%9C%A8-%EA%B7%B8%EB%A6%B0%EC%BB%AC%EB%9F%AC%EC%97%AC%EC%9E%90%EB%A8%B8%EB%A6%AC-%EC%97%AC%EC%9E%90%EC%97%BC%EC%83%89-%EC%97%BC%EC%83%89-%ED%83%88%EC%83%89-%EA%B7%B8%EB%A6%B0%EC%97%BC%EC%83%89-%ED%88%AC%ED%86%A4%EC%BB%AC%EB%9F%AC-%ED%88%AC%ED%86%A4%EC%97%BC%EC%83%89-%EB%AF%B8%EC%9A%A9-%EB%AF%B8%EC%9A%A9%EC%9D%B8-%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EB%AF%B8%EC%9A%A9%EC%82%AC-%ED%97%A4%EC%96%B4%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/842443386742626/",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://m.facebook.com/AvenueChiett/videos/2022-%EC%BB%AC%EB%9F%AC%EB%A5%BC-%ED%97%A4%EC%96%B4%EB%A1%9C-%ED%91%9C%ED%98%84%ED%95%98%EB%8B%A4%EC%97%90%EB%B9%84%EB%89%B4%EC%89%AC%EC%97%90%EB%9C%A8-%EA%B7%B8%EB%A6%B0%EC%BB%AC%EB%9F%AC%EC%97%AC%EC%9E%90%EB%A8%B8%EB%A6%AC-%EC%97%AC%EC%9E%90%EC%97%BC%EC%83%89-%EC%97%BC%EC%83%89-%ED%83%88%EC%83%89-%EA%B7%B8%EB%A6%B0%EC%97%BC%EC%83%89-%ED%88%AC%ED%86%A4%EC%BB%AC%EB%9F%AC-%ED%88%AC%ED%86%A4%EC%97%BC%EC%83%89-%EB%AF%B8%EC%9A%A9-%EB%AF%B8%EC%9A%A9%EC%9D%B8-%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EB%AF%B8%EC%9A%A9%EC%82%AC-%ED%97%A4%EC%96%B4%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/842443386742626/",
+                "date": "2022. 9. 1."
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "convenience.mediatagtw.com",
+            "displayed_link": "https://convenience.mediatagtw.com › ...",
+            "title": "머리 염색 추천 2022的推薦與評價，YOUTUBE和 網紅們這樣回答",
+            "url": "https://convenience.mediatagtw.com/article/%EB%A8%B8%EB%A6%AC+%EC%97%BC%EC%83%89+%EC%B6%94%EC%B2%9C+2022",
+            "snippet": "셀럽 헤어스타일로 보는 2022 여자 여름 염색 추천 | 언니의파우치. 에스파 카리나의 헤어스타일! 긴 머리에 쨍한 보라색 컬러로 예쁨과 개성 두 마리의 토끼를 모두 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "Perfect Corp.",
+                            "landing_url": "https://www.perfectcorp.com/ko/consumer/blog/hair/best-at-home-hair-color-trends-2021"
+                        },
+                        {
+                            "source": "NAver",
+                            "landing_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33750801&memberNo=35404784"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "문화뉴스",
+                            "landing_url": "https://www.mhns.co.kr/news/articleView.html?idxno=533400"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=IC2LB47l3DI"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "sensient-beauty.com",
+            "displayed_link": "https://sensient-beauty.com › insights",
+            "date": "2022. 3. 18.",
+            "title": "2022년 가장 큰 헤어 컬러 트렌드와 이를 달성하는 방법 - Sensient Beauty",
+            "url": "https://sensient-beauty.com/ko/insights/the-biggest-hair-color-trends-for-2022-and-how-to-achieve-them/",
+            "snippet": "2022. 3. 18. — 2022년으로 빨리 감기에 따라, 실험의 의지와 결합된 전염병 이후 세계 ... 파스텔에서 강렬한 색상에 이르는 다양한 톤의 염색을 만들 수 있습니다."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "creatoroo.com",
+            "displayed_link": "https://creatoroo.com › search › ",
+            "title": "캠페인 - 통합검색 | 크리에이터링",
+            "url": "https://creatoroo.com/search/%232022%EC%97%AC%EC%9E%90%EC%97%BC%EC%83%89%EC%B6%94%EC%B2%9C",
+            "snippet": "#2022여자염색추천 에 대한 통합검색 결과입니다. 크리에이터. 캠페인. 영상. 도전해봐! 이지엔 푸딩 헤어컬러 Pink #shorts · JUYA WORLD 주야월드; 조회수39,276회10 ..."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "ko.aliexpress.com",
+            "displayed_link": "https://m.ko.aliexpress.com › item",
+            "title": "2022 뜨거운 헤어 스타일 빗 내열성 여자 젖은 후크 곱슬 머리 브러쉬 ...",
+            "url": "https://m.ko.aliexpress.com/item/1005003930521466.html",
+            "snippet": "AliExpress Mobile에서 품질 좋은 2022 뜨거운 헤어 스타일 빗 내열성 여자 젖은 후크 곱슬 머리 브러쉬 프로 살롱 염색 스타일링 도구 거친 와이드 스파이크 치아 ...",
+            "rating": {
+                "rating_count": "(13)",
+                "rating_value": "4.6"
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "pinterest.co.kr",
+            "displayed_link": "https://www.pinterest.co.kr › 여자...",
+            "title": "570개의 여자헤어스타일 아이디어 - 2023 | 헤어, 머리 스타일, 머리",
+            "url": "https://www.pinterest.co.kr/a01028677762/%EC%97%AC%EC%9E%90%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC/",
+            "snippet": "12 - Pinterest에서 주현 박님의 보드 \"여자헤어스타일\"을(를) 팔로우하세요. 헤어, 머리 스타일, 머리에 관한 ... Curly Hair Styles, 내추럴 메이크업 룩, 염색 머리."
+        }
+    ]
+}
