@@ -1,4 +1,5 @@
 {
+    "html_contents_type": "google_serp",
     "search_parameters": {
         "engine": "google",
         "id": "bba4985b-04d1-4d5b-818b-9a74ce79a60d",
@@ -21,16 +22,17 @@
         "crawl_elapsed_time": 5.61
     },
     "information": {
-        "version": "5.0.5.master",
+        "version": "5.5.1.master",
         "displayed_query": "지금 우리 연구소는 국수단 체크팀",
-        "parsed_time": "2023-05-17T23:48:15.970Z"
+        "parsed_time": "2023-06-30T12:24:11.346Z"
     },
     "features": [
         {
             "sequence": 1,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 1,
+            "site_name": "whale.naver.com",
+            "displayed_link": "https://whale.naver.com › webtoon",
             "title": "지금 우리 연구소는 - 네이버 웨일",
             "url": "https://whale.naver.com/banner/webtoon/",
             "snippet": "지금 우리 연구소는. 주동근. 효산시에서 극적으로 탈출한 온조와 남라는 연구원이 되어 좀비 바이러스의 비밀을 파헤치는데,. 과연 이들은 좀비 바이러스를 끝낼 수 ...",
@@ -43,7 +45,6 @@
         {
             "sequence": 2,
             "type": "people_also_search_for",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "searches": [
                 {
                     "query": "지금 우리 연구소는 쿠키"
@@ -68,8 +69,9 @@
         {
             "sequence": 3,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 2,
+            "site_name": "ilovehavinglotsofmoney.tistory.com",
+            "displayed_link": "https://ilovehavinglotsofmoney.tistory.com › ...",
             "title": "[23.05.09][네이버 시리즈 쿠키] 아수라 게이트 1화에 등장하는 [수라단 단장]의 이름은?",
             "url": "https://ilovehavinglotsofmoney.tistory.com/m/81",
             "snippet": "웹테크, 앱테크, 짠테크, 온라인 폐지, 디지털 폐지, 사이버 폐지, 출석 체크, 현금화, 포인트, 아재 개그, 넌센스, 꿀잼, 재미, 드립, joke, 영어 표현, 미드 명언."
@@ -77,8 +79,9 @@
         {
             "sequence": 4,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
             "position": 4,
+            "site_name": "dcinside.com",
+            "displayed_link": "https://m.dcinside.com › board › na...",
             "title": "지금우리연구소 6화 - 네이버 웹툰 마이너 갤러리 - 디시인사이드",
             "url": "https://m.dcinside.com/board/naverwebtoon/2165",
             "snippet": "지금우리연구소 6화. ㅇㅇ(175.202); 2022.11.16 00:12. 조회수 12369; 추천 53; 댓글 21. 마우스. 추천검색. 개념글 추천하기. 53 고정닉 추천수0. 비추천하기."
@@ -86,8 +89,8 @@
         {
             "sequence": 5,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(4) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
             "position": 5,
+            "displayed_link": "https://m.dcinside.com › board › na...",
             "title": "네이버 웹툰 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
             "url": "https://m.dcinside.com/board/naverwebtoon",
             "snippet": "네이버 웹툰을 즐겨보는 독자들을 위한 곳입니다 - 네이버 웹툰 갤러리에 다양한 이야기를 남겨주세요."
@@ -95,8 +98,9 @@
         {
             "sequence": 6,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 6,
+            "site_name": "jeongnue.tistory.com",
+            "displayed_link": "https://jeongnue.tistory.com › ...",
             "date": "2022. 11. 15.",
             "title": "네이버 웹툰 쿠키 - 지금 우리 연구소는 퀴즈 0000년 이후 지어진 연구소들은...",
             "url": "https://jeongnue.tistory.com/m/711",
@@ -105,7 +109,7 @@
         {
             "sequence": 7,
             "type": "organic_shorts",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).rULfzc",
+            "site_name": "tiktok.com",
             "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
             "title": "지금 우리 연구소는 국수단 체크팀｜TikTok 검색",
             "url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80",
@@ -145,8 +149,9 @@
         {
             "sequence": 8,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
             "position": 8,
+            "site_name": "namu.wiki",
+            "displayed_link": "https://namu.wiki › 등장인물",
             "date": "2023. 2. 13.",
             "title": "지금 우리 학교는/등장인물 - 나무위키",
             "url": "https://namu.wiki/w/%EC%A7%80%EA%B8%88%20%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%EB%8A%94/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
@@ -155,8 +160,8 @@
         {
             "sequence": 9,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
             "position": 9,
+            "displayed_link": "https://namu.wiki › 지금 우리 학...",
             "date": "2023. 5. 9.",
             "title": "지금 우리 학교는 - 나무위키",
             "url": "https://namu.wiki/w/%EC%A7%80%EA%B8%88%20%EC%9A%B0%EB%A6%AC%20%ED%95%99%EA%B5%90%EB%8A%94",
@@ -165,27 +170,37 @@
         {
             "sequence": 10,
             "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://whale.naver.com/banner/webtoon/"
-                },
-                {
-                    "landing_url": "https://www.webtoonguide.com/ko/db/content-2/%EC%A7%80%EA%B8%88%EC%9A%B0%EB%A6%AC%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94/843708"
-                },
-                {
-                    "landing_url": "https://whale.naver.com/banner/webtoon/"
-                },
-                {
-                    "landing_url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80"
-                }
-            ]
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "네이버 웨일",
+                            "landing_url": "https://whale.naver.com/banner/webtoon/"
+                        },
+                        {
+                            "source": "웹툰가이드",
+                            "landing_url": "https://www.webtoonguide.com/ko/db/content-2/%EC%A7%80%EA%B8%88%EC%9A%B0%EB%A6%AC%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94/843708"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "네이버 웨일",
+                            "landing_url": "https://whale.naver.com/banner/webtoon/"
+                        },
+                        {
+                            "source": "TikTok",
+                            "landing_url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80"
+                        }
+                    ]
+                ]
+            }
         },
         {
             "sequence": 11,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 10,
+            "site_name": "cboard.net",
+            "displayed_link": "https://cboard.net › 국수단 체크팀",
             "title": "국수단 체크팀 - 시보드",
             "url": "https://cboard.net/s/%EA%B5%AD%EC%88%98%EB%8B%A8%20%EC%B2%B4%ED%81%AC%ED%8C%80",
             "snippet": "온조의 마지막 대사는?    국수단 체크팀 OOOO년 이후 지어진 연구소들은 비밀통로가 의무적으로 설치   퀴즈 : 지금 우리 연구소는 퀴즈 정답     정답 ..."
@@ -193,7 +208,6 @@
         {
             "sequence": 12,
             "type": "related_searches",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "results": [
                 {
                     "query": "지금 우리 연구소는 정답 디시"
