@@ -26,15 +26,14 @@
         }
     },
     "information": {
-        "version": "2.2.26.master",
+        "version": "5.5.1.master",
         "displayed_query": "아이 패드 숫자",
-        "parsed_time": "2022-12-11T23:49:00.661Z"
+        "parsed_time": "2023-06-30T11:40:28.044Z"
     },
     "features": [
         {
             "sequence": 1,
             "type": "featured_snippet",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.Ww4FFb.vt6azd.wF4fFd.JnwWd.g-blk",
             "results": [
                 {
                     "title": "iPhone, iPad 및 iPod touch용 Numbers의 데이터 입력 간소화에 대해 알아보기",
@@ -51,8 +50,8 @@
         {
             "sequence": 2,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 1,
+            "site_name": "support.apple.com",
             "displayed_link": "https://support.apple.com › ipados",
             "title": "iPad의 Numbers에서 공식 키보드 사용하기 - Apple 지원 (KR)",
             "url": "https://support.apple.com/ko-kr/guide/numbers-ipad/tan415509af/ipados",
@@ -61,8 +60,8 @@
         {
             "sequence": 3,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 2,
+            "site_name": "support.google.com",
             "displayed_link": "https://support.google.com › answer",
             "title": "스프레드시트의 숫자 형식 지정 - iPhone/iPad - Google Docs 편집기 고객센터",
             "url": "https://support.google.com/docs/answer/56470?hl=ko&co=GENIE.Platform%3DiOS",
@@ -71,8 +70,8 @@
         {
             "sequence": 4,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 3,
+            "site_name": "clien.net",
             "displayed_link": "https://www.clien.net › cm_iphonien",
             "date": "2021. 6. 5.",
             "title": "아이패드 프로 터치키보드 위에 숫자키? - 클리앙",
@@ -82,8 +81,8 @@
         {
             "sequence": 5,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 4,
+            "site_name": "ppomppu.co.kr",
             "displayed_link": "http://m.ppomppu.co.kr › bbs_view",
             "date": "2020. 11. 6.",
             "title": "아이폰 키보드 자판 상단에 숫자나오게 하는 방법 알려주세요 - 뽐뿌",
@@ -93,8 +92,8 @@
         {
             "sequence": 6,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 5,
+            "site_name": "ko.aliexpress.com",
             "displayed_link": "https://ko.aliexpress.com › wholesal...",
             "title": "아이패드숫자키패드 결과",
             "url": "https://ko.aliexpress.com/w/wholesale-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%88%AB%EC%9E%90%ED%82%A4%ED%8C%A8%EB%93%9C.html",
@@ -107,39 +106,32 @@
         {
             "sequence": 7,
             "type": "people_also_search_for",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "searches": [
                 {
-                    "query": "아이패드 프로 세대 정리",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__19 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이패드 프로 세대 정리"
                 },
                 {
-                    "query": "아이패드 프로 세대 구분",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__20 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이패드 프로 세대 구분"
                 },
                 {
-                    "query": "아이패드 숫자 키패드",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__21 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이패드 숫자 키패드"
                 },
                 {
-                    "query": "아이패드 모델 정리",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__22 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이패드 모델 정리"
                 },
                 {
-                    "query": "아이패드 모델 확인",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__23 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이패드 모델 확인"
                 },
                 {
-                    "query": "아이폰 키보드 숫자 추가",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "아이폰 키보드 숫자 추가"
                 }
             ]
         },
         {
             "sequence": 8,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 6,
+            "site_name": "apedix.tistory.com",
             "displayed_link": "https://apedix.tistory.com › ...",
             "date": "2012. 11. 14.",
             "title": "아이폰에서 숫자만 빠르게 입력하는 방법 - INFORMATION FACTORY - 티스토리",
@@ -149,8 +141,8 @@
         {
             "sequence": 9,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 7,
+            "position": 8,
+            "site_name": "11st.co.kr",
             "displayed_link": "http://m.11st.co.kr › products",
             "title": "코시 무선 블루투스 숫자 키패드 / 노트북 태블릿PC 스마트폰 아이폰 아이패드 저소음 보조 키보드 추천 - 11번가",
             "url": "http://m.11st.co.kr/products/m/2479169875",
@@ -159,8 +151,7 @@
         {
             "sequence": 10,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 8,
+            "position": 9,
             "displayed_link": "http://m.11st.co.kr › products",
             "title": "휴대용블루투스 숫자키패드키보드 아이패드에어 미니프로 갤럭시탭 - 11번가",
             "url": "http://m.11st.co.kr/products/m/3680615349",
@@ -169,8 +160,8 @@
         {
             "sequence": 11,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 9,
+            "position": 10,
+            "site_name": "kmug.co.kr",
             "displayed_link": "https://kmug.co.kr › bbs › board",
             "date": "2018. 9. 27.",
             "title": "아이패드와 아이폰을 위한 14가지 기본 '키보드 이용 팁' > 팁사용기 - 케이머그",
@@ -180,8 +171,8 @@
         {
             "sequence": 12,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 10,
+            "position": 11,
+            "site_name": "fmhelp.filemaker.com",
             "displayed_link": "https://fmhelp.filemaker.com › fmp",
             "title": "터치 키보드 유형 변경하기",
             "url": "https://fmhelp.filemaker.com/help/16/fmp/ko/FMP_Help/display-keyboard.html",
@@ -190,8 +181,8 @@
         {
             "sequence": 13,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 11,
+            "position": 12,
+            "site_name": "korean.alibaba.com",
             "displayed_link": "https://korean.alibaba.com › Blue-to...",
             "title": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 맥북 Windows를 위한 알루미늄 합금 덮개",
             "url": "https://korean.alibaba.com/product-detail/Blue-tooth-Numeric-Keyboard-Protable-Keypad-60591227877.html",
@@ -213,27 +204,18 @@
         {
             "sequence": 14,
             "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://www.clien.net/service/board/cm_iphonien/16203387"
-                },
-                {
-                    "landing_url": "https://support.apple.com/ko-kr/HT205374"
-                },
-                {
-                    "landing_url": "http://m.shop.interpark.com/product/6634041880/0000100000"
-                },
-                {
-                    "landing_url": "http://www.yes24.com/Product/Goods/99271200"
-                }
-            ]
+            "grid": {
+                "items": [
+                    [],
+                    []
+                ]
+            }
         },
         {
             "sequence": 15,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 12,
+            "position": 13,
+            "site_name": "shop.interpark.com",
             "displayed_link": "http://m.shop.interpark.com › product",
             "title": "블루투스 무선 노트북 아이패드 스마트폰 숫자 키패드 - 인터파크",
             "url": "http://m.shop.interpark.com/product/6659291339/0000100000?fr=pc",
@@ -242,8 +224,8 @@
         {
             "sequence": 16,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 13,
+            "position": 14,
+            "site_name": "browse.gmarket.co.kr",
             "displayed_link": "http://browse.gmarket.co.kr › search",
             "title": "숫자키패드 검색결과 - G마켓",
             "url": "http://browse.gmarket.co.kr/m/search?keyword=%EC%88%AB%EC%9E%90%ED%82%A4%ED%8C%A8%EB%93%9C",
@@ -252,8 +234,8 @@
         {
             "sequence": 17,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 14,
+            "position": 15,
+            "site_name": "yes24.com",
             "displayed_link": "http://m.yes24.com › Goods › Detail",
             "title": "숫자 (20종세트) 굿노트 아이패드 스티커 - YES24",
             "url": "http://m.yes24.com/Goods/Detail/99271198",
@@ -262,8 +244,8 @@
         {
             "sequence": 18,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 15,
+            "position": 16,
+            "site_name": "10x10.co.kr",
             "displayed_link": "http://m.10x10.co.kr › category › c...",
             "title": "숫자 (20종세트) 굿노트 아이패드 스티커 - 텐바이텐",
             "url": "http://m.10x10.co.kr/category/category_itemPrd.asp?itemid=3100556",
@@ -276,8 +258,8 @@
         {
             "sequence": 19,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 16,
+            "position": 17,
+            "site_name": "ohou.se",
             "displayed_link": "https://ohou.se › productions › selling",
             "title": "키보드 > [해외] BOW 무선 넘버 보조 텐키패드 아이패드 노트북 숫자키패드/무선 블루투스 버전",
             "url": "https://ohou.se/productions/727985/selling",
@@ -286,27 +268,18 @@
         {
             "sequence": 20,
             "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "http://www.11st.co.kr/products/2479169875"
-                },
-                {
-                    "landing_url": "https://rooney6.tistory.com/134"
-                },
-                {
-                    "landing_url": "https://ko.aliexpress.com/item/1005002368725113.html"
-                },
-                {
-                    "landing_url": "https://thursday1101.tistory.com/entry/%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0"
-                }
-            ]
+            "grid": {
+                "items": [
+                    [],
+                    []
+                ]
+            }
         },
         {
             "sequence": 21,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 17,
+            "position": 18,
+            "site_name": "coupang.com",
             "displayed_link": "https://www.coupang.com › search",
             "title": "기계식숫자패드led - 쿠팡!",
             "url": "https://www.coupang.com/np/search?q=%EA%B8%B0%EA%B3%84%EC%8B%9D%EC%88%AB%EC%9E%90%ED%8C%A8%EB%93%9Cled&channel=&component=&eventCategory=SRP&trcid=&traid=&sorter=scoreDesc&minPrice=&maxPrice=&priceRange=&filterType=&listSize=36&filter=&isPriceRange=false&brand=&offerCondition=&rating=0&page=1&rocketAll=false&searchIndexingToken=1=4&backgroundColor=",
@@ -315,39 +288,30 @@
         {
             "sequence": 22,
             "type": "related_searches",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "results": [
                 {
-                    "query": "아이폰 숫자 키패드",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#DmyWY_-OEY7W0gTf7KKwAg__26 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이폰 숫자 키패드"
                 },
                 {
-                    "query": "아이패드 시리즈 정리",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__27 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이패드 시리즈 정리"
                 },
                 {
-                    "query": "a1980 아이패드",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__28 > div:nth-child(1) > a.iOJVmb"
+                    "query": "a1980 아이패드"
                 },
                 {
-                    "query": "아이패드 m1",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__29 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이패드 m1"
                 },
                 {
-                    "query": "아이폰 키보드 위에 숫자",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__30 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이폰 키보드 위에 숫자"
                 },
                 {
-                    "query": "아이패드 세대 구분",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__31 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이패드 세대 구분"
                 },
                 {
-                    "query": "아이폰 숫자입력",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__32 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이폰 숫자입력"
                 },
                 {
-                    "query": "아이패드 모델번호 조회",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#DmyWY_-OEY7W0gTf7KKwAg__33 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아이패드 모델번호 조회"
                 }
             ]
         }

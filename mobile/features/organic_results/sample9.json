@@ -26,16 +26,16 @@
         }
     },
     "information": {
-        "version": "2.2.26.master",
+        "version": "5.5.1.master",
         "displayed_query": "동물 농장 눈 몬스터 의 침입",
-        "parsed_time": "2022-12-11T23:32:39.606Z"
+        "parsed_time": "2023-06-30T10:30:03.931Z"
     },
     "features": [
         {
             "sequence": 1,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 1,
+            "site_name": "vidkidz.tistory.com",
             "displayed_link": "https://vidkidz.tistory.com › ...",
             "title": "눈몬스터의 침입 - 쥬니버 동물농장 - 플래시게임 | 와플래시 아카이브",
             "url": "https://vidkidz.tistory.com/445",
@@ -49,8 +49,8 @@
         {
             "sequence": 2,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 2,
+            "site_name": "flashgamemall.tistory.com",
             "displayed_link": "https://flashgamemall.tistory.com › ...",
             "date": "2021. 2. 24.",
             "title": "눈몬스터의 침입 (뭉게뭉게 왕국을 지켜라) - 플래시게임몰",
@@ -65,8 +65,8 @@
         {
             "sequence": 3,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 3,
+            "site_name": "jmtgame.com",
             "displayed_link": "https://jmtgame.com › bbs › board",
             "date": "2012. 4. 21.",
             "title": "눈 몬스터의 침입 (고급) > 쥬니어네이버 - 존맛탱게임",
@@ -76,8 +76,8 @@
         {
             "sequence": 4,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 4,
+            "site_name": "flasharch.com",
             "displayed_link": "https://flasharch.com › archive › play",
             "title": "동물농장 - 눈 몬스터의 침입 - 플래시게임 아카이브",
             "url": "https://flasharch.com/archive/play/0f20178555f4820bec2ca3bb048bacb7",
@@ -91,8 +91,8 @@
         {
             "sequence": 5,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 5,
+            "site_name": "gamegogo.co.kr",
             "displayed_link": "https://gamegogo.co.kr › bbs › board",
             "date": "2021. 3. 21.",
             "title": "눈 몬스터의 침입 (고급) > 추억_쥬니어네이버게임 모음 | 게임고고 [플래시게임 아카이브]",
@@ -107,8 +107,8 @@
         {
             "sequence": 6,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(1).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 6,
+            "position": 7,
+            "site_name": "flashgameheaven.com",
             "displayed_link": "https://flashgameheaven.com › ...",
             "title": "동물농장 눈 몬스터의 침입 (고급) 플래시게임",
             "url": "https://flashgameheaven.com/406",
@@ -122,8 +122,7 @@
         {
             "sequence": 7,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).xpd.EtOod.pkphOe",
-            "position": 7,
+            "position": 8,
             "displayed_link": "https://flashgameheaven.com › ...",
             "title": "동물농장 눈 몬스터의 침입 (초급) 플래시게임",
             "url": "https://flashgameheaven.com/408",
@@ -132,39 +131,32 @@
         {
             "sequence": 8,
             "type": "people_also_search_for",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "searches": [
                 {
-                    "query": "동물 농장 눈 굴리기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__27 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "동물 농장 눈 굴리기"
                 },
                 {
-                    "query": "동물농장 물건 찾기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__28 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "동물농장 물건 찾기"
                 },
                 {
-                    "query": "쟈스민의 김밥만들기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__29 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "쟈스민의 김밥만들기"
                 },
                 {
-                    "query": "동물 농장 빵공장",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__31 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "동물 농장 빵공장"
                 },
                 {
-                    "query": "크라 라 의 집 찾기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__32 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "크라 라 의 집 찾기"
                 },
                 {
-                    "query": "동물 농장 택시 드라이버",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__33 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                    "query": "동물 농장 택시 드라이버"
                 }
             ]
         },
         {
             "sequence": 9,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 8,
+            "position": 9,
+            "site_name": "flashgamesite.tistory.com",
             "displayed_link": "https://flashgamesite.tistory.com › ...",
             "title": "동물농장게임 눈몬스터의 침입 눈싸움 게임하기 - 플래시게임천국",
             "url": "https://flashgamesite.tistory.com/385",
@@ -173,8 +165,8 @@
         {
             "sequence": 10,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 9,
+            "position": 10,
+            "site_name": "gamegg.tistory.com",
             "displayed_link": "https://gamegg.tistory.com › ...",
             "date": "2019. 12. 14.",
             "title": "동물농장게임 눈몬스터의침입 눈싸움 플래시게임하기",
@@ -189,8 +181,8 @@
         {
             "sequence": 11,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 10,
+            "position": 11,
+            "site_name": "inter87.tistory.com",
             "displayed_link": "https://inter87.tistory.com › category",
             "date": "2022. 8. 14.",
             "title": "'동물농장' 카테고리의 글 목록",
@@ -200,8 +192,8 @@
         {
             "sequence": 12,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 11,
+            "position": 12,
+            "site_name": "namu.wiki",
             "displayed_link": "https://namu.wiki › 동물농장(게임)",
             "date": "2022. 9. 11.",
             "title": "동물농장(게임)/포인트 게임 - 나무위키:대문",
@@ -211,27 +203,18 @@
         {
             "sequence": 13,
             "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://flasharch.com/archive/play/0f20178555f4820bec2ca3bb048bacb7"
-                },
-                {
-                    "landing_url": "https://flashgameheaven.com/m/391"
-                },
-                {
-                    "landing_url": "https://flasharch.com/archive?q=%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5&sT=3&o=2"
-                },
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                }
-            ]
+            "grid": {
+                "items": [
+                    [],
+                    []
+                ]
+            }
         },
         {
             "sequence": 14,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 12,
+            "position": 13,
+            "site_name": "flashgameheaven.tistory.com",
             "displayed_link": "https://flashgameheaven.tistory.com › ...",
             "title": "티스토리 - 플래시게임천국",
             "url": "https://flashgameheaven.tistory.com/m",
@@ -240,8 +223,8 @@
         {
             "sequence": 15,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 13,
+            "position": 14,
+            "site_name": "footballog.net",
             "displayed_link": "https://footballog.net › bbs › board",
             "title": "눈 몬스터 잡기 - 쥬니버 동물농장 게임",
             "url": "https://footballog.net/bbs/board.php?bo_table=memory_Junanimal&wr_id=10",
@@ -250,8 +233,8 @@
         {
             "sequence": 16,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 14,
+            "position": 15,
+            "site_name": "archive.ph",
             "displayed_link": "https://archive.ph › WzQAb",
             "date": "2016. 3. 30.",
             "title": "쥬니어네이버 - 동물농장 - Archive.today",
@@ -261,27 +244,18 @@
         {
             "sequence": 17,
             "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                },
-                {
-                    "landing_url": "https://flashgameheaven.com/406"
-                },
-                {
-                    "landing_url": "https://vidkidz.tistory.com/445"
-                },
-                {
-                    "landing_url": "https://gamegg.tistory.com/148"
-                }
-            ]
+            "grid": {
+                "items": [
+                    [],
+                    []
+                ]
+            }
         },
         {
             "sequence": 18,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
-            "position": 15,
+            "position": 16,
+            "site_name": "youtube.com",
             "displayed_link": "https://m.youtube.com › watch",
             "title": "돼범이, 무단 주거 침입은 끝! 드디어 생긴 가족 I TV동물농장 (Animal Farm) | SBS Story",
             "url": "https://m.youtube.com/watch?v=9KADe6aVJsU",
@@ -294,8 +268,8 @@
         {
             "sequence": 19,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 16,
+            "position": 17,
+            "site_name": "saimaalokaali.fi",
             "displayed_link": "https://saimaalokaali.fi › ...",
             "title": "농장 플래시 게임",
             "url": "https://saimaalokaali.fi/471476.html",
@@ -308,8 +282,8 @@
         {
             "sequence": 20,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 17,
+            "position": 18,
+            "site_name": "yeongam.go.kr",
             "displayed_link": "https://www.yeongam.go.kr › movie",
             "title": "영화상영 < 열린마당 < 영암군",
             "url": "https://www.yeongam.go.kr/home/library/openinfo/movie/yeongam.go?page=5&keyword=",
@@ -318,8 +292,8 @@
         {
             "sequence": 21,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 18,
+            "position": 19,
+            "site_name": "v.daum.net",
             "displayed_link": "https://v.daum.net › ...",
             "date": "2022. 11. 19.",
             "title": "한밤에 4만마리 '우르르' … 美 농장서 사라진 동물은 - Daum",
@@ -329,39 +303,30 @@
         {
             "sequence": 22,
             "type": "related_searches",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "results": [
                 {
-                    "query": "동물농장 과일깎기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#LWiWY_LuN-mKr7wP7bOHsAY__34 > div:nth-child(1) > a.iOJVmb"
+                    "query": "동물농장 과일깎기"
                 },
                 {
-                    "query": "동물구출 대작전 공략",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__35 > div:nth-child(1) > a.iOJVmb"
+                    "query": "동물구출 대작전 공략"
                 },
                 {
-                    "query": "동물농장 돌고래",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__36 > div:nth-child(1) > a.iOJVmb"
+                    "query": "동물농장 돌고래"
                 },
                 {
-                    "query": "동물농장 클라라",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__37 > div:nth-child(1) > a.iOJVmb"
+                    "query": "동물농장 클라라"
                 },
                 {
-                    "query": "아슬 아슬 수레 밀기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__38 > div:nth-child(1) > a.iOJVmb"
+                    "query": "아슬 아슬 수레 밀기"
                 },
                 {
-                    "query": "동물 농장 족제비 줄넘기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__39 > div:nth-child(1) > a.iOJVmb"
+                    "query": "동물 농장 족제비 줄넘기"
                 },
                 {
-                    "query": "라즈 벨 의 마법 실습",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__40 > div:nth-child(1) > a.iOJVmb"
+                    "query": "라즈 벨 의 마법 실습"
                 },
                 {
-                    "query": "크라 라 공주와 이상한 방",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#LWiWY_LuN-mKr7wP7bOHsAY__41 > div:nth-child(1) > a.iOJVmb"
+                    "query": "크라 라 공주와 이상한 방"
                 }
             ]
         }
