@@ -22,15 +22,54 @@
         "crawl_elapsed_time": 8.39
     },
     "information": {
-        "version": "5.2.0.master",
+        "version": "5.5.1.master",
         "displayed_query": "아이 루@ 얽 붉",
-        "parsed_time": "2023-05-25T07:34:08.587Z"
+        "parsed_time": "2023-06-30T11:44:47.211Z"
     },
     "features": [
         {
             "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "이미지"
+                },
+                {
+                    "type": "filter",
+                    "text": "동영상"
+                },
+                {
+                    "type": "filter",
+                    "text": "뉴스"
+                },
+                {
+                    "type": "filter",
+                    "text": "쇼핑"
+                },
+                {
+                    "type": "filter",
+                    "text": "도서"
+                },
+                {
+                    "type": "filter",
+                    "text": "지도"
+                },
+                {
+                    "type": "filter",
+                    "text": "항공편"
+                },
+                {
+                    "type": "filter",
+                    "text": "금융"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
             "type": "organic_results",
             "position": 2,
+            "site_name": "namu.wiki",
             "displayed_link": "https://namu.wiki › 동반자 아이루",
             "date": "2023. 2. 16.",
             "title": "동반자 아이루 - 나무위키",
@@ -41,7 +80,7 @@
             ]
         },
         {
-            "sequence": 2,
+            "sequence": 3,
             "type": "organic_results",
             "position": 3,
             "displayed_link": "https://namu.wiki › 동반자",
@@ -51,7 +90,7 @@
             "snippet": "2023. 4. 20. — 동반자가 가드(아이루), 흘리기(가루크)에 성공하면 카운터 공격을 가해 몬스터에게 피해를 입힌다. 칠전팔기술 / 기억력: 2 / 습득 레벨: 45 선브레이크 ..."
         },
         {
-            "sequence": 3,
+            "sequence": 4,
             "type": "images",
             "grid": {
                 "items": [
@@ -79,7 +118,7 @@
             }
         },
         {
-            "sequence": 4,
+            "sequence": 5,
             "type": "images",
             "grid": {
                 "items": [
@@ -107,9 +146,10 @@
             }
         },
         {
-            "sequence": 5,
+            "sequence": 6,
             "type": "organic_results",
             "position": 5,
+            "site_name": "game.capcom.com",
             "displayed_link": "https://game.capcom.com › page",
             "title": "동반자 아이루 | MONSTER HUNTER RISE SUNBREAK 공식 Web 매뉴얼",
             "url": "https://game.capcom.com/manual/MHRISE/ko/switch/page/12/2",
@@ -120,7 +160,7 @@
             ]
         },
         {
-            "sequence": 6,
+            "sequence": 7,
             "type": "organic_results",
             "position": 6,
             "displayed_link": "https://game.capcom.com › page",
@@ -129,9 +169,10 @@
             "snippet": "동반자 아이루가 레벨 업하면 체력과 공격력이 상승합니다. 레벨 업하려면 동반자 아이루와 함께 퀘스트와 탐색을 하십시오. 헌터와의 사냥에서 경험치를 취득해 레벨 ..."
         },
         {
-            "sequence": 7,
+            "sequence": 8,
             "type": "organic_results",
             "position": 7,
+            "site_name": "youtube.com",
             "displayed_link": "https://m.youtube.com › watch",
             "title": "[몬헌 라이즈 : 선브레이크] 몬스터 사냥으로는 획득불가! 마스터 랭크 특수 ...",
             "url": "https://m.youtube.com/watch?v=SabQb93fzck",
@@ -145,16 +186,17 @@
             ]
         },
         {
-            "sequence": 8,
+            "sequence": 9,
             "type": "organic_results",
             "position": 8,
+            "site_name": "62.197.49.66",
             "displayed_link": "http://62.197.49.66 › ...",
             "title": "[1d02] 몬헌 슬액",
             "url": "http://62.197.49.66:19004/061433.pdf",
             "snippet": "빙아룡+ 소재의 11레어 무기. dps와 수렵시간에 얽메이지 않고 천천히 사냥할 용 ... 현재 커스텀은 '간파' 스킬을 따로 세팅하지 않아 '파이트' 아이루를 필수적으로 ..."
         },
         {
-            "sequence": 9,
+            "sequence": 10,
             "type": "people_also_search_for",
             "searches": [
                 {
@@ -178,9 +220,10 @@
             ]
         },
         {
-            "sequence": 10,
+            "sequence": 11,
             "type": "organic_results",
             "position": 9,
+            "site_name": "store.nintendo.co.kr",
             "displayed_link": "https://store.nintendo.co.kr › ...",
             "title": "【코스튬】아이루 모자 - 닌텐도 온라인 스토어",
             "url": "https://store.nintendo.co.kr/70050000025920",
@@ -190,9 +233,10 @@
             ]
         },
         {
-            "sequence": 11,
+            "sequence": 12,
             "type": "organic_results",
             "position": 10,
+            "site_name": "schrels.pw",
             "displayed_link": "https://schrels.pw › Artictles New",
             "date": "9시간 전",
             "title": "제로게임 백산 죽음 - 2023",

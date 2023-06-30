@@ -22,20 +22,58 @@
         "crawl_elapsed_time": 7.88
     },
     "information": {
-        "version": "5.2.0.master",
+        "version": "5.5.1.master",
         "displayed_query": "iphone",
-        "parsed_time": "2023-05-25T07:48:34.151Z"
+        "parsed_time": "2023-06-30T11:43:24.771Z"
     },
     "features": [
         {
             "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "Shopping"
+                },
+                {
+                    "type": "filter",
+                    "text": "Images"
+                },
+                {
+                    "type": "filter",
+                    "text": "News"
+                },
+                {
+                    "type": "filter",
+                    "text": "Videos"
+                },
+                {
+                    "type": "filter",
+                    "text": "Books"
+                },
+                {
+                    "type": "filter",
+                    "text": "Maps"
+                },
+                {
+                    "type": "filter",
+                    "text": "Flights"
+                },
+                {
+                    "type": "filter",
+                    "text": "Finance"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
             "type": "ads",
             "position": 1,
             "title": "Sponsored        My Ad Center",
             "carousels": [
                 {
                     "title": "Apple iPhone 14 Pro Max 512 GB in Deep Purple with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vI97r-kaEkeATS4h7iA8IUuhOiw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vI97r-kaEkeATS4h7iA8IUuhOiw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQDA&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "6476169866541788296",
@@ -45,7 +83,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - Deep Purple - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABANGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_38nbC8iAzSgit5jdpoYckmjizffw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABANGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_38nbC8iAzSgit5jdpoYckmjizffw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQEQ&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "16937790946660303462",
@@ -55,7 +93,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 128 GB in Red, (PRODUCT)RED with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2WIpF5cmse9lMEiAHk5aYdo203Iw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2WIpF5cmse9lMEiAHk5aYdo203Iw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQFg&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "14819308117938080093",
@@ -65,7 +103,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro 128 GB in Space Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABALGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1Ukta6uRav6aCOTJXvfWIjMt8WAA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABALGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1Ukta6uRav6aCOTJXvfWIjMt8WAA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQGw&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "6741333915000446283",
@@ -75,7 +113,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max 512 GB in Gold with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2FGO2990ydv1ioIAaqDYzVAj-T9Q&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2FGO2990ydv1ioIAaqDYzVAj-T9Q&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQIA&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "14696554679888710529",
@@ -85,7 +123,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 128 GB in Pink with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2SllCmQ6vcssGRGfwIN89H3h4FDA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2SllCmQ6vcssGRGfwIN89H3h4FDA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQJQ&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "4054964387986857954",
@@ -95,7 +133,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - Silver - 256GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1MOwhBpxYrwUjrHRx496-YTYCKow&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1MOwhBpxYrwUjrHRx496-YTYCKow&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQKg&adurl=",
                     "price": "$99.99",
                     "provider": "T-Mobile",
                     "data-catalog-id": "14070024943408200226",
@@ -105,7 +143,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max 512 GB in Silver with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_31MgFDIbDXXpJwJ9NZaJhrjjzxug&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_31MgFDIbDXXpJwJ9NZaJhrjjzxug&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQLw&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "15004094141707485224",
@@ -115,7 +153,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 - Black - 64GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0Wr6AS3KQqjRsmCmpQvxbbnwVHwQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0Wr6AS3KQqjRsmCmpQvxbbnwVHwQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQNA&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-offer-docid": "12104219445832840489",
@@ -124,7 +162,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 64 GB in Purple with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1XY36YA9xg5R6Qdlsvne-drV9a8w&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1XY36YA9xg5R6Qdlsvne-drV9a8w&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQOQ&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-offer-docid": "15801136546454007708",
@@ -133,7 +171,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max 512 GB in Space Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2CkP2nCDpRTXLCzcgbXnFxpWhs0g&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2CkP2nCDpRTXLCzcgbXnFxpWhs0g&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQPg&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "16247320280634399744",
@@ -143,7 +181,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - 128GB - Deep Purple",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2iLondvK5yynomf2bAh3Shzec2Pw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2iLondvK5yynomf2bAh3Shzec2Pw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQQw&adurl=",
                     "price": "$0.00",
                     "provider": "AT&T",
                     "data-catalog-id": "17456132250488246450",
@@ -153,7 +191,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro 1TB in Deep Purple, Size: 1 TB with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1QBYZogNsgixDdd0V1S0UmC3CbKw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1QBYZogNsgixDdd0V1S0UmC3CbKw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQSA&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "14742496940836535567",
@@ -163,7 +201,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 256 GB in Purple with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_04Ga6v3JvEJraO16TX1NWBYPqKGA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_04Ga6v3JvEJraO16TX1NWBYPqKGA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQTQ&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "13288511876487830629",
@@ -173,7 +211,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 128 GB in Blue with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3OZGXUOM5xehW_V8fp8Fi4dQuVfw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3OZGXUOM5xehW_V8fp8Fi4dQuVfw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQUg&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "17896432791222531608",
@@ -183,7 +221,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - Space Black - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_05OIPPc_HDOnreLJoazwuV0fNUYA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_05OIPPc_HDOnreLJoazwuV0fNUYA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQVw&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "15875367367874481734",
@@ -193,7 +231,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro 128 GB in Silver with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0MkbiMxh3wz0Aj_GuQ_Y8OBHa38A&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0MkbiMxh3wz0Aj_GuQ_Y8OBHa38A&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQXA&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "13887902928828161131",
@@ -203,7 +241,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 - Pink- 512GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0SLDqjiXa809sHuPRxh2Bxk7h81A&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0SLDqjiXa809sHuPRxh2Bxk7h81A&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQYQ&adurl=",
                     "price": "$299.99",
                     "provider": "T-Mobile",
                     "data-catalog-id": "4035498593187268808",
@@ -213,7 +251,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro 1TB in Gold, Size: 1 TB with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABApGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0KDImdgCqhd8VgUqFSKeN_bG56Tw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABApGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0KDImdgCqhd8VgUqFSKeN_bG56Tw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQZg&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "15487320276788091137",
@@ -223,7 +261,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus 128 GB in (PRODUCT) RED, (PRODUCT)RED with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABArGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3KAnPw3UP0MNQJ2f8EUL_0ukqhWg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABArGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3KAnPw3UP0MNQJ2f8EUL_0ukqhWg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQaw&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "7708396092954536008",
@@ -233,7 +271,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro - Gold - 256GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2kEu5gmkrvb2MRsPGwhgncTVB_Uw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2kEu5gmkrvb2MRsPGwhgncTVB_Uw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQcA&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "11639689503205027083",
@@ -243,7 +281,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 128 GB in (PRODUCT)RED with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_12vm63s_P8_j7m9CcVJ1K_VBXjnA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_12vm63s_P8_j7m9CcVJ1K_VBXjnA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQdQ&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "612229038237127299",
@@ -253,7 +291,7 @@
                 },
                 {
                     "title": "Apple iPhone 11 Prepaid black - 64GB",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAvGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0AgSFPv2Ra3lKc5XB3ma5lfc7K3A&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAvGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0AgSFPv2Ra3lKc5XB3ma5lfc7K3A&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoECAMQeg&adurl=",
                     "price": "$249.99$300",
                     "provider": "StraightTalk Wireless",
                     "data-catalog-id": "54448018888290646",
@@ -263,7 +301,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 128 GB in Yellow with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Mymh0oeQXp8uGgGWuCdQmM337iw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABAuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Mymh0oeQXp8uGgGWuCdQmM337iw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQgQE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-offer-docid": "13137250782310383927",
@@ -272,7 +310,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 - 128GB - Pink",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA7GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2C_mIzwX1eMBo-NwJqkx_9zqRPOA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA7GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2C_mIzwX1eMBo-NwJqkx_9zqRPOA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQhgE&adurl=",
                     "price": "$0.00",
                     "provider": "AT&T",
                     "data-catalog-id": "10452460388767887381",
@@ -282,7 +320,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus 512 GB in Purple with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA4GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2GLgEX4KUqBOywF0ZHcndMfoLmgA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA4GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2GLgEX4KUqBOywF0ZHcndMfoLmgA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQiwE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "13888822010558663268",
@@ -292,7 +330,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 128 GB in Blue with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA5GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0U6r0Xk6zRD8poZZYol63Tn14VZQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA5GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0U6r0Xk6zRD8poZZYol63Tn14VZQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQkAE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "6774763555415908678",
@@ -302,7 +340,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus 128 GB in Yellow with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA6GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_08mf9wgOl7eoF_NARbivNyxe90-Q&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA6GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_08mf9wgOl7eoF_NARbivNyxe90-Q&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQlQE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-offer-docid": "16082449136946120472",
@@ -311,7 +349,7 @@
                 },
                 {
                     "title": "Apple iPhone SE (3rd gen) - Midnight - 64GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA9GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_09-V0H-mCRzkFcB-KgS2BJHR2BIw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA9GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_09-V0H-mCRzkFcB-KgS2BJHR2BIw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQmgE&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-offer-docid": "9741391868805594483",
@@ -320,7 +358,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 128 GB in White with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA8GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1IyCJZhCH3TnmKHAVua7pSZelMFA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA8GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1IyCJZhCH3TnmKHAVua7pSZelMFA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQnwE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "1671595058533117553",
@@ -330,7 +368,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 128 GB in Green with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA-GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0wpiXwGKAaqJe7Jq9Ia2jP63-dyg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA-GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0wpiXwGKAaqJe7Jq9Ia2jP63-dyg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQpAE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "4565872133228771932",
@@ -340,7 +378,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - Deep Purple - 256GB - (with 36 monthly installment payments + plan)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA_GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2530uk5DjYbIrlFL0qqAw3HHjceA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABA_GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2530uk5DjYbIrlFL0qqAw3HHjceA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQqQE&adurl=",
                     "price": "$0.00",
                     "provider": "Optimum Mobile",
                     "data-offer-docid": "9350651206400934476",
@@ -349,7 +387,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 mini 128 GB in Blue with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3oH2eUg135Fs6JpsZl4KB5tidCkA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBJGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3oH2eUg135Fs6JpsZl4KB5tidCkA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQrgE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "765013604903287824",
@@ -359,7 +397,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus 512 GB in Blue with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0XrqrlcMLb1WrGpITNg_tw1tnBWA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBIGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0XrqrlcMLb1WrGpITNg_tw1tnBWA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQswE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "7499221017042379064",
@@ -369,7 +407,7 @@
                 },
                 {
                     "title": "Apple iPhone SE (3rd gen) - Starlight - 64GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBLGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0-pslWs4_UZ36b3V39Vjz6RwtRbA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBLGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0-pslWs4_UZ36b3V39Vjz6RwtRbA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQuAE&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "5212613535177566918",
@@ -379,7 +417,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 128 GB in Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0JGqmIMLH3qpJNcF6fDQKYVZIqeg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBKGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0JGqmIMLH3qpJNcF6fDQKYVZIqeg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQvQE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-offer-docid": "12926624676403213699",
@@ -388,7 +426,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 - Midnight - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBNGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3uIV2kZldkNsw-rKZglIDZQzbtuQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBNGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3uIV2kZldkNsw-rKZglIDZQzbtuQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQwgE&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-offer-docid": "6032596706125945767",
@@ -397,7 +435,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - 256GB - Space Black",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0V3S8KoRpifeqeat0BjuqA2Z4kxQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBPGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0V3S8KoRpifeqeat0BjuqA2Z4kxQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQxwE&adurl=",
                     "price": "$0.00",
                     "provider": "AT&T",
                     "data-catalog-id": "4557142766605651432",
@@ -407,7 +445,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 mini 128 GB in Pink with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_39LDMo1KZsTAel5ahJJLG9edACqg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBMGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_39LDMo1KZsTAel5ahJJLG9edACqg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQzAE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "1107402431454042626",
@@ -417,7 +455,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus 128 GB in Midnight, Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1qoWUi42_XDXMi-FS29fFgNMFgSA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBOGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1qoWUi42_XDXMi-FS29fFgNMFgSA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ0QE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "994787446366803444",
@@ -427,7 +465,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 128 GB in Midnight, Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3IXWMBRZ7FPLPWyOVxQKz1KAdKZA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBYGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3IXWMBRZ7FPLPWyOVxQKz1KAdKZA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ1gE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "2034325709290670335",
@@ -437,7 +475,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro - Space Black - 256GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0PT9HYqJfnlFCK7jbhjsxWlm7o4g&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBaGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0PT9HYqJfnlFCK7jbhjsxWlm7o4g&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ2wE&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "5470987220557110316",
@@ -447,7 +485,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - 256GB - Gold",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1P-IJ9bbM-IOYhcn6X73wHaIQXMQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBbGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1P-IJ9bbM-IOYhcn6X73wHaIQXMQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ4AE&adurl=",
                     "price": "$0.00",
                     "provider": "AT&T",
                     "data-catalog-id": "3707667166632068373",
@@ -457,7 +495,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 128 GB in Midnight, Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1ZMGXuK7IO9f8in0ADz6BHg1a_rA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBZGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1ZMGXuK7IO9f8in0ADz6BHg1a_rA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ5QE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "13536812278053012065",
@@ -467,7 +505,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 64 GB in Green with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3jf_AtuTy7s1fzhtdMgbxGo-sUIw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBcGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3jf_AtuTy7s1fzhtdMgbxGo-sUIw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ6gE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "12054447410393870481",
@@ -477,7 +515,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 - (PRODUCT)RED - 256GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1DMuUHfTXo6tWYKiMVsb7vVHkp1w&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBeGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1DMuUHfTXo6tWYKiMVsb7vVHkp1w&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ7wE&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "13326428524840297042",
@@ -487,7 +525,7 @@
                 },
                 {
                     "title": "Apple iPhone 12 64 GB in (PRODUCT)RED with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2W-wpLZV1oeL0JO2bR50lsvz1q9Q&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBdGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2W-wpLZV1oeL0JO2bR50lsvz1q9Q&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ9AE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "17136862382468089329",
@@ -497,7 +535,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 128 GB in Starlight with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_22DSdMi7480oQFH5QSv7N0MAti9g&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBfGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_22DSdMi7480oQFH5QSv7N0MAti9g&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ-QE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "7502357671879519457",
@@ -507,7 +545,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 mini 128 GB in Midnight, Black with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vMRQwRTBbqB9d4NW_j5tUAgcVHg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBoGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1vMRQwRTBbqB9d4NW_j5tUAgcVHg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQ_gE&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "13064264707580931889",
@@ -517,7 +555,7 @@
                 },
                 {
                     "title": "NEW Apple iPhone SE black - 64GB - Reconditioned",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBpGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2ijA09aaVrXH0jJ3aXxgy7ZBsDWw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBpGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2ijA09aaVrXH0jJ3aXxgy7ZBsDWw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQgwI&adurl=",
                     "price": "$74.99",
                     "provider": "StraightTalk Wireless",
                     "data-offer-docid": "3361435210630316537",
@@ -526,7 +564,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 256 GB in Blue with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0_U01tUIia0PPOH5KN89M2GFY1TQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBqGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0_U01tUIia0PPOH5KN89M2GFY1TQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQiAI&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "6086303518099720933",
@@ -536,7 +574,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 256 GB in Starlight with installment",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBrGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0a3OBDhU0fvkTGKgOzoQ4MV1ghWQ&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBrGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_0a3OBDhU0fvkTGKgOzoQ4MV1ghWQ&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQjQI&adurl=",
                     "price": "$0.00",
                     "provider": "Verizon",
                     "data-catalog-id": "5877047163323596986",
@@ -546,7 +584,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 - Blue - 512GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_015mnHg43IAZORwmwfCou91OBtaw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBuGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_015mnHg43IAZORwmwfCou91OBtaw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQkgI&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "3081859809080456157",
@@ -556,7 +594,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus - (PRODUCT)RED - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1wucEg3dlz-zD2Okzdwo9oyCBS6g&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBsGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1wucEg3dlz-zD2Okzdwo9oyCBS6g&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQlwI&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "4387066348494462253",
@@ -566,7 +604,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 Pro - Silver - 1TB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1TVccD-jwDfAtfXYSXHwUDG0xZow&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBtGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1TVccD-jwDfAtfXYSXHwUDG0xZow&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQnAI&adurl=",
                     "price": "$49.99",
                     "provider": "T-Mobile",
                     "data-catalog-id": "12689089588340757321",
@@ -576,7 +614,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Pro Max - Gold - 128GB - (with 36 monthly installment payments + plan)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBwGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2csik76F-CveLtBIsIzi8dTUJ8vg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABBwGgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_2csik76F-CveLtBIsIzi8dTUJ8vg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQoQI&adurl=",
                     "price": "$0.00",
                     "provider": "Optimum Mobile",
                     "data-catalog-id": "9058867385786699701",
@@ -586,7 +624,7 @@
                 },
                 {
                     "title": "Apple iPhone 13 - 128GB - Green",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB0GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3n5l7EZq1oJttpq2YG0XGdzQNrwg&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB0GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3n5l7EZq1oJttpq2YG0XGdzQNrwg&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQpgI&adurl=",
                     "price": "$0.00",
                     "provider": "AT&T",
                     "data-catalog-id": "17274988188480631983",
@@ -596,7 +634,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 - Midnight - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB1GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Du1jAA1sqvcsf8bzriTGZODXMDA&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB1GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_3Du1jAA1sqvcsf8bzriTGZODXMDA&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQqwI&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "3209274970867899212",
@@ -606,7 +644,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 - Purple - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB2GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1u2bFvsCCbUZNzyjHrkctd52Udww&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB2GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1u2bFvsCCbUZNzyjHrkctd52Udww&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQsAI&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "1399006006026080358",
@@ -616,7 +654,7 @@
                 },
                 {
                     "title": "Apple iPhone 14 Plus - Purple - 128GB (with 24 monthly payments)",
-                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB3GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1c9vt4Q2B_6rTijJ8zqfMm_iYkOw&ctype=5&q=&ved=1986&adurl=",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk3uK4_Y__AhUSDucKHVchBWkYABB3GgJwdg&ohost=www.google.com&cid=CAASJeRo1dJK4WL1gP-kfHv82xmk6wQm7pYIT7F5SP7YncACChw7g_M&sig=AOD64_1c9vt4Q2B_6rTijJ8zqfMm_iYkOw&ctype=5&q=&ved=2ahUKEwj-rde4_Y__AhUJH0QIHbKmCDYQwg8oAHoFCAMQtQI&adurl=",
                     "price": "$0.00",
                     "provider": "T-Mobile",
                     "data-catalog-id": "10401315360980246200",
@@ -627,9 +665,10 @@
             ]
         },
         {
-            "sequence": 2,
+            "sequence": 3,
             "type": "organic_results",
             "position": 1,
+            "site_name": "Apple",
             "displayed_link": "https://www.apple.com › iphone",
             "title": "iPhone - Apple",
             "url": "https://www.apple.com/iphone/",
@@ -662,7 +701,7 @@
             ]
         },
         {
-            "sequence": 3,
+            "sequence": 4,
             "type": "people_also_ask_for",
             "results": [
                 {
@@ -696,9 +735,10 @@
             ]
         },
         {
-            "sequence": 4,
+            "sequence": 5,
             "type": "organic_results",
             "position": 2,
+            "site_name": "Wired",
             "displayed_link": "https://www.wired.com › gallery",
             "date": "Apr 25, 2023",
             "title": "Best iPhone (2023): Which Model Should You Actually Buy? | WIRED",
@@ -711,13 +751,14 @@
             }
         },
         {
-            "sequence": 5,
+            "sequence": 6,
             "type": "immersive_products",
             "title": "Apple iPhone 11 Cell Phones",
             "carousels": [
                 {
                     "title": "Apple iPhone 11",
                     "price": "$249.00$299",
+                    "provider": "Walmart, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -726,6 +767,7 @@
                 {
                     "title": "Apple iPhone 11 Unlocked",
                     "price": "$299.00$399",
+                    "provider": "Walmart, 10+ stores",
                     "rating": {
                         "rating_value": "4.2",
                         "rating_count": "(1k+)"
@@ -734,6 +776,7 @@
                 {
                     "title": "Apple iPhone 11 Pro",
                     "price": "$423.00Refurbished",
+                    "provider": "Amazon.com - Seller, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -742,6 +785,7 @@
                 {
                     "title": "Apple iPhone 11 Pro Max",
                     "price": "$529.99",
+                    "provider": "Walmart, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -750,6 +794,7 @@
                 {
                     "title": "iPhone 11 64GB Green Unlocked",
                     "price": "$281.98Refurbished",
+                    "provider": "Reebelo USA",
                     "rating": {
                         "rating_value": "4.2",
                         "rating_count": "(1k+)"
@@ -758,6 +803,7 @@
                 {
                     "title": "Refurbished Apple IPhone11, 64 GB, Grade A, Fully Unlocked - Black",
                     "price": "$311.92Refurbished",
+                    "provider": "Walmart - BuySPRY",
                     "rating": {
                         "rating_value": "3.7",
                         "rating_count": "(37)"
@@ -765,11 +811,20 @@
                 },
                 {
                     "title": "Used Purple Iphone 11, 64 Gb, Unblocked And Ready To Activate.",
-                    "price": "$300.00Pre-owned"
-                },
+                    "price": "$300.00Pre-owned",
+                    "provider": "eBay"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "immersive_products",
+            "title": "Apple iPhone 12 Cell Phones",
+            "carousels": [
                 {
                     "title": "Apple iPhone 12 mini",
                     "price": "$268.00Refurbished",
+                    "provider": "Reebelo USA, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -778,6 +833,7 @@
                 {
                     "title": "Apple iPhone 12",
                     "price": "$499.00",
+                    "provider": "Walmart, 10+ stores",
                     "rating": {
                         "rating_value": "4.5",
                         "rating_count": "(9k+)"
@@ -786,6 +842,7 @@
                 {
                     "title": "Apple iPhone",
                     "price": "$394.95Refurbished",
+                    "provider": "Amazon.com - Seller, 10+ stores",
                     "rating": {
                         "rating_value": "4.1",
                         "rating_count": "(1k+)"
@@ -794,6 +851,7 @@
                 {
                     "title": "Apple iPhone 12 Pro Max",
                     "price": "$615.33Refurbished",
+                    "provider": "Back Market, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -802,6 +860,7 @@
                 {
                     "title": "Apple iPhone 12 Pro",
                     "price": "$514.95Refurbished",
+                    "provider": "eBay - bidallies, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(6k+)"
@@ -810,14 +869,23 @@
                 {
                     "title": "Apple iPhone 12 A2172 White",
                     "price": "$325.00Refurbished",
+                    "provider": "Reebelo USA",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "immersive_products",
+            "title": "Apple iPhone 13 Cell Phones",
+            "carousels": [
                 {
                     "title": "Apple iPhone 13 Mini",
                     "price": "$514.97Refurbished",
+                    "provider": "Amazon.com - Seller, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -826,6 +894,7 @@
                 {
                     "title": "Apple iPhone 13 Pro Max",
                     "price": "$897.95Refurbished",
+                    "provider": "Reebelo USA, 2+ stores",
                     "rating": {
                         "rating_value": "4.7",
                         "rating_count": "(7k+)"
@@ -834,6 +903,7 @@
                 {
                     "title": "Apple iPhone 13",
                     "price": "$729.00",
+                    "provider": "Apple, 10+ stores",
                     "rating": {
                         "rating_value": "4.6",
                         "rating_count": "(9k+)"
@@ -842,6 +912,7 @@
                 {
                     "title": "Apple iPhone 13 Pro",
                     "price": "$710.88Refurbished",
+                    "provider": "Back Market, 10+ stores",
                     "rating": {
                         "rating_value": "4.7",
                         "rating_count": "(6k+)"
@@ -849,26 +920,31 @@
                 },
                 {
                     "title": "Apple Iphone 13 - 128gb - Alpine Green Look This Deal Wont Last",
-                    "price": "$600.00Pre-owned"
+                    "price": "$600.00Pre-owned",
+                    "provider": "eBay"
                 },
                 {
                     "title": "iPhone 13 Pro Max 128 GB",
-                    "price": "$1,099.99"
+                    "price": "$1,099.99",
+                    "provider": "upphone.com"
                 },
                 {
                     "title": "Apple iPhone 13 128 GB In Midnight - Electronics | Color: White",
-                    "price": "$450.00Pre-owned"
+                    "price": "$450.00Pre-owned",
+                    "provider": "Mercari"
                 },
                 {
                     "title": "used Apple iPhone 13 128gb Storage Fully Unlocked Pink Like New",
-                    "price": "$749.99Pre-owned"
+                    "price": "$749.99Pre-owned",
+                    "provider": "Walmart - EDealsNY"
                 }
             ]
         },
         {
-            "sequence": 6,
+            "sequence": 9,
             "type": "organic_results",
             "position": 3,
+            "site_name": "MacRumors",
             "displayed_link": "https://www.macrumors.com › iph...",
             "date": "May 16, 2023",
             "title": "iPhone 15: Launch Date, Features, and Rumors - MacRumors",
@@ -881,9 +957,10 @@
             }
         },
         {
-            "sequence": 7,
+            "sequence": 10,
             "type": "organic_results",
             "position": 4,
+            "site_name": "Wikipedia",
             "displayed_link": "https://en.m.wikipedia.org › wiki",
             "title": "iPhone - Wikipedia",
             "url": "https://en.m.wikipedia.org/wiki/IPhone",
@@ -923,9 +1000,10 @@
             ]
         },
         {
-            "sequence": 8,
+            "sequence": 11,
             "type": "organic_results",
             "position": 5,
+            "site_name": "YouTube",
             "displayed_link": "https://www.youtube.com · zollotech",
             "title": "iPhone 15, 15 Pro - Hands On First Look - YouTube",
             "url": "https://www.youtube.com/watch?v=93OLveum9Qg",
@@ -935,13 +1013,13 @@
             }
         },
         {
-            "sequence": 9,
+            "sequence": 12,
             "type": "immersive_products",
             "grid": {
                 "items": [
                     [
                         {
-                            "title": "Apple iPhone 11",
+                            "title": "Apple iPhone 11Apple iPhone 11",
                             "price": "$249.00",
                             "provider": "WWalmart, 10+ stores",
                             "rating": {
@@ -951,7 +1029,7 @@
                             "snippet": "Great dual-lens camera · Fast enough for everyday tasksCNET"
                         },
                         {
-                            "title": "Apple iPhone 14 Plus",
+                            "title": "Apple iPhone 14 PlusApple iPhone 14 Plus",
                             "price": "$709.00",
                             "provider": "BBack Market, 10+ stores",
                             "rating": {
@@ -963,7 +1041,7 @@
                     ],
                     [
                         {
-                            "title": "Apple iPhone SE",
+                            "title": "Apple iPhone SEApple iPhone SE",
                             "price": "$130.95",
                             "provider": "RReebelo USA, 10+ stores",
                             "rating": {
@@ -973,7 +1051,7 @@
                             "snippet": "Image quality is mostly excellent · Lack of Night modeTom's Guide"
                         },
                         {
-                            "title": "Apple iPhone 14 Pro Max",
+                            "title": "Apple iPhone 14 Pro MaxApple iPhone 14 Pro Max",
                             "price": "$1,099.99",
                             "provider": "TTarget, 10+ stores",
                             "rating": {
@@ -987,9 +1065,10 @@
             }
         },
         {
-            "sequence": 10,
+            "sequence": 13,
             "type": "organic_results",
             "position": 6,
+            "site_name": "CNN.com",
             "displayed_link": "www.cnn.com",
             "date": "May 1, 2023",
             "title": "The iPhone 14 is more of a good thing — but is it the right phone for you?",
@@ -1002,7 +1081,7 @@
             }
         },
         {
-            "sequence": 11,
+            "sequence": 14,
             "type": "short_videos",
             "carousels": [
                 {
@@ -1032,13 +1111,13 @@
             ]
         },
         {
-            "sequence": 12,
+            "sequence": 15,
             "type": "immersive_products",
             "grid": {
                 "items": [
                     [
                         {
-                            "title": "Apple iPhone 12 mini",
+                            "title": "Apple iPhone 12 miniApple iPhone 12 mini",
                             "price": "$268.00",
                             "provider": "RReebelo USA, 10+ stores",
                             "rating": {
@@ -1048,7 +1127,7 @@
                             "snippet": "Improved gamingMacRumors"
                         },
                         {
-                            "title": "Apple iPhone 12",
+                            "title": "Apple iPhone 12Apple iPhone 12",
                             "price": "$499.00",
                             "provider": "WWalmart, 10+ stores",
                             "rating": {
@@ -1060,7 +1139,7 @@
                     ],
                     [
                         {
-                            "title": "Apple iPhone SE (2020)",
+                            "title": "Apple iPhone SE (2020)Apple iPhone SE (2020)",
                             "price": "$119.99",
                             "provider": "EeBay - ipandaelectronics, 10+ stores",
                             "rating": {
@@ -1070,7 +1149,7 @@
                             "snippet": "1. Build Quality, Form Factor · Dated DesignGadgets To Use"
                         },
                         {
-                            "title": "Apple iPhone 13 Mini",
+                            "title": "Apple iPhone 13 MiniApple iPhone 13 Mini",
                             "price": "$514.97",
                             "provider": "AAmazon.com - Seller, 10+ stores",
                             "rating": {
