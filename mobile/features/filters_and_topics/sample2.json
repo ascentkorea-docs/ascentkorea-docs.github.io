@@ -1,0 +1,444 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "47c23269-6d8e-4b1d-9ec7-2620c9672ff9",
+        "sub_id": 0,
+        "requested_time": "2023-07-06T00:39:27.653Z",
+        "q": "病院 診断書",
+        "location": "Japan",
+        "gl": "jp",
+        "hl": "ja",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%E7%97%85%E9%99%A2+%E8%A8%BA%E6%96%AD%E6%9B%B8&hl=ja&gl=jp&uule=w+CAIQICIFSmFwYW4&num=20",
+        "html_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230706/2307060939/106010104170-47C232696D8E4B1D9EC72620C9672FF9-00.html",
+        "json_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230706/2307060939/106010104170-47C232696D8E4B1D9EC72620C9672FF9-00.json",
+        "crawl_start_time": "2023-07-06T00:39:29.552Z",
+        "crawl_end_time": "2023-07-06T00:39:34.652Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "東北大学",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.09
+    },
+    "information": {
+        "version": "5.5.1.master",
+        "displayed_query": "病院 診断書",
+        "parsed_time": "2023-07-06T00:39:35.547Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "topic",
+                    "text": "料金",
+                    "query": "病院 診断書 料金"
+                },
+                {
+                    "type": "topic",
+                    "text": "もらえない",
+                    "query": "病院 診断書 もらえない"
+                },
+                {
+                    "type": "topic",
+                    "text": "もらい方 仮病",
+                    "query": "病院 診断書 もらい方 仮病"
+                },
+                {
+                    "type": "topic",
+                    "text": "後日 いつまで",
+                    "query": "病院 診断書 後日 いつまで"
+                },
+                {
+                    "type": "topic",
+                    "text": "もらえない 風邪",
+                    "query": "病院 診断書 もらえない 風邪"
+                },
+                {
+                    "type": "topic",
+                    "text": "種類",
+                    "query": "病院 診断書 種類"
+                },
+                {
+                    "type": "topic",
+                    "text": "誰に頼む",
+                    "query": "病院 診断書 誰に頼む"
+                },
+                {
+                    "type": "topic",
+                    "text": "本人以外",
+                    "query": "病院 診断書 本人以外"
+                },
+                {
+                    "type": "topic",
+                    "text": "電話",
+                    "query": "病院 診断書 電話"
+                },
+                {
+                    "type": "topic",
+                    "text": "保険証なし",
+                    "query": "病院 診断書 保険証なし"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "LITALICOワークス",
+            "displayed_link": "https://works.litalico.jp › system",
+            "date": "2022/04/14",
+            "title": "診断書とは？内容や費用・病院での依頼方法・会社へ提出する場合も解説",
+            "url": "https://works.litalico.jp/column/system/031/",
+            "snippet": "2022/04/14 — 診察した医師が患者の病名や症状を記載した書類のことを「診断書」と言います。 公的な証明として扱われるため、会社や保険会社から提出を求められること ..."
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "診断書はどうやってもらえる？",
+                    "displayed_link": "https://works.litalico.jp › system",
+                    "url": "https://works.litalico.jp/column/system/031/#:~:text=%E8%A8%BA%E6%96%AD%E6%9B%B8%E3%81%AF%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2,%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+                    "title": "診断書とは？内容や費用・病院での依頼方法・会社へ提出する場合も解説",
+                    "snippet": "診断書は医療機関に依頼すると、作成してもらうことができます。 大きな病院の場合、書類専門の窓口で申請するケースもあります。 詳しくは各病院の窓口に問い合わせてみましょう。2022/04/14"
+                },
+                {
+                    "question": "病院の診断書はいくらかかるの？",
+                    "displayed_link": "https://www.e-sanro.net › press_files",
+                    "url": "https://www.e-sanro.net/sri/ilibrary/pressrelease/press_files/sanro_p070816.pdf",
+                    "title": "いくらかかる？ 医療機関が発行する各種診断書の料金 - 産労総合研究所",
+                    "snippet": "「診断書」の料金は、自院様式（簡単なもの）で平均額 2,265 円。 それに対して、保険 会社所定の用紙による診断書は平均額 4,727 円、自賠責関係が 4,432 円。"
+                },
+                {
+                    "question": "診断書は何日くらいでできるのか？",
+                    "displayed_link": "https://www.city.ichinomiya.aichi.jp › ...",
+                    "url": "https://www.city.ichinomiya.aichi.jp/faq/1005675/1006020/1008020.html#:~:text=%E8%A8%BA%E6%96%AD%E6%9B%B8%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB,%E3%81%8A%E6%B8%A1%E3%81%97%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+                    "title": "診断書の料金と作成にかかる期間を教えてください。 - 一宮市",
+                    "snippet": "診断書の作成には、通常10日から2週間程度かかります。 ただし、休暇用に会社・学校へ診断書を提出しなければならない場合は、時間内の診察中に申し出ていただければ、当日あるいは翌日ぐらいにお渡ししています。2016/01/28"
+                },
+                {
+                    "question": "病院 診断書 後日 いつまで？",
+                    "displayed_link": "https://hoken-room.jp › medical",
+                    "url": "https://hoken-room.jp/medical/529#:~:text=%E8%A8%BA%E6%96%AD%E6%9B%B8%E7%99%BA%E8%A1%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%9B%AE%E5%AE%89%E3%81%AF2%E9%80%B1%E9%96%93%E7%A8%8B%E5%BA%A6%E3%81%A7%E3%81%99%E3%80%82&text=%E8%A8%BA%E6%96%AD%E6%9B%B8%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%AA%E3%82%8B2%E9%80%B1%E9%96%93%E5%89%8D%E3%82%92,%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82",
+                    "title": "医療保険の請求時は診断書が必要!診断書をもらうタイミング・方法を ...",
+                    "snippet": "診断書発行までの目安は2週間程度です。 診断書が必要となる2週間前を目安に病院へ申請しましょう。 その際に、いつまでに欲しい、ともらうタイミングを定めておくと、病院側も診断書の作成を後回しにせずに、早めに対応してくれます。2023/01/24"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "LITALICO仕事ナビ",
+            "displayed_link": "https://snabi.jp › article",
+            "date": "2019/09/24",
+            "title": "診断書とは？もらい方、必要になるタイミング、料金や記載内容などをまとめて解説します",
+            "url": "https://snabi.jp/article/198",
+            "snippet": "2019/09/24 — 診断書は医師が作成する書類で、症状についての所見や診断内容、治療内容などを証明するものをいいます。医師法の規定により、医師だけが作成することが ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://snabi.jp/article/198",
+                "desc": "snabi.jp からの病院 診断書"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "病院 診断書 もらい方 仮病"
+                },
+                {
+                    "query": "病院 診断書 料金"
+                },
+                {
+                    "query": "病院 診断書 もらえない"
+                },
+                {
+                    "query": "診断書 もらえないケース"
+                },
+                {
+                    "query": "診断書 もらい方"
+                },
+                {
+                    "query": "病院 診断書 もらえない 風邪"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "ブレイングループ",
+                            "landing_url": "https://brain-gr.com/tokinaika_clinic/blog/profit/doctors-certificate/"
+                        },
+                        {
+                            "source": "ブレイングループ",
+                            "landing_url": "https://brain-gr.com/tokinaika_clinic/blog/profit/doctors-certificate/"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "Amebaブログ",
+                            "landing_url": "https://ameblo.jp/ukulelemanoa/entry-12177229235.html"
+                        },
+                        {
+                            "source": "岐阜大学医学部附属病院",
+                            "landing_url": "https://www.hosp.gifu-u.ac.jp/gairai/shoumeishohakkou.html"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "善利クリニック",
+            "displayed_link": "https://www.zenri-clinic.com › colu...",
+            "title": "内科で取得できる診断書について｜料金や発行について解説",
+            "url": "https://www.zenri-clinic.com/column/513",
+            "snippet": "病院に行って「診断書をください」といえば、必ず発行してもらえるものではありません。 発行されるのは、医師が支援や休養のために診断書が必要と判断した場合のみです。"
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "住友病院",
+            "displayed_link": "https://www.sumitomo-hp.or.jp › faq",
+            "title": "診断書・証明書の申し込み",
+            "url": "https://www.sumitomo-hp.or.jp/about/faq/doc_center.html",
+            "snippet": "診断書（病院定型）, 1通 2,200円 ; 診断書（厚生・国民年金・船員保険・特定疾患）, 1通 4,400円 ; 身体障害者診断書, 1通 3,300円 ; 入院証明（簡易保険・生命保険）, 1通 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "総合病院国保旭中央病院",
+            "displayed_link": "https://www.hospital.asahi.chiba.jp › ...",
+            "title": "診断書について - 地方独立行政法人 総合病院 国保旭中央病院",
+            "url": "https://www.hospital.asahi.chiba.jp/for_customer/foreign/bunsyo.html",
+            "snippet": "各種診断書、証明書の手続きは、1階総合受付の文書窓口にお申し込みください。文書預かり証を発行いたします。文書預かり証は、後日、受け渡しの際に必要ですので大切に ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "北海道大学病院",
+            "displayed_link": "https://www.huhp.hokudai.ac.jp › o...",
+            "title": "診断書等の発行",
+            "url": "https://www.huhp.hokudai.ac.jp/outpatient_medical-certificate/",
+            "snippet": "北海道大学病院（北大病院）の「診断書等の発行」ページです。"
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 8,
+            "displayed_link": "https://www.huhp.hokudai.ac.jp › ...",
+            "title": "各種診断書及び証明書の発行",
+            "url": "https://www.huhp.hokudai.ac.jp/outpatient_medical-certificate/medical-certificate01/",
+            "snippet": "診断書の申込みに当たっては、事前に提出先（役所、職場等）に記載必要事項をご確認いただいた上、診断書の作成可否を受診診療科にご確認ください。"
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "国立がん研究センター",
+            "displayed_link": "https://www.ncc.go.jp › sindansyo",
+            "title": "診断書、証明書等の受付・発行について | 国立がん研究センター 中央病院",
+            "url": "https://www.ncc.go.jp/jp/ncch/d001/sindansyo/index.html",
+            "snippet": "文書窓口カウンターに設置されている「証明書等発行申込書」にご記入のうえお申込みください。 当院所定の診断書（普通診断書）をお申込みされる方は「普通診断書等 ...",
+            "properties": [
+                {
+                    "key": "保険会社の方やご家族以外の方の場合：",
+                    "value": "診察券のコピー; 健康保険証のコピー; 診断書..."
+                },
+                {
+                    "key": "ご家族の方の場合：",
+                    "value": "診察券; 健康保険証（医療券）; 診断書の用紙; お申込みされる方の..."
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "たわらクリニック",
+            "displayed_link": "https://www.tawara-clinic.com › blog",
+            "date": "2020/05/01",
+            "title": "【職場や公的機関で必要な診断書、うつ病の場合どこでもらうべきか】 - ...",
+            "url": "https://www.tawara-clinic.com/blog/007/",
+            "snippet": "2020/05/01 — 診断書とは、患者の症状や病名、治療内容、治療期間などを証明する書類のことをいい、診察した医師が作成します。診断書は決められたものでなく、病院や ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.tawara-clinic.com/blog/007/",
+                "desc": "www.tawara-clinic.com からの病院 診断書"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "WELSA",
+            "displayed_link": "https://welsa.biz › media › post01",
+            "date": "2021/08/06",
+            "title": "診断書を会社に提出するのは義務？費用負担や提出するタイミングは？",
+            "url": "https://welsa.biz/media/post01/",
+            "snippet": "2021/08/06 — 診断書とは、医師が作成する公的書類のことです。患者の症状についての所見などを記載する書類で、診察した医師しか作成できません。 診断書には決められ ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "高槻赤十字病院",
+            "displayed_link": "https://www.takatsuki.jrc.or.jp › cert...",
+            "title": "診断書・証明書について | 入院・お見舞い | 【公式】高槻赤十字病院",
+            "url": "https://www.takatsuki.jrc.or.jp/hospitalization/certificate/",
+            "snippet": "ご加入の生命保険の保険金請求に必要な診断書や、傷病手当金支給申請書など、医療機関の証明が必要な所定様式のある書類に関する受付は1階患者支援センター（入院 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 14,
+            "displayed_link": "https://www.ishinomaki.jrc.or.jp › ...",
+            "title": "診断書・カルテ開示について - 石巻赤十字病院",
+            "url": "https://www.ishinomaki.jrc.or.jp/outpatient/medical_certificate.html",
+            "snippet": "宮城県石巻市にある石巻赤十字病院の診断書・カルテ開示についてのページです。診断書やカルテ開示を申し込む際の手続き方法と申し込みに必要なものを記載しております ...",
+            "properties": [
+                {
+                    "key": "診療録複写（A4）：",
+                    "value": "白黒 1枚 20円(税別); カラー 1枚 50円(税別)"
+                },
+                {
+                    "key": "手数料：",
+                    "value": "3,000円(税別)"
+                }
+            ]
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "谷津保健病院",
+            "displayed_link": "https://www.yatsu.or.jp › application",
+            "title": "診断書・証明書の申込みについて",
+            "url": "https://www.yatsu.or.jp/outpatient/application/",
+            "snippet": "診断書・証明書の申込みについて。各種書類を作成するにあたり、受付時間、申込方法、作成期間、受け取り方法、医師に作成依頼が必要な書類、書類代金についてはこちら ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "労働者健康安全機構",
+            "displayed_link": "https://kantoh.johas.go.jp › shindan...",
+            "title": "診断書・証明書発行｜関東労災病院｜元住吉・武蔵小杉",
+            "url": "https://kantoh.johas.go.jp/hospitalization/shindansho.html",
+            "snippet": "ご入院中の患者さんは、証明窓口、病棟にて、医師または看護師にご相談ください。 病院様式診断書, 4,400円（税込）. 保険会社等診断書, 11,000円（税込）. 身体 ...",
+            "properties": [
+                {
+                    "key": "病院様式診断書：",
+                    "value": "4,400円（税込）"
+                },
+                {
+                    "key": "自賠責診断書：",
+                    "value": "11,000円（税込）"
+                }
+            ]
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "広島市立北部医療センター安佐市民病院",
+            "displayed_link": "https://www.asa-hosp.city.hiroshima.jp › ...",
+            "title": "診断書・証明書 | 広島市立北部医療センター安佐市民病院",
+            "url": "https://www.asa-hosp.city.hiroshima.jp/patients/etc/certificate/",
+            "snippet": "診断書・証明書は一部を除いて有料です。 お申し込みからお渡しまで3週間程度の日数を要する場合がありますのでご了承ください。 生命保険会社ご提出の診断 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "公益財団法人 甲南会",
+            "displayed_link": "https://kohnan.or.jp › archives",
+            "title": "診断書等の作成を依頼される場合の取り扱いについて",
+            "url": "https://kohnan.or.jp/kakogawa/archives/2805",
+            "snippet": "公益財団法人 甲南会 六甲アイランド甲南病院のWEBサイトです。 ... 所定の「文書交付申請書」をご記入いただき、診断書等用紙と併せて窓口に提出してください。"
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "久里浜医療センター",
+            "displayed_link": "https://kurihama.hosp.go.jp › hospital",
+            "title": "診断書・各種証明書について | 来院案内 | 病院のご案内 - 久里浜医療センター - 国立病院機構",
+            "url": "https://kurihama.hosp.go.jp/hospital/outpatient/certificate.html",
+            "snippet": "生命保険の診断書などの所定の様式がある場合 (上記以外). ○ 通院中の方: 申込み用紙に記入の上、所定様式を添付して医事課窓口に依頼してください。"
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 20,
+            "site_name": "鳥取大学医学部附属病院",
+            "displayed_link": "https://www2.hosp.med.tottori-u.ac.jp › ...",
+            "title": "診断書・証明書等 | 鳥取大学医学部附属病院",
+            "url": "https://www2.hosp.med.tottori-u.ac.jp/hospitalized-information/information-certificates-issue.html",
+            "snippet": "その他不明な点は、下の電話までお問い合わせください。 診断書受付窓口. 電話 0859-38-7135. 入院される方へ. 当院からの ..."
+        },
+        {
+            "sequence": 23,
+            "type": "organic_results",
+            "position": 21,
+            "site_name": "学校法人日本医科大学",
+            "displayed_link": "https://www.nms.ac.jp › certificate",
+            "title": "診断書・各種証明書発行｜日本医科大学付属病院",
+            "url": "https://www.nms.ac.jp/hosp/hospitalization/certificate.html",
+            "snippet": "日本医科大学付属病院. 〒113-8603 東京都文京区千駄木1-1-5. TEL: 03-3822-2131(代表)",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.nms.ac.jp/hosp/hospitalization/certificate.html",
+                "desc": "www.nms.ac.jp からの病院 診断書"
+            }
+        },
+        {
+            "sequence": 24,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "診断書 あとから書いてもらう"
+                },
+                {
+                    "query": "診断書 無料"
+                },
+                {
+                    "query": "診断書 内容 お願い"
+                },
+                {
+                    "query": "診断書 費用"
+                },
+                {
+                    "query": "診断書 発行 期間"
+                },
+                {
+                    "query": "病院 診断書 種類"
+                },
+                {
+                    "query": "病院 診断書 電話"
+                },
+                {
+                    "query": "診断書 書いてくれない 理由"
+                }
+            ]
+        }
+    ]
+}
