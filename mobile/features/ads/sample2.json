@@ -1,0 +1,590 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "e95b84ea-5fea-4a67-bb28-3bd364e12b9e",
+        "sub_id": 0,
+        "requested_time": "2023-06-27T21:06:19.719Z",
+        "q": "power drill",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=power+drill&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "html_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/230628/2306280606/210205114163-E95B84EA5FEA4A67BB283BD364E12B9E-00.html",
+        "json_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/230628/2306280606/210205114163-E95B84EA5FEA4A67BB283BD364E12B9E-00.json",
+        "crawl_start_time": "2023-06-27T21:06:19.885Z",
+        "crawl_end_time": "2023-06-27T21:06:28.701Z",
+        "device": "mobile",
+        "usage_id": "observer",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 8.81
+    },
+    "information": {
+        "version": "5.5.1.master",
+        "displayed_query": "power drill",
+        "parsed_time": "2023-07-14T08:45:32.689Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "Images"
+                },
+                {
+                    "type": "filter",
+                    "text": "Shopping"
+                },
+                {
+                    "type": "topic",
+                    "text": "Perspectives",
+                    "query": "power drill"
+                },
+                {
+                    "type": "filter",
+                    "text": "Videos"
+                },
+                {
+                    "type": "filter",
+                    "text": "News"
+                },
+                {
+                    "type": "filter",
+                    "text": "Maps"
+                },
+                {
+                    "type": "filter",
+                    "text": "Books"
+                },
+                {
+                    "type": "filter",
+                    "text": "Flights"
+                },
+                {
+                    "type": "filter",
+                    "text": "Finance"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "Home Depot",
+            "displayed_link": "https://www.homedepot.com › Tool...",
+            "title": "Power Drills",
+            "url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj",
+            "snippet": "Power Drills are available in various voltages, and the right choice depends upon the type of expected usage, versatility and weight. A ...",
+            "images": [
+                {
+                    "landing_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj"
+                },
+                {
+                    "landing_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj"
+                },
+                {
+                    "landing_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj"
+                },
+                {
+                    "landing_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj"
+                },
+                {
+                    "landing_url": "https://www.homedepot.com/b/Tools-Power-Tools-Drills-Power-Drills/N-5yc1vZc7jj"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "What is the difference between a drill and a power drill?",
+                    "displayed_link": "https://www.homedepot.com › impa...",
+                    "url": "https://www.homedepot.com/c/ab/impact-drivers-vs-drills/9ba683603be9fa5395fab9009f66e37#:~:text=A%20standard%20drill%20driver%20is,drills%20and%20drives%20in%20fasteners.",
+                    "title": "Impact Drivers vs. Drills - The Home Depot",
+                    "snippet": "A standard drill driver is one of the most essential all-purpose tools. The drill's head features a keyed or keyless chuck that holds the bits securely in place. Standard bits and hex bits are available for ultimate versatility. A power drill is an adjustable-speed tool that drills and drives in fasteners."
+                },
+                {
+                    "question": "What is a power drill used for?",
+                    "displayed_link": "https://www.lowes.com › how-to",
+                    "url": "https://www.lowes.com/n/how-to/how-to-use-a-power-drill#:~:text=A%20power%20drill%20can%20handle,the%20hassle%20of%20a%20cord.&text=A%20cordless%20drill%20typically%20comes%20with%20a%20battery%20and%20a%20charger.",
+                    "title": "How to Use a Power Drill - Lowe's",
+                    "snippet": "A power drill can handle everything from drilling and driving to sanding and buffing. A cordless drill gives you all these benefits without the hassle of a cord. A cordless drill typically comes with a battery and a charger."
+                },
+                {
+                    "question": "What wattage drill do I need?",
+                    "displayed_link": "https://www.diy.com › ideas-advice",
+                    "url": "https://www.diy.com/ideas-advice/drill-buying-guide/CC_npcart_400184.art#:~:text=Typically%20ranging%20from%20450%20watts,550%20watt%20drill%20is%20adequate.",
+                    "title": "Drill buying guide | Tools & Equipment - B&Q",
+                    "snippet": "Typically ranging from 450 watts for basic models to around 1500 watts for the more powerful hammer drills. A higher wattage is better for drilling masonry. While if drilling into plasterboard, a lower wattage will suffice. For most basic home DIY jobs, a 550 watt drill is adequate."
+                },
+                {
+                    "question": "Is a 20 volt drill a good drill?",
+                    "displayed_link": "https://www.goodhousekeeping.com › ...",
+                    "url": "https://www.goodhousekeeping.com/home-products/g32318062/best-cordless-drills/#:~:text=If%20you're%20doing%20projects,a%20drill%20be%20well%2Dbalanced.",
+                    "title": "6 Best Cordless Drills to Buy in 2023, for All Your Home Projects",
+                    "snippet": "If you're doing projects regularly, or plan on doing something more robust, you'll want to get a 18- or 20-volt drill. In terms of comfort, you'll want to consider more than just the contouring and weight — it's important that a drill be well-balanced.Mar 15, 2022"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "Amazon.com",
+            "displayed_link": "https://www.amazon.com › Drills",
+            "title": "Power Drills | Amazon.com | Power & Hand Tools",
+            "url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794",
+            "snippet": "Online shopping for Tools & Home Improvement from a great selection of Drill Drivers, Demolition Drills & Hammers, Right-Angle Drills, Core Drills & more at ...",
+            "images": [
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                },
+                {
+                    "landing_url": "https://www.amazon.com/Drills/b?ie=UTF8&node=552794"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "Lowe's",
+            "displayed_link": "https://www.lowes.com › Drills-driv...",
+            "title": "Drills & Drivers",
+            "url": "https://www.lowes.com/c/Drills-drivers-Power-tools-Tools",
+            "snippet": "Shop a variety of drills and drivers including cordless drills, hammer drills and more online. ... A video demonstrating tips for using a power drill.",
+            "images": [
+                {
+                    "landing_url": "https://www.lowes.com/c/Drills-drivers-Power-tools-Tools"
+                },
+                {
+                    "landing_url": "https://www.lowes.com/c/Drills-drivers-Power-tools-Tools"
+                },
+                {
+                    "landing_url": "https://www.lowes.com/c/Drills-drivers-Power-tools-Tools"
+                },
+                {
+                    "landing_url": "https://www.lowes.com/c/Drills-drivers-Power-tools-Tools"
+                }
+            ],
+            "refinements": [
+                {
+                    "text": "Cordless Drills"
+                },
+                {
+                    "text": "Drill Presses"
+                },
+                {
+                    "text": "Impact Drivers"
+                },
+                {
+                    "text": "Impact Wrenches"
+                },
+                {
+                    "text": "Drills"
+                },
+                {
+                    "text": "Hammer Drills"
+                },
+                {
+                    "text": "Dewalt Drills drivers"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://www.lowes.com › Power-too...",
+            "title": "Power Tool Combo Kits",
+            "url": "https://www.lowes.com/pl/Power-tool-combo-kits-Power-tools-Tools/4294607831",
+            "snippet": "Find power tool combo kits at Lowe's today. Free Shipping On Orders $45+. Shop power tool combo kits and a variety of tools products online at Lowes.com.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lowes.com/pl/Power-tool-combo-kits-Power-tools-Tools/4294607831",
+                "desc": "power drill from www.lowes.com"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "shops",
+            "title": "Explore brands",
+            "cards": [
+                {
+                    "shop": "RYOBI Tools",
+                    "url": "https://ryobitools.com/products/power-tools/drilling",
+                    "snippet": "RYOBI specializes in making pro-featured power tools and outdoor products \ntruly affordable. ... Product photo: ONE+ 18V Cordless 1/2\" Hammer Drill \nKit ..."
+                },
+                {
+                    "shop": "Greenworks Tools",
+                    "url": "https://www.greenworkstools.com/collections/power-tools",
+                    "snippet": "Greenworks Tools collection of cordless power tools can empower anyone from \na first time home buyer to a seasoned veteran to do it themselves. Shop now."
+                },
+                {
+                    "shop": "WORX",
+                    "url": "https://www.worx.com/power-tools/drills-drivers-nail-guns.html",
+                    "snippet": "41 products — When your DIY home improvement projects require drilling, driving, nailing, \nor stapling, Worx has you covered with cordless drills, ..."
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "The New York Times",
+            "displayed_link": "https://www.nytimes.com › reviews",
+            "date": "Oct 19, 2022",
+            "title": "The 5 Best Drills of 2023 | Reviews by Wirecutter",
+            "url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/",
+            "snippet": "Oct 19, 2022 — Cordless drills are more powerful than they've ever been. Yet they've also gotten so compact and lightweight that you can probably handle ...",
+            "images": [
+                {
+                    "landing_url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/"
+                },
+                {
+                    "landing_url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/"
+                },
+                {
+                    "landing_url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/"
+                },
+                {
+                    "landing_url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "immersive_products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "RYOBI 18-Volt ONE+ Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and ChargerRYOBI 18-Volt ONE+ Cordless 3/8 in. Drill/Driver Kit with 1.5 Ah Battery and Charger",
+                            "price": "$59.97",
+                            "provider": "HHome Depot, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.4",
+                                "rating_count": "(59)"
+                            },
+                            "snippet": "Very useful, easy to operate. I had a black and decker grill before this, used it for 6 years. The drills charging point broker so bought this. Very light.A reviewer on homedepot.ca"
+                        },
+                        {
+                            "title": "Warrior 12V Cordless 3/8 in. Drill/Driver Kit 57366Warrior 12V Cordless 3/8 in. Drill/Driver Kit 57366",
+                            "price": "$19.99",
+                            "provider": "HHarbor Freight Tools, 5+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(1k+)"
+                            },
+                            "snippet": "Lightweight (170 user reviews)"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "DEWALT DCD771C2DEWALT DCD771C2",
+                            "price": "$39.99",
+                            "provider": "EeBay - cash1store, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(2k+)"
+                            },
+                            "snippet": "Reliable, high-performance drill driver · Included battery is only 1.5 AhBob Vila"
+                        },
+                        {
+                            "title": "BLACK+DECKER 20V MAX Cordless DrillBLACK+DECKER 20V MAX Cordless Drill",
+                            "price": "$40.91",
+                            "provider": "AAmazon.com, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.7",
+                                "rating_count": "(285)"
+                            },
+                            "snippet": "There is LED light on it · Compared to more expensive options, it is heavierLinquip"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com · Brick Scie...",
+            "title": "I Built WORKING LEGO Power Tools! - YouTube",
+            "url": "https://m.youtube.com/watch?v=LctmyYlRKD4",
+            "video": {
+                "url": "#fpstate=ive&vld=cid:b0fa8e5f,vid:LctmyYlRKD4",
+                "date": "1 week ago"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "ads",
+            "position": 1,
+            "ad_tag": "Sponsored",
+            "title": "Shop more products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "21v Cordless Drill Electric Kit Fast Charger Lithium-Ion Battery for Car Tyre Repair & Home DIY, Size: 12.68 x 10.2 x 3.82",
+                            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAHGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_1lYrsK5ODzTLUd4hOZbXanZxGFhw&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAB6BAhfEAg&adurl=",
+                            "price": "$30.90",
+                            "provider": "Walmart",
+                            "data-merchant-id": "446274221",
+                            "data-offer-id": "440003340_101084828",
+                            "rating": {
+                                "rating_count": "(6)",
+                                "rating_value": "2.8"
+                            }
+                        },
+                        {
+                            "title": "Makita XFD10Z 18V LXT Lithium-Ion Cordless Driver-Drill, Tool Only, 1/2\"",
+                            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAEGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_28rzUxF_aTEkiWK37S1_1ZCCRO5A&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAF6BAhfEAw&adurl=",
+                            "price": "$75.09",
+                            "provider": "Amazon.com",
+                            "delivery": "Free shipping",
+                            "data-merchant-id": "114193152",
+                            "data-offer-id": "B019HOCO8A"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "BLACK+DECKER 20V MAX* POWERECONNECT Cordless Drill/Driver + 30 pc. Kit (LD120VA)",
+                            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAGGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_1Xv05jimm0g9IWawp0YO7k3P4a9A&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAJ6BAhfEA8&adurl=",
+                            "price": "$59.99",
+                            "provider": "Amazon.com",
+                            "delivery": "Free shipping",
+                            "data-merchant-id": "7388148",
+                            "data-offer-id": "B006V6YAPI"
+                        },
+                        {
+                            "title": "RYOBI ONE+ 18V Cordless 1/2 in. Drill/Driver (Tool Only) P215BN",
+                            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAFGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_2ha2TRINemukzbyah3rAoxTi2ztQ&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAN6BAhfEBI&adurl=",
+                            "price": "$44.09",
+                            "provider": "Amazon.com",
+                            "delivery": "Free shipping",
+                            "data-merchant-id": "114193152",
+                            "data-offer-id": "B09SN6Y6TS"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "Walmart",
+            "displayed_link": "https://www.walmart.com › browse",
+            "title": "Power Drills in Power Tools(1000+)",
+            "url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875",
+            "snippet": "Shop for Power Drills in Power Tools. Buy products such as Hyper Tough 20V Max Lithium-Ion Cordless Drill, Variable Speed with 1.5Ah Lithium-Ion Battery and ...",
+            "images": [
+                {
+                    "landing_url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875"
+                },
+                {
+                    "landing_url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875"
+                },
+                {
+                    "landing_url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875"
+                },
+                {
+                    "landing_url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875"
+                },
+                {
+                    "landing_url": "https://www.walmart.com/browse/home-improvement/power-drills/1072864_1031899_1066925_3413875"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "CNET",
+            "displayed_link": "https://www.cnet.com › home › best...",
+            "date": "Apr 27, 2023",
+            "title": "Best Cordless Drill of 2023 - CNET",
+            "url": "https://www.cnet.com/home/kitchen-and-household/best-cordless-drill/",
+            "snippet": "Apr 27, 2023 — Best cordless drills of 2023 · Milwaukee M18 2606-22CT · Bosch PS31 2A · Makita XFD10SY · Black & Decker BDCDD12C · Ryobi P215K1 · Tacklife PCD01B.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cnet.com/home/kitchen-and-household/best-cordless-drill/",
+                "desc": "power drill from www.cnet.com"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "Consumer Reports",
+            "displayed_link": "https://www.consumerreports.org › ...",
+            "date": "May 11, 2023",
+            "title": "Best Cordless Drills of 2023 - Consumer Reports",
+            "url": "https://www.consumerreports.org/home-garden/cordless-drills-impact-drivers/best-cordless-drills-of-the-year-a1168250583/",
+            "snippet": "May 11, 2023 — Best Light-duty Cordless Drill. Hilti SFD 2-A · Hilti SFD 2-A · $129.99 ; Best General-use Cordless Drills. Bosch Chameleon · Bosch Chameleon.",
+            "images": [
+                {
+                    "landing_url": "https://www.consumerreports.org/home-garden/cordless-drills-impact-drivers/best-cordless-drills-of-the-year-a1168250583/"
+                },
+                {
+                    "landing_url": "https://www.consumerreports.org/home-garden/cordless-drills-impact-drivers/best-cordless-drills-of-the-year-a1168250583/"
+                },
+                {
+                    "landing_url": "https://www.consumerreports.org/home-garden/cordless-drills-impact-drivers/best-cordless-drills-of-the-year-a1168250583/"
+                },
+                {
+                    "landing_url": "https://www.consumerreports.org/home-garden/cordless-drills-impact-drivers/best-cordless-drills-of-the-year-a1168250583/"
+                }
+            ]
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "Harbor Freight Tools",
+            "displayed_link": "https://www.harborfreight.com › co...",
+            "title": "Cordless Drills & Drivers",
+            "url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html",
+            "snippet": "Choose from a wide range of cordless drills and drivers from professional-grade the Hercules 20 volt drill to the versatile Bauer 20 volt cordless drill, ...",
+            "images": [
+                {
+                    "landing_url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html"
+                },
+                {
+                    "landing_url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html"
+                },
+                {
+                    "landing_url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html"
+                },
+                {
+                    "landing_url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html"
+                },
+                {
+                    "landing_url": "https://www.harborfreight.com/power-tools/drills-drivers/cordless-drills-drivers.html"
+                }
+            ]
+        },
+        {
+            "sequence": 16,
+            "type": "immersive_products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "DEWALT DCD777DEWALT DCD777",
+                            "price": "$89.00",
+                            "provider": "EeBay - besemoves, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(2k+)"
+                            },
+                            "snippet": "Did phenomenally well in our drilling and driving tests · Packs plenty of powerTech Gear Lab"
+                        },
+                        {
+                            "title": "Warrior 18V Cordless 3/8 in. Drill/Driver KitWarrior 18V Cordless 3/8 in. Drill/Driver Kit",
+                            "price": "$23.99",
+                            "provider": "HHarbor Freight Tools, 1+ stores",
+                            "rating": {
+                                "rating_value": "4.6",
+                                "rating_count": "(2k+)"
+                            },
+                            "snippet": "Long battery life (269 user reviews)"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "2801-22CT Milwaukee M18 Compact Brushless Drill Driver Kit2801-22CT Milwaukee M18 Compact Brushless Drill Driver Kit",
+                            "price": "$149.00",
+                            "provider": "HHome Depot, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.7",
+                                "rating_count": "(192)"
+                            },
+                            "snippet": "…about it. The weight, the light that comes on when you pull yhe trigger. And the battery seems to last very long.A reviewer on milwaukeetool.com"
+                        },
+                        {
+                            "title": "Black and Decker LDX120Black and Decker LDX120",
+                            "price": "$54.99",
+                            "provider": "AAmazon.com, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.5",
+                                "rating_count": "(359)"
+                            },
+                            "snippet": "Relatively lightweightTech Gear Lab"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 17,
+            "type": "immersive_products",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "title": "Craftsman Cordless Drill CMCD700C1Craftsman Cordless Drill CMCD700C1",
+                            "price": "$69.00",
+                            "provider": "AAmazon.com, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.3",
+                                "rating_count": "(652)"
+                            },
+                            "snippet": "Great ergonomics · Its markings are clear and easy to readToolGuyd"
+                        },
+                        {
+                            "title": "Dewalt DCD701F2 XTREME 12V MAX Brushless 3/8 in. Cordless Drill/Driver KitDewalt DCD701F2 XTREME 12V MAX Brushless 3/8 in. Cordless Drill/Driver Kit",
+                            "price": "$98.70",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.7",
+                                "rating_count": "(335)"
+                            },
+                            "snippet": "Light is fairly bright · Great drilling powerTech Gear Lab"
+                        }
+                    ],
+                    [
+                        {
+                            "title": "GardenJoy Cordless Power Drill Set 21V Electric Drill with Fast Charger 3/8-inch Keyless Chuck 2 Variable Speed 24+1 Torque Setting Power Tools KitGardenJoy Cordless Power Drill Set 21V Electric Drill with Fast Charger 3/8-inch Keyless Chuck 2 Variable Speed 24+1 Torque Setting Power Tools Kit",
+                            "price": "$39.99",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "snippet": "Fits Pretty Nice in the HandFrom 6:12YouTube"
+                        },
+                        {
+                            "title": "AVID Power 20V MAX Lithium lon Cordless Drill, Power Drill Set with 3/8 Inches Keyless Chuck, Variable Speed, 16 Position and 22AVID Power 20V MAX Lithium lon Cordless Drill, Power Drill Set with 3/8 Inches Keyless Chuck, Variable Speed, 16 Position and 22",
+                            "price": "$37.39",
+                            "provider": "AAmazon.com - Seller, 10+ stores",
+                            "rating": {
+                                "rating_value": "4.3",
+                                "rating_count": "(8)"
+                            },
+                            "snippet": "And most lightweight (2.2lbs) · Removing battery can be difficultGadget Review"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
