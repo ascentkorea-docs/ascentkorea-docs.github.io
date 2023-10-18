@@ -1,0 +1,282 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "bb70104d-1ea7-492c-94f7-390fb5f95726",
+        "sub_id": 0,
+        "requested_time": "2023-08-16T16:06:03.122Z",
+        "q": "mattress 뜻",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=mattress+%EB%9C%BB&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0109.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230817/2308170106/203216177184-BB70104D1EA7492C94F7390FB5F95726-00.html",
+        "json_url": "http://node0109.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/230817/2308170106/203216177184-BB70104D1EA7492C94F7390FB5F95726-00.json",
+        "crawl_start_time": "2023-08-16T16:06:03.151Z",
+        "crawl_end_time": "2023-08-16T16:06:09.111Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "renewal",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.95
+    },
+    "information": {
+        "version": "5.8.12.master",
+        "displayed_query": "mattress 뜻",
+        "parsed_time": "2023-10-18T04:33:48.605Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "dictionary_results",
+            "title": "사전",
+            "source": "Oxford Languages",
+            "items": [
+                {
+                    "entry_word": "매트리스"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "ko.m.wikipedia.org",
+            "displayed_link": "https://ko.m.wikipedia.org › wiki",
+            "title": "매트리스 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/%EB%A7%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4",
+            "snippet": "매트리스(Mattress)는 담요의 일종인 침구이다. 보통 직사각형 모양으로 되어 있으며, 내용물은 용수철이나 솜, 스펀지 등으로 되어 있다. 매트리스 ..."
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "매트릭스 뜻"
+                },
+                {
+                    "query": "Mattress"
+                },
+                {
+                    "query": "매트리스"
+                },
+                {
+                    "query": "이불 영어로"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "engoo.co.kr",
+            "displayed_link": "https://engoo.co.kr › words › word",
+            "title": "mattress (【명사】매트리스 ) 뜻, 용법, 그리고 예문 | Engoo Words",
+            "url": "https://engoo.co.kr/app/words/word/mattress/DXdW1B1RSxaQs2Jd53BC0g",
+            "snippet": "\"mattress\" 뜻. mattress. /ˈmætrəs/. 명사. 매트리스 ... A good mattress should be firm enough to support your body, but not so hard that it causes discomfort ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "aha-dic.com",
+            "displayed_link": "http://aha-dic.com › View › Word=...",
+            "title": "[아하사전] mattress - 한글발음 [매트리스], 뜻 : (짚, 솜 등을 둔) 침대요, 침상",
+            "url": "http://aha-dic.com/View.asp?Word=mattress",
+            "snippet": "(짚, 솜 등을 둔) 침대요, 침상."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "ko.wordow.com",
+            "displayed_link": "https://ko.wordow.com › dictionary",
+            "title": "mattress 뜻 - 영어 사전",
+            "url": "https://ko.wordow.com/english/dictionary/mattress",
+            "snippet": "매트리스(Mattress)는 담요의 일종인 침구이다. 보통 직사각형 모양으로 되어 있으며, 내용물은 용수철이나 솜, 스펀지 등으로 되어 있다. mattress ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "dictionary.cambridge.org",
+            "displayed_link": "https://dictionary.cambridge.org › ...",
+            "title": "MATTRESS | Cambridge English Dictionary에서의 의미",
+            "url": "https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/mattress",
+            "snippet": "mattress 의미, 정의, mattress의 정의: 1. the part of a bed, made of a strong cloth cover filled with firm material, that makes the bed…. 자세히 알아보기."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "educalingo.com",
+            "displayed_link": "https://educalingo.com › dic-en › m...",
+            "title": "영어사전에서 mattress 의 정의 및 동의어 - Educalingo",
+            "url": "https://educalingo.com/ko/dic-en/mattress/amp",
+            "snippet": "단어 매트리스는 아랍어 \"matrah\"에서 파생됩니다.이 단어는 \"무언가가 쓰러진 것\"또는 \"무언가가 아래로 던져진 장소\"를 의미하므로 \"매트, 쿠션\"을 의미합니다."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "etymonline.com",
+            "displayed_link": "https://www.etymonline.com › word",
+            "title": "mattress 뜻 - Etymonline에 의한 mattress의 어원, 기원 및 의미 - 사전, 번역",
+            "url": "https://www.etymonline.com/kr/word/mattress",
+            "snippet": "mattress 뜻: 매트리스; 약 1300년, materas, \"부드럽고 탄력 있는 물집으로 채워진 침대로, 일반적으로 짧은 간격으로 꼼꼼하게 잡아서 내용물이 미끄러지지 않도록 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "namu.wiki",
+            "displayed_link": "https://namu.wiki › 매트리스",
+            "date": "2023. 7. 25.",
+            "title": "매트리스 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EB%A7%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4",
+            "snippet": "2023. 7. 25. — 1. mattress[편집] ... 침대용 두꺼운 매트. 보통 직사각형의 납작한 모양에 두께(높이) 20~40cm 정도로, 안에 스프링이나 코매디 등이 있어 적당한 푹신함 ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "blog.naver.com",
+            "displayed_link": "http://m.blog.naver.com › skywello",
+            "date": "2017. 5. 7.",
+            "title": "[영어]futon과 mattress - 네이버 블로그",
+            "url": "http://m.blog.naver.com/skywello/221000182575",
+            "snippet": "2017. 5. 7. — 매트리스와 퓨톤은 영어사전적으로는 매우 헷갈린다. □ (침대의) mat·tress ○ 발음 : 미·영 [mӕtrəs] ○ 뜻 : a soft mattress 또는 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 11,
+            "displayed_link": "https://korean.dict.naver.com › koen",
+            "title": "매트리스 - Korean-English Dictionary",
+            "url": "https://korean.dict.naver.com/koendict/ko/entry/koen/7ce16988c75348c2b0ceb62e26de3397",
+            "snippet": "뜻풀이부. View more examples. Noun. 1. sleeping mat; mattress. 스프링과 스펀지 등을 넣어 두툼하고 푹신하게 만든 침대용 요. A pad used on a bed, ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "ko.hinative.com",
+            "displayed_link": "https://ko.hinative.com › questions",
+            "date": "2018. 8. 15.",
+            "title": "\"mattress\"은(는) 무슨 뜻인가요? 영어(미국) 질문 - HiNative",
+            "url": "https://ko.hinative.com/questions/3203795",
+            "snippet": "2018. 8. 15. — mattress은 무슨 뜻인가요?",
+            "carousels": [
+                {
+                    "url": "https://hinative.com/questions/3203795#answer_8400142",
+                    "title": "1표"
+                },
+                {
+                    "url": "https://hinative.com/questions/3203795#answer_8400610",
+                    "title": "1표"
+                }
+            ]
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "fatlingo.com",
+            "displayed_link": "http://www.fatlingo.com › translate",
+            "title": "영어 사전 | mattress 해석과 발음 및 문장 사용 예 - fatLingo",
+            "url": "http://www.fatlingo.com/translate.php?set_id=0&section_id=240&lang=kor&word=mattress",
+            "snippet": "영어단어 mattress 의 뜻은 다음과 같습니다. n. 매트리스. 사용 예와 해석은 아래와 같습니다."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "ko.ichacha.net",
+            "displayed_link": "https://ko.ichacha.net › men › mattr...",
+            "title": "mattress 한국어 뜻",
+            "url": "https://ko.ichacha.net/men/mattress.html",
+            "snippet": "mattress 뜻. 음성기호: [ 'mætris ]발음 mattress 예문. noun, (짚, 솜 등을 둔) 침대요, 침상. shifman mattress company: 쉬프만 매트리스 컴퍼니 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "tr-ex.me",
+            "displayed_link": "https://tr-ex.me › 번역 › mattresses",
+            "title": "MATTRESSES 한국어 뜻 - 한국어 번역 - Tr-ex",
+            "url": "https://tr-ex.me/%EB%B2%88%EC%97%AD/%EC%98%81%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4/mattresses",
+            "snippet": "영어-한국어에서 \"MATTRESSES\"의 맥락에서 번역. Spring and non woven are the main materials for making mattresses. - 봄과 비 길쌈은 매트리스를 만들기를위한 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "ko.englishlib.org",
+            "displayed_link": "https://ko.englishlib.org › en-ko › u...",
+            "title": "Under the mattress - 한국어 번역, 의미, 동의어, 반의어, 발음, 예문, 전사, 정의, 구",
+            "url": "https://ko.englishlib.org/dictionary/en-ko/under+the+mattress.html",
+            "snippet": "«Under the mattress» 에 대한 번역, 정의, 의미, 전사 및 예를 보고 동의어, 반의어를 배우고 «Under the mattress» 에 대한 발음을 듣습니다."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "wmdkstore.co.kr",
+            "displayed_link": "https://www.wmdkstore.co.kr › board",
+            "title": "MATTRESS GUIDE-필로우 탑 매트리스, 과연 어떤 사람에게 좋을까? - WMDK",
+            "url": "https://www.wmdkstore.co.kr/m/board.html?code=wmdk_image3&board_cate=&num1=999947&num2=00000&type=v&&s_id=&stext=&ssubject=&shname=&scontent=&sbrand=&sgid=&datekey=&branduid=&lock=N",
+            "snippet": "WMDK 홈페이지 내에 있는 상품을 검색하시다 보면 눈에 띄는 단어가 있습니다. “필로우 탑(Pillow Top)” 직역을 해보면 매트리스 위에 베개가 위에 올려져 있다는 뜻이 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "gorillabed.co.kr",
+            "displayed_link": "https://gorillabed.co.kr › bbs › faq",
+            "title": "제품 - 고릴라 매트리스",
+            "url": "https://gorillabed.co.kr/bbs/faq.php",
+            "snippet": "A 침대 머리부분 상단부터 다리부분 하단까지 몇 개의 Zone으로 구분 했느냐를 의미합니다. 고릴라 매트리스는 허리,어깨 통증을 최소화 하는 5존 매트리스입니다. 시중에 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "usbed.co.kr",
+            "displayed_link": "http://m.usbed.co.kr › free › read",
+            "title": "씰리 포스쳐피딕 2020 플러스 컬렉션 출시! - 유에스베드 :: US-BED 수입매트리스 No.1 멀티샵!",
+            "url": "http://m.usbed.co.kr/board/free/read.html?no=10501&board_no=1002&page=1",
+            "snippet": "제공함으로써 미국 내에서 국민 매트리스로 자리잡은 브랜드입니다. . 씰리 매트리스는 '양질의 수면'을 강조한 창립자 헤인즈의 뜻을 기반으로 하여."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 20,
+            "site_name": "wordrow.kr",
+            "displayed_link": "https://wordrow.kr › ampstory › 의미",
+            "title": "매트리스 뜻",
+            "url": "https://wordrow.kr/ampstory/%EC%9D%98%EB%AF%B8/%EB%A7%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4/",
+            "snippet": "침대용의 두툼한 요. 보통 직사각형의 납작한 모양으로, 그 속에 스프링이나 스펀지 따위를 넣어 푹신하게 만든다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://wordrow.kr/ampstory/%EC%9D%98%EB%AF%B8/%EB%A7%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4/",
+                "desc": "mattress 뜻(출처: wordrow.kr)"
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 21,
+            "site_name": "books.google.co.kr",
+            "displayed_link": "https://books.google.co.kr › books",
+            "title": "영어에 미친 나라 대한미국",
+            "url": "https://books.google.co.kr/books?id=upmMBQAAQBAJ&pg=PT114&lpg=PT114&dq=mattress+%EB%9C%BB&source=bl&ots=ZqNYhFlbE3&sig=ACfU3U2gSo6CH4ren6M2_iNnmQbfY9oCIw&hl=ko&sa=X&ved=2ahUKEwjojqPHx-GAAxXkg1YBHZ3fBfYQ6AF6BAhOEAI",
+            "snippet": "영어에서 매트와 매트리스는 엄연히 다르다. 메이커(maker) : 영어로 '메이커'는 '제작자'나 '제조업자'를 뜻하고, '상표'의 의미는 '브랜드'라고 한다."
+        }
+    ]
+}
