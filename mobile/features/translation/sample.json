@@ -1,0 +1,328 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "ae15259c-070c-43eb-aa4c-44b6443fde4f",
+        "sub_id": 0,
+        "requested_time": "2023-10-08T12:26:21.712Z",
+        "q": "혈압계 영어로",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%ED%98%88%EC%95%95%EA%B3%84+%EC%98%81%EC%96%B4%EB%A1%9C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0112.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231008/2310082126/GG%09M%09ko%09kr%0992b29d7f87764c448e6562adb4b73f470007%09South%20Korea%0920231008122621712.html",
+        "json_url": "http://node0112.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231008/2310082126/GG%09M%09ko%09kr%0992b29d7f87764c448e6562adb4b73f470007%09South%20Korea%0920231008122621712.json",
+        "crawl_start_time": "2023-10-08T12:26:22.167Z",
+        "crawl_end_time": "2023-10-08T12:26:29.458Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "pnt 몰",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 7.29
+    },
+    "information": {
+        "version": "5.8.12.master",
+        "displayed_query": "혈압계 영어로",
+        "parsed_time": "2023-10-18T04:38:00.395Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "translation",
+            "input": {
+                "language": "한국어",
+                "text": "혈압계"
+            },
+            "output": {
+                "language": "영어",
+                "text": "sphygmomanometer"
+            },
+            "sticks": [
+                [
+                    {
+                        "field": "search_phrase",
+                        "value": "how to pronounce sphygmomanometer"
+                    }
+                ]
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "Sphygmomanometer"
+                },
+                {
+                    "query": "혈압계 의학용어"
+                },
+                {
+                    "query": "혈압 영어로"
+                },
+                {
+                    "query": "혈압계추천"
+                },
+                {
+                    "query": "Blood Pressure Monitor"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "ko.m.wikipedia.org",
+            "displayed_link": "https://ko.m.wikipedia.org › wiki",
+            "title": "혈압계 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/%ED%98%88%EC%95%95%EA%B3%84",
+            "snippet": "혈압계(血壓計, sphygmomanometer, blood pressure meter, blood pressure monitor, blood pressure gauge)는 혈압을 측정하는 장치의 하나이다."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "المعاني",
+            "displayed_link": "https://www.almaany.com › en-kr",
+            "title": "Meaning of 혈압계 in Korean english dictionary - 영어 한국어 사전에 혈압계 의 의미 1",
+            "url": "https://www.almaany.com/en/dict/en-kr/%ED%98%88%EC%95%95%EA%B3%84/",
+            "snippet": "혈압계 - Translation and Meaning in Almaany English-Korean Dictionary. sphygmomanometer. 혈압계. tonometer. 음 진동 측정기; (의학) 혈압계; (물리) 증기압력계 ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "인스티즈(instiz)",
+            "displayed_link": "https://www.instiz.net › name",
+            "title": "혈압계가 영어로 머라고? - 인스티즈(instiz) 일상 카테고리",
+            "url": "https://www.instiz.net/name/28811187",
+            "snippet": "sphygmomanometer,,, 스펠링 틀리지 말자 3시간 뒤의 나..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "ko.glosbe.com",
+            "displayed_link": "https://ko.glosbe.com › 혈압계",
+            "title": "\"혈압계\"을 영어로 번역",
+            "url": "https://ko.glosbe.com/ko/en/%ED%98%88%EC%95%95%EA%B3%84",
+            "snippet": "sphygmomanometer, tonometer 은 \"혈압계\"을 영어로 가장 많이 번역한 것입니다. 샘플 번역 문장: “얼마 동안 나는 배관 일을 하였지만 지금은 접수계에 있읍니다. ↔ “For ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "ko.ichacha.net",
+            "displayed_link": "https://ko.ichacha.net › men › 혈압계",
+            "title": "혈압계 영어로",
+            "url": "https://ko.ichacha.net/men/%ED%98%88%EC%95%95%EA%B3%84.html",
+            "snippet": "혈압계 영어로 · sphygmomanometer · tonometer · blood pressure meter."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "blog.naver.com",
+            "displayed_link": "https://m.blog.naver.com › yolwooju",
+            "title": "혈압계로 혈압 재는 방법, 손목형 혈압계와 팔뚝형 혈압계, 가정용 혈압계 추천 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/yolwooju/221219194077",
+            "snippet": "2018. 3. 1. — 혈압계를 영어로는 shpygmomanometer, tonometer, blood pressure gauge, manometer, tonometer, tonometry, hemadynamometer 라고 합니다. 이렇게 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "나무위키",
+            "displayed_link": "https://namu.wiki › 혈압계",
+            "title": "혈압계",
+            "url": "https://namu.wiki/w/%ED%98%88%EC%95%95%EA%B3%84",
+            "snippet": "2023. 7. 2. — 영어: Sphygmomanometer ... 고혈압 환자들은 가정용 혈압계가 없으면 혈압 측정이 번거로운 관계로 가정용 혈압계를 구입해서 가지고 있는 사람들도 상당수 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "speckofdust.tistory.com",
+            "displayed_link": "https://speckofdust.tistory.com › ...",
+            "title": "'혈압' 관련 표현 영어로 -고혈압/저혈압 (cf. mmhg, sys/dia는 무슨 뜻?) - IKAN",
+            "url": "https://speckofdust.tistory.com/m/131",
+            "snippet": "2022. 6. 5. — '고혈압' 영어로 - 'high blood pressure' 또는 'hypertension'. 고혈압 - 즉 '높은 혈압'이라는 뜻이다. 그렇기 때문에 영어로도 'high blood pressure' ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "blog.naver.com",
+            "displayed_link": "http://m.blog.naver.com › brightene...",
+            "title": "브라운 체온계 / 오므론 혈압계 ♪ 미국아마존 직구 ♪ 화상영어로 영어회화배우기",
+            "url": "http://m.blog.naver.com/brightenedu/220907741798",
+            "snippet": "2017. 1. 11. — 오늘은 미국아마존에서 직구로 산 브라운 체온계와 오므론혈압계에 대해서 써보려고 해요~ 영어로 완전 도배된 사이트를 보노라면"
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "DBpia",
+            "displayed_link": "https://www.dbpia.co.kr › journal",
+            "title": "표준전자식 혈압계와 수은혈압계, 전자혈압계의 비교 선행연구 - 의공학회지",
+            "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08902114",
+            "snippet": "표준전자식 혈압계와 수은혈압계, 전자혈압계의 비교 선행연구. Comparison of Sphygmomanometer, Fully Automatic Electronic Blood Pressure Meters with Standard ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "시보드",
+            "displayed_link": "https://cboard.net › 혈압계 영어로",
+            "title": "혈압계 영어로",
+            "url": "https://cboard.net/s/%ED%98%88%EC%95%95%EA%B3%84%20%EC%98%81%EC%96%B4%EB%A1%9C",
+            "snippet": "혈압계 영어로에 대한 정보. 연관검색어 : 혈압계 영어로 혈압계 추천 혈압계 원리 혈압계 보는법 혈압계 혈압계 가격 혈압계 사용법 혈압계 파는곳 혈압계 커프 혈압계 ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "시보드",
+            "displayed_link": "https://cboard.net › 혈압계 영어",
+            "title": "혈압계 영어",
+            "url": "https://cboard.net/s/%ED%98%88%EC%95%95%EA%B3%84%20%EC%98%81%EC%96%B4",
+            "snippet": "Learn how to pronounce SPHYGMOMANOMETER with this American English #shorts pronunciation lesson. 계산해주세여 영어로? I want 아니야! 쇼핑을 하실때 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "Educalingo",
+            "displayed_link": "https://educalingo.com › dic-ko › s...",
+            "title": "Definition and synonyms of 수은혈압계 in the Korean dictionary",
+            "url": "https://educalingo.com/en/dic-ko/sueunhyeol-abgye/amp",
+            "snippet": "외국어 표기 mercury manometer(영어), 水銀血壓計(한자). Click to see the ... 로 의로 용렌 므겐 한영기 계기 구 혈압계 겜 ... Korea (South), 1981. 5. 메디컬 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "doh.wa.gov",
+            "displayed_link": "https://doh.wa.gov › legacy",
+            "title": "혈압 수치 측정 방법",
+            "url": "https://doh.wa.gov/sites/default/files/legacy/Documents/8380//345-273-BloodPressHm-ko-L.pdf",
+            "snippet": "혈압계가 상위(수축기) 및 하위(확장기) 혈압 수치와 맥박수를 측정합니다. 120 ... 고혈압(영어로 high blood pressure 또는 hypertension)은 심장마비, 뇌졸중, 심부전.",
+            "file_format": "PDF"
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "KMLE",
+            "displayed_link": "http://www.kmle.co.kr › search",
+            "title": "혈압 : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색",
+            "url": "http://www.kmle.co.kr/search.php?Search=%C7%F7%BE%D0",
+            "snippet": "그 힘을 얻기위해서는 심근의 비후가 필요로 하여 좌심실 근육의 비후가 생긴다. ... 혈압계. hematomanometer. 혈압계. hemodynamometer. 혈압계. hemomanometer. 혈압계."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "ko.hinative.com",
+            "displayed_link": "https://ko.hinative.com › questions",
+            "title": "is it natural? If not please tell me what to change 제가 아침마다 우리 엄마한테 혈압계를 가져가 주고 심장 압력 측정하는 거예요.",
+            "url": "https://ko.hinative.com/questions/24487339",
+            "snippet": "2023. 8. 18. — is it natural? If not please tell me what to change 제가 아침마다 우리 엄마한테 혈압계를 가져가 주고 심장 압력 측정하는 거예요.",
+            "carousels": [
+                {
+                    "url": "https://hinative.com/questions/24487339#featured_answer_56372391",
+                    "title": "인기 답변"
+                },
+                {
+                    "url": "https://hinative.com/questions/24487339#answer_56372250",
+                    "title": "0표"
+                },
+                {
+                    "url": "https://hinative.com/questions/24487339#answer_56372411",
+                    "title": "1표"
+                }
+            ]
+        },
+        {
+            "sequence": 19,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "Naver Blog - 네이버",
+                            "landing_url": "https://blog.naver.com/damare0505/222393833711"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=uIaj60WDqfQ"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "Naver Blog - 네이버",
+                            "landing_url": "https://blog.naver.com/damare0505/222393833711"
+                        },
+                        {
+                            "source": "ko.aliexpress.com",
+                            "landing_url": "https://ko.aliexpress.com/item/1005003772501536.html"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "shop.interpark.com",
+            "displayed_link": "http://m.shop.interpark.com › product",
+            "title": "혈압측정기 자동전자 음성 혈압계 영어화면 가정용 혈",
+            "url": "http://m.shop.interpark.com/product/8474846939/0000100000?fr=pc",
+            "snippet": "직거래 유도 주의 안내 판매자가 현금결제를 유도하는 경우 절대 결제하지 마시고, 안전거래 신고센터(1661-2595)로 문의하시기 바랍니다."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "mall.drdiary.co.kr",
+            "displayed_link": "https://m.mall.drdiary.co.kr › goods",
+            "title": "인바디 블루투스 혈압계 | 혈당관리 라이프샵 닥다몰",
+            "url": "https://m.mall.drdiary.co.kr/goods/goods_view.php?goodsNo=1000000485",
+            "snippet": "카카오스토리. URL복사. 인바디 블루투스 혈압계. 블루투스로 스마트하게. 인바디 블루투스 혈압계 ... xzas****님의 리뷰입니다. 다른 혈압계는 영어로 된 것이 많은데 이거 ..."
+        },
+        {
+            "sequence": 22,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=Rhdsu995bf8"
+                        },
+                        {
+                            "source": "인터파크 쇼핑",
+                            "landing_url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8474846939"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "나무위키",
+                            "landing_url": "https://namu.wiki/w/%ED%98%88%EC%95%95%EA%B3%84"
+                        },
+                        {
+                            "source": "ko.aliexpress.com",
+                            "landing_url": "https://ko.aliexpress.com/item/1005004543356916.html"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
