@@ -1,0 +1,1325 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "968fefc5-2fef-44fd-8265-6f02300d3267",
+        "sub_id": 0,
+        "requested_time": "2023-11-02T06:55:02.830Z",
+        "q": "제주도 여름에 가볼만한 곳",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 100,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EC%97%AC%EB%A6%84%EC%97%90+%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C+%EA%B3%B3&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=100",
+        "html_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/231102/2311021555/172027000017-968FEFC52FEF44FD82656F02300D3267-00.html",
+        "json_url": "http://dev001.dev.ascentlab.io/serpapi/serpdata/any/231102/2311021555/172027000017-968FEFC52FEF44FD82656F02300D3267-00.json",
+        "crawl_start_time": "2023-11-02T06:55:02.847Z",
+        "crawl_end_time": "2023-11-02T06:55:12.066Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "sub_name": "default",
+        "sub_q": "default",
+        "crawl_elapsed_time": 9.21
+    },
+    "information": {
+        "version": "5.10.0.master",
+        "displayed_query": "제주도 여름에 가볼만한 곳",
+        "parsed_time": "2023-11-02T07:00:32.727Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "여행톡톡",
+            "displayed_link": "https://www.tourtoctoc.com › news",
+            "date": "2023. 6. 3.",
+            "title": "\"놓치면 평생 후회\"...올 여름 제주도 놓치지 말아야 할 여행지 BEST 10",
+            "url": "https://www.tourtoctoc.com/news/articleView.html?idxno=715",
+            "snippet": "2023. 6. 3. — 1. 찬란하게 빛나는 여름 바다에 풍덩 제주 서핑·해상 스포츠 명소 · 2. 일몰이 아름다운 도심 속 피서지 · 3. 나만 알고 싶은 시크릿 아일랜드, 차귀도 · 4."
+        },
+        {
+            "sequence": 2,
+            "type": "short_videos",
+            "carousels": [
+                {
+                    "url": "https://www.tiktok.com/@jejuhotple/video/7247513237921582343",
+                    "title": "[한방에 정리해본 제주 여름여행 총정리🌊💙] 여름에 가기 좋은 지역별 코스 모아왔어!😘 휴가 때 어디갈까 고민된다면 참고...",
+                    "channel": "jejuhotple",
+                    "source": "TikTok",
+                    "date": "4개월 전"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=NtmQtQCj5zE",
+                    "title": "6월에 가기 좋은 제주여행지 모음 1탄",
+                    "channel": "제주도 김씨 표류기",
+                    "source": "YouTube",
+                    "date": "5개월 전"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=JE367MsLRy4",
+                    "title": "제주도 숨은 명소 청굴물 /제주도 여행 /제주 동부 여행지 /국내여행 /3월에 가볼만한곳 /제주도 추천 여행지",
+                    "channel": "Jay쌤여행TV",
+                    "source": "YouTube",
+                    "date": "7개월 전"
+                },
+                {
+                    "url": "https://www.tiktok.com/@todaytravel.official/video/7264459328676056327",
+                    "title": "매번 똑같은 여행지는 그만! 특별한 곳으로 떠나자🌿 ✈️독특한 제주 여름 여행지 BEST 5☁️ #제주여행 #제주가볼만한곳",
+                    "channel": "todaytravel.official",
+                    "source": "TikTok",
+                    "date": "2개월 전"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=gLqc9X37-sQ",
+                    "title": "제주도 가 볼만한 여행지 10선 #여행지추천 #가성비여행 #여름방학 #여름휴가지 #여름휴가 #가족여행 #제주여행 #제주도여행",
+                    "channel": "쇼츠플라이",
+                    "source": "YouTube",
+                    "date": "3개월 전"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=zNTuRylvytg",
+                    "title": "제주도 레일바이크 아이랑 갈만한곳 동쪽여행코스추천 #제주도여행지추천 #제주도가족여행 #제주도추천명소 #제주도여름여행 #shorts",
+                    "channel": "해피하트니TV",
+                    "source": "YouTube",
+                    "date": "3개월 전"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "헤드라인제주",
+            "displayed_link": "https://www.headlinejeju.co.kr › news",
+            "date": "2022. 6. 8.",
+            "title": "올 여름 제주도 여행 10선...놓치면 후회할 관광명소는?",
+            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531",
+            "snippet": "2022. 6. 8. — 1. 끝없는 백사장 위로 드리워진 에머랄드 빛 실크로드 <협재해수욕장>. 제주 바다는 두 종류다. · 2. 제주의 독특한 지형과 함께 잊지 못한 여름 추억 한 ...",
+            "images": [
+                {
+                    "landing_url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531"
+                },
+                {
+                    "landing_url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531"
+                },
+                {
+                    "landing_url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531"
+                },
+                {
+                    "landing_url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "네이버 블로그",
+            "displayed_link": "https://m.blog.naver.com › ...",
+            "date": "2022. 6. 17.",
+            "title": "여름 국내 여행지 추천 제주도 4박5일 관광코스 가볼만한곳 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/80sunjin/222776868125",
+            "snippet": "2022. 6. 17. — 카테고리 이동 PLAN B가 있는 레저커플 ; 검멀레해수욕장. 제주특별자치도 제주시 우도면 연평리 · 제주특별자치도 제주시 우도면 연평리 · 전화 ; 스누피가든.",
+            "images": [
+                {
+                    "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "인터파크 투어",
+            "displayed_link": "http://mtour.interpark.com › freeya",
+            "title": "[제주도여행] 국내여름여행으로 가볼만한 곳 추천!",
+            "url": "http://mtour.interpark.com/freeya/Discovery.aspx?seq=10225",
+            "snippet": "[제주도여행] 국내여름여행으로 가볼만한 곳 추천! 프리야, 여행정보, 여행코스, 여행일정, 여행명소, 여행리뷰, 여행기, 여행 맛집, 여행지 교통정보, 홍콩 여행일정, ..."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "네이버 블로그",
+            "displayed_link": "https://m.blog.naver.com › suk4408",
+            "date": "2022. 7. 8.",
+            "title": "7월 제주도 가볼만한곳 여름 휴가지 추천 등 8곳 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/suk4408/222803996610",
+            "snippet": "2022. 7. 8. — 1.협재해수욕장. 제주시 한림읍 협재리 2497-1 · 2.튀메기 공항점 · 3.돌담땅콩국수 · 4.마노르블랑 · 5.보롬왓 카페 · 6.외돌개 · 7.황우지 선녀탕. 외돌개에서 ...",
+            "images": [
+                {
+                    "landing_url": "https://m.blog.naver.com/suk4408/222803996610"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/suk4408/222803996610"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/suk4408/222803996610"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/suk4408/222803996610"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/suk4408/222803996610"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "코짜남의 제주여행",
+            "displayed_link": "https://kokoreview.tistory.com › entry",
+            "date": "2022. 6. 20.",
+            "title": "제주도 여름 가볼만한곳 10곳 [물놀이 명소, 액티비티] - 코짜남의 제주여행",
+            "url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0",
+            "snippet": "2022. 6. 20. — 1. 함덕해수욕장 · 2. 협재해수욕장 · 3. 논짓물 · 4. 돈내코 계곡 · 5. 판포포구 · 6. 서핑체험 · 7. 스노클링 · 8. 요트투어.",
+            "images": [
+                {
+                    "landing_url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0"
+                },
+                {
+                    "landing_url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0"
+                },
+                {
+                    "landing_url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0"
+                },
+                {
+                    "landing_url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0"
+                },
+                {
+                    "landing_url": "https://kokoreview.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EB%AC%BC%EB%86%80%EC%9D%B4-%EB%AA%85%EC%86%8C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "7월, 8월 여름 제주도에서 꼭 가봐야 하는 곳 서귀포 여행 코스 ... - YouTube",
+            "url": "https://m.youtube.com/watch?v=p1JYNRBdYHA",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "2022. 7. 2."
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "비짓제주",
+            "displayed_link": "https://m.visitjeju.net › detail › view",
+            "title": "여름휴가 피서지를 찾아서 <제주, 한여름 시원한 곳 어디 없을까?>",
+            "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000022160",
+            "snippet": "더위는 잠시 안녕! 온 몸이 짜릿해지는 · 돈내코유원지 ; 우리 마을에는 시원한 용천수가 ; 맨발로 걸어보는 피톤치드 가득한 숲 산책 · 서귀포자연휴양림 ; 초대형 얼음 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "구름들길",
+            "displayed_link": "https://cloud.ohostory.com › ...",
+            "date": "2022. 7. 13.",
+            "title": "시원한 8월 제주도 가볼만한곳 10곳 - 구름들길",
+            "url": "https://cloud.ohostory.com/119",
+            "snippet": "2022. 7. 13. — 8월 제주도 가볼만한곳 10곳 · 1. 제주 청굴물 · 2. 오조리 레저파크 문보트 · 3. 제주 엘파소 · 4. 제주 김녕 세기알해변 · 5. 제주 태웃개 · 6. 제주 한라생태 ...",
+            "images": [
+                {
+                    "landing_url": "https://cloud.ohostory.com/119"
+                },
+                {
+                    "landing_url": "https://cloud.ohostory.com/119"
+                },
+                {
+                    "landing_url": "https://cloud.ohostory.com/119"
+                },
+                {
+                    "landing_url": "https://cloud.ohostory.com/119"
+                }
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "트립닷컴",
+            "displayed_link": "https://kr.trip.com › ... › 제주",
+            "title": "2023 제주 가볼만한곳 베스트 20",
+            "url": "https://kr.trip.com/toplist/tripbest/jeju-best-things-to-do-100000012168/",
+            "snippet": "제주에서 제주 가볼만한곳이/가 위치한 곳은 어디인가요? . 제주 가볼만한곳의 주요 위치:우도:제주|한라산 국립공원:제주|제주난타전용관:제주|용두암:제주|에코랜드: ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "KKday",
+            "displayed_link": "https://www.kkday.com › blog › asi...",
+            "date": "2020. 8. 6.",
+            "title": "제주도 여행 코스 추천 6 :: 여름 제주를 만끽할 수 있는 코스 여섯 곳",
+            "url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/",
+            "snippet": "2020. 8. 6. — 1. 제주도 중문 서핑 – 배럴서핑스쿨 · 2. 제주 그랑블루 요트 선셋투어 · 3. 제주 M1971 돌고래 요트투어 · 4. 제주도 노리매공원 · 5. 제주 항공우주박물관.",
+            "images": [
+                {
+                    "landing_url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/"
+                },
+                {
+                    "landing_url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/"
+                },
+                {
+                    "landing_url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/"
+                },
+                {
+                    "landing_url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/"
+                },
+                {
+                    "landing_url": "https://www.kkday.com/ko/blog/12133/asia-korea-jeju-island-attractions-6/"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "여행을 봄",
+            "displayed_link": "https://springaria0199.tistory.com › ...",
+            "date": "2021. 7. 1.",
+            "title": "제주도민 추천 - 7월 제주도 가볼만한곳 10곳 - 여행을 봄 - 티스토리",
+            "url": "https://springaria0199.tistory.com/560",
+            "snippet": "2021. 7. 1. — ... 여름에도 빡빡한 일정으로 구석구석을 여행하다 간다. 7월 제주도 가볼만한곳 10곳은 7월에 가면 더 좋은 장소와 더운 여름에도 어울리는 제주 여행지, ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "Tistory",
+            "displayed_link": "https://dip0.tistory.com › entry › 제...",
+            "title": "제주도 가볼만한 곳 7월 8월 9월 - dip0",
+            "url": "https://dip0.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-7%EC%9B%94",
+            "snippet": "예전에는 제주도 여행의 필수 코스였던 만장굴이 어느때부터인지는 모르겠지만 주요 관광지 코스에서 빠지고 있습니다. 개인적으로 만장굴만큼 여름에 가기 좋은 관광지는 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "study-up.kr",
+            "displayed_link": "https://study-up.kr › ...",
+            "date": "2023. 5. 18.",
+            "title": "제주도 여름 여행코스 추천 10 순위 - 경제 교육, 재테크 지원",
+            "url": "https://study-up.kr/746",
+            "snippet": "2023. 5. 18. — 성산일출봉은 제주도에서 가장 인기있는 일출명소로 꼭 가볼만한곳입니다. 9위. 마라도와 가파도. 대한민국에서 제일 남쪽에 있는 섬이 어딘줄 아시나요?"
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "jejuinfos.com",
+            "displayed_link": "https://jejuinfos.com › 제주도-여름...",
+            "date": "2023. 7. 5.",
+            "title": "제주도 여름에 가볼만한 곳 3선 추천. - jejuinfos.com -",
+            "url": "https://jejuinfos.com/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84%EC%97%90-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B3%B3-3%EC%84%A0-%EC%B6%94%EC%B2%9C/",
+            "snippet": "2023. 7. 5. — 협재해수욕장은 제주도의 서쪽에 위치한 대표적인 해변 중 하나입니다. 아름다운 자연환경과 탁 트인 푸른 바다가 특징이며, 많은 관광객들이 여름철에 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "제주도 여름 코스"
+                },
+                {
+                    "query": "7월 제주도 2박3일 여행코스"
+                },
+                {
+                    "query": "제주 8월 여행"
+                },
+                {
+                    "query": "제주도 가볼만한 곳"
+                },
+                {
+                    "query": "7월 제주도 가볼만한 곳"
+                },
+                {
+                    "query": "여름 제주도 2박3일"
+                }
+            ]
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "Tistory",
+            "displayed_link": "https://goodtrip.tistory.com › ...",
+            "date": "2022. 6. 3.",
+            "title": "7월 제주도 가볼만한곳 10곳 추천 여행지 - 정보의 바다",
+            "url": "https://goodtrip.tistory.com/864",
+            "snippet": "2022. 6. 3. — ... 제주 여행길에 가봤던 곳들 중에서 여름에 가볼만한 장소들로만 열 곳을 선정했습니다. 제주도는 워낙에나 볼거리들이 많아 열 곳만 선정하긴 쉽진 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "네이버 블로그",
+                            "landing_url": "http://m.blog.naver.com/coupontong_k/221053299873"
+                        },
+                        {
+                            "source": "헤드라인제주",
+                            "landing_url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=488531"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "네이버 블로그 - NAVER",
+                            "landing_url": "https://m.blog.naver.com/80sunjin/222776868125"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=p1JYNRBdYHA"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 20,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "여행톡톡",
+                            "landing_url": "https://www.tourtoctoc.com/news/articleView.html?idxno=965"
+                        },
+                        {
+                            "source": "여행을 봄 - 티스토리",
+                            "landing_url": "https://springaria0199.tistory.com/560"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "여행톡톡",
+                            "landing_url": "https://www.tourtoctoc.com/news/articleView.html?idxno=715"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://m.youtube.com/watch?v=tIGGmsp5VAw"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "Tistory",
+            "displayed_link": "https://ginamstory.tistory.com › ...",
+            "date": "2022. 8. 3.",
+            "title": "8월 제주도 가볼만한곳 10곳 여름여행 - 꽃이 필 때 - 티스토리",
+            "url": "https://ginamstory.tistory.com/79",
+            "snippet": "2022. 8. 3. — 1. 아쿠아플라넷 제주. 비오는날 또는 눈오는날 그리고 무더운 여름철에 딱 맞는 8월 제주도 가볼만한곳 10곳 입니다. · 2. 비체올린 · 3. 협재해수욕장 · 4."
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "Hotels.com",
+            "displayed_link": "https://kr.hotels.com › south-korea",
+            "title": "제주도의 가볼 만한 곳 베스트 10",
+            "url": "https://kr.hotels.com/go/south-korea/kr-best-jeju-island-things-to-do",
+            "snippet": "제주를 여행한다면 수많은 관광 명소 중 어디를 가야할 지 행복한 고민을 하게 되죠. 산과 오름, 해변, 폭포, 용암동굴, 주변 섬 등 어디를 가나 천혜의 아름다운 자연 ..."
+        },
+        {
+            "sequence": 23,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "Tistory",
+            "displayed_link": "https://invitetour.tistory.com › ...",
+            "date": "2017. 7. 14.",
+            "title": "[제주여행] 제주도 여름에 가볼만한 곳, 절물자연휴양림 완전 시원해요.",
+            "url": "https://invitetour.tistory.com/m/44",
+            "snippet": "2017. 7. 14. — 절물자연휴양림 근처에 가볼만한 곳으로는 용암동굴인 만장굴과 기생화산이라고 하는 산굼부리와 고수목마, 비자림, 몽도암관광휴양목장, 성판암 등이 ..."
+        },
+        {
+            "sequence": 24,
+            "type": "organic_results",
+            "position": 20,
+            "site_name": "Tistory",
+            "displayed_link": "https://iwouldgo.tistory.com › ...",
+            "date": "2021. 6. 29.",
+            "title": "7월 제주도 가볼만한곳 10곳 - 에비츄 - 티스토리",
+            "url": "https://iwouldgo.tistory.com/107",
+            "snippet": "2021. 6. 29. — 해마다 가봐도 이곳만한 여행지가 없는 것 같습니다. 제주가 대한민국에 있어서 너무나 자랑스럽습니다. 그러면 이번 여름휴가를 환상적으로 보낼 수 있는 ..."
+        },
+        {
+            "sequence": 25,
+            "type": "organic_results",
+            "position": 21,
+            "site_name": "픽펜",
+            "displayed_link": "https://picpen.chosun.com › view",
+            "title": "여름에 가기좋은 제주7월가볼만한곳",
+            "url": "https://picpen.chosun.com/view/picpenViewDetail.picpen?picpen_seq=56218",
+            "snippet": "제주도 7월 가볼만한곳을 소개합니다! 어린왕자를 테마로 한 관광지, 이곳은 카페인가, 정원인가! 마치 관광지에 온듯한 카페, 익사이팅하면서도 스릴넘치는 해양레저, 물 ..."
+        },
+        {
+            "sequence": 26,
+            "type": "organic_results",
+            "position": 22,
+            "site_name": "디지틀조선일보",
+            "displayed_link": "https://digitalchosun.dizzo.com › data",
+            "date": "2019. 7. 24.",
+            "title": "여름 제주도 명소 공개…8월 제주도 여행가면 꼭 해봐야 할 10가지",
+            "url": "https://digitalchosun.dizzo.com/m/article.amp.html?contid=2019072480119",
+            "snippet": "2019. 7. 24. — 8월에 제주도로 여행을 간다면 어떤 곳을 가보는 게 좋을까? 제주관광 ... 여름 휴가철에 가볼만한 전국 명품마을 5곳 · 천문대, 야시장, 귀신체험 등 ..."
+        },
+        {
+            "sequence": 27,
+            "type": "organic_results",
+            "position": 23,
+            "site_name": "Tistory",
+            "displayed_link": "https://justsnow.tistory.com › entry",
+            "date": "2022. 7. 13.",
+            "title": "요즘 인기 제주 가볼만한곳 베스트 10",
+            "url": "https://justsnow.tistory.com/entry/%EC%9A%94%EC%A6%98-%EC%9D%B8%EA%B8%B0-%EC%A0%9C%EC%A3%BC-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-%EB%B2%A0%EC%8A%A4%ED%8A%B8-10",
+            "snippet": "2022. 7. 13. — 1. 제주 수목원길야시장 · 2. 제주 도시해녀 · 3. 제주카페 오드씽 · 4. 제주 마방목지 · 5. 제주 헬로키티아일랜드 · 6. 제주 돈내코 원앙폭포 · 7. 제주도 ..."
+        },
+        {
+            "sequence": 28,
+            "type": "organic_results",
+            "position": 24,
+            "site_name": "beautifulreview21.com",
+            "displayed_link": "https://beautifulreview21.com › 제...",
+            "title": "제주도 가볼 만한 곳 및 놀거리 순위 BEST 15 - 지인들에게 칭찬 받은 코스",
+            "url": "https://beautifulreview21.com/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC-%EB%A7%8C%ED%95%9C-%EA%B3%B3/",
+            "snippet": "우도. 제주 가볼만한곳 베스트10은 제주 제주시 우도면에 위치한 우도에요. 소가 ... 제주도 여름 관광지로도 손색없어요. 만장굴은 아직도 국내 박쥐 최대 서식지이지만 ..."
+        },
+        {
+            "sequence": 29,
+            "type": "organic_results",
+            "position": 25,
+            "site_name": "Tistory",
+            "displayed_link": "https://jummapandora.tistory.com › ...",
+            "date": "2023. 6. 22.",
+            "title": "제주도 여름 휴가 여행 가볼만한 곳 - 줌마 판도라 - 티스토리",
+            "url": "https://jummapandora.tistory.com/entry/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%ED%9C%B4%EA%B0%80-%EC%97%AC%ED%96%89-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B3%B3",
+            "snippet": "2023. 6. 22. — 날씨이번 여름 제주도는 6월25일부터 장마가 시작된다고 하니, 비행기 혹은 여행일정에 참고해주시기 바랍니다. 여행 중에 혹시 모를 비소식에 당황할 ..."
+        },
+        {
+            "sequence": 30,
+            "type": "organic_results",
+            "position": 26,
+            "site_name": "Tistory",
+            "displayed_link": "https://theforester.tistory.com › ...",
+            "date": "2018. 7. 4.",
+            "title": "여름 휴가 가볼만한 곳 시리즈 #2 제주 여름날의 풍경 - 조경디자인 더숲",
+            "url": "https://theforester.tistory.com/1861",
+            "snippet": "2018. 7. 4. — 휴가를 대비한 가볼만한 곳 시리즈 ~ 오늘 더숲에서 추천해 드리는 곳은 바로 많은 분들이 좋아하시는 여행지인 \"제주도\"입니다.",
+            "images": [
+                {
+                    "landing_url": "https://theforester.tistory.com/1861"
+                },
+                {
+                    "landing_url": "https://theforester.tistory.com/1861"
+                },
+                {
+                    "landing_url": "https://theforester.tistory.com/1861"
+                },
+                {
+                    "landing_url": "https://theforester.tistory.com/1861"
+                },
+                {
+                    "landing_url": "https://theforester.tistory.com/1861"
+                }
+            ]
+        },
+        {
+            "sequence": 31,
+            "type": "organic_results",
+            "position": 27,
+            "site_name": "Tistory",
+            "displayed_link": "https://the-verge.tistory.com › entry",
+            "date": "2022. 6. 6.",
+            "title": "2022년 7월 제주도 가볼만한곳 10곳 추천 - 가장자리 - 티스토리",
+            "url": "https://the-verge.tistory.com/entry/7%EC%9B%94-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3",
+            "snippet": "2022. 6. 6. — 7월 제주도 가볼만한곳 10곳 어디입니까? 여름이 코앞에 다가왔습니다. 여름이라는 단어를 들으면 가장 먼저 떠오르는 것은 여행과 휴가입니다."
+        },
+        {
+            "sequence": 32,
+            "type": "organic_results",
+            "position": 28,
+            "site_name": "제주에코여행",
+            "displayed_link": "http://www.jejusea.com › themeview",
+            "title": "제주도 여름여행 피서지에 좋을 곳.. 추천",
+            "url": "http://www.jejusea.com/tourplace/themeview.php?id=3",
+            "snippet": "더위를 시원하게 식혀줄 피서지로서 여름이면 사람들의 발길이 더욱 많이 찾는 곳은 어디가 좋을까? 제주의 폭포, 해수욕장, 동굴,산, 공원, 계곡,등 다양하게 알아 ..."
+        },
+        {
+            "sequence": 33,
+            "type": "organic_results",
+            "position": 29,
+            "site_name": "Tistory",
+            "displayed_link": "https://psm25.tistory.com › ...",
+            "title": "한 여름의 푸른 제주 여행 가볼만한곳 일정 추천",
+            "url": "https://psm25.tistory.com/m/12",
+            "snippet": "1일 차 : 제주공항 - 스타 렌터카 - 비양도 - 협재해수욕장 - 항구 식당 - 이중섭거리 - 서귀포 올레시장 - 호텔. 대부분의 렌터카는 오전 8시부터 오픈을 합니다. 제가 ..."
+        },
+        {
+            "sequence": 34,
+            "type": "organic_results",
+            "position": 30,
+            "site_name": "Tistory",
+            "displayed_link": "https://goldmvp.tistory.com › ...",
+            "date": "2017. 6. 19.",
+            "title": "제주도 가볼만한곳 여름휴가 가볼만한곳 베스트10 추천 - 신명나게 살아봅세",
+            "url": "https://goldmvp.tistory.com/236",
+            "snippet": "2017. 6. 19. — 제주도 가볼만한곳 여름휴가 가볼만한곳 베스트10 추천 오설록 티뮤지엄http://www.osulloc.com 제주 오설록 서광 차밭과 맞닿은 오설록 티뮤지엄은 ..."
+        },
+        {
+            "sequence": 35,
+            "type": "organic_results",
+            "position": 31,
+            "site_name": "trendworld.kr",
+            "displayed_link": "http://trendworld.kr › jeju_schedule...",
+            "date": "2019. 7. 10.",
+            "title": "7월 제주도 비오는날 가볼만한곳 관광지 안내 - 제주하르방투어",
+            "url": "http://trendworld.kr/b/jeju_schedule-160?page=3",
+            "snippet": "2019. 7. 10. — 제주도는 비가 내리면 바람도 많이 부는 경향이 있기 때문에 아이들과의 여행은 대부분이 실내관광지 위주의 여행을 합니다."
+        },
+        {
+            "sequence": 36,
+            "type": "organic_results",
+            "position": 32,
+            "site_name": "Tistory",
+            "displayed_link": "https://hhslove8283.tistory.com › 7...",
+            "date": "2022. 6. 8.",
+            "title": "7월, 8월, 9월 제주도 여름 여행 어디를 갈까?",
+            "url": "https://hhslove8283.tistory.com/entry/7%EC%9B%94-8%EC%9B%94-9%EC%9B%94-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%EB%A6%84-%EC%97%AC%ED%96%89-%EC%96%B4%EB%94%94%EB%A5%BC-%EA%B0%88%EA%B9%8C",
+            "snippet": "2022. 6. 8. — 이상 제주 숨은 명소에 대해 알아보았습니다. 제주도를 많이 가 봤지만. 못가봤던 곳들이 정말 많은 거 같아요.. 제주도를 처음 갔을 때는."
+        },
+        {
+            "sequence": 37,
+            "type": "organic_results",
+            "position": 33,
+            "site_name": "hmallblog.com",
+            "displayed_link": "https://www.hmallblog.com › ...",
+            "date": "2018. 7. 5.",
+            "title": "[여행지추천] 혼저옵서예- 감성 넘치는 제주에서 보내는 여름 휴가",
+            "url": "https://www.hmallblog.com/99",
+            "snippet": "2018. 7. 5. — 한 해의 반이 지나 성큼 다가온 무더운 여름 휴가철이 다가왔습니다. 이번에 추천해 드릴 곳은 감성감성한 분위기를 제대로 느낄 수 있는 국내 여행지 ..."
+        },
+        {
+            "sequence": 38,
+            "type": "organic_results",
+            "position": 34,
+            "site_name": "뉴스제주",
+            "displayed_link": "http://www.newsjeju.net › articleView",
+            "date": "2017. 7. 1.",
+            "title": "제주 여름 여행 가볼만한 곳 여기 다 있네",
+            "url": "http://www.newsjeju.net/news/articleView.html?idxno=262881",
+            "snippet": "2017. 7. 1. — ... 에서 7월 22일부터 8월 5일까지 매주 토, 일요일 총 5회에 걸쳐 개최되며, 제4회 돈내코계곡 원앙축제는 7월 29일부터 이틀간 돈내코 일대 계곡에서 ..."
+        },
+        {
+            "sequence": 39,
+            "type": "organic_results",
+            "position": 35,
+            "site_name": "앨리스의 여행과 일상",
+            "displayed_link": "https://www.lovely-days.co.kr › ...",
+            "date": "2022. 7. 5.",
+            "title": "제주 여름 지금, 인기 여행지 입장권, 최저가 할인 예약 방법",
+            "url": "https://www.lovely-days.co.kr/m/3921",
+            "snippet": "2022. 7. 5. — 기차를 타고 제주의 곶자왈 숲을 여행할 수 있는 제주스러움이 가득한 곳. 역마다 꾸며진 다양한 테마들은 하루 종일 놀아도 될 정도이다. 계절마다 ..."
+        },
+        {
+            "sequence": 40,
+            "type": "organic_results",
+            "position": 36,
+            "site_name": "Tistory",
+            "displayed_link": "https://jjyface.tistory.com › ...",
+            "date": "2021. 7. 8.",
+            "title": "여름 제주도 가볼만한곳 섶섬 보이는 서귀포 제지기오름",
+            "url": "https://jjyface.tistory.com/m/888",
+            "snippet": "2021. 7. 8. — 제주도 여행에 관한 다양한 정보(관광지, 명소, 맛집, 카페)를 소개하고 있어요. 틈틈히 책을 읽고 서평을 쓰고 있으며 쇼핑을 좋아해 제품 리뷰도 ..."
+        },
+        {
+            "sequence": 41,
+            "type": "organic_results",
+            "position": 37,
+            "site_name": "Tistory",
+            "displayed_link": "https://heydey2020.tistory.com › 7...",
+            "date": "2022. 6. 16.",
+            "title": "7월 제주도 가볼만한곳 10곳 여행지 베스트 - 초보아빠의 성장기",
+            "url": "https://heydey2020.tistory.com/entry/7%EC%9B%94-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EC%97%AC%ED%96%89%EC%A7%80-%EB%B2%A0%EC%8A%A4%ED%8A%B8",
+            "snippet": "2022. 6. 16. — 함덕 해수욕장 · 구좌 김녕항 · 김녕 해수욕장 캠핑장 · 만장굴 · 아르떼 뮤지엄 제주 · 차귀도 배낚시 · 물영아리 오름 · 사려니 숲길."
+        },
+        {
+            "sequence": 42,
+            "type": "organic_results",
+            "position": 38,
+            "site_name": "브런치스토리",
+            "displayed_link": "https://brunch.co.kr › ...",
+            "date": "2023. 6. 25.",
+            "title": "7월 제주도에 여행오면 꼭 해봐야 할 10가지",
+            "url": "https://brunch.co.kr/@dizzo/299",
+            "snippet": "2023. 6. 25. — 제주관광공사 추천 | 여름방학이 시작되는 7월에 제주도로 여행을 계획하고 있다면 어떤 곳을 가보는 게 좋을까? 제주관광공사가 직접 추천한 관광지, ..."
+        },
+        {
+            "sequence": 43,
+            "type": "organic_results",
+            "position": 39,
+            "site_name": "Tistory",
+            "displayed_link": "https://mobilejeju.tistory.com › ...",
+            "date": "2017. 7. 23.",
+            "title": "제주도 꼭 가봐야할곳 10 N 제주 2박3일 여행코스 지도",
+            "url": "https://mobilejeju.tistory.com/52",
+            "snippet": "2017. 7. 23. — ... 여름 성수기라. 사람들이 정말 많아요~. 그래도 제주도에 왔다면 한번 가볼만한 꼭 가봐야할곳 함덕해수욕장~. 2. 제주도 만장굴. 제주의 김녕사굴과 천연 ..."
+        },
+        {
+            "sequence": 44,
+            "type": "organic_results",
+            "position": 40,
+            "site_name": "ZUM 허브",
+            "displayed_link": "https://m.hub.zum.com › kkday",
+            "date": "2021. 8. 10.",
+            "title": "8월 제주도 가볼만한곳 :: 여름의 청량함이 가득한 바다 모음집",
+            "url": "https://m.hub.zum.com/kkday/79953/",
+            "snippet": "2021. 8. 10. — 지금부터 모두 알려줄 테니 여름을 너무 미워하지만은 말자. 1. 천제연폭포. © byeoljae_photography. 첫 번째로 소개할 곳은 제주 서귀포시에 위치한 ..."
+        },
+        {
+            "sequence": 45,
+            "type": "organic_results",
+            "position": 41,
+            "site_name": "Daum 카페",
+            "displayed_link": "https://m.cafe.daum.net › UssZ › Us...",
+            "date": "2019. 7. 26.",
+            "title": "제주도 여름방학 초등학생들과 가볼만한곳 체험해볼만한것",
+            "url": "https://m.cafe.daum.net/softman00/UssZ/1433?listURI=%2Fsoftman00%2FUssZ",
+            "snippet": "2019. 7. 26. — 이곳은 제주 서부권에 있는 #제주유리의성 이라는 관광지 입니다 . 이곳에서는 유리공예체험을 할 수 있는데요 . 입장요금을 내고 추가요금을 내야하는 ..."
+        },
+        {
+            "sequence": 46,
+            "type": "organic_results",
+            "position": 42,
+            "site_name": "Expedia",
+            "displayed_link": "https://www.expedia.co.kr › stories",
+            "date": "2023. 6. 21.",
+            "title": "제주도가볼만한곳, 무료입장 관광지 BEST8",
+            "url": "https://www.expedia.co.kr/stories/8717-2/",
+            "snippet": "2023. 6. 21. — 제주도 대표 일출 명소, 섭지코지 · 노아의 방주, 방주 교회 · 스냅사진 명소, 성이시돌 목장 · 여름 추천 여행지, 김경숙 해바라기 농장 · 구경하는 재미, ..."
+        },
+        {
+            "sequence": 47,
+            "type": "organic_results",
+            "position": 43,
+            "site_name": "이건음악회",
+            "displayed_link": "https://eagonblog.com › ...",
+            "date": "2016. 5. 22.",
+            "title": "[여름휴가 국내여행지 추천 1탄 제주도] 봄, 여름(5,6,7월) 제주도 가볼만한곳 ...",
+            "url": "https://eagonblog.com/m/885",
+            "snippet": "2016. 5. 22. — 낙천리 의자마을 추천합니다. 아홉굿마을 이라고도 하는데 아홉가지 좋은 것들이 있는 즐거운 마을이라는 뜻도 있습니다. 입구에 엄청나게 큰 의자 ..."
+        },
+        {
+            "sequence": 48,
+            "type": "organic_results",
+            "position": 44,
+            "site_name": "제주여행스토리",
+            "displayed_link": "https://jeju-tistory.tistory.com › ...",
+            "date": "2019. 7. 25.",
+            "title": "8월 여름 제주도 가볼만한곳 10곳 제주도in - 제주여행스토리",
+            "url": "https://jeju-tistory.tistory.com/m/97",
+            "snippet": "2019. 7. 25. — 8월 여름휴가철 시즌이 되면 제주도에서 피서를 즐기는 여행객들이 많습니다. 제주도의 에메랄드빛 바닷물속에 풍~덩 몸을 던지면 더위가 한번에 가시는 ..."
+        },
+        {
+            "sequence": 49,
+            "type": "organic_results",
+            "position": 45,
+            "site_name": "여행이좋다",
+            "displayed_link": "https://noproblemyourlife.tistory.com › ...",
+            "date": "2016. 9. 13.",
+            "title": "제주도 여름에 가볼만한곳 추천 천연기념물 안덕계곡 상록수림",
+            "url": "https://noproblemyourlife.tistory.com/1832",
+            "snippet": "2016. 9. 13. — 제주도 여름에 가볼만한곳 추천 천연기념물 안덕계곡 상록수림 제주도 서귀포시에 있는 안덕계곡을 다녀왔습니다. 이곳 안덕계곡은 제주 계곡 중 가장 ..."
+        },
+        {
+            "sequence": 50,
+            "type": "organic_results",
+            "position": 46,
+            "site_name": "Tistory",
+            "displayed_link": "https://kyo6group.tistory.com › ...",
+            "date": "2018. 8. 16.",
+            "title": "여름 제주도 가볼만한곳 10곳",
+            "url": "https://kyo6group.tistory.com/m/1915",
+            "snippet": "2018. 8. 16. — 여름철 제주도 가볼만한곳 정리합니다. 많은 여행자들이 많이 찾는 베스트 관광지 이지요! 여름이라고 해서 주로 바다관련 관광상품만 이용할 것 ..."
+        },
+        {
+            "sequence": 51,
+            "type": "organic_results",
+            "position": 47,
+            "site_name": "경상일보",
+            "displayed_link": "https://www.ksilbo.co.kr › articleView",
+            "date": "2019. 6. 29.",
+            "title": "국내 여름휴가 제주도 여행지 가볼만한 곳 추천! SNS 먹방 이벤트 핫한 고집돌 ...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=701341",
+            "snippet": "2019. 6. 29. — 제주 우럭조림, 모듬회, 튀김, 옥돔구이, 돔베고기, 해녀낭푼밥 등 제주의 정취가 느껴지는 음식을 대접하는 고집돌우럭에서는 SNS에서 미국올란도 디즈니 ..."
+        },
+        {
+            "sequence": 52,
+            "type": "organic_results",
+            "position": 48,
+            "site_name": "맘스매거진",
+            "displayed_link": "http://momsmagazine.co.kr › 여름...",
+            "date": "2018. 7. 3.",
+            "title": "[여름휴가 시리즈] 아름다운 그 섬에 가보자. 제주도 가볼 만한 곳 추천",
+            "url": "http://momsmagazine.co.kr/%EC%97%AC%EB%A6%84%ED%9C%B4%EA%B0%80-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EA%B7%B8-%EC%84%AC%EC%97%90-%EA%B0%80%EB%B3%B4%EC%9E%90-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80/",
+            "snippet": "2018. 7. 3. — 여행은 지친 일상 속 새로운 에너지를 만든다. 무더운 여름 제주도로 여름휴가를 계획하는 분들을 위해 제주도에 가볼 만한 곳을 소개한다."
+        },
+        {
+            "sequence": 53,
+            "type": "organic_results",
+            "position": 49,
+            "site_name": "Tistory",
+            "displayed_link": "https://ssaulavi.tistory.com › ...",
+            "title": "[여름휴가특집]아이와 함께 가볼만한 제주여행, 제주 동북쪽, 닭머르해안길 ...",
+            "url": "https://ssaulavi.tistory.com/m/428",
+            "snippet": "해안도로 쪽은 아니지만 조천/함덕에서 가까운 제주 동북쪽 중산간지역(해안가와 한라산 중간에 위치한 내륙지역)에 아이와가볼만한 곳으로 몇곳을 추천해 본다. 해안로를 ..."
+        },
+        {
+            "sequence": 54,
+            "type": "organic_results",
+            "position": 50,
+            "site_name": "Tistory",
+            "displayed_link": "https://banzzak.tistory.com › ...",
+            "date": "2022. 9. 8.",
+            "title": "[제주도 4박 5일] 아이와 함께한 제주도 가볼만한 곳 여행 코스",
+            "url": "https://banzzak.tistory.com/185",
+            "snippet": "2022. 9. 8. — ... 여름 휴가로 제주도 여행 계획을 일찌감치 세웠었다. 여름에 가는 제주도인만큼 이번 제주 여행의 1차 목표는 물놀이! 그리고 뱃속에 있는 둘째 태교 ..."
+        },
+        {
+            "sequence": 55,
+            "type": "organic_results",
+            "position": 51,
+            "site_name": "휴애리",
+            "displayed_link": "http://hueree.com › bbs › board",
+            "date": "2019. 8. 8.",
+            "title": "여름휴가, 어디로 가볼까?...제주 가볼만한곳, 7월 제주 축제, 2박3일 ...",
+            "url": "http://hueree.com/bbs/board.php?bo_table=1_3_1_1&wr_id=163",
+            "snippet": "2019. 8. 8. — 아름다운 경관을 자랑하는 해안부터 힐링 가득한 휴양림까지, 제주 가볼만 한 곳 4곳을 소개한다. ... 제주시 서귀포 남원읍에서 열리는 '휴애리 수국축제' ..."
+        },
+        {
+            "sequence": 56,
+            "type": "organic_results",
+            "position": 52,
+            "site_name": "연합뉴스",
+            "displayed_link": "https://www.yna.co.kr › view › AK...",
+            "date": "2020. 6. 23.",
+            "title": "\"해변·오름·곶자왈…\" 올여름 제주여행은 '비대면' 스타일로",
+            "url": "https://m.yna.co.kr/amp/view/AKR20200623073500056",
+            "snippet": "2020. 6. 23. — 가볼만한 제주의 곶자왈은 너무나 많다. 제주시 조천읍 교래리 곶자왈에 조성된 교래곶자왈 자연휴양림이다. 교래곶자왈 자연휴양림은 함몰지와 돌출 ..."
+        },
+        {
+            "sequence": 57,
+            "type": "organic_results",
+            "position": 53,
+            "site_name": "Tistory",
+            "displayed_link": "https://rovvxryu.tistory.com › ...",
+            "date": "2021. 7. 3.",
+            "title": "제주도 7월 가볼만한곳 10곳 베스트 여행지 - 여행에 관하여 - 티스토리",
+            "url": "https://rovvxryu.tistory.com/97",
+            "snippet": "2021. 7. 3. — 부터 여름 휴가 피크 시즌입니다. 벌써부터 어디로 여행을 갈지 고민 많이하실텐데요. 저도 요즘 행복한 고민에 빠져 있습니다. 여행 계획 짤때가 ..."
+        },
+        {
+            "sequence": 58,
+            "type": "organic_results",
+            "position": 54,
+            "site_name": "Tistory",
+            "displayed_link": "https://nonrilife.tistory.com › ...",
+            "date": "2022. 2. 5.",
+            "title": "한달 살기로는 부족한 제주도 가볼만한곳 끝판 총정리 62선",
+            "url": "https://nonrilife.tistory.com/m/38",
+            "snippet": "2022. 2. 5. — 몇 년전에 제주도 한달 살기를 귀덕리라는 곳에서 한적이 있어요. 나름 많은 ... 의 숲길로 여름에도 시원한 바람을 맞으며 탐방할 수 있답니다. 비가 ..."
+        },
+        {
+            "sequence": 59,
+            "type": "organic_results",
+            "position": 55,
+            "site_name": "Tistory",
+            "displayed_link": "https://ohnovember.tistory.com › 8...",
+            "date": "2020. 6. 29.",
+            "title": "8월 제주도 가볼만한곳 10곳 - 제주살이 미미",
+            "url": "https://ohnovember.tistory.com/entry/8%EC%9B%94-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3",
+            "snippet": "2020. 6. 29. — 제주에 살고 있는지 8년이 되었지만 여름 더위는 정말 무서워요. 바람이 시원하더라도 자외선이 워낙 강한 제주도이기 때문에 7월과 8월 낮에 돌아다니면 ..."
+        },
+        {
+            "sequence": 60,
+            "type": "organic_results",
+            "position": 56,
+            "site_name": "뉴스;트리",
+            "displayed_link": "https://www.newstree.kr › newsView",
+            "date": "2023. 6. 19.",
+            "title": "제주 도보여행...검은모래 유명한 '삼양동' 가볼만한 곳",
+            "url": "https://www.newstree.kr/newsView/ntr202306190012",
+            "snippet": "2023. 6. 19. — 삼양검은모래해변의 반짝이는 검은 모래로 찜질하면 신경통과 관절염, 피부병에 도움이 된다는 이야기가 있어 매년 여름이면 뜨거운 모래를 덮고 찜질하는 ..."
+        },
+        {
+            "sequence": 61,
+            "type": "organic_results",
+            "position": 57,
+            "site_name": "Tistory",
+            "displayed_link": "https://hotelskorea.tistory.com › ...",
+            "date": "2018. 8. 17.",
+            "title": "[8월 9월 제주도 여행] 제주도 가볼만한 곳 10곳 추천! - 대한민국 호텔 찾기",
+            "url": "https://hotelskorea.tistory.com/416",
+            "snippet": "2018. 8. 17. — 하지만 이제서야 슬슬 여름 휴가를 준비하시는 분들도 제법 많죠~? 오늘은 7월, 8월, 9월 즈음에 들러보기 좋은 제주도 가볼만한 여행지 10곳을 추천해 ..."
+        },
+        {
+            "sequence": 62,
+            "type": "organic_results",
+            "position": 58,
+            "site_name": "대한민국 구석구석",
+            "displayed_link": "https://korean.visitkorea.or.kr › detail",
+            "title": "제주 가볼만한 곳. 싱그러운 제주의 봄! 가볍고 완벽한 제주 여행 코스> 여행 ...",
+            "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=4b8ffe26-00b4-4a64-ab9d-09037fbce8fe",
+            "snippet": "제주의 가장 아름다운 모습들, 흔하게 볼 수 없는 장관만을 담았습니다. 폐교였던 삼달분교를 개조해 만든 김영갑갤러리 두모악 미술관은 2002년 여름에 첫 문을 열었 ..."
+        },
+        {
+            "sequence": 63,
+            "type": "organic_results",
+            "position": 59,
+            "site_name": "Tistory",
+            "displayed_link": "https://fafa-mama.tistory.com › ...",
+            "date": "2022. 6. 13.",
+            "title": "7월 제주도 가볼만한곳 10곳 - 털보네 고양이",
+            "url": "https://fafa-mama.tistory.com/55",
+            "snippet": "2022. 6. 13. — ... 에 수국을 정성으로 관리하는 휴애리나 카멜리아힐, 마노르블랑 등을 가시면 수국 이외에도 다채로운 여름 꽃을 볼 수 있으므로 7월 제주도 여행지 추천에 ..."
+        },
+        {
+            "sequence": 64,
+            "type": "organic_results",
+            "position": 60,
+            "site_name": "Tistory",
+            "displayed_link": "https://09832091.tistory.com › ...",
+            "date": "2021. 11. 8.",
+            "title": "제주 가볼만한곳 베스트10 후기 - 감탄사",
+            "url": "https://09832091.tistory.com/m/138",
+            "snippet": "2021. 11. 8. — 1. 숨은 보석 법화사. 조용한 여행지를 찾는다면 당연코 법화사입니다. 고즈넉한 사찰풍경과 곳곳에 아리따운 꽃들이 만발한 제주 가볼만한곳 베스트10 ..."
+        },
+        {
+            "sequence": 65,
+            "type": "organic_results",
+            "position": 61,
+            "site_name": "Tistory",
+            "displayed_link": "https://onceinawhile.tistory.com › ...",
+            "date": "2022. 7. 21.",
+            "title": "아이와 가볼만한 제주도서관 (Feat. 여름 휴가 강추) :: 여행 대첩 - 티스토리",
+            "url": "https://onceinawhile.tistory.com/entry/%EC%A0%9C%EC%A3%BC-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B3%B3-%ED%95%9C%EB%9D%BC%EB%8F%84%EC%84%9C%EA%B4%80-%EC%97%AC%EB%A6%84-%ED%9C%B4%EA%B0%80-%EC%9E%A5%EC%86%8C-%EC%B6%94%EC%B2%9C-Feat-%EC%9E%A0%EC%8B%9C-%EC%89%AC%EC%96%B4%EA%B0%80%EC%84%B8%EC%9A%94",
+            "snippet": "2022. 7. 21. — 제주도 여행 중에 반나절 정도는 한라도서관에서 여유를 가져보심이 어떠신가요? 제주시에 위치한 한라도서관은 30만권의 장서와 DVD 등의 비도서는 1 ..."
+        },
+        {
+            "sequence": 66,
+            "type": "organic_results",
+            "position": 62,
+            "site_name": "Instagram",
+            "displayed_link": "https://www.instagram.com › ...",
+            "title": "제주 물놀이 너무 좋아요💙 다시 가고싶네요  여름 휴가 잘 보내고 ...",
+            "url": "https://www.instagram.com/p/CvRWE6WB4ub/",
+            "snippet": "... 제주가볼만한곳 #여행스타그램 #여행에미치다 #수영복코디 #여름코디 #비키니모델 #패션코디 #여름휴가… | Instagram. lera_twins_korea. •. Follow. 제주도 Jejudo."
+        },
+        {
+            "sequence": 67,
+            "type": "organic_results",
+            "position": 63,
+            "site_name": "Tistory",
+            "displayed_link": "https://huni-go.tistory.com › ...",
+            "date": "2017. 7. 18.",
+            "title": "제주도여행 - 제주도여름에가볼만한곳인 조랑말등대가 있는 이호테우해변",
+            "url": "https://huni-go.tistory.com/m/31",
+            "snippet": "2017. 7. 18. — 제주도에서 가장 가까운 해수욕장인. 이호테우해변에 다녀왔습니다! 본격적인 피서철도 아니고... 비도오고 해서. 사람들이 많이 없네요!"
+        },
+        {
+            "sequence": 68,
+            "type": "organic_results",
+            "position": 64,
+            "site_name": "문화뉴스",
+            "displayed_link": "https://www.mhns.co.kr › articleView",
+            "date": "2019. 6. 22.",
+            "title": "여름휴가, 어디로 가볼까?...제주 가볼만한곳,7월 제주 축제, 2박3일 ...",
+            "url": "https://www.mhns.co.kr/news/articleView.html?idxno=235984",
+            "snippet": "2019. 6. 22. — [문화뉴스 MHN 한진리 기자] 낮 기온이 30도에 이르는 쾌청한 날씨가 이어지고 아이들도 여름 방학 시즌에 돌입했다. 여름 휴가를 앞두고 여행지를 ..."
+        },
+        {
+            "sequence": 69,
+            "type": "organic_results",
+            "position": 65,
+            "site_name": "울산종합일보",
+            "displayed_link": "http://m.ujnews.co.kr › newsview",
+            "date": "2020. 7. 31.",
+            "title": "여름휴가 제주 가볼만한 곳",
+            "url": "http://m.ujnews.co.kr/news/newsview.php?ncode=1065581345637015",
+            "snippet": "2020. 7. 31. — 이러한 흐름을 읽은 제주관광공사도 7월 31일부터 내달 23일까지 제주의 농촌을 가까이에서 보고 느끼며 제주의 특산품을 만날 수 있는 로캉스 여행 ..."
+        },
+        {
+            "sequence": 70,
+            "type": "organic_results",
+            "position": 66,
+            "site_name": "jejudoin.co.kr",
+            "displayed_link": "http://www.jejudoin.co.kr › 여름-제...",
+            "title": "여름 제주 가볼만한곳 '수상레저체험' 제주도in",
+            "url": "http://www.jejudoin.co.kr/%EC%97%AC%EB%A6%84-%EC%A0%9C%EC%A3%BC-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-%EC%88%98%EC%83%81%EB%A0%88%EC%A0%80%EC%B2%B4%ED%97%98-%EC%A0%9C%EC%A3%BC%EB%8F%84in/",
+            "snippet": "폭염을 한방에 날려버리는 시원한 해양레저 체험관광 등을 하시면 더 멋진 제주여행이 될 것입니다. 우선, 제주도 여행을 출발하기 전에 '제주관광지 할인쿠폰 ..."
+        },
+        {
+            "sequence": 71,
+            "type": "organic_results",
+            "position": 67,
+            "site_name": "Facebook",
+            "displayed_link": "https://m.facebook.com › photo",
+            "title": "8:30~19:00(18:00 매표마감) 🔸주소: 서귀포시 표선면 민속해안로 631-34 ...",
+            "url": "https://m.facebook.com/photo.php?fbid=666120282214283&set=a.632344312258547&type=3&locale=ko_KR",
+            "snippet": "... 여름맞이 제휴이벤트 제주민속촌에서 할인도 받고 즐거운 여름 휴가 만끽 ... #제주관광지 #제주도 #제주가볼만한곳추천 #제주도가볼만한곳 #제주여행코스추천 ..."
+        },
+        {
+            "sequence": 72,
+            "type": "organic_results",
+            "position": 68,
+            "site_name": "infoxmeta.com",
+            "displayed_link": "https://infoxmeta.com › entry › 202...",
+            "date": "2022. 2. 21.",
+            "title": "2023 제주도 서귀포 가볼만한 곳 총 정리 (봄, 여름 여행지) - INFO X META",
+            "url": "https://infoxmeta.com/entry/2022-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%84%9C%EA%B7%80%ED%8F%AC-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B3%B3-%EC%B4%9D-%EC%A0%95%EB%A6%AC-%EB%B4%84-%EC%97%AC%EB%A6%84-%EC%97%AC%ED%96%89%EC%A7%80",
+            "snippet": "2022. 2. 21. — 저는 이번 2022년 1월에 새해를 맞이해 제주도 한라산 등반을 다녀왔습니다. 어렵고 험난한 관음사 코스를 통해서 등산을 하였는데, 정말 뿌듯하고 뜻깊은 ..."
+        },
+        {
+            "sequence": 73,
+            "type": "organic_results",
+            "position": 69,
+            "site_name": "Tistory",
+            "displayed_link": "https://cutest.tistory.com › entry › 8...",
+            "date": "2019. 6. 17.",
+            "title": "8월 제주도 가볼만한곳 10곳 시원하게 - 해피맘's - 티스토리",
+            "url": "https://cutest.tistory.com/entry/8%EC%9B%94-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B3%B3-10%EA%B3%B3-%EC%8B%9C%EC%9B%90%ED%95%98%EA%B2%8C",
+            "snippet": "2019. 6. 17. — 제주도 바다야 사계절 내내 방문하기 좋은 곳이지만 여름 8월 제주도 여행이라면 딱 어울리는 해변은 바로 표선해비치 해수욕장입니다. 제주의 다른 해변 ..."
+        },
+        {
+            "sequence": 74,
+            "type": "organic_results",
+            "position": 70,
+            "site_name": "Tistory",
+            "displayed_link": "https://untiltoday.tistory.com › ...",
+            "date": "2022. 7. 2.",
+            "title": "제주도 서쪽 여행코스 추천 (소요시간, 코스) - 오늘은 직장인",
+            "url": "https://untiltoday.tistory.com/67",
+            "snippet": "2022. 7. 2. — 많은 해변 중 협재 해수욕장은 바다가 얕은 편이고, 옆쪽에 금능해수욕장도 있기 때문에 여름에 캠핑하기도 좋습니다. 남녀노소 할 것 없이 간단하게 ..."
+        },
+        {
+            "sequence": 75,
+            "type": "organic_results",
+            "position": 71,
+            "site_name": "shortgrams.com",
+            "displayed_link": "https://www.shortgrams.com › 제주...",
+            "date": "2023. 5. 18.",
+            "title": "제주도 가볼만한 곳 베스트 10 - 초보자용 관광지 - 쇼트그램",
+            "url": "https://www.shortgrams.com/%EC%A0%9C%EC%A3%BC%EB%8F%84-%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B3%B3-%EB%B2%A0%EC%8A%A4%ED%8A%B8-10-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%9A%A9-%EA%B4%80%EA%B4%91%EC%A7%80/",
+            "snippet": "2023. 5. 18. — 천지연 폭포 : 천지연 폭포는 높이 23m, 폭 20m의 규모를 자랑하는 폭포입니다. 폭포수가 맑고 시원하여 여름철 피서지로 인기가 많습니다. 8. 정방폭포 : ..."
+        },
+        {
+            "sequence": 76,
+            "type": "organic_results",
+            "position": 72,
+            "site_name": "Tistory",
+            "displayed_link": "https://lavespa.tistory.com › ...",
+            "date": "2020. 7. 27.",
+            "title": "여름제주 비오는 날 가기 좋은 곳 - 여행과 일상의 팁",
+            "url": "https://lavespa.tistory.com/20",
+            "snippet": "2020. 7. 27. — '여름 제주 비오는 날 가기 좋은 곳 추천' 7월-8월은 장마와 변덕스러운 날씨탓에 여행 중 비를 만나는 일이 잦습니다. 비오는 날 들르기 좋은 갬성 ..."
+        },
+        {
+            "sequence": 77,
+            "type": "organic_results",
+            "position": 73,
+            "site_name": "Tistory",
+            "displayed_link": "https://findjeju.tistory.com › ...",
+            "date": "2020. 6. 4.",
+            "title": "제주도 여름에 가볼만한곳 점보빌리지 공연! - 제주길잡이 - 티스토리",
+            "url": "https://findjeju.tistory.com/m/357",
+            "snippet": "2020. 6. 4. — 제주도 여름에 가볼만한곳 점보빌리지 공연을 감상하러 가보세요~. 실내에 위치하고 있어서 더운 여름날에도 햇빛을 피해."
+        },
+        {
+            "sequence": 78,
+            "type": "organic_results",
+            "position": 74,
+            "site_name": "발품뉴스",
+            "displayed_link": "https://www.balpumnews.com › news",
+            "date": "1일 전",
+            "title": "\"여기가 도대체 어디야, 제주도보다 싸게 다녀올 수 있다니\" .. 11월에 딱 ...",
+            "url": "https://www.balpumnews.com/news/articleViewAmp.html?idxno=1487",
+            "snippet": "1일 전 — 특히 11월부터 1월까지는 건기에 해당되어 평균 기온이 21~27도 사이로 한국의 여름과 비슷한 따뜻함을 느낄 수 있습니다. ... 11월에 꼭 가볼만한 걷기 ..."
+        },
+        {
+            "sequence": 79,
+            "type": "organic_results",
+            "position": 75,
+            "site_name": "Tadika Permata Hatiku",
+            "displayed_link": "https://www.tadikapermatahatiku.com › ...",
+            "date": "1일 전",
+            "title": "[라이브 스포츠-] 제주 대 포항 1 11월 2023 '3연패는 없다' 울산, '1골-1 ...",
+            "url": "https://www.tadikapermatahatiku.com/group/craft-activity-and-play-ideas/discussion/f873d4b8-3552-47da-8430-650e18bd9d68?frfdw",
+            "snippet": "1일 전 — 제주 대포항 맛집 인기검색 순위 가볼만한 곳의 메뉴, 위치, 연락처, ... 제주, 드디어 홈에서 첫 승 신고…포항 2-1 꺾고 '3연승 신바람' 2023. 5. 6 ..."
+        },
+        {
+            "sequence": 80,
+            "type": "organic_results",
+            "position": 76,
+            "site_name": "Tistory",
+            "displayed_link": "https://star10141.tistory.com › ...",
+            "date": "2019. 5. 3.",
+            "title": "6월 제주도 가볼만한곳 10곳 - 여행하라, 대한민국 - 티스토리",
+            "url": "https://star10141.tistory.com/67",
+            "snippet": "2019. 5. 3. — 특히 제주도 숨은 여행지, 여름 제주도 가볼만한곳 10곳에서 빠지면 섭섭하겠죠? 아이들도 좋아하므로 가족여행코스에 포함시켜보면 어떨까요? 보통은 ..."
+        },
+        {
+            "sequence": 81,
+            "type": "organic_results",
+            "position": 77,
+            "site_name": "Art4Humanity",
+            "displayed_link": "https://a4humanity.com › ...",
+            "title": "제주 갈만한 곳 rh6n7m",
+            "url": "https://a4humanity.com/cf50978ebd7b45e57a129133cabf8c70-09578",
+            "snippet": "제주여행제주도 여름에 가볼만한 곳, 절물자연휴양림 완전 시원해요. 올 여름 ... 9월 제주도 가볼만한곳 10곳 추천드리는곳은 헬로키티아일랜드, 에코랜드, 카멜리아힐 ..."
+        },
+        {
+            "sequence": 82,
+            "type": "organic_results",
+            "position": 78,
+            "site_name": "weezzle.co.kr",
+            "displayed_link": "http://weezzle.co.kr › life",
+            "date": "1일 전",
+            "title": "11월 제주도 가볼만한곳 10곳 어디가 있나? - 생활 - 위즐",
+            "url": "http://weezzle.co.kr/life/120975",
+            "snippet": "1일 전 — 가을 단풍이 빛나는 이 시기,. 한라산은 물론 속삭이는 숲길인 에코랜드를 방문해보세요. 2. 성산일출봉. 일출의 명소이지만, 언제나 아름다운 풍경을 ..."
+        },
+        {
+            "sequence": 83,
+            "type": "organic_results",
+            "position": 79,
+            "site_name": "weezzle.co.kr",
+            "displayed_link": "http://weezzle.co.kr › life",
+            "date": "3시간 전",
+            "title": "11월 제주 여행 2박 3일 추천코스 어디가 좋나? - 생활 - 위즐",
+            "url": "http://weezzle.co.kr/life/120990",
+            "snippet": "3시간 전 — 가까이에서 체험할 수 있는 곳입니다. 그 다음으로는 협재해수욕장을 방문 ... 11월 제주도 가볼만한곳 10곳 어디가 있나? Date2023.11.01 By라이프 ..."
+        },
+        {
+            "sequence": 84,
+            "type": "organic_results",
+            "position": 80,
+            "site_name": "pnwihk.filou-garten.de",
+            "displayed_link": "https://pnwihk.filou-garten.de",
+            "title": "크루즈 여행 패키지",
+            "url": "https://pnwihk.filou-garten.de/",
+            "snippet": "그래서인지 여름의 3. ⊙ 혼자 여행하는 것보다 안전하다. 한국의 크루즈 시장은 ... * * 남이섬 리버 크루즈 여행 영상 * * 남이섬 가볼만한곳 볼거리 남미 볼리비아의 ..."
+        },
+        {
+            "sequence": 85,
+            "type": "organic_results",
+            "position": 81,
+            "site_name": "bilindke.online",
+            "displayed_link": "https://bilindke.online › new › fqyu...",
+            "title": "2023 가볼만한곳 near me now 의류/잡화 있는 - bilindke.online",
+            "url": "https://bilindke.online/new/fqyuneidtaxhgsj",
+            "snippet": "경기도에 여름철에 꼭 가볼만한곳 베스트10곳을 추천드리겠습니다. … 사시사철 ... 주소 : 제주도 서귀포시 … . 9km2 의 포인트 아레나 스토네타 공유지 Point Arena ..."
+        },
+        {
+            "sequence": 86,
+            "type": "organic_results",
+            "position": 82,
+            "site_name": "Velobur",
+            "displayed_link": "https://velobur.es › ...",
+            "title": "제주 갈만한 곳 5n9qde",
+            "url": "https://velobur.es/7a801-da19ccd6",
+            "snippet": "제주여행제주도 여름에 가볼만한 곳, 절물자연휴양림 완전 시원해요. 올 여름피서지는 정하셨나요. 제주도 여행을 가시면 여름에는 뭐니뭐니해도. 중문관광단지에 있어 ..."
+        },
+        {
+            "sequence": 87,
+            "type": "organic_results",
+            "position": 83,
+            "site_name": "아시아에이",
+            "displayed_link": "http://www.asiaa.co.kr › articleView",
+            "date": "3일 전",
+            "title": "[이채현의 싱글라이프] 겨울서 여름까지 5시간...베트남 '푸꾸옥' 매력 ...",
+            "url": "http://www.asiaa.co.kr/news/articleView.html?idxno=145356",
+            "snippet": "3일 전 — 푸꾸옥은 섬 절반 이상이 유네스코 생물권보전지역으로 보호되고 있을 만큼 청정한 자연환경을 간직하고 있는 곳이다. 어업과 농업이 여전히 주요 산업 ..."
+        },
+        {
+            "sequence": 88,
+            "type": "organic_results",
+            "position": 84,
+            "site_name": "충청신문",
+            "displayed_link": "https://www.dailycc.net › articleView",
+            "date": "6일 전",
+            "title": "[충청신문 주말여행] 충청 가볼만한 곳은? 고도부여국화축제, 의좋은 형제 ...",
+            "url": "https://www.dailycc.net/news/articleViewAmp.html?idxno=759940",
+            "snippet": "6일 전 — 축제, 의좋은 형제 축제 호캠프 할로윈, 허수아비아트축제다가오는 주말은 전날 내린 비가 화창하게 갤 예정이다. 뜨거웠던 여름이 지나고 선선한 ..."
+        },
+        {
+            "sequence": 89,
+            "type": "organic_results",
+            "position": 85,
+            "site_name": "충청신문",
+            "displayed_link": "https://www.dailycc.net › articleView",
+            "date": "6일 전",
+            "title": "실버문화페스티벌 서울에서 만나는 세계여행 강동북 ...",
+            "url": "https://www.dailycc.net/news/articleViewAmp.html?idxno=759943",
+            "snippet": "6일 전 — 다가오는 주말은 전날 내린 비가 화창하게 갤 예정이다. 뜨거웠던 여름이 지나고 선선한 날씨해진 날씨가 제법 기분 좋게 느껴지는 요즘이다. 이번주 충청 ..."
+        },
+        {
+            "sequence": 90,
+            "type": "organic_results",
+            "position": 86,
+            "site_name": "books.google.co.kr",
+            "displayed_link": "https://books.google.co.kr › books",
+            "title": "대한민국 최고 인기여행지 100: 한국인이 꼭 가봐야 할 여행지",
+            "url": "https://books.google.co.kr/books?id=YfAmBgAAQBAJ&pg=PA458&lpg=PA458&dq=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EC%97%AC%EB%A6%84%EC%97%90+%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C+%EA%B3%B3&source=bl&ots=-UWpwjKKir&sig=ACfU3U0yNrfvgzR7flo8ugGgyt18kevlNg&hl=ko&sa=X&ved=2ahUKEwil9_7v3aSCAxXUNN4KHcPHBzIQ6AF6BQj0AhAC",
+            "snippet": "한국인이 꼭 가봐야 할 여행지 오주환. 2012CNN. '한국의. 아름다운. 곳. 50선'. '지역 ... 제주도에서 15분 거리의 우도는 올레를 걸을 수도. 50. BEAUTIFULPLACES ..."
+        },
+        {
+            "sequence": 91,
+            "type": "organic_results",
+            "position": 87,
+            "site_name": "현대 Shop",
+            "displayed_link": "https://shop.hyundai.com",
+            "title": "현대Shop | 현대자동차 공식 온라인몰, 블루멤버스포인트 사용.",
+            "url": "https://shop.hyundai.com/",
+            "snippet": "... 제주도 여행을 더 새롭게~ · 여름철 차 안에 ... 그리고 아이와 함께 가볼만한 곳은 어디있을까요? 알려드릴게요!"
+        },
+        {
+            "sequence": 92,
+            "type": "organic_results",
+            "position": 88,
+            "site_name": "karhxv.meerzeit-nessmersiel.de",
+            "displayed_link": "https://karhxv.meerzeit-nessmersiel.de",
+            "title": "크루즈 여행 패키지",
+            "url": "https://karhxv.meerzeit-nessmersiel.de/",
+            "snippet": "가평 남이섬 가볼만한곳 여행 동부지중해 크루즈 10일 상품의 혜택. 예약일 4일전 ... 1시간이라는 짧은 비행시간은 제주도를 부산보다, 심지어는 세종보다 더 가까운 곳으로 ..."
+        },
+        {
+            "sequence": 93,
+            "type": "organic_results",
+            "position": 89,
+            "site_name": "KakaoStory",
+            "displayed_link": "https://story.kakao.com › welchon",
+            "title": "농촌여행의 모든 것 스토리채널 - [강원 원주] 마음이 차분해지는 가을 여행",
+            "url": "https://story.kakao.com/ch/welchon/eWzHDTsFUcA",
+            "snippet": "산림청에 따르면, 여름 늦더위로 인해 단풍 관측이 2일가량 늦어졌다고 하는데 ... #웰촌 #강원 #영월 #영월여행 #영월가볼만한곳 #강원도휴가 #국내휴가 #힐링여행 ..."
+        },
+        {
+            "sequence": 94,
+            "type": "organic_results",
+            "position": 90,
+            "site_name": "huzunke.online",
+            "displayed_link": "https://huzunke.online › new › jacf...",
+            "date": "2023. 4. 11.",
+            "title": "2023 부산 명소 정리 정리] 것을 - huzunke.online",
+            "url": "https://huzunke.online/new/jacfwcysoeabemf",
+            "snippet": "2023. 4. 11. — ... 제주도 가볼만한곳 12곳. [승마, 한라산, 유채꽃] (0) 2022.02.10일 오후 ... 아래에 소개해 드리는 부산 가볼만한곳 베스트 10곳은 부산광역시 문화 ..."
+        },
+        {
+            "sequence": 95,
+            "type": "organic_results",
+            "position": 91,
+            "site_name": "books.google.co.kr",
+            "displayed_link": "https://books.google.co.kr › books",
+            "title": "마흔 즈음에 생각해야 할 모든 것",
+            "url": "https://books.google.co.kr/books?id=hAvuDwAAQBAJ&pg=RA1-PT92&lpg=RA1-PT92&dq=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EC%97%AC%EB%A6%84%EC%97%90+%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C+%EA%B3%B3&source=bl&ots=XLLxJBJ9Ah&sig=ACfU3U1KvAlLUnUSxivV652EuLWIty17uQ&hl=ko&sa=X&ved=2ahUKEwil9_7v3aSCAxXUNN4KHcPHBzIQ6AF6BQjzAhAC",
+            "snippet": "김정희. 미색 여름 가족여행 물진에서 바다 위를 달리고 금강송 아래서 삼림욕하다 ... 곳 , 전주 전복마을 가족과 함께 여행을 떠나묘 보리밭 , 고인돌 , 성벽 길이 ..."
+        },
+        {
+            "sequence": 96,
+            "type": "organic_results",
+            "position": 92,
+            "site_name": "ulxbfx.media-star.de",
+            "displayed_link": "https://ulxbfx.media-star.de",
+            "title": "청산도",
+            "url": "https://ulxbfx.media-star.de/",
+            "snippet": "이번 여름휴가에서 묵었던 두 군데의 숙소 중, 처음 섬에 들어가서 묵었던 청산도 ... 봄 여행으로 꼭 한번은 가볼만한곳인 청산도에서 펼쳐지는 청산도 슬로걷기 축제 ..."
+        },
+        {
+            "sequence": 97,
+            "type": "organic_results",
+            "position": 93,
+            "site_name": "노트펫",
+            "displayed_link": "https://m.notepet.co.kr › news_article",
+            "date": "2일 전",
+            "title": "댕댕이랑 부산으로 떠나요! 펫프렌들리 부산 여행지 추천",
+            "url": "https://m.notepet.co.kr/news_article/%EB%8C%95%EB%8C%95%EC%9D%B4%EB%9E%91-%EB%B6%80%EC%82%B0%EC%9C%BC%EB%A1%9C-%EB%96%A0%EB%82%98%EC%9A%94-%ED%8E%AB%ED%94%84%EB%A0%8C%EB%93%A4%EB%A6%AC-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C",
+            "snippet": "2일 전 — 황령산 봉수대는 여름의 끝자락부터 저녁에 아주 추워지니 겉옷은 꼭 챙겨 ... 오늘은 부산에서 가볼만한 곳 몇곳을 추려 봤는데, 제 글이 댕댕과 함께 ..."
+        },
+        {
+            "sequence": 98,
+            "type": "organic_results",
+            "position": 94,
+            "site_name": "KTSV Hößlinswart",
+            "displayed_link": "https://icwong.ktsv-hoesslinswart-fussball.de",
+            "title": "크루즈 여행 패키지",
+            "url": "https://icwong.ktsv-hoesslinswart-fussball.de/",
+            "snippet": "* * 남이섬 리버 크루즈 여행 영상 * * 남이섬 가볼만한곳 볼거리 남미 볼리비아의 ... 제주도 체류 기간 년 기준, 내국인 관광객은 제주도를 3박 4일 일정(평균 3. 후포 ..."
+        },
+        {
+            "sequence": 99,
+            "type": "organic_results",
+            "position": 95,
+            "site_name": "books.google.co.kr",
+            "displayed_link": "https://books.google.co.kr › books",
+            "title": "강아지와 떠나는 즐거운 산책길",
+            "url": "https://books.google.co.kr/books?id=zxNIEAAAQBAJ&pg=PA51&lpg=PA51&dq=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EC%97%AC%EB%A6%84%EC%97%90+%EA%B0%80%EB%B3%BC%EB%A7%8C%ED%95%9C+%EA%B3%B3&source=bl&ots=IlunmZl0vy&sig=ACfU3U2nm__Xo6MrBakGnJ3Jcv2xidlYnw&hl=ko&sa=X&ved=2ahUKEwil9_7v3aSCAxXUNN4KHcPHBzIQ6AF6BQjwAhAC",
+            "snippet": "... 에 가기 힘든 반려견이나 가을에 제주도를 가기 어려운 상황이라면 새별오름 근처에 있는 또다른 애견동 반 명소 카멜리아힐을 소개 합니다 ... 가볼만한 곳 – 카멜리아힐."
+        },
+        {
+            "sequence": 100,
+            "type": "organic_results",
+            "position": 96,
+            "site_name": "paraverke.online",
+            "displayed_link": "https://paraverke.online › new › blc...",
+            "date": "8시간 전",
+            "title": "2023 다크소울 3 할인 3 벅차올라서 - paraverke.online",
+            "url": "https://paraverke.online/new/blcieqscudbmdkx",
+            "snippet": "8시간 전 — 성당 내부 인테리어제주도 가볼만한곳 추천 무너미 베이커리 귀멸 의 - 귀멸 의. ... 여름 할인 *17 프롬소프트 신작 엘든 링 트레일러 *4 포게임 오픈월드 ..."
+        },
+        {
+            "sequence": 101,
+            "type": "organic_results",
+            "position": 97,
+            "site_name": "mxuzio.kosmetik-schoenberg.de",
+            "displayed_link": "https://mxuzio.kosmetik-schoenberg.de",
+            "title": "비빔 당면",
+            "url": "https://mxuzio.kosmetik-schoenberg.de/",
+            "snippet": "오늘의 요리는 여름에 간단한 점심 메뉴로 잘 만드는 당면 그리고 한국당면, 중국 ... 올초에 한번 소개했던 곳 대구에서 유일무이한. 맛있다라는 표현만으로는 부족한 ..."
+        },
+        {
+            "sequence": 102,
+            "type": "organic_results",
+            "position": 98,
+            "site_name": "가보고싶은섬",
+            "displayed_link": "https://island.haewoon.co.kr",
+            "title": "가보고 싶은 섬(여객선 예약예매)",
+            "url": "https://island.haewoon.co.kr/",
+            "snippet": "여객선예매, 섬여행, 바다여행, 여객선시간표, 터미널, 여객선이용 등 정보제공."
+        }
+    ]
+}
