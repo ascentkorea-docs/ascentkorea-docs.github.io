@@ -1,0 +1,216 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "be9cdbbb-89a3-4da6-ade8-79cb49d94ad0",
+        "sub_id": 0,
+        "requested_time": "2023-11-16T02:11:35.716Z",
+        "q": "본게임2",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%B3%B8%EA%B2%8C%EC%9E%842&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0068.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231116/2311161111/GG%09M%09ko%09kr%093cf5f1edcfaccb4a956231991bb28ca90004%09South%20Korea%0920231116021135716.html",
+        "json_url": "http://node0068.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231116/2311161111/GG%09M%09ko%09kr%093cf5f1edcfaccb4a956231991bb28ca90004%09South%20Korea%0920231116021135716.json",
+        "crawl_start_time": "2023-11-16T02:11:35.884Z",
+        "crawl_end_time": "2023-11-16T02:11:41.734Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "비밀 독서단",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.84
+    },
+    "information": {
+        "version": "5.12.0.master",
+        "displayed_query": "본게임2",
+        "parsed_time": "2023-11-16T02:11:42.382Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 106517
+                    },
+                    "_func": "header",
+                    "title": "본게임2",
+                    "subtitle": "TV 프로그램"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 62152
+                    },
+                    "_func": "media_actions",
+                    "attrid": "kc:/tv/tv_program:media_actions_wholepage"
+                },
+                {
+                    "ved": {
+                        "type": 20635
+                    },
+                    "_func": "thumbs_up",
+                    "attrid": "kc:/ugc:thumbs_up",
+                    "value": "이 TV 프로그램이 마음에 드셨나요?"
+                },
+                {
+                    "ved": {
+                        "type": 2507
+                    },
+                    "_func": "properties",
+                    "properties": [
+                        {
+                            "attrid": "kc:/tv/tv_program:cast",
+                            "key": "출연진",
+                            "value": "전용준,Yu Yong-won,Won Jong-woo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "trailers_and_clips",
+            "carousels": [
+                {
+                    "url": "https://m.youtube.com/watch?v=SLuZWfAvGQA",
+                    "title": "미끼를 물어라! 적 방공망 완전 제압작전 SEAD ☆본게임2 Ep141☆ㅣ국방홍보원",
+                    "source": "YouTube",
+                    "channel": "국방TV"
+                },
+                {
+                    "url": "https://m.youtube.com/watch?v=hrav_4B1vZQ",
+                    "title": "막을 수 없다! 군사강국들의 극초음속 미사일 개발 전쟁!  ☆본게임2 Ep135☆",
+                    "source": "YouTube",
+                    "channel": "국방TV"
+                },
+                {
+                    "url": "https://m.youtube.com/watch?v=IJhKLLIiTCk",
+                    "title": "육해공 어디서든 쏜다 ♠ 한국형 초음속 미사일 ☆본게임2 Ep46☆미사일 강국으로 가는 길!",
+                    "source": "YouTube",
+                    "channel": "국방TV"
+                },
+                {
+                    "url": "https://m.youtube.com/watch?v=Mg-GrmD-VWM",
+                    "title": "[정밀진단]북한과 몹시 닮았다!? 이스라엘-하마스 무력충돌, 아이언돔은 진짜 무용지물이었나? Ep149☆본게임2ㅣ국방홍보원",
+                    "source": "YouTube",
+                    "channel": "국방TV"
+                },
+                {
+                    "url": "https://m.youtube.com/watch?v=GWBfrunreDc",
+                    "title": "2023 연합·합동 화력격멸훈련, 보아라! 압도적 힘에 의한 평화!! ☆본게임2 Ep128☆",
+                    "source": "YouTube",
+                    "channel": "국방TV"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › playlist",
+            "title": "본게임2.레전드 이즈 백",
+            "url": "https://m.youtube.com/playlist?list=PLMVkaEHUCNifXqsJDBMTboCec8r94iK6p",
+            "snippet": "본게임2.레전드 이즈 백 · 2023 연합·합동 화력격멸훈련 Ⅱ, 반격의 서막: 불굴의 자유 작전, 압도적 화력의 힘! ☆본게임2 Ep129☆ · 2023 연합·합동 화력격멸훈련, 보아라!"
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › playlist",
+            "title": "본게임",
+            "url": "https://m.youtube.com/playlist?list=PLd9_4f3_oiWKsNg1hzEnP9ZgsNecAxOxA",
+            "snippet": "[정밀진단]북한과 몹시 닮았다!? 이스라엘-하마스 무력충돌, 아이언돔은 진짜 무용지물이었나? Ep149☆본게임2ㅣ국방홍보원. 국방TV."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "21세기 새로운 '역주행'의 시작 K21-105 경전차 본게임2 Ep30 작은 고추가 맵다 매워!!!",
+            "url": "https://m.youtube.com/watch?v=LAABSxEpH4I",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "1개월 전"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "나무위키",
+            "displayed_link": "https://namu.wiki › 본게임",
+            "date": "2023. 4. 27.",
+            "title": "본게임",
+            "url": "https://namu.wiki/w/%EB%B3%B8%EA%B2%8C%EC%9E%84",
+            "snippet": "2023. 4. 27. — 국방TV 본게임2 홈페이지 · 유튜브 에피소드 목록[1] MSG 채널[2] 국방TV에서 2017년 8월8일 첫 방송을 시작한 국방TV의 군사전문 프로그램."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "침묵의 암살자, 더 강한 진화 MQ-9B 시가디언(SeaGuardian) 철통 같은 해상 감시! 빈틈이 없다!! 본게임2 Ep134 [국방홍보원] - YouTube",
+            "url": "https://m.youtube.com/watch?v=EwtieVqHpac",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "2023. 7. 28."
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "국방tv 본게임2"
+                },
+                {
+                    "query": "본게임 뜻"
+                },
+                {
+                    "query": "연합 합동 화력격멸훈련"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "F-16전투기, 더 독하게 돌아왔다! 보이는 대로 다 잡는다 F-16 Viper | 세계 최고 베스트셀러 전투기 본게임2 Ep125 - YouTube",
+            "url": "https://m.youtube.com/watch?v=xnrZTbXFcLk",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "2023. 5. 26."
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "tv몬"
+                }
+            ]
+        }
+    ]
+}
