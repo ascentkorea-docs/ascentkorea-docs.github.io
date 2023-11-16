@@ -1,0 +1,326 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "8d5ce5ab-5042-4d39-849a-88483c0629a5",
+        "sub_id": 0,
+        "requested_time": "2023-11-16T03:20:02.388Z",
+        "q": "백암왕순대 본점",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80+%EB%B3%B8%EC%A0%90&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0116.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231116/2311161220/GG%09M%09ko%09kr%0998de2e75b2eb9ffbc75cc24d7646fc0c0008%09South%20Korea%0920231116032002388.html",
+        "json_url": "http://node0116.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231116/2311161220/GG%09M%09ko%09kr%0998de2e75b2eb9ffbc75cc24d7646fc0c0008%09South%20Korea%0920231116032002388.json",
+        "crawl_start_time": "2023-11-16T03:20:02.452Z",
+        "crawl_end_time": "2023-11-16T03:20:10.732Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "신림시장",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 8.27
+    },
+    "information": {
+        "version": "5.12.0.master",
+        "displayed_query": "백암왕순대 본점",
+        "parsed_time": "2023-11-16T06:08:04.167Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "local_results"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "네이버 블로그",
+            "displayed_link": "https://m.blog.naver.com › miki_hero",
+            "date": "2020. 10. 20.",
+            "title": "[인천 계양] 백암왕순대본점 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/miki_hero/222121417376",
+            "snippet": "2020. 10. 20. — 홈플러스 사거리에 위치하고 있는 백암왕순대본점. 여기는 예전부터 오빠가 제일 맛있다고 했던 순대국밥이여서 가기 시작했는데 여기는 진짜 먹어본중 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.blog.naver.com/miki_hero/222121417376",
+                "desc": "백암왕순대 본점(출처: m.blog.naver.com)"
+            }
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "식신",
+            "displayed_link": "https://www.siksinhot.com › ...",
+            "title": "백암왕순대본점|인천 / 계양구/계산동, 한식맛집",
+            "url": "https://www.siksinhot.com/P/398011",
+            "snippet": "식신이 추천하는 맛집 백암왕순대본점입니다. 인천 / 계양구/계산동에 위치하고 있습니다. 대표메뉴는 순대국밥, 따로국밥입니다."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "네이버 블로그",
+            "displayed_link": "https://m.blog.naver.com › smauser...",
+            "date": "2023. 2. 19.",
+            "title": "계산동 순대국 맛집 백암왕순대본점 내돈내산 후기",
+            "url": "https://m.blog.naver.com/smauser512/223020676479",
+            "snippet": "2023. 2. 19. — 백암왕순대본점. 주소 ▷인천 계양구 계양문화로 90. ⭕ 영업시간 ▷ 10:00~21:00 (매달 2,4째주 월요일 정기 휴무). ⏰ 라스트오더 ▷ 20:30.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.blog.naver.com/smauser512/223020676479",
+                "desc": "백암왕순대 본점(출처: m.blog.naver.com)"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "브런치스토리",
+            "displayed_link": "https://brunch.co.kr › ...",
+            "date": "2023. 7. 16.",
+            "title": "선릉 농민 백암순대 본점 후기",
+            "url": "https://brunch.co.kr/@@5hT6/171",
+            "snippet": "2023. 7. 16. — 서울 순대국의 왕 | 선릉역과 포스코 사거리 사이에 위치한 농민 백암왕순대를 다녀왔다. 지난 번 방문에 이어 두 번째여서, 이번엔 간단하지만 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://brunch.co.kr/@@5hT6/171",
+                "desc": "백암왕순대 본점(출처: brunch.co.kr)"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "식신",
+            "displayed_link": "https://www.siksinhot.com › ...",
+            "title": "백암왕순대|인천 / 계양구/계산동, 한식맛집",
+            "url": "https://www.siksinhot.com/P/404833",
+            "snippet": "백암왕순대 본점 인천광역시 계양구 계양문화로 90 매달 두번째, 네번째 월요일 휴무 백암왕순대... ㅋㅋㅋㅋㅋㅋㅋ 다음에 또 먹으러 가야겠습니다~~~ #인천계산동맛집 # ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.siksinhot.com/P/404833",
+                "desc": "백암왕순대 본점(출처: www.siksinhot.com)"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "다이닝코드",
+            "displayed_link": "https://www.diningcode.com › profile",
+            "title": "백암왕순대 본점 - 계양 순댓국, 왕순대 맛집 | 다이닝코드, 빅데이터 맛집검색",
+            "url": "https://www.diningcode.com/profile.php?rid=VKHbIoie7lSq",
+            "snippet": "맛5.0, 가격5.0, 친절5.0 이곳이 진정한 맛집입니다. 순대국 좋아해서 여러군데 가봤지만 여기만한곳은 없었어요. 강추입니다 11.06 (월) 영업시간: 08:00 - 21:"
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "emmaru.com",
+            "displayed_link": "https://emmaru.com › matzip",
+            "title": "연희동 백암왕순대 소개 - 엠마루, emmaru 맛집",
+            "url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0",
+            "snippet": "백암왕순대 연희동본점. 구분, 일반식당 > 순대·순대국. 전화, 02-337-7894. 주소, 서울 서대문구 증가로 13-6. 메뉴정보. 9,000 순대국. 10,000 얼큰이탕. 13,000 순대 ...",
+            "images": [
+                {
+                    "landing_url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0"
+                },
+                {
+                    "landing_url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0"
+                },
+                {
+                    "landing_url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0"
+                },
+                {
+                    "landing_url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0"
+                },
+                {
+                    "landing_url": "https://emmaru.com/matzip/matzip.do?code=M150603185120160839B&f=1&s=1&t=0"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "Foursquare",
+            "displayed_link": "https://ko.foursquare.com › 백암왕...",
+            "title": "백암왕순대 - 연희동 - 방문자 175명의 팁 3개",
+            "url": "https://ko.foursquare.com/v/%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80/4bc0005c920eb713d972182c",
+            "snippet": "백암 왕순대 (본점) 서울특별시 •; 백암 왕순대 본점 서울특별시 •; 백암순대 서울특별시 •; 백암순대국 서울특별시 •; 백암왕순대 서울특별시 •; 벡암왕순대 서울특별시 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "스쿠버넷",
+            "displayed_link": "http://www.scubanet.kr › view",
+            "date": "2014. 12. 5.",
+            "title": "다이버가 운영하는 맛집: 백암왕순대 선릉 본점",
+            "url": "http://www.scubanet.kr/article/view.php?category=1&article=577",
+            "snippet": "2014. 12. 5. — 다이버가 운영하는 맛집: 백암왕순대 선릉 본점 푸짐한 순대국에 소주가 절로 넘어가는 곳 선릉역 1번 출구로 나와서 테헤란로를 따라가다가 오른쪽 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://www.scubanet.kr/article/view.php?category=1&article=577",
+                "desc": "백암왕순대 본점(출처: www.scubanet.kr)"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "Instagram",
+            "displayed_link": "https://www.instagram.com › CVzY...",
+            "date": "2021. 11. 2.",
+            "title": "백암왕순대본점",
+            "url": "https://www.instagram.com/p/CVzYQPyPSp4/",
+            "snippet": "2021. 11. 2. — 1 likes, 0 comments - dosa_0503 on November 2, 2021: \"백암왕순대본점 인천광역시 계양구 용종동 210-4 #백암왕순대 #순대국밥 # ...\""
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "Tistory",
+            "displayed_link": "https://jinjae.tistory.com › ...",
+            "date": "2020. 3. 5.",
+            "title": "인천 맛집 | 인천 계양 순대국 맛집 \"백암왕순대\" 본점 - 진재 - 티스토리",
+            "url": "https://jinjae.tistory.com/m/37",
+            "snippet": "2020. 3. 5. — 인천 맛집 | 인천 계양 순대국 맛집 \"백암왕순대\" 본점 ... 국밥 종류의 음식들을 정말 좋아하는 편인데요. ... 위치한 백암 왕순대 본점이에요. 한 끼 식사를 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "진짜서울",
+            "displayed_link": "https://jinjja-seoul.com › place",
+            "title": "백암왕순대 연희동본점",
+            "url": "https://jinjja-seoul.com/place/1387",
+            "snippet": "백암왕순대 연희동본점. 서울 서대문구 연희동 122-18. 잠시만 기다려주세요. 여기를 눌러서 장소와 관련된 사진을 올려주시면 페이지가 더 유익해 질 것 같아요! 여기는 ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "Tistory",
+            "displayed_link": "https://beersoju.tistory.com › entry",
+            "date": "2021. 10. 29.",
+            "title": "[강남역 맛집] '농민백암왕순대' 순댓국으로 해장! (평일 점심 웨이팅) - 먹고 마시고 놀고",
+            "url": "https://beersoju.tistory.com/m/entry/%EB%86%8D%EB%AF%BC%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80",
+            "snippet": "2021. 10. 29. — 순댓국으로 유명한 '농민백암왕순대'에 다녀왔어요. 본점이 아닌 강남역 인근으로 갔는데. 여기도 웨이팅이 어마무시하더라구요. 도착해서 마주한 풍경 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "Tistory",
+            "displayed_link": "https://goun0000.tistory.com › ...",
+            "date": "2021. 11. 14.",
+            "title": "[인천 계양구 맛집] 등산 후, 계산역 앞 백암왕순대 본점에서 국밥에 소주먹고 마린커피에서 커피 한잔까지! - 고우니 일상",
+            "url": "https://goun0000.tistory.com/102",
+            "snippet": "2021. 11. 14. — [인천 계양구 맛집] 등산 후, 계산역 앞 백암왕순대 본점에서 국밥에 소주먹고 마린커피에서 커피 한잔까지! ... 계양구 주민 차노햄님 추천 맛집으로 고고 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "Picuki.com",
+            "displayed_link": "https://www.picuki.com › tag › 농...",
+            "title": "농민백암왕순대본점 Instagram posts (photos and videos)",
+            "url": "https://www.picuki.com/tag/%EB%86%8D%EB%AF%BC%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80%EB%B3%B8%EC%A0%90",
+            "snippet": "Explore Instagram posts for tag #농민백암왕순대본점 - Picuki.com."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "Tistory",
+            "displayed_link": "https://roka254.tistory.com › ...",
+            "date": "2016. 1. 18.",
+            "title": "[선릉역 맛집] 농민백암왕순대 - 인근 직장인들에게 유명한 순대국맛집 - 맛소남 - 티스토리",
+            "url": "https://roka254.tistory.com/m/156",
+            "snippet": "2016. 1. 18. — 올겨울은 엘니뇨 영향으로 사상유래가 없는 포근한 겨울 ~ 어쩌고 저쩌고 하다가. 이번주부터 완전 제대로 된 한파가 찾아 온다고 합니다."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "여행과인생",
+            "displayed_link": "https://kwon-blog.tistory.com › ...",
+            "date": "2018. 4. 27.",
+            "title": "[선릉역 맛집]농민백암왕순대 본점 - 여행과인생 - 티스토리",
+            "url": "https://kwon-blog.tistory.com/m/2124",
+            "snippet": "2018. 4. 27. — 농민백암왕순대 본점. 서울 강남구 대치동 896-33. (강남구 선릉로86길 40-4). 알앤지타운 1층. 전화:02-555-9603. *방이동에 지점이 있다는 이야기가 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "망고플레이트",
+            "displayed_link": "https://www.mangoplate.com › search",
+            "title": "백암왕순대국 맛집 인기 검색순위",
+            "url": "https://www.mangoplate.com/amp/search/%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80%EA%B5%AD",
+            "snippet": "백암왕순대 (본점). 인천 계양구 - 탕 / 찌개 / 전골. 3,531 4. 백암왕순대소머리국밥 사진 - 경기도 용인시 기흥구 상갈동 100-16 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "Tistory",
+            "displayed_link": "https://jjubok.tistory.com › entry",
+            "date": "2022. 1. 19.",
+            "title": "백암왕순대 / 나의 단골 순대국 맛집을 소개합니다 - 주복의 먹동여지도",
+            "url": "https://jjubok.tistory.com/entry/%EC%9D%B8%EC%B2%9C-%EA%B3%84%EC%82%B0%EB%8F%99-%EB%B0%B1%EC%95%94%EC%99%95%EC%88%9C%EB%8C%80",
+            "snippet": "2022. 1. 19. — 이렇게 된 간판을 보실 수가 있습니다 ! 백암왕순대-외관. 본가 35년 전통 백암 왕 순대 본점 예전에는 심심하면 한 번씩 들어가서 엄청 먹었던 맛집 ..."
+        },
+        {
+            "sequence": 21,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "네이버 블로그 - NAVER",
+                            "landing_url": "https://m.blog.naver.com/shghlwkd2/222530414877"
+                        },
+                        {
+                            "source": "브런치",
+                            "landing_url": "https://brunch.co.kr/@@5hT6/171"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "네이버블로그 - NAVER",
+                            "landing_url": "https://blog.naver.com/gypsyone/222421918698?viewType=pc"
+                        },
+                        {
+                            "source": "브런치",
+                            "landing_url": "https://brunch.co.kr/@@5hT6/171"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "items": [
+                {
+                    "title": "단체모임에 적합한 레스토랑 대한민국"
+                },
+                {
+                    "title": "한식당 대한민국"
+                },
+                {
+                    "title": "아침식사 추천 대한민국"
+                }
+            ]
+        }
+    ]
+}
