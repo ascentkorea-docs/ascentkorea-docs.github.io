@@ -1,383 +1,411 @@
 {
+    "html_contents_type": "google_serp",
     "search_parameters": {
         "engine": "google",
-        "id": "5b5e860f-17ce-4442-a5ee-7388967baac8",
+        "id": "f92614b7-3195-4561-b196-068f10bd1773",
         "sub_id": 0,
-        "requested_time": "2022-10-01T08:18:29.862Z",
-        "q": "걷기 전신운동 종류",
+        "requested_time": "2023-11-23T05:17:30.497Z",
+        "q": "fe 70-200mm f4 macro g oss ii lens",
         "location": "South Korea",
         "gl": "kr",
         "hl": "ko",
         "num": 20,
-        "query_string": "q=%EA%B1%B7%EA%B8%B0+%EC%A0%84%EC%8B%A0%EC%9A%B4%EB%8F%99+%EC%A2%85%EB%A5%98&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8",
-        "html_url": "http://node0055.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221001/2210011718/049236178078-2A628C348009459EBA8D86F8209281C7-00.html",
-        "json_url": "http://node0055.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/221001/2210011718/049236178078-2A628C348009459EBA8D86F8209281C7-00.json",
-        "crawl_start_time": "2022-10-01T08:18:29.930Z",
-        "crawl_end_time": "2022-10-01T08:18:33.803Z",
+        "query_string": "sourceid=chrome&ie=UTF-8&q=fe+70-200mm+f4+macro+g+oss+ii+lens&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0105.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231123/2311231417/GG%09M%09ko%09kr%09a1432a1de163703f0798455e3a328e4a0034%09South%20Korea%0920231123051730497.html",
+        "json_url": "http://node0105.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231123/2311231417/GG%09M%09ko%09kr%09a1432a1de163703f0798455e3a328e4a0034%09South%20Korea%0920231123051730497.json",
+        "crawl_start_time": "2023-11-23T05:17:30.807Z",
+        "crawl_end_time": "2023-11-23T05:17:37.039Z",
         "device": "mobile",
         "usage_id": "intent",
-        "more_action": "default",
         "sub_name": "default",
         "sub_q": "default",
         "meta": {
-            "seed_keyword": "펫 과체중",
-            "domain": "",
+            "seed_keyword": "fe",
+            "domain": "wp",
             "purpose": "download_serp"
-        }
+        },
+        "crawl_elapsed_time": 6.23
     },
     "information": {
-        "version": "2.2.25.master",
-        "displayed_query": "걷기 전신운동 종류",
-        "parsed_time": "2022-11-01T08:19:05.814Z"
+        "version": "5.13.0.master",
+        "displayed_query": "fe 70-200mm f4 macro g oss ii lens",
+        "parsed_time": "2023-11-23T05:31:05.291Z"
     },
     "features": [
         {
             "sequence": 1,
-            "type": "featured_snippet",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > block-component > div:nth-child(1).g.kno-result.Ww4FFb.vt6azd.wF4fFd.JnwWd.g-blk",
-            "results": [
+            "type": "video_results",
+            "title": "VideosView All",
+            "videos": [
                 {
-                    "title": "한방의학백과 - 오래 걷기보다 중요한 '바르게'걷기! 단계별 걷는 법 꼭 기억하세요!",
-                    "displayed_link": "https://m.jaseng.org › news › encycl...",
-                    "url": "https://m.jaseng.org/news/encyclopedia_view.do?idx=2013",
-                    "snippet": "걷기는 유산소 운동이자 근육을 전체적으로 사용하는 전신운동으로 남녀노소 불문하고 좋은 운동입니다. 특히 자세와 근육 쓰임에 제약이 많은 척추 질환 환자들에게도 걷기는 안전한 운동으로 꼽힙니다. 다만 걷는 자세가 나쁘다면 척추와 관절에 악영향을 줄 수 있습니다.",
-                    "emphasis": [
-                        "유산소 운동이자 근육을 전체적으로 사용하는 전신운동"
-                    ]
+                    "title": "소니 FE 70-200mm F4 Macro G OSS Ⅱ 프리뷰",
+                    "url": "https://m.youtube.com/watch?v=-94iT4H2m0k",
+                    "source": "YouTube",
+                    "channel": "카메라설명해주는남자!",
+                    "date": "2023. 7. 17.",
+                    "duration": "7:01"
+                },
+                {
+                    "title": "Introducing FE 70-200mm F4 Macro G OSS II | Sony | α Lens",
+                    "url": "https://m.youtube.com/watch?v=5WXIeLFQ_o4",
+                    "source": "YouTube",
+                    "channel": "Sony | Camera Channel",
+                    "date": "2023. 7. 12.",
+                    "duration": "3:12"
+                },
+                {
+                    "title": "가벼움으로 더 자유롭게 FE 70-200mm F4 Macro G OSS II │ 4K 디지털 언패킹",
+                    "url": "https://m.youtube.com/watch?v=Q3OwTj9CP-k",
+                    "source": "YouTube",
+                    "channel": "Sony | Alpha Universe (Korea)",
+                    "date": "2023. 7. 26.",
+                    "duration": "2:00:10"
+                },
+                {
+                    "title": "Sony 70-200mm f/4 Macro G OSS II Review: Small but MIGHTY!",
+                    "url": "https://m.youtube.com/watch?v=EYn2LamEtTM",
+                    "source": "YouTube",
+                    "channel": "PetaPixel",
+                    "date": "2023. 7. 12.",
+                    "duration": "9:10"
                 }
-            ],
-            "official": true
+            ]
         },
         {
             "sequence": 2,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
             "position": 1,
-            "displayed_link": "https://m.health.chosun.com › svc",
-            "title": "'걷기'는 운동 안 된다? '이렇게' 걸으면 효과 쑥 - 헬스조선",
-            "url": "https://m.health.chosun.com/svc/news_view.html?contid=2021112601162&ref=no_ref",
-            "snippet": "2021. 11. 28. — 우선 걷기 운동을 시작하기 전 근력부터 강화해야 한다. 걷는 것만으로도 심폐 기능이 향상되지만, 근력을 키운 후 걸으면 전신 기능까지 올라갈 수 ..."
+            "site_name": "Sony",
+            "displayed_link": "https://www.sony.co.kr › electronics",
+            "title": "FE 70-200mm F4 Macro G OSS Ⅱ",
+            "url": "https://www.sony.co.kr/electronics/e-mount-lenses/sel70200g2",
+            "snippet": "소니 렌즈 SEL70200G2는 뛰어난 휴대성과 컴팩트한 디자인의 고성능 망원 줌 렌즈입니다. 안정적인 성능을 자랑하는 FE 70-200mm F4 Macro G OSS Ⅱ 렌즈로 다양한 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.sony.co.kr/electronics/e-mount-lenses/sel70200g2",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.sony.co.kr)"
+            }
         },
         {
             "sequence": 3,
-            "type": "video_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
-            "title": "VideosView All",
-            "videos": [
-                {
-                    "title": "네발 걷기 호보법   전신운동 효과 GOOD!! [내 몸 플러스] 186회 20200301",
-                    "url": "https://m.youtube.com/watch?v=GFrNQvO7XtA",
-                    "date": "2020. 3. 1."
-                },
-                {
-                    "title": "매일 걷기운동하면 나타나는 놀라운 효과(제대로 걷는 방법) | 유산소운동 #1",
-                    "url": "https://m.youtube.com/watch?v=C0G_OonCqaQ",
-                    "date": "2018. 5. 30."
-                },
-                {
-                    "title": "최고의 전신운동 `바른 자세로 걷기` [아침마당] 20200611",
-                    "url": "https://m.youtube.com/watch?v=SsxDk7MKt_I",
-                    "date": "2020. 6. 11."
-                },
-                {
-                    "title": "[핏분 유쾌한 홈트레이닝] 전신운동 Part 3-1. 스텝퍼를 이용한 유산소 운동과 전신운동 (가정용 런닝머신, 걷기운동)",
-                    "url": "https://m.youtube.com/watch?v=ZsLK8j7bkTw",
-                    "date": "2017. 11. 20."
-                }
-            ]
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "danawa.com",
+            "displayed_link": "https://m.danawa.com › product",
+            "title": "SONY 알파 FE 70-200mm F4 Macro G OSS II (정품) : 다나와 가격비교",
+            "url": "https://m.danawa.com/product/product.html?code=25643210&cateCode=12237500",
+            "snippet": "SONY 알파 FE 70-200mm F4 Macro G OSS II (정품). 관심 공유 신고. 풀프레임미러리스용/망원줌렌즈/소니FE/소니G렌즈(최상급)/13군/19매/밝기:F4.0/최단촬영거리: ...",
+            "rating": {
+                "rating_count": "(3)",
+                "rating_value": "5.0"
+            }
         },
         {
             "sequence": 4,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 2,
-            "displayed_link": "https://kormedi.com › 농부-걸음-운...",
-            "title": "'농부 걸음' 운동, 전신 운동으로 좋아 - 코메디닷컴",
-            "url": "https://kormedi.com/amp/1326560/%EB%86%8D%EB%B6%80-%EA%B1%B8%EC%9D%8C-%EC%9A%B4%EB%8F%99-%EC%A0%84%EC%8B%A0-%EC%9A%B4%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%A2%8B%EC%95%84/",
-            "snippet": "2020. 10. 30. — [사진=daizuoxin/gettyimagesbank] 운동 방법 중 '농부 걸음(Farmer's Walk)'이라는 ... 걷기 운동은 강도가 약하고 쉬운 운동이라고 생각하지만, ..."
+            "position": 3,
+            "site_name": "Naver Blog",
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "date": "2023. 7. 16.",
+            "title": "[올페의 렌즈 프리뷰] Sony FE 70-200mm F4 Macro G OSS II (SEL70200G2) : 네이버 블로그",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=olivepage&logNo=223157588405&proxyReferer=",
+            "snippet": "2023. 7. 16. — FE 70-200mm F4 Macro G OSS II는 아주 재미난 스펙을 지니고 있습니다. 초점거리와 조리개는 꽤나 흔하지만 접사 배율이 0.5배입니다. 매크로 렌즈에 ..."
         },
         {
             "sequence": 5,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 3,
-            "displayed_link": "http://reborntimes5.cafe24.com › ...",
-            "title": "걷기운동은 전신운동이다. 걷기운동의 중요성 - 리본필라테스 타임즈 (안양평촌)",
-            "url": "http://reborntimes5.cafe24.com/?p=1054",
-            "snippet": "2019. 7. 18. — 전신에 영향 미치는 유산소 운동, 걷기! 우리나라 성인은 평소 잘 걷지 않는다. 질병관리본부의 국민건강영양조사에 따르면 성인의 걷기 실천율은 ...",
-            "thumbnail": {
-                "type": "image",
-                "url": "http://reborntimes5.cafe24.com/?p=1054",
-                "desc": "걷기 전신운동 종류(출처: reborntimes5.cafe24.com)"
-            }
+            "position": 4,
+            "site_name": "소니, 스타일을 말하다",
+            "displayed_link": "https://stylezineblog.com › ...",
+            "date": "2023. 7. 28.",
+            "title": "소니코리아, 컴팩트 고해상도 망원 줌 매크로 렌즈 'FE 70-200MM F4 Macro G OSS II' 국내 정식 출시",
+            "url": "https://stylezineblog.com/5132",
+            "snippet": "2023. 7. 28. — 소니코리아가 컴팩트 고해상도 망원 줌 매크로 렌즈 'FE 70-200MM F4 Macro G OSS II(이하 SEL70200G2)'를 28일(금) 국내 출시합니다."
         },
         {
             "sequence": 6,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 4,
-            "displayed_link": "http://bakc.net › health › main",
-            "title": "걷기운동 | 아산시보건소 홈페이지입니다.",
-            "url": "http://bakc.net/health/main/index.php?m_cd=108",
-            "snippet": "도로를 달리게 될 때에는 자동차를 등지고 달리기보다는 마주보면서 달리는 것이 만약의 경우 몸을 피하기가 용이하므로 안전한 방법이 된다. 그러나 가능한 한 차량의 ...",
+            "position": 5,
+            "site_name": "B & H Photo Video",
+            "displayed_link": "https://www.bhphotovideo.com › so...",
+            "title": "Sony FE 70-200mm f/4 Macro G OSS II Lens (Sony E)",
+            "url": "https://www.bhphotovideo.com/c/product/1776284-REG/sony_fe_70_200mm_f_4_g.html",
+            "snippet": "Buy Sony FE 70-200mm f/4 Macro G OSS II Lens (Sony E) featuring Full Frame | f/4 to f/22, G Series Telephoto Zoom, .5x Magnification Across Full Zoom Range, ...",
             "thumbnail": {
                 "type": "image",
-                "url": "http://bakc.net/health/main/index.php?m_cd=108",
-                "desc": "걷기 전신운동 종류(출처: bakc.net)"
+                "url": "https://www.bhphotovideo.com/c/product/1776284-REG/sony_fe_70_200mm_f_4_g.html",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.bhphotovideo.com)"
+            },
+            "rating": {
+                "rating_count": "(21)",
+                "rating_value": "4.8"
             }
         },
         {
             "sequence": 7,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 5,
-            "displayed_link": "https://www.asan.go.kr › main",
-            "title": "걷기운동 | 아산시보건소 홈페이지입니다.",
-            "url": "https://www.asan.go.kr/health/main/index.php?m_cd=108",
-            "snippet": "조깅은 비만체중을 줄이는데 효과적인 방법인 동시에 심장과 폐 기능을 향상 시키는 데도 바람직한 운동이다. 하지만 초보자는 걷기부터 시작하여 그 다음 걷기와 뛰기를 ..."
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "소니 70-200 f4 g2"
+                },
+                {
+                    "query": "fe 70-200mm f4 macro g oss"
+                },
+                {
+                    "query": "소니 70-200 f4 2"
+                },
+                {
+                    "query": "70200GM2"
+                },
+                {
+                    "query": "SEL70200GM2"
+                },
+                {
+                    "query": "rf 70-200 f4"
+                }
+            ]
         },
         {
             "sequence": 8,
-            "type": "people_also_search_for",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
-            "searches": [
-                {
-                    "query": "걷기 운동 종류",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__21 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                },
-                {
-                    "query": "걷기 운동의 10가지 효능",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__22 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                },
-                {
-                    "query": "걷기 운동 효과 없다",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__23 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                },
-                {
-                    "query": "걷기운동 뱃살",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__24 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                },
-                {
-                    "query": "걷기운동 시간",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                },
-                {
-                    "query": "걷기 근력운동",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__26 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
-                }
-            ]
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "작고 가볍고 마크로가 되는 백통렌즈?? [Sony FE 70-200mm F4 Macro G OSS II Reveiw]",
+            "url": "https://m.youtube.com/watch?v=ntpYY_dY4-8",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "2023. 7. 12."
+            }
         },
         {
             "sequence": 9,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 6,
-            "displayed_link": "http://m.ikunkang.com › articleView",
-            "title": "[물박사 워터맨의 물 이야기] 걷기운동할 때도 수분 보충은 '필수' - 건강다이제스트 인터넷판",
-            "url": "http://m.ikunkang.com/news/articleView.html?idxno=32976",
-            "snippet": "2021. 1. 5. — 전신운동의 효과는 우리 몸 구석구석을 활성화시키기 때문이다. 이러한 걷기운동은 올바른 방법과 자세로 걷는 것이 무엇보다 중요하다."
+            "position": 7,
+            "site_name": "Sony Asia Pacific",
+            "displayed_link": "https://www.sony-asia.com › e-mou...",
+            "title": "FE 70-200mm F4 Macro G OSS Ⅱ",
+            "url": "https://www.sony-asia.com/electronics/e-mount-lenses/sel70200g2",
+            "snippet": "This is the world's first 2 zoom lens in its class to offer half-macro capability 1 throughout the zoom range. Minimum focusing distance is 0.26 m at the wide ...",
+            "rating": {
+                "rating_count": "(7)",
+                "rating_value": "5.0"
+            }
         },
         {
             "sequence": 10,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 7,
-            "displayed_link": "https://healtydiet.tistory.com › ...",
-            "title": "걷기운동의 종류와 효과 - Well-Being",
-            "url": "https://healtydiet.tistory.com/m/14",
-            "snippet": "2008. 3. 13. — 걷기 운동을 시작하기 1~2시간 전에는 양질의 탄수화물을 섭 취하는 것이 ... 중심을 이동시킬 때 지면을 힘있게 누르면 전신은 반듯한 자세가 된다."
+            "position": 8,
+            "site_name": "팝코넷",
+            "displayed_link": "https://www.popco.net › view › id=l...",
+            "date": "2023. 7. 14.",
+            "title": "FE 70-200mm F4 Macro G OSS II [SEL70200G2] 스펙 & 제품 정보",
+            "url": "https://www.popco.net/zboard/view.php?id=lens_brandlist&no=1230",
+            "snippet": "2023. 7. 14. — 화질과 AF 성능의 향상에 소형 경량 디자인을 겸비한 하프 매크로 망원 줌 렌즈다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.popco.net/zboard/view.php?id=lens_brandlist&no=1230",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.popco.net)"
+            }
         },
         {
             "sequence": 11,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 8,
-            "displayed_link": "https://mobile.hidoc.co.kr › news",
-            "title": "매일 걷기 운동하면 나타나는 놀라운 변화 - 하이닥",
-            "url": "https://mobile.hidoc.co.kr/healthstory/news/C0000580131",
-            "snippet": "2021. 2. 5. — 걷기 운동을 할 때는 다리 근육뿐만 아니라 전신을 사용하여 신체 전반 ... 이어 \"치료를 위해서는 잘못된 운동 방법, 무리한 운동량 등 원인을 제거 ..."
+            "position": 9,
+            "site_name": "Amazon.com",
+            "displayed_link": "https://www.amazon.com › Sony-F...",
+            "title": "Sony FE 70-200mm F4 Macro G OSS II",
+            "url": "https://www.amazon.com/Sony-FE-70-200mm-Macro-OSS/dp/B0CBNBDVMZ",
+            "snippet": "$1,698.00$1,698.00. FREE delivery: Wednesday, Nov 29. Ships from: Amazon.com. Sold by: Amazon.com ... Learn more about free returns. How to return the item?",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.amazon.com/Sony-FE-70-200mm-Macro-OSS/dp/B0CBNBDVMZ",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.amazon.com)"
+            },
+            "rating": {
+                "rating_count": "(25)",
+                "rating_value": "4.6"
+            }
         },
         {
             "sequence": 12,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 9,
-            "displayed_link": "https://www.ktong.kr › entry › 걷기...",
-            "title": "걷기 운동 효과 8가지 - 크통",
-            "url": "https://www.ktong.kr/entry/%EA%B1%B7%EA%B8%B0-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC/",
-            "snippet": "2020. 8. 24. — 몸을 건강하게 하고 스트레스를 관리해주는 최고의 다이어트 운동 방법 중에 하나는 걷기 운동입니다. 걷기 운동 효과 에 대해서는 많은 사람들이 잘 ...",
+            "position": 10,
+            "site_name": "DustinAbbott.net",
+            "displayed_link": "https://dustinabbott.net › 2023/07",
+            "date": "2023. 7. 12.",
+            "title": "Sony FE 70-200mm F4 Macro G OSS II Review",
+            "url": "https://dustinabbott.net/2023/07/sony-fe-70-200mm-f4-macro-g-oss-ii-review/",
+            "snippet": "2023. 7. 12. — I really, really enjoyed using this lens and appreciated the excellent ergonomics and overall form factor of the lens. Sony's 70-200mm F2.8 GM ...",
             "thumbnail": {
                 "type": "image",
-                "url": "https://www.ktong.kr/entry/%EA%B1%B7%EA%B8%B0-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC/",
-                "desc": "걷기 전신운동 종류(출처: www.ktong.kr)"
+                "url": "https://dustinabbott.net/2023/07/sony-fe-70-200mm-f4-macro-g-oss-ii-review/",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: dustinabbott.net)"
             }
         },
         {
             "sequence": 13,
-            "type": "images",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).MjjYud > div:nth-child(1).EyBRub > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
-            "images": [
-                {
-                    "landing_url": "https://m.jaseng.org/news/encyclopedia_view.do?idx=2013"
-                },
-                {
-                    "landing_url": "http://bakc.net/health/main/index.php?m_cd=108"
-                },
-                {
-                    "landing_url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8849360438",
-                    "tag": "상품"
-                },
-                {
-                    "landing_url": "https://dreamwith99.tistory.com/361"
-                },
-                {
-                    "landing_url": "https://snsti.tistory.com/228"
-                },
-                {
-                    "landing_url": "http://reborntimes5.cafe24.com/?p=1054"
-                },
-                {
-                    "landing_url": "http://shopping.interpark.com/product/productInfo.do?prdNo=8849360438",
-                    "tag": "상품"
-                },
-                {
-                    "landing_url": "https://www.tvreport.co.kr/718386"
-                },
-                {
-                    "landing_url": "http://bakc.net/health/main/index.php?m_cd=108"
-                }
-            ]
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "Camera Labs",
+            "displayed_link": "https://www.cameralabs.com › sony...",
+            "date": "2023. 7. 12.",
+            "title": "Sony FE 70-200mm f4 G OSS II review",
+            "url": "https://www.cameralabs.com/sony-fe-70-200mm-f4-g-oss-ii-review/",
+            "snippet": "2023. 7. 12. — The Sony FE 70-200mm f4G OSS Mark II is a short telephoto zoom designed for Alpha mirrorless cameras. Launched in July 2023, it comes almost ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cameralabs.com/sony-fe-70-200mm-f4-g-oss-ii-review/",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.cameralabs.com)"
+            },
+            "rating": {
+                "rating_value": "4.5"
+            }
         },
         {
             "sequence": 14,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb",
-            "position": 10,
-            "displayed_link": "https://m.youtube.com › watch",
-            "title": "온몸에 모든 군살이 싹빠지는 20분 전신운동 루틴 체중감량, 체력강화 (Full body workout)",
-            "url": "https://m.youtube.com/watch?v=9u6gm7-nc5I",
-            "thumbnail": {
-                "type": "direct_video",
-                "url": "#fpstate=ive&vld=cid:dce97bce,vid:9u6gm7-nc5I,st:0",
-                "date": "2021. 5. 10."
-            }
+            "position": 12,
+            "site_name": "product.29cm.co.kr",
+            "displayed_link": "https://product.29cm.co.kr › catalog",
+            "title": "소니 FE 70-200mm F4 Macro G OSS II/SEL70200G2 - 감도 깊은 취향 셀렉트샵 29CM",
+            "url": "https://product.29cm.co.kr/catalog/2153718?source=brand",
+            "snippet": "소니 FE 70-200mm F4 Macro G OSS II/SEL70200G2 · 배송비. 해당 브랜드 제품은 무료배송 됩니다. 제주도를 포함한 도서/산간지역은 추가배송비 6,000원 · 배송예정. 1일 ..."
         },
         {
             "sequence": 15,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 11,
-            "displayed_link": "https://www.inha.com › medicine",
-            "title": "건강의학정보 - 인하대병원",
-            "url": "https://www.inha.com/m/page/health/medicine/148993",
-            "snippet": "매우 효과적인 운동이어서 인기가 많습니다. 그런데 이런 걷기에도 더 올바르고 건강한 방법이 있답니다. 잘못된 걸음은 무릎과 고관절 건강에 악영향을 끼쳐요. 이제 ..."
+            "position": 13,
+            "site_name": "PC Magazine",
+            "displayed_link": "https://www.pcmag.com › ... › Lenses",
+            "date": "2023. 7. 12.",
+            "title": "Sony FE 70-200mm F4 Macro G OSS II Review",
+            "url": "https://www.pcmag.com/reviews/sony-fe-70-200mm-f4-macro-g-oss-ii",
+            "snippet": "2023. 7. 12. — The Sony FE 70-200mm F4 Macro G OSS II ($1,699.99) is an upgrade across the board to the original version from nearly a decade ago, which was ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.pcmag.com/reviews/sony-fe-70-200mm-f4-macro-g-oss-ii",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.pcmag.com)"
+            },
+            "rating": {
+                "rating_value": "4.5"
+            }
         },
         {
             "sequence": 16,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 12,
-            "displayed_link": "https://edu.deti.or.kr › filedown",
-            "title": "올바른 걷기를 통한 내 몸 바로 세우기",
-            "url": "https://edu.deti.or.kr/common/bbs/management/filedown.go;jsessionid=FIsGMo1Rya6RrNGZqQKAcPTiREiJq60LOwR8ZWSDY6X8Hapu012kZbuf2PCeN7mR.nest-was5_servlet_ulearn3?atchFileId=FILE_000000000097555&fileSn=0",
-            "snippet": "걷는 방법을 누군. 가에게 배워야 한다는 생각을 해 보신 ... 했던 것이 계기가 되어, 국민적 걷기 운동으로 발전된 것이죠. ... 작용이 필요한 복잡한 전신동작이다."
+            "position": 14,
+            "site_name": "LensTip.com",
+            "displayed_link": "https://www.lenstip.com › 651.1-Le...",
+            "date": "2023. 7. 17.",
+            "title": "Sony FE 70-200 mm f/4 Macro G OSS II review - Introduction",
+            "url": "https://www.lenstip.com/651.1-Lens_review-Sony_FE_70-200_mm_f_4_Macro_G_OSS_II.html",
+            "snippet": "2023. 7. 17. — In times when Sony took over the Minolta A mount, they didn't launch any 70-200 mm class lens as fast as f/4.0 or so for a very long time.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lenstip.com/651.1-Lens_review-Sony_FE_70-200_mm_f_4_Macro_G_OSS_II.html",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.lenstip.com)"
+            }
         },
         {
             "sequence": 17,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 13,
-            "displayed_link": "https://m.hani.co.kr › esc_section",
-            "title": "하루 3㎞·45분 이상 걸으면 보약된다 : ESC : 특화섹션 : 뉴스 - 한겨레",
-            "url": "https://m.hani.co.kr/arti/specialsection/esc_section/472422.html",
-            "snippet": "2011. 4. 11. — 걷기 운동 전후 5~10분 스트레칭으로 근육과 관절의 긴장과 심리적 불안감을 ... 등산·달리기도 걷기와 유사한 효과 달리기 역시 전신운동으로 신체의 ..."
+            "position": 15,
+            "site_name": "DP Review",
+            "displayed_link": "https://m.dpreview.com › samples",
+            "date": "2023. 7. 13.",
+            "title": "Sony FE 70-200mm F4 G OSS II sample gallery",
+            "url": "https://m.dpreview.com/samples/0707362188/sony-fe-70-200mm-f4-g-oss-ii-sample-gallery",
+            "snippet": "2023. 7. 13. — It provides 1:2 macro capability across the zoom, which increases to 1:1 when used with a 2x teleconverter. Speaking of teleconverters, the lens ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.dpreview.com/samples/0707362188/sony-fe-70-200mm-f4-g-oss-ii-sample-gallery",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: m.dpreview.com)"
+            }
         },
         {
             "sequence": 18,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 14,
-            "displayed_link": "http://www.seoulvein.co.kr › News",
-            "title": "건강강좌 - 서울정맥외과",
-            "url": "http://www.seoulvein.co.kr/News/LectureView.asp?srno=3755&page=98&gubun=&keyword=&MenuNumber=5&PageNumber=2&SubPageNumber=0",
-            "snippet": "노르딕워킹은 파워워킹보다 상체 근육을 더 적극적으로 쓰기 때문에 전신 운동 효과가 ... 이렇게 다양한 종류의 걷기뿐만 아니라 비슷한 강도의 유산소 운동은 하루 ..."
+            "position": 16,
+            "site_name": "OpticalLimits!",
+            "displayed_link": "https://www.opticallimits.com › 117...",
+            "title": "Sony FE 70-200mm f/4 G OSS macro II - Review / Test Report",
+            "url": "https://www.opticallimits.com/sonyalphaff/1179-sony70200f4g2",
+            "snippet": "Interestingly, the weight has barely changed - it's still around the 800g mark. The extending zoom mechanism also makes it easier for dust to enter the inner ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.opticallimits.com/sonyalphaff/1179-sony70200f4g2",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.opticallimits.com)"
+            },
+            "rating": {
+                "rating_value": "4.0"
+            }
         },
         {
             "sequence": 19,
             "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 15,
-            "displayed_link": "https://www.yeonsu.go.kr › etc › bbs",
-            "title": "홍보자료-유산소운동.hwp",
-            "url": "https://www.yeonsu.go.kr/etc/bbs/doc_preview.asp?bbs_code=board_37&file=1&seq=1281",
-            "snippet": "5. 운동종류에 맞는 운동용품 착용 ➡ 예를 들어 걷기나 달리기 등 발목과 무릎관절에 부담을 주는 운동을 실시할 경우는 반드시 쿠션이 좋은 운동화를 착용해야 부상을 ..."
+            "position": 17,
+            "site_name": "The-Digital-Picture.com",
+            "displayed_link": "https://www.the-digital-picture.com › ...",
+            "title": "Sony FE 70-200mm F4 Macro G OSS II Lens Review",
+            "url": "https://www.the-digital-picture.com/Reviews/Sony-FE-70-200mm-F4-Macro-G-OSS-II-Lens.aspx",
+            "snippet": "In the center of the frame, the F4 II lens is extremely sharp at 70mm and shows little improvement at f/5.6 (none is needed). The longer focal lengths do not ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.the-digital-picture.com/Reviews/Sony-FE-70-200mm-F4-Macro-G-OSS-II-Lens.aspx",
+                "desc": "fe 70-200mm f4 macro g oss ii lens(출처: www.the-digital-picture.com)"
+            }
         },
         {
             "sequence": 20,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 16,
-            "displayed_link": "https://www.tvreport.co.kr › ...",
-            "title": "유산소 운동 종류, 걷기부터 수영까지…전신운동 포함 - TV리포트",
-            "url": "https://www.tvreport.co.kr/718386",
-            "snippet": "2015. 5. 28. — 유산소 운동이란 운동에 필요한 에너지를 산소를 이용하여 공급하는 지구성 운동으로 지방을 주된 연료로 사용하는 낮은 강도의 전신 운동을 말한다.",
-            "thumbnail": {
-                "type": "image",
-                "url": "https://www.tvreport.co.kr/718386",
-                "desc": "걷기 전신운동 종류(출처: www.tvreport.co.kr)"
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "소니코리아",
+                            "landing_url": "https://www.sony.co.kr/electronics/e-mount-lenses/sel70200g2"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=5WXIeLFQ_o4"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "Amateur Photographer",
+                            "landing_url": "https://amateurphotographer.com/review/sony-fe-70-200mm-f4-macro-g-oss-ii-review/"
+                        },
+                        {
+                            "source": "ePHOTOzine",
+                            "landing_url": "https://www.ephotozine.com/article/sony-fe-70-200mm-f-4-g-oss-ii-lens-review-36557"
+                        }
+                    ]
+                ]
             }
         },
         {
             "sequence": 21,
-            "type": "organic_results",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-            "position": 17,
-            "displayed_link": "http://m.shop.interpark.com › product",
-            "title": "등반 걷기 운동 유산소 다이어트 홈트 8단 전신운동 - 인터파크 티켓",
-            "url": "http://m.shop.interpark.com/product/8849360438/0000100000?fr=pc",
-            "snippet": "12%할인, 추가 회원 중복 할인 쿠폰, 기타헬스잡화에 대한 상품입니다.",
-            "thumbnail": {
-                "type": "image",
-                "url": "http://m.shop.interpark.com/product/8849360438/0000100000?fr=pc",
-                "desc": "걷기 전신운동 종류(출처: m.shop.interpark.com)"
-            }
-        },
-        {
-            "sequence": 22,
             "type": "related_searches",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd",
             "results": [
                 {
-                    "query": "걷기 우울증",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#1vc3Y57xA_bh0PEPkry-8Ak__28 > div:nth-child(1) > a.iOJVmb"
+                    "query": "단렌즈"
                 },
                 {
-                    "query": "걷기 운동 거리",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__29 > div:nth-child(1) > a.iOJVmb"
+                    "query": "소니 렌즈 18 55"
                 },
                 {
-                    "query": "걷기운동 후기",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__30 > div:nth-child(1) > a.iOJVmb"
+                    "query": "소니 렌즈 추천"
                 },
                 {
-                    "query": "걷기운동 부작용",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__31 > div:nth-child(1) > a.iOJVmb"
+                    "query": "소니 풀프레임 단 렌즈"
                 },
                 {
-                    "query": "비만 걷기 운동",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__32 > div:nth-child(1) > a.iOJVmb"
+                    "query": "소니 광각 렌즈 추천"
                 },
                 {
-                    "query": "걷기 운동 더쿠",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__33 > div:nth-child(1) > a.iOJVmb"
-                },
-                {
-                    "query": "걷기운동 다이어트",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__35 > div:nth-child(1) > a.iOJVmb"
-                },
-                {
-                    "query": "걷기운동 나무위키",
-                    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).MjjYud > div:nth-child(1).AuVD.wHYlTd.Ww4FFb.vt6azd > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#1vc3Y57xA_bh0PEPkry-8Ak__36 > div:nth-child(1) > a.iOJVmb"
+                    "query": "소니 풍경 렌즈"
                 }
             ]
         }
