@@ -1,0 +1,359 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "97eedae3-3e90-4ef4-881c-2d5a43dfa193",
+        "sub_id": 0,
+        "requested_time": "2023-10-26T04:11:48.597Z",
+        "q": "미국 현재 시간",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%AF%B8%EA%B5%AD+%ED%98%84%EC%9E%AC+%EC%8B%9C%EA%B0%84&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0103.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231026/2310261311/GG%09M%09ko%09kr%09d177958310a20ff8faa713398a37e4d00008%09South%20Korea%0920231026041148597.html",
+        "json_url": "http://node0103.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231026/2310261311/GG%09M%09ko%09kr%09d177958310a20ff8faa713398a37e4d00008%09South%20Korea%0920231026041148597.json",
+        "crawl_start_time": "2023-10-26T04:11:48.821Z",
+        "crawl_end_time": "2023-10-26T04:11:53.879Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "수면 패턴",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.05
+    },
+    "information": {
+        "version": "5.14.0.master",
+        "displayed_query": "미국 현재 시간",
+        "parsed_time": "2023-11-24T04:06:28.182Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "local_time"
+        },
+        {
+            "sequence": 2,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "미국 시간대 몇 개?",
+                    "displayed_link": "https://www.y-axis.com › blog › ti...",
+                    "url": "https://www.y-axis.com/ko/blog/time-zones-and-weather-divisions-in-usa/",
+                    "title": "2021년 미국의 시간대 및 날씨 구분에 대해 알고 있습니다. - Y-Axis",
+                    "snippet": "미국에는 몇 개의 시간대가 있습니까? 미국 본토에는 50개의 시간대가 있습니다. 미국의 11개 주는 XNUMX개의 표준 시간대에 걸쳐 있습니다.",
+                    "emphasis": [
+                        "50"
+                    ]
+                },
+                {
+                    "question": "미국 동부시간 몇시?",
+                    "displayed_link": "https://namu.wiki › ...",
+                    "url": "https://namu.wiki/w/%EB%8F%99%EB%B6%80%20%ED%91%9C%EC%A4%80%EC%8B%9C",
+                    "title": "동부 표준시 - 나무위키:대문",
+                    "snippet": "동부 표준시는 대한민국 표준시에서 14시간을 빼면 된다.2023. 8. 28.",
+                    "emphasis": [
+                        "대한민국 표준시에서 14시간을 빼면 된다"
+                    ]
+                },
+                {
+                    "question": "미국몇요일?",
+                    "displayed_link": "https://www.voakorea.com › a-35-2...",
+                    "url": "https://www.voakorea.com/a/a-35-2007-01-10-voa18-91279099/1275617.html",
+                    "title": "[VOA 현장영어] 와주셔서 감사합니다. - VOA 한국어",
+                    "snippet": "자, 그럼 미국의 요일 영어로 어떻게 말할까요? 먼저 월요일 Monday 화요일 Tuesday 수요일 Wednesday목요일 Thursday금요일 Friday토요일 Saturday 라고 합니다.2010. 1. 7.",
+                    "emphasis": [
+                        "월요일 Monday 화요일 Tuesday 수요일 Wednesday목요일 Thursday금요일 Friday토요일 Saturday"
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "Time.is",
+            "displayed_link": "https://time.is › United_States",
+            "title": "미국의 현지 시각",
+            "url": "https://time.is/ko/United_States",
+            "snippet": "미국의 현지 시각. 당신의 시계는 11 시간, 46 분 그리고 37.8 초 느립니다. 동기화 정확도는 ±0.005 초 입니다. 0 ...",
+            "refinements": [
+                {
+                    "text": "뉴욕 22:52"
+                },
+                {
+                    "text": "엘에이 19:52"
+                },
+                {
+                    "text": "산호세"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "미국 지역별 시간"
+                },
+                {
+                    "query": "미국 동부 현재 시간"
+                },
+                {
+                    "query": "한국시간 미국시간 변환"
+                },
+                {
+                    "query": "한국 미국 시차"
+                },
+                {
+                    "query": "미국 뉴욕 시간"
+                },
+                {
+                    "query": "미국 서부 시간"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "온라인 알람 시계",
+            "displayed_link": "https://vclock.kr › time › 뉴욕-미국",
+            "title": "뉴욕, 미국 현재 시간",
+            "url": "https://vclock.kr/time/%EB%89%B4%EC%9A%95-%EB%AF%B8%EA%B5%AD/",
+            "snippet": "이 웹사이트에서는 전 세계 모든 국가와 도시의 현재 시간과 날짜를 확인할 수 있습니다. 또한 내 위치와 다른 도시의 시간차를 볼 수 있습니다."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "korea2me.com",
+            "displayed_link": "https://www.korea2me.com › US-KR",
+            "title": "미국과 대한민국의 시차",
+            "url": "https://www.korea2me.com/time/US-KR",
+            "snippet": "미국 (중부 표준시)의 현재 시간은 2023년 10월 25일 수요일 오전 7:51:09입니다. 대한민국의 현재 시간은 2023년 10월 25일 수요일 오후 9:51:09입니다. 미국 (중부 ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "korea2me.com",
+            "displayed_link": "https://www.korea2me.com › KR-US",
+            "title": "대한민국과 미국의 시차",
+            "url": "https://www.korea2me.com/time/KR-US",
+            "snippet": "대한민국의 현재 시간은 2023년 10월 26일 목요일 오전 3:27:39입니다. 미국 (중부 표준시)의 현재 시간은 2023년 10월 25일 수요일 오후 1:27:39입니다. 대한민국 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "kr.piliapp.com",
+            "displayed_link": "https://kr.piliapp.com › los-angeles",
+            "title": "미국 • 로스앤젤레스 시간 - PiliApp",
+            "url": "https://kr.piliapp.com/time-now/us/los-angeles/",
+            "snippet": "미국 • 로스앤젤레스 시간. PST / PDT 미국 태평양 표준시. PM. 8 20 : 48 . 12. 수, 2023년 10월 25일. 시간대: PDT, UTC/GMT: -7:00, no DST. 아날로그 시계. 이전, 지금 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "Time Genie",
+            "displayed_link": "https://kor.timegenie.com › usnyc",
+            "title": "시간 및 날짜 :: 뉴욕 시, 뉴욕 주, 미국 - 표준시간대",
+            "url": "https://kor.timegenie.com/amp/city.time/usnyc",
+            "snippet": "현재 시간 및 날짜. 뉴욕 시, 뉴욕 주, 미국. 현재 시간은 무엇입니까? 3:45 PM 15:45. 수요일, 10월 25, 2023. ⟳ ⇓. 미국. 뉴욕 시. 시간대. GMT -4. 일광 절약 시간."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "Booked.kr",
+            "displayed_link": "https://booked.kr › new-york-18103",
+            "title": "미국 뉴욕 시간",
+            "url": "https://booked.kr/time/new-york-18103",
+            "snippet": "미국의 도시들의 현재 시간 · 아데어스빌 시간일 1:25 PM · 스코 츠 데일 시간일 10:25 AM · 포트 로더데일 시간일 1:25 PM · 캐번디쉬 시간일 1:25 PM · 그라프턴 시간일 1:25 ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "TheTimeNow.com",
+            "displayed_link": "https://ko.thetimenow.com › new_y...",
+            "title": "뉴욕 시, New York, 미국의 현재 현지 시간 및 날씨",
+            "url": "https://ko.thetimenow.com/united_states/new_york/new_york",
+            "snippet": "UTC/GMT -5시간. 24. Tuesday. Oct 2023. Compare Time Difference Between 2 Cities · Calculate Distance Between 2 Cities · Meeting Planner Tool ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "kr.piliapp.com",
+            "displayed_link": "https://kr.piliapp.com › new-york",
+            "title": "미국 • 뉴욕 시간 - PiliApp",
+            "url": "https://kr.piliapp.com/time-now/us/new-york/",
+            "snippet": "미국 • 뉴욕 시간. EST / EDT 미국 동부 시간. PM. 10 22 : 37 . 32. 월, 2023년 10월 23일. 시간대: EDT, UTC/GMT: -4:00, no DST. 아날로그 시계. 이전, 지금, 다음."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "datetime360.com",
+            "displayed_link": "https://datetime360.com › city-new-...",
+            "title": "뉴욕 현재 시간",
+            "url": "https://datetime360.com/ko/city-new-york/",
+            "snippet": "미국의 국제 전화 코드는 1입니다. 뉴욕의 시간대는 동부 일광 절약 시간(약어:EDT)입니다. UTC - 4:00 내 다른 시간대. AMT ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "Utc.city",
+            "displayed_link": "https://kr.utc.city › ...",
+            "title": "뉴욕, 미국 지도 — 현재 시간, 시간대, 근처의 공항, 인구",
+            "url": "https://kr.utc.city/534870",
+            "snippet": "정확한 시간과 날짜 뉴욕, 뉴욕, 미국, 가장 가까운 공항, 공식 통화, 인구. 지도보기를 볼 수 있습니다."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "spacebblu.com",
+            "displayed_link": "https://spacebblu.com › 미국-시간...",
+            "title": "미국 시간대(Time Zone) 정리, 쉽게 계산하기 - Space B blu",
+            "url": "https://spacebblu.com/%EB%AF%B8%EA%B5%AD-%EC%8B%9C%EA%B0%84%EB%8C%80time-zone-%EC%A0%95%EB%A6%AC-%EC%89%BD%EA%B2%8C-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/",
+            "snippet": "땅덩이가 넓은 미국은 지역별로 다른 시간대와 서머타임까지 있어 시간 계산이 어렵게 느껴질 수 있는데요. 지역별로 시간대를 어떻게 표기하고 계산하는지 알아 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "Convertworld",
+            "displayed_link": "https://www.convertworld.com › ne...",
+            "title": "뉴욕시, 미국 (동부 시간), 시간대",
+            "url": "https://www.convertworld.com/ko/time-zones/new-york-city-united-states.html",
+            "snippet": "의 현재 시간 뉴욕시, 미국 · 동부 시간 · 모든 UTC -5 시간대."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "24 Time Zones",
+            "displayed_link": "https://24timezones.com › segye_si...",
+            "title": "세계 시계 — 전 세계의 현재 시간",
+            "url": "https://24timezones.com/segye_sigan",
+            "snippet": "시차에 없어서는 안될 유틸리티입니다 계산. 다른 위치의 시간을 비교하려면 오른쪽 상단의 \"설정\"버튼을 클릭하십시오. global 글로벌 시간대지도 현재 전 세계 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "collectiontravels.ru",
+            "displayed_link": "https://collectiontravels.ru › tochnoe...",
+            "date": "2023. 8. 18.",
+            "title": "미국의 현재 시간입니다. 미국 시간과 글로벌 시간의 차이",
+            "url": "https://collectiontravels.ru/ko/velikobritaniya/tochnoe-vremya-v-soedinennyh-shtatah-ameriki-amerikanskoe-vremya-i-ego/",
+            "snippet": "2023. 8. 18. — 워싱턴, 킹스턴, 키토, 보고타, 오타와. 모스크바와의 시차. – 8시간여름 -7시간. 미국의 시간 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "timezone-search.com",
+            "displayed_link": "https://www.timezone-search.com › ...",
+            "title": "미국 / 뉴욕 시간",
+            "url": "https://www.timezone-search.com/ko/America/New_York/",
+            "snippet": "현재 미국 지역에서 뉴욕의 현재 시간과 날짜는 오늘의 요일과 동일하며 비교를 위해 뉴욕과 거주하는 현지 시간대 간의 시차를 얻습니다."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "1blueplanet.com",
+            "displayed_link": "https://www.1blueplanet.com › usa_...",
+            "title": "미국 시간대지도",
+            "url": "https://www.1blueplanet.com/world_time_zones/kr/usa_time_zones.html",
+            "snippet": "미국 구글지도, 세계 시계, 세계 시간 시계 및지도, 현재 현지 시간, 일출, 일몰, 황혼, 여러 시간대, 세계 시간 차이, 세계의 모든 시간대의 현재 시간, ..."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "rapidtables.org",
+            "displayed_link": "https://www.rapidtables.org › time",
+            "title": "LA 시간 | 지금 로스 앤젤레스 시간 - RT",
+            "url": "https://www.rapidtables.org/ko/calc/time/los-angeles-time.html",
+            "snippet": "국가: 미국. 시간대 약어 : PST. 시간대 이름 : 태평양 시간. 시간 오프셋 : UTC/GMT-07:00. DST 관찰 : 예. 또한보십시오. 지금 동부 시간 · 지금 중부 표준시 ..."
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "Naver Blog",
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "date": "2013. 9. 14.",
+            "title": "미국과 한국 시간차이 계산하기 : 네이버 블로그",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=bjan2002&logNo=120198134190&proxyReferer=",
+            "snippet": "2013. 9. 14. — (지금 현재 미국이 서머타임을 해제해서 시간이 -14 시간입니다.) ○서부 시간대. . 우선 가장 중요한 핵심인 시차만 알려드리죠. 간단하게 ..."
+        },
+        {
+            "sequence": 23,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "vclock.kr",
+                            "landing_url": "https://vclock.kr/time/%EB%89%B4%EC%9A%95-%EB%AF%B8%EA%B5%AD/",
+                            "alt": "뉴욕, 미국 현재 시간 - vClock.kr"
+                        },
+                        {
+                            "source": "규칙적인생활 :: 규칙적인생활 - 티스토리",
+                            "landing_url": "https://bluemoy.tistory.com/entry/%EB%AF%B8%EA%B5%AD-%ED%98%84%EC%9E%AC%EC%8B%9C%EA%B0%84-%EC%95%84%EB%8A%94-%EB%B0%A9%EB%B2%95",
+                            "alt": "미국 현재시간 아는 방법 :: 규칙적인생활"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "Space B blu",
+                            "landing_url": "https://spacebblu.com/%EB%AF%B8%EA%B5%AD-%EC%8B%9C%EA%B0%84%EB%8C%80time-zone-%EC%A0%95%EB%A6%AC-%EC%89%BD%EA%B2%8C-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/",
+                            "alt": "미국 시간대(Time Zone) 정리, 쉽게 계산하기"
+                        },
+                        {
+                            "source": "네이버 블로그",
+                            "landing_url": "https://m.blog.naver.com/gwpartners/221525270482",
+                            "alt": "미국 현지시간 쉽게 계산 (이것만 기억하세요!) : 네이버 블로그"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 24,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "미국 캘리포니아 시간"
+                },
+                {
+                    "query": "세계시간"
+                },
+                {
+                    "query": "미국 시간 계산기"
+                },
+                {
+                    "query": "미국 중부 시간"
+                },
+                {
+                    "query": "미국시간 변환기"
+                },
+                {
+                    "query": "미국 동부시간 뉴욕"
+                }
+            ]
+        }
+    ]
+}

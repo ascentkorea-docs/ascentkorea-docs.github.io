@@ -1,0 +1,182 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "3a72e075-89ec-4c7f-8c78-e484e7923498",
+        "sub_id": 0,
+        "requested_time": "2023-11-23T00:53:16.490Z",
+        "q": "12 pm est to korea time",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=12+pm+est+to+korea+time&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0047.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231123/2311230953/GG%09M%09ko%09kr%09c787291221685764143a11ae3337071e0023%09South%20Korea%0920231123005316490.html",
+        "json_url": "http://node0047.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231123/2311230953/GG%09M%09ko%09kr%09c787291221685764143a11ae3337071e0023%09South%20Korea%0920231123005316490.json",
+        "crawl_start_time": "2023-11-23T00:53:16.570Z",
+        "crawl_end_time": "2023-11-23T00:53:22.277Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "pm",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.7
+    },
+    "information": {
+        "version": "5.14.0.master",
+        "displayed_query": "12 pm est to korea time",
+        "parsed_time": "2023-11-24T04:01:46.965Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "local_time"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "Google",
+            "displayed_link": "https://www.worldtimebuddy.com › ...",
+            "title": "EST to Seoul Converter - Convert Eastern Time to Seoul, South Korea Time - World Time Buddy",
+            "url": "https://www.worldtimebuddy.com/est-to-south-korea-seoul",
+            "snippet": "12 pm EST, is, 2 am in Seoul. 1 pm EST, is, 3 am in Seoul. 2 pm EST, is, 4 am in Seoul. 3 pm EST, is, 5 am in Seoul. 4 pm EST, is, 6 am in Seoul. 5 pm EST, is ..."
+        },
+        {
+            "sequence": 3,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "What is the time change from EST to Korea?",
+                    "displayed_link": "https://www.worldtimeserver.com › ...",
+                    "url": "https://www.worldtimeserver.com/time-zones/est-to-kst/",
+                    "title": "EST to KST Conversion - WorldTimeServer.com",
+                    "snippet": "Eastern Standard Time is 14 hours behind Korea Standard Time. Convert more time zones by visiting the time zone page and clicking on common time zone conversions. Or use the form at the bottom of this page for easy conversion.",
+                    "emphasis": [
+                        "14 hours behind Korea Standard Time"
+                    ]
+                },
+                {
+                    "question": "Is Korean time UTC?",
+                    "displayed_link": "https://en.m.wikipedia.org › wiki",
+                    "url": "https://en.m.wikipedia.org/wiki/Time_in_South_Korea",
+                    "title": "Time in South Korea - Wikipedia",
+                    "snippet": "South Korea has one time zone, Korea Standard Time (UTC+09:00), which is abbreviated KST.",
+                    "emphasis": [
+                        "UTC+09:00"
+                    ]
+                },
+                {
+                    "question": "What time is it in Korea PM?",
+                    "displayed_link": "https://www.timeanddate.com › sout...",
+                    "url": "https://www.timeanddate.com/worldclock/south-korea",
+                    "title": "Time in South Korea - Time and Date"
+                },
+                {
+                    "question": "How far ahead is Korea time from GMT?",
+                    "displayed_link": "https://www.timeanddate.com › time",
+                    "url": "https://www.timeanddate.com/time/zone/south-korea/seoul",
+                    "title": "Time Zone & Clock Changes in Seoul, South Korea - Time and Date"
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "Savvy Time World Clock",
+            "displayed_link": "https://savvytime.com › converter",
+            "title": "EST to KST Converter",
+            "url": "https://savvytime.com/converter/est-to-kst",
+            "snippet": "Time conversion from Eastern Standard Time (-5) to Korea Standard Time(+9). EST to KST time zones converter, calculator, table and map."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "TimeBie",
+            "displayed_link": "https://www.timebie.com › timezone",
+            "title": "EST to Korea Time Converter",
+            "url": "https://www.timebie.com/timezone/easternkorea.php",
+            "snippet": "11:00 AM (11:00) Korea Time = 9:00 PM (21:00) Previous Day EST. 11:30 AM (11:30) Korea Time = 9:30 PM (21:30) Previous Day EST. 12:00 PM (12:00) Korea Time =."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "Google",
+            "displayed_link": "https://www.worldtimebuddy.com › ...",
+            "title": "Seoul Time to EST Converter - Convert Seoul, South Korea Time to Eastern Time - World Time Buddy",
+            "url": "https://www.worldtimebuddy.com/south-korea-seoul-to-est",
+            "snippet": "Quickly convert time in Seoul, South Korea to Eastern Standard Time (EST) with this easy-to-use, modern time zone converter."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "TimeBie",
+            "displayed_link": "https://www.timebie.com › timezone",
+            "title": "EST to Seoul Time Converter",
+            "url": "https://www.timebie.com/timezone/easternseoul.php",
+            "snippet": "12:00 PM (12:00) Previous Day EST. 2:30 AM (2:30) Seoul Time = 12:30 PM (12:30) ... 12:30 PM (12:30) Seoul Time = 10:30 PM (22:30) Previous Day EST. 1:00 PM (13 ..."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "FreeConvert",
+            "displayed_link": "https://www.freeconvert.com › time",
+            "title": "EST to KST Converter",
+            "url": "https://www.freeconvert.com/time/est-to-kst",
+            "snippet": "The Eastern Standard Time (EST) is 14 hours behind of Korea Standard Time (KST). EST to KST meeting planner. Once you convert EST to KST, click on the \"Copy ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "WorldTimeServer.com",
+            "displayed_link": "https://www.worldtimeserver.com › ...",
+            "title": "EST to KST Conversion",
+            "url": "https://www.worldtimeserver.com/time-zones/est-to-kst/",
+            "snippet": "View the EST to KST conversion below. Eastern Standard Time is 14 hours behind Korea Standard Time. Convert more time zones by visiting the time zone page and ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "globaltimeconverter.com",
+            "displayed_link": "https://globaltimeconverter.com › vi...",
+            "title": "United States Time to South Korea Time Converter ( EST to KST )",
+            "url": "https://globaltimeconverter.com/time-converter/vincennes-time-to-south-korea-time",
+            "snippet": "12:00:00 PM 12:00:00 Next Day. 10:30:00 PM 22:30:00, 12:30:00 PM 12:30:00 Next ... EST stands for Eastern Standard Time , and KST stands for Korea Standard Time."
+        },
+        {
+            "sequence": 11,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "EST KST 변환"
+                },
+                {
+                    "query": "EST time"
+                },
+                {
+                    "query": "EST to Korea Time"
+                },
+                {
+                    "query": "8am EST to Korea time"
+                },
+                {
+                    "query": "EST to KST"
+                },
+                {
+                    "query": "1pm EST to Korea time"
+                }
+            ]
+        }
+    ]
+}
