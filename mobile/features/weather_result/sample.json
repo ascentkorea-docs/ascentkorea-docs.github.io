@@ -1,0 +1,295 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "1c01830f-ec76-4ad3-86b1-7bf8ba174546",
+        "sub_id": 0,
+        "requested_time": "2023-10-26T02:13:54.614Z",
+        "q": "미국 날씨",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%AF%B8%EA%B5%AD+%EB%82%A0%EC%94%A8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0103.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231026/2310261114/GG%09M%09ko%09kr%093f49839659828bd8c24bbb8112bb5f760005%09South%20Korea%0920231026021354614.html",
+        "json_url": "http://node0103.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231026/2310261114/GG%09M%09ko%09kr%093f49839659828bd8c24bbb8112bb5f760005%09South%20Korea%0920231026021354614.json",
+        "crawl_start_time": "2023-10-26T02:13:54.907Z",
+        "crawl_end_time": "2023-10-26T02:14:00.498Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "강화 골프장",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 5.59
+    },
+    "information": {
+        "version": "5.14.0.master",
+        "displayed_query": "미국 날씨",
+        "parsed_time": "2023-11-24T05:35:07.058Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "weather_result"
+        },
+        {
+            "sequence": 2,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "미국 지역별 날씨"
+                },
+                {
+                    "query": "미국 날씨 지도"
+                },
+                {
+                    "query": "미국 날씨 전망"
+                },
+                {
+                    "query": "미국 주간 날씨"
+                },
+                {
+                    "query": "미국 전국 날씨"
+                },
+                {
+                    "query": "미국 동부 날씨"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 1,
+            "site_name": "AccuWeather",
+            "displayed_link": "https://www.accuweather.com › unit...",
+            "title": "전국 현재 날씨",
+            "url": "https://www.accuweather.com/ko/us/united-states-weather",
+            "snippet": "Get the 미국 weather forecast including weather radar and current conditions in 미국 across major cities."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 2,
+            "site_name": "The Weather Channel",
+            "displayed_link": "https://weather.com › weather › today",
+            "title": "로스앤젤레스, CA, 미국 일기예보 및 날씨",
+            "url": "https://weather.com/ko-KR/weather/today/l/Los+Angeles+CA+United+States?canonicalCityId=84c64154109916077c8d3c2352410aaae5f6eeff682000e3a7470e38976128c2",
+            "snippet": "로스앤젤레스, CA, 미국 날씨 예보 · 아침. 19°. -- · 오후. 22°. 강수확률3% · 저녁. 18°. 강수확률7% · 밤새. 17°. 강수확률11% ..."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 3,
+            "site_name": "World Weather Information Service",
+            "displayed_link": "https://worldweather.wmo.int › cou...",
+            "title": "미합중국 | 세계기상정보서비스(WWIS)",
+            "url": "https://worldweather.wmo.int/kr/country.html?countryCode=93",
+            "snippet": "미국기상청 · 워싱턴 DC (수도) 기상 예보. 월. 16 10월. 7°C | 15°C. 맑음. 16 10월. 월. 7°C | 15°C. 맑음. 화. 17 10월. 9°C | 17°C. 맑음. 17 10월. 화. 9°C | 17°C."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 4,
+            "site_name": "Tomorrow.io",
+            "displayed_link": "https://www.tomorrow.io › weather",
+            "title": "날씨: 미국",
+            "url": "https://www.tomorrow.io/weather/ko/US/",
+            "snippet": "날씨: 미국 레이더에서 보기 · 워싱턴 DC, 컬럼비아 특별구. 68°. 흐림. 체감: 68°. 68° / 68° · 뉴욕시, 뉴욕. 68°. 맑은. 체감: 68°. 68° / 68° ..."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 5,
+            "site_name": "MSN",
+            "displayed_link": "https://www.msn.com › in-미국",
+            "title": "미국 일기예보 | MSN 날씨",
+            "url": "https://www.msn.com/ko-kr/weather/forecast/in-%EB%AF%B8%EA%B5%AD?loc=eyJjIjoi66%2B46rWtIiwiaSI6IlVTIiwiZyI6ImtvLWtyIiwieCI6Ii05Ny44MjE5OTg1OTYxOTE0IiwieSI6IjM3Ljc1MDk5OTQ1MDY4MzU5NCJ9&weadegreetype=C",
+            "snippet": "오늘. 22°. 17°. 강수량 94% · (수) 25일. 25°. 12°. 강수량 32% · (목) 26일. 13°. 5°. 강수량 1% · (금) 27일. 10°. 0°. 강수량 50% · (토) 28일. 4°. -1°. 강수량 73%."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 6,
+            "site_name": "ko.allmetsat.com",
+            "displayed_link": "https://ko.allmetsat.com › north-am...",
+            "title": "10일간 기상 예보: 뉴욕, 뉴욕 미국 - 위성 영상",
+            "url": "https://ko.allmetsat.com/weather-forecast/north-america.php?city=new-york-us-ny",
+            "snippet": "25일 수요일, 17, 22, 흐림, 구름 많음, 구름 조금. 26일 목요일, 15, 25, 맑음, 흐림, 맑음, 구름 조금, 구름 많음, 흐림. 27일 금요일, 16, 26, 흐림 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 7,
+            "site_name": "ko.weather.town",
+            "displayed_link": "https://ko.weather.town › united-states",
+            "title": "날씨 미국 - 오늘, 내일, 일주일 동안 일기 예보 - weather.town",
+            "url": "https://ko.weather.town/catalog/united-states/",
+            "snippet": "미국 weather.town -의 미국 시간에, 10, 15 일 동안 정확한 일기 예보를 가져옵니다. 에 대한 최신 정보 미국."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 8,
+            "site_name": "1blueplanet.com",
+            "displayed_link": "https://www.1blueplanet.com › usa",
+            "title": "미국 일기 예보",
+            "url": "https://www.1blueplanet.com/weather/ko/usa.html",
+            "snippet": "미국 날씨 10 일 지역의 날씨, 현재 온도, 날씨,지도, 화씨 또는 섭씨, 온도 조건, 전 세계 도시에서 세계 날씨 예보 현재 날씨, 기상, 오늘의 날씨, 내일 예보, 습도, ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 9,
+            "site_name": "HikersBay",
+            "displayed_link": "https://hikersbay.com › ... › 미국",
+            "title": "미국 날씨입니다 2023 기후와 날씨 미국 - 최고의 시간과 미국 여행 ...",
+            "url": "https://hikersbay.com/climate/usa?lang=ko",
+            "snippet": "미국 날씨 다습 한 아열대 지방 기후에 의해 영향을 받습니다. 건조 한 계절, 뜨거운 여름 온화한. 가장 따뜻한 달의 평균 기온은 22 ° c (72 ° f)입니다. 가장 추운 달의 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 10,
+            "site_name": "Freemeteo",
+            "displayed_link": "https://i-weather.com › weather",
+            "title": "날씨. 일기 예보. 현재 날씨. 악천후 경고",
+            "url": "https://i-weather.com/mobile/weather/?language=korean&country=us-united-states",
+            "snippet": "날씨. 모든 도시, 마을 및 지명에 대한 상세 주간 예보. 현재 기상 조건. 악천후에 대한 기상 경보. 장기 예보. i-weather.com."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 11,
+            "site_name": "ko.weather-forecasts.ru",
+            "displayed_link": "https://ko.weather-forecasts.ru › ust-...",
+            "title": "우스 미국 날씨 예보",
+            "url": "https://ko.weather-forecasts.ru/forecast/ru/ust-usa/",
+            "snippet": "우스 미국 날씨 예보 ; 월요일. 월요일. 23. 10월. 온도, 기온, 풍향/풍속 ; 월요일. 월요일. 23. 10월 · 새벽-2...-1 °C00:01-06:00, 가벼운 눈. 풍향/풍속: 서양의 서양의, ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 12,
+            "site_name": "Naver Blog",
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "date": "2021. 1. 5.",
+            "title": "미국 날씨, 정리해드립니다 : 네이버 블로그",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=enterplan2015&logNo=222197197979&categoryNo=23&proxyReferer=",
+            "snippet": "2021. 1. 5. — 일반적으로 봄과 가을이 짧고 여름에는 40도가 넘을 정도로 무덥습니다. 이에 반해 겨울은 영하 10도 이하로 떨어질 만큼 춥습니다. 특히 5대호의 주변에 ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 13,
+            "site_name": "MeteoTrend.com",
+            "displayed_link": "https://ko.meteotrend.com › forecast",
+            "title": "날씨미국-정확하고 상세 일기 예보미국를 위한 오늘날,내일 주습니다.",
+            "url": "https://ko.meteotrend.com/forecast/us/",
+            "snippet": "MeteoTrend:날씨미국를 위한 오늘날,내일 주습니다. 정확하고 상세 일기 예보미국니다. 온도와 습도,공기의 압력,속도,바람의 방향,강수량,바니다."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 14,
+            "site_name": "Meteodb.com",
+            "displayed_link": "https://meteodb.com › usa",
+            "title": "미국 — 월별 날씨, 물 온도",
+            "url": "https://meteodb.com/ko/usa",
+            "snippet": "미국, 월별 날씨, 물 온도. 리조트에 날씨. 최근 3 년간 기상 데이터."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 15,
+            "site_name": "itshowke.com",
+            "displayed_link": "https://itshowke.com › 미국-기상청...",
+            "title": "미국 기상청 사이트 2곳 한국날씨 확인 방법 - Little information",
+            "url": "https://itshowke.com/%EB%AF%B8%EA%B5%AD-%EA%B8%B0%EC%83%81%EC%B2%AD-%EC%82%AC%EC%9D%B4%ED%8A%B8-2%EA%B3%B3-%ED%95%9C%EA%B5%AD%EB%82%A0%EC%94%A8-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/",
+            "snippet": "BBC 웨더 (BBC Weather) · [BBC 웨더 홈페이지]를 방문한다. · [Enetr city]칸에 본인의 도시 이름을 검색한다. 저는 부산이라 검색을 해보았습니다. 아래의 busan, south ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 16,
+            "site_name": "미주중앙일보",
+            "displayed_link": "https://news.koreadaily.com › society",
+            "date": "2시간 전",
+            "title": "세계의 날씨(10월26일)",
+            "url": "https://news.koreadaily.com/2023/10/25/society/international/20231025170146846.html",
+            "snippet": "2시간 전 — ... 날씨(10월26일) ( ... ASK미국 · 전체상담 · 전문가 칼럼 · 전문가 소개 · 미국생활 TIP · 온더로드 · 신차 ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 17,
+            "site_name": "애틀랜타 조선일보",
+            "displayed_link": "https://atlantachosun.com › news",
+            "date": "8시간 전",
+            "title": "“9 to 5 근무 너무 힘들다” 눈물 글썽인 미국 20대… 네티즌 반응은",
+            "url": "https://atlantachosun.com/news/399652",
+            "snippet": "8시간 전 — 올겨울 날씨는 따뜻하고 습해. 국립해양대기청 전망 보고서, 엘니뇨 영향 \"중남부 가뭄은 이달 하순부터 나아질 것\" 미국의 올겨울 날씨.. 하마스 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 18,
+            "site_name": "Weather Spark",
+            "displayed_link": "https://ko.weatherspark.com › 미국-...",
+            "title": "로스앤젤레스에서 연중 기후 및 평균 날씨 미국, 캘리포니아 주",
+            "url": "https://ko.weatherspark.com/y/1705/%EB%AF%B8%EA%B5%AD-%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84-%EC%A3%BC-%EB%A1%9C%EC%8A%A4%EC%95%A4%EC%A0%A4%EB%A0%88%EC%8A%A4%EC%97%90%EC%84%9C-%EB%85%84%EC%A4%91-%ED%8F%89%EA%B7%A0-%EB%82%A0%EC%94%A8",
+            "snippet": "로스앤젤레스에서 연중 기후 및 평균 날씨 미국, 캘리포니아 주. 로스앤젤레스에서, 여름은 따뜻한, 매우 건조한 및 맑은, 겨울은 긴, 선선한, 비가오는 및 부분적으로 ..."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 19,
+            "site_name": "YouTube",
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "투모로우바이투게더, 미국 빌보드 각종 차트 휩쓸어 [잇슈 연예] / KBS 2023.10.26. - YouTube",
+            "url": "https://m.youtube.com/watch?v=owR8pP_VKbI",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "#",
+                "date": "3시간 전"
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 20,
+            "site_name": "ko.meteocast.in",
+            "displayed_link": "https://ko.meteocast.in › forecast",
+            "title": "날씨미국-정확하고 상세 일기 예보미국를 위한 오늘날,내일 주습니다.",
+            "url": "https://ko.meteocast.in/forecast/us/",
+            "snippet": "MeteoCast:날씨미국를 위한 오늘날,내일 주습니다. 정확하고 상세 일기 예보미국니다. 온도와 습도,공기의 압력,속도,바람의 방향,강수량,바니다."
+        },
+        {
+            "sequence": 23,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "미국 일기예보 사이트"
+                },
+                {
+                    "query": "미국 기상청 한국날씨"
+                },
+                {
+                    "query": "Weather 10 days"
+                },
+                {
+                    "query": "날씨 미국 텍사스"
+                },
+                {
+                    "query": "미국 기상청"
+                },
+                {
+                    "query": "미국기상청 한국태풍"
+                }
+            ]
+        }
+    ]
+}
