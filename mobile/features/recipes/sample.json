@@ -1,0 +1,489 @@
+{
+    "html_contents_type": "google_serp",
+    "search_parameters": {
+        "engine": "google",
+        "id": "fd179017-3e6d-4fa8-a820-9a2dab08ade8",
+        "sub_id": 0,
+        "requested_time": "2023-12-11T19:17:18.676Z",
+        "q": "된장찌개 레시피",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%90%9C%EC%9E%A5%EC%B0%8C%EA%B0%9C+%EB%A0%88%EC%8B%9C%ED%94%BC&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0072.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231212/2312120417/GG%09M%09ko%09kr%0906757a1c5dd33b3eb4281024f99dc8b70008%09South%20Korea%0920231211191718676.html",
+        "json_url": "http://node0072.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/231212/2312120417/GG%09M%09ko%09kr%0906757a1c5dd33b3eb4281024f99dc8b70008%09South%20Korea%0920231211191718676.json",
+        "crawl_start_time": "2023-12-11T19:17:18.783Z",
+        "crawl_end_time": "2023-12-11T19:17:24.413Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": null,
+            "domain": "wp",
+            "purpose": "renewal_serp"
+        },
+        "crawl_elapsed_time": 5.62
+    },
+    "information": {
+        "version": "5.17.0.master",
+        "displayed_query": "된장찌개 레시피",
+        "parsed_time": "2023-12-28T01:56:14.098Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "filters_and_topics",
+            "refinements": [
+                {
+                    "type": "filter",
+                    "text": "동영상"
+                },
+                {
+                    "type": "filter",
+                    "text": "이미지"
+                },
+                {
+                    "type": "filter",
+                    "text": "쇼핑"
+                },
+                {
+                    "type": "filter",
+                    "text": "뉴스"
+                },
+                {
+                    "type": "filter",
+                    "text": "도서"
+                },
+                {
+                    "type": "filter",
+                    "text": "지도"
+                },
+                {
+                    "type": "filter",
+                    "text": "항공편"
+                },
+                {
+                    "type": "filter",
+                    "text": "금융"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 1,
+            "displayed_link": "https://m.10000recipe.com › recipe",
+            "title": "[찌개요리]된장찌개 맛있게 끓이는법,된장찌개 만드는법 - 만개의레시피",
+            "url": "https://m.10000recipe.com/recipe/6850626",
+            "snippet": "두부1/2모,양파1/2개,감자1/2개,호박1/3개,대파1/2개,청양고추2개를 먹기 좋은 크기로 잘라서 준비합니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.10000recipe.com/recipe/6850626",
+                "desc": "된장찌개 레시피(출처: m.10000recipe.com)"
+            },
+            "rating": {
+                "rating_value": "5.0",
+                "rating_count": "(11)"
+            }
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "displayed_link": "https://m.10000recipe.com › recipe",
+            "title": "【고깃집 된장찌개 만드는 방법】 - 만개의레시피",
+            "url": "https://m.10000recipe.com/recipe/6867859",
+            "snippet": "된장 2스푼 구매 · 쌈장 2스푼 구매 · 두부 1/2모 구매 · 양파 1/3개 구매 · 대파 1줌 구매 · 땡초 4개 구매 · 호박 1/2줌 구매 · 다진마늘 1스푼 구매 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.10000recipe.com/recipe/6867859",
+                "desc": "된장찌개 레시피(출처: m.10000recipe.com)"
+            },
+            "rating": {
+                "rating_value": "5.0",
+                "rating_count": "(90)"
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "recipes",
+            "title": "레시피",
+            "grid": {
+                "items": [
+                    {
+                        "title": "[찌개요리]된장찌개 맛있게 끓이는법,된장찌개 만드는법",
+                        "source": "만개의레시피",
+                        "rating": {
+                            "rating_value": "5.0",
+                            "rating_count": "(11)"
+                        },
+                        "time": "30분",
+                        "url": "https://www.10000recipe.com/recipe/6850626"
+                    },
+                    {
+                        "title": "차돌박이 된장찌개",
+                        "source": "레시피",
+                        "time": "30분",
+                        "url": "https://www.cj.co.kr/kr/k-food-life/cj-the-kitchen/recipe/0000002053"
+                    },
+                    {
+                        "title": "【고깃집 된장찌개 만드는 방법】",
+                        "source": "만개의레시피",
+                        "rating": {
+                            "rating_value": "5.0",
+                            "rating_count": "(90)"
+                        },
+                        "time": "30분",
+                        "url": "https://www.10000recipe.com/recipe/6867859"
+                    },
+                    {
+                        "title": "미더덕 된장찌개",
+                        "source": "우리의식탁",
+                        "time": "20분",
+                        "url": "https://wtable.co.kr/recipes/KfUMpr2n92YwXP1xGebVKeWN"
+                    }
+                ]
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "된장찌개 황금레시피"
+                },
+                {
+                    "query": "간단한 된장찌개 레시피"
+                },
+                {
+                    "query": "고깃집 된장찌개 레시피"
+                },
+                {
+                    "query": "소고기 된장찌개 레시피"
+                },
+                {
+                    "query": "삼겹살 된장찌개 레시피"
+                },
+                {
+                    "query": "두부 된장찌개"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 3,
+            "displayed_link": "https://m.youtube.com › watch",
+            "date": "2022. 1. 10.",
+            "title": "현존하는 된장찌개 중에서 가장 맛있는 레시피 공짜로 가져가세요 - YouTube",
+            "url": "https://m.youtube.com/watch?v=o1ZYqaT7Zhc",
+            "snippet": "2022. 1. 10. — 김대석 셰프의 31년 노하우를 모두 공개합니다. 오늘은 된장찌개 레시피를 공개하겠습니다. [육수 재료] 물 4컵(640mL), 국물멸치 한줌, 건새우 한줌, ..."
+        },
+        {
+            "sequence": 7,
+            "type": "video_results",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "육수 낼 필요없이 된장찌개 맛있게 끓이는 방법!/쉽고 간편하게😉",
+                    "url": "https://m.youtube.com/watch?v=4iDLIpXktxM",
+                    "source": "YouTube",
+                    "channel": "[수현집밥]Korea food recipe",
+                    "date": "2022. 3. 12.",
+                    "duration": "0:59"
+                },
+                {
+                    "title": "Doenjang jjigae '1' (The easiest version)",
+                    "url": "https://m.youtube.com/watch?v=ffuakdFmuh4",
+                    "source": "YouTube",
+                    "channel": "백종원 PAIK JONG WON",
+                    "date": "2020. 3. 5.",
+                    "duration": "13:58"
+                },
+                {
+                    "title": "고깃집 된장찌개 비법 어렵지 않아요",
+                    "url": "https://m.youtube.com/watch?v=OWbHO3c_tOg",
+                    "source": "YouTube",
+                    "channel": "만개의레시피 10K Recipe",
+                    "date": "2023. 3. 31.",
+                    "duration": "0:59"
+                },
+                {
+                    "title": "된장찌개 맛있게 끓이는 방법(김진옥요리가좋다)",
+                    "url": "https://m.youtube.com/watch?v=Vy24nNa8xOI",
+                    "source": "YouTube",
+                    "channel": "김진옥요리가좋다",
+                    "date": "2021. 10. 18.",
+                    "duration": "3:07"
+                },
+                {
+                    "title": "비법공개 된장찌개가 맛있어지는 비밀 - 이것을 꼭 넣어주세요",
+                    "url": "https://www.youtube.com/watch?v=HNqL7YuHIaU&vl=ko",
+                    "source": "YouTube",
+                    "channel": "오늘식탁  - Today Table",
+                    "date": "2023. 1. 28.",
+                    "duration": "11:56"
+                },
+                {
+                    "title": "[최요비] 1분 레시피ㅣ햄된장찌개ㅣ천상현",
+                    "url": "https://m.youtube.com/watch?v=jIsQzoBQaGU",
+                    "source": "YouTube",
+                    "channel": "EBS 최고의 요리비결",
+                    "date": "2023. 2. 5.",
+                    "duration": "1:03"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 4,
+            "displayed_link": "https://m.cj.co.kr › recipe",
+            "title": "차돌박이 된장찌개 - 레시피",
+            "url": "https://m.cj.co.kr/kr/k-food-life/cj-the-kitchen/recipe/0000002053",
+            "snippet": "구수한 한식메주된장에 멸치, 다시마, 바지락, 게로 맛을 낸 시원한 해물육수와 양념을 더한 해찬들 그대로 된장찌개를 넣고 국물요리의 감초 한식예찬을 조금 넣은 다음 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.cj.co.kr/kr/k-food-life/cj-the-kitchen/recipe/0000002053",
+                "desc": "된장찌개 레시피(출처: m.cj.co.kr)"
+            }
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 5,
+            "displayed_link": "https://m.blog.naver.com › mj_huda...",
+            "date": "2023. 4. 26.",
+            "title": "된장찌개 맛있게 끓이는법 재료 돼지고기 된장찌개 레시피 집밥 저녁메뉴 추천 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/mj_hudadak/223085451526?isInf=true",
+            "snippet": "2023. 4. 26. — 카테고리 이동 MJ의후다닥레시피~♥ · 재료 · 1숟가락= · 1커피스푼= ·  · 멸치다시마 육수 500~550ml · 된장 3숟가락 · 고추장이나 쌈장 1숟가락 · 다진 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.blog.naver.com/mj_hudadak/223085451526?isInf=true",
+                "desc": "된장찌개 레시피(출처: m.blog.naver.com)"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 6,
+            "displayed_link": "https://themoonworld.com › 밥에-...",
+            "title": "밥에 비벼 먹는 된장찌개~ 된장 짜글이 맛있게 끓이는 방법 - - 엉클쿡 맛있는 음식 이야기",
+            "url": "https://themoonworld.com/%EB%B0%A5%EC%97%90-%EB%B9%84%EB%B2%BC-%EB%A8%B9%EB%8A%94-%EB%90%9C%EC%9E%A5%EC%B0%8C%EA%B0%9C-%EB%90%9C%EC%9E%A5-%EC%A7%9C%EA%B8%80%EC%9D%B4-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EB%81%93%EC%9D%B4%EB%8A%94/",
+            "snippet": "진간장 2 큰 스푼, 된장 1 큰 스푼, 고추장 1 큰 스푼을 넣고 끓입니다. 물 150ml를 다시 넣고 썰어 놓은 애호박을 넣고 된장물에 담가 놓았던 두부를 꺼내서 넣습니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://themoonworld.com/%EB%B0%A5%EC%97%90-%EB%B9%84%EB%B2%BC-%EB%A8%B9%EB%8A%94-%EB%90%9C%EC%9E%A5%EC%B0%8C%EA%B0%9C-%EB%90%9C%EC%9E%A5-%EC%A7%9C%EA%B8%80%EC%9D%B4-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EB%81%93%EC%9D%B4%EB%8A%94/",
+                "desc": "된장찌개 레시피(출처: themoonworld.com)"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 7,
+            "displayed_link": "https://hls3790.tistory.com › ...",
+            "date": "2023. 3. 13.",
+            "title": "기본재료로 된장찌개 맛있게 끓이는 방법 /된장찌개 만드는방법 김진옥요리가좋다",
+            "url": "https://hls3790.tistory.com/1653",
+            "snippet": "2023. 3. 13. — 1. 보통 된장찌개에 다진마늘을 넣어주는데요~ · 2. 무1토막은 나박하게 썰어줍니다. 양파는 큼직하게 썰어줍니다. · 3. 뚝배기냄비에 멸치다시마육수 500ml ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://hls3790.tistory.com/1653",
+                "desc": "된장찌개 레시피(출처: hls3790.tistory.com)"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 8,
+            "displayed_link": "https://chef-choice.tistory.com › ...",
+            "date": "2021. 8. 2.",
+            "title": "고깃집 된장찌개 레시피, 된장찌개 끓이는 방법 어렵지 않아요 - Chef Kim의 뚝딱 레시피",
+            "url": "https://chef-choice.tistory.com/m/2",
+            "snippet": "2021. 8. 2. — 고깃집 된장찌개 레시피, 된장찌개 끓이는 방법 어렵지 않아요 · 2. 양파 1/4개를 썰어준다. · 3. 대파 약 1대 썰어준다. · [조리 순서]. 1. 뚝배기 또는 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://chef-choice.tistory.com/m/2",
+                "desc": "된장찌개 레시피(출처: chef-choice.tistory.com)"
+            }
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 9,
+            "displayed_link": "https://m.blog.naver.com › ilovezza...",
+            "date": "2023. 11. 6.",
+            "title": "된장찌개 맛있게 끓이는법 고깃집 된장찌개 레시피 재료 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true",
+            "snippet": "2023. 11. 6. — 고깃집 가면 된장찌개는 필수죠~. . 두부와 양파 딱 두가지 된장찌개 재료만으로도 충분히 맛있는 집이 있는가 하면.",
+            "images": [
+                {
+                    "landing_url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true"
+                },
+                {
+                    "landing_url": "https://m.blog.naver.com/ilovezzangv2/223256863946?isInf=true"
+                }
+            ]
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 10,
+            "displayed_link": "https://wtable.co.kr › recipes",
+            "title": "냉이된장찌개 - 우리의식탁 | 레시피",
+            "url": "https://wtable.co.kr/recipes/aWZHY7NBDqemtyKRUAa6MsLU",
+            "snippet": "냉이된장찌개 · 기본재료. 2~3인분. 냉이. 한줌. 바지락조개. 1컵. 두부. 1/2모. 감자. 1개. 애호박. 1/2개. 양파. 1/4개. 대파. 1/2대. 홍고추. 1개. 청양고추. 1개."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 11,
+            "displayed_link": "https://app.samsungfood.com › reci...",
+            "date": "2023. 8. 24.",
+            "title": "된장찌개 레시피 Recipe",
+            "url": "https://app.samsungfood.com/recipes/107018a28253b7d7ac98c9d60afd83f73c3",
+            "snippet": "2023. 8. 24. — Instructions · 애호박, 양파, 감자, 두부는 먹기 좋은 크기로 잘라 준비해주시고 홍고추와 쪽파는 어슷어슷썰어 준비해주세요. · 뚝배기나 냄비에 2컵의 ...",
+            "rating": {
+                "rating_value": "5.0",
+                "rating_count": "(1)"
+            }
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 12,
+            "displayed_link": "https://yolyjoly.com › ...",
+            "title": "된장찌개 레시피, soybean pa...",
+            "url": "https://yolyjoly.com/index.php?cate=000002007&type=view&seq=11&mode=dialog",
+            "snippet": "Recipe Information. 1. 양파, 애호박, 두부, 대파, 고추를 썰어줍니다. Slice onion, zucchini(Young squash), tofu, green onion, and pepper. 2. 손질한 야채를 넣고 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 13,
+            "displayed_link": "https://greensnakediary.tistory.com › ...",
+            "date": "2022. 11. 23.",
+            "title": "두부 된장찌개 맛있게 끓이는법 백종원 된장찌개 레시피 - 라비키친 주부놀이",
+            "url": "https://greensnakediary.tistory.com/1600",
+            "snippet": "2022. 11. 23. — 된장찌개는 맛있는 된장만 있으면 반은 성공했다고 생각하는데요 오늘은 백종원 요리책 집밥 메뉴에서 기본이 되는 된장찌개 만드는 법을 따라서 된장 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 14,
+            "displayed_link": "https://wtable.co.kr › recipes",
+            "title": "미더덕 된장찌개 - 우리의식탁 | 레시피",
+            "url": "https://wtable.co.kr/recipes/KfUMpr2n92YwXP1xGebVKeWN",
+            "snippet": "미더덕 된장찌개 · 깨끗이 씻은 애호박과 양파는 깍뚝 썰어주세요. 무는 나박 썰어주세요. · 냄비에 멸치 다시마 육수를 붓고 된장을 넣어 풀어 주세요. · 양파, 대파, ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 15,
+            "displayed_link": "https://soba-home.com › 된장찌개-...",
+            "date": "2023. 2. 3.",
+            "title": "된장찌개 레시피 - 실패 없이 맛있게 만드는 방법 3가지 - 소바네",
+            "url": "https://soba-home.com/%EB%90%9C%EC%9E%A5%EC%B0%8C%EA%B0%9C-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%8B%A4%ED%8C%A8-%EC%97%86%EC%9D%B4-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80/",
+            "snippet": "2023. 2. 3. — 요리 순서 · 채소를 원하는 크기로 잘라줍니다. · 물 또는 육수에 된장과 고추장을 잘 풀고 불을 켜주세요. · 끓기 시작하면 감자를 넣어주세요. · 감자가 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "만개의레시피",
+                            "landing_url": "https://www.10000recipe.com/recipe/6850626",
+                            "alt": "[찌개요리]된장찌개 맛있게 끓이는법,된장찌개 만드는법"
+                        },
+                        {
+                            "source": "만개의레시피",
+                            "landing_url": "https://www.10000recipe.com/recipe/6844703",
+                            "alt": "백종원 된장찌개 레시피"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "만개의레시피",
+                            "landing_url": "https://www.10000recipe.com/recipe/6867859",
+                            "alt": "【고깃집 된장찌개 만드는 방법】"
+                        },
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://www.youtube.com/watch?v=eFx9Mbm3_IQ",
+                            "alt": "된장찌개 레시피 이게 가장 맛있어요😋 정말 간단해요! 실패할 염려없어요🤤"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "images",
+            "grid": {
+                "items": [
+                    [
+                        {
+                            "source": "YouTube",
+                            "landing_url": "https://m.youtube.com/watch?v=o1ZYqaT7Zhc",
+                            "alt": "현존하는 된장찌개 중에서 가장 맛있는 레시피 공짜로 가져가세요"
+                        },
+                        {
+                            "source": "레시피",
+                            "landing_url": "https://www.cj.co.kr/kr/k-food-life/cj-the-kitchen/recipe/0000002053",
+                            "alt": "차돌박이 된장찌개"
+                        }
+                    ],
+                    [
+                        {
+                            "source": "만개의레시피",
+                            "landing_url": "https://www.10000recipe.com/recipe/6859263",
+                            "alt": "매콤 된장찌개, 채소와 두부만 넣은 초간단 초스피드 된장찌개"
+                        },
+                        {
+                            "source": "네이버 블로그 - NAVER",
+                            "landing_url": "https://m.blog.naver.com/mj_hudadak/223085451526?isInf=true",
+                            "alt": "된장찌개 맛있게 끓이는법 재료 돼지고기 된장찌개 레시피 집밥 저녁 ..."
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "된장찌개 재료"
+                },
+                {
+                    "query": "차돌된장찌개 레시피"
+                },
+                {
+                    "query": "된장찌개 양념"
+                },
+                {
+                    "query": "된장찌개 다시다"
+                },
+                {
+                    "query": "된장찌개 무"
+                },
+                {
+                    "query": "된장찌개 종류"
+                }
+            ]
+        }
+    ]
+}
