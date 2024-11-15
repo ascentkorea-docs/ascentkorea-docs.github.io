@@ -1,0 +1,590 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "286d47c5-30b7-48da-a650-f7dc6163ab75",
+        "sub_id": 0,
+        "requested_time": "2024-11-15T03:00:42.845Z",
+        "q": "국립극장",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0164.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/241115/2411151200/GG%09M%09ko%09kr%09bdba4e472436ff266b4b0fe0aaf76b8c0004%09South%20Korea%0920241115030042845.html",
+        "json_url": "http://node0164.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/241115/2411151200/GG%09M%09ko%09kr%09bdba4e472436ff266b4b0fe0aaf76b8c0004%09South%20Korea%0920241115030042845.json",
+        "crawl_start_time": "2024-11-15T03:00:44.452Z",
+        "crawl_end_time": "2024-11-15T03:00:49.129Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "국립극장",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 4.67
+    },
+    "information": {
+        "version": "6.4.0.master",
+        "displayed_query": "국립극장",
+        "parsed_time": "2024-11-15T03:00:50.059Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "organic_results",
+            "position": 1,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "국립극장",
+            "displayed_link": "https://www.ntok.go.kr",
+            "title": "국립극장",
+            "url": "https://www.ntok.go.kr/",
+            "date": "이유 알아보기",
+            "snippet": "이 페이지에 관한 정보가 없습니다.",
+            "sitelinks": [
+                {
+                    "title": "공연"
+                },
+                {
+                    "title": "오시는 길"
+                },
+                {
+                    "title": "공지사항"
+                },
+                {
+                    "title": "티켓예매"
+                },
+                {
+                    "title": "달오름극장"
+                },
+                {
+                    "title": "이용안내"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "_func": "header",
+                    "ved": {
+                        "type": 106517
+                    },
+                    "title": "국립극장",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(1.4천)"
+                    }
+                },
+                {
+                    "_func": "sticky_header_tabs",
+                    "ved": {
+                        "type": 189458
+                    },
+                    "tabs": [
+                        {
+                            "text": "개요",
+                            "selected": true
+                        },
+                        {
+                            "text": "리뷰",
+                            "selected": false
+                        },
+                        {
+                            "text": "사진",
+                            "selected": false
+                        },
+                        {
+                            "text": "디렉터리",
+                            "selected": false
+                        },
+                        {
+                            "text": "정보",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "_func": "actions",
+                    "ved": {
+                        "type": 44226
+                    }
+                },
+                {
+                    "_func": "actions",
+                    "ved": {
+                        "type": 44226
+                    }
+                },
+                {
+                    "_func": "address",
+                    "ved": {
+                        "type": 3586
+                    }
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 2,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "나무위키",
+            "displayed_link": "https://namu.wiki › 국립극장",
+            "title": "국립극장",
+            "url": "https://namu.wiki/w/%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5",
+            "date": "2024. 10. 9.",
+            "snippet": "2024. 10. 9. — 별오름극장 - 100여석 창작 공연 활성화를 위한 공연장. 공연예술의 발전을 위한 다양성 확보와 새로운 공연 양식의 개발, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://namu.wiki/w/%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5",
+                "alt": "국립극장(출처: namu.wiki)"
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_search_for",
+            "_plugin": "related_searches",
+            "ved": {
+                "type": 54107
+            },
+            "items": [
+                {
+                    "query": "국립극장 공연"
+                },
+                {
+                    "query": "국립극장 채용"
+                },
+                {
+                    "query": "국립극장 온라인"
+                },
+                {
+                    "query": "국립극장 대관"
+                },
+                {
+                    "query": "국립극단"
+                },
+                {
+                    "query": "국립중앙극장"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "top_stories",
+            "ved": {
+                "type": 25733
+            },
+            "carousels": [
+                {
+                    "title": "만원의 행복…국립극장 '함께, 비발디와 레스피기'",
+                    "date": "16시간 전",
+                    "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%8C%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5-%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5-%ED%95%A8%EA%BB%98-%EB%B9%84%EB%B0%9C%EB%94%94%EC%99%80-%EB%A0%88%EC%8A%A4%ED%94%BC%EA%B8%B0/ar-AA1u2RT8"
+                },
+                {
+                    "title": "국립극장서 누리는 '만원의 행복'…'함께, 비발디와 레스피기'",
+                    "date": "1일 전",
+                    "url": "https://www.newdaily.co.kr/site/data/html/2024/11/14/2024111400081.html"
+                },
+                {
+                    "title": "장애인과 동행하는 국립극장, 내달 '함께, 비발디와 레스피기'",
+                    "date": "19시간 전",
+                    "url": "https://www.edaily.co.kr/News/Read?newsId=04759286639085720&mediaCodeNo=257"
+                },
+                {
+                    "title": "국립극장, 1만원에 즐기는 클래식 '함께, 비발디와 레스피기' 공연",
+                    "date": "1일 전",
+                    "url": "https://m.newspim.com/newsamp/view/20241114000555"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "video_results",
+            "ved": {
+                "type": 21807
+            },
+            "items": [
+                {
+                    "title": "공연예술 복합문화공간 | 국립극장 무대예술지원센터 홍보 영상",
+                    "url": "https://www.youtube.com/watch?v=NybmXvcDpMY",
+                    "source": "YouTube",
+                    "channel": "국립극장 National Theater of Korea",
+                    "date": "1개월 전",
+                    "duration": "1:32"
+                },
+                {
+                    "title": "\"극장장 언제 오나\"…국립극장 · 예술단체장 '공백' / SBS / #D리포트",
+                    "url": "https://m.youtube.com/watch?v=HxVwd_N-CAI",
+                    "source": "YouTube",
+                    "channel": "SBS 뉴스",
+                    "date": "2023. 2. 23.",
+                    "duration": "2:38"
+                },
+                {
+                    "title": "칠순 맞은 국립극장 '시대의 거울에서 미래의 희망으로' / YTN",
+                    "url": "https://www.youtube.com/watch?v=oqfTc7vv5Eg",
+                    "source": "YouTube",
+                    "channel": " YTN",
+                    "date": "2020. 4. 26.",
+                    "duration": "2:34"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "short_videos",
+            "ved": {
+                "type": 161561
+            },
+            "carousels": [
+                {
+                    "channel": "뉴스토마토",
+                    "source": "YouTube",
+                    "date": "1년 전",
+                    "duration": "0:20",
+                    "title": "영화관에서 즐기는 국립극장 공연 [말하는 기자들_대중문화_0920] #shrots",
+                    "url": "https://www.youtube.com/watch?v=GPyu9gojaQw"
+                },
+                {
+                    "channel": "Marie Claire Korea",
+                    "source": "YouTube",
+                    "date": "2개월 전",
+                    "duration": "0:37",
+                    "title": "국립극장 문화광장에서 펼쳐진 #ARTNIGHT2024 #아트나잇2024 ❤️‍🔥",
+                    "url": "https://m.youtube.com/shorts/cxe3YHR5jXQ"
+                },
+                {
+                    "channel": "ntong_ntong",
+                    "source": "Instagram",
+                    "date": "4개월 전",
+                    "duration": "0:20",
+                    "title": "국립극장 | ⠀ 다음주, 24/25 국립극장 레퍼토리시즌이 공개됩니다📣 많은 ...",
+                    "url": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRm-llVchKB_OzZcBSMLE9vefROwwZfY2z-rA"
+                },
+                {
+                    "channel": "국립극단",
+                    "source": "YouTube",
+                    "date": "11개월 전",
+                    "duration": "0:21",
+                    "title": "[국립극단 온라인 극장] 일상에 연극을 더하다!",
+                    "url": "https://www.youtube.com/watch?v=b1IXVyvZVmc"
+                },
+                {
+                    "channel": "공연기획피움",
+                    "source": "YouTube",
+                    "date": "9개월 전",
+                    "duration": "1:15",
+                    "title": "20240308~10 대전오페라단 창작오페라 [이상의 날개] - 국립극장 달오름",
+                    "url": "https://m.youtube.com/watch?v=AWBj-7ZrJnY"
+                },
+                {
+                    "channel": "철의음악 - Musica di Ferro",
+                    "source": "YouTube",
+                    "date": "8개월 전",
+                    "duration": "0:24",
+                    "title": "오페라 \"이상의 날개\" 리허설 장면 | 2024.3.8-10 국립극장 달오름극장에서 ...",
+                    "url": "https://m.youtube.com/shorts/dzWtxZWuBvY"
+                },
+                {
+                    "channel": "제천공연콘텐츠",
+                    "source": "YouTube",
+                    "date": "7개월 전",
+                    "duration": "0:15",
+                    "title": "국립극장 | 공연예술박물관내 별별실감극장 #귀토 #토끼의팔란 #신기술융합 ...",
+                    "url": "https://m.youtube.com/watch?v=IfJvM1Ay77s"
+                },
+                {
+                    "channel": "국립정동극장 Jeongdong Theater",
+                    "source": "YouTube",
+                    "date": "2개월 전",
+                    "duration": "0:22",
+                    "title": "국립정동극장｜뮤지컬 비밀의 화원🌿 우정 사진 따라하기!",
+                    "url": "https://www.youtube.com/watch?v=M3kG0YqMVJE"
+                },
+                {
+                    "channel": "ntong_ntong",
+                    "source": "Instagram",
+                    "date": "5개월 전",
+                    "duration": "0:10",
+                    "title": "국립극장 | ⠀ #만신_페이퍼샤먼 #캐릭터포스터 ⠀ “예민한 자여, 날 좀 건져 ...",
+                    "url": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSu3_Iyc9Sa9Ds9sXHJcQv-KtI5y1PXfPqbFA"
+                },
+                {
+                    "channel": "유튜브 떡상 징조",
+                    "source": "YouTube",
+                    "date": "2주 전",
+                    "duration": "1:01",
+                    "title": "[2024년 10월 31일 목요일 장소 국립극장 해오름극장] 2024 제15회 ...",
+                    "url": "https://www.youtube.com/watch?v=_ojYVcLrmps"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 3,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "인터파크 티켓",
+            "displayed_link": "http://mticket.interpark.com › Detail",
+            "title": "국립극장 하늘극장",
+            "url": "http://mticket.interpark.com/Place/Detail?placeCode=02169",
+            "images": [
+                {
+                    "landing_url": "http://mticket.interpark.com/Place/Detail?placeCode=02169"
+                },
+                {
+                    "landing_url": "http://mticket.interpark.com/Place/Detail?placeCode=02169"
+                },
+                {
+                    "landing_url": "http://mticket.interpark.com/Place/Detail?placeCode=02169"
+                },
+                {
+                    "landing_url": "http://mticket.interpark.com/Place/Detail?placeCode=02169"
+                },
+                {
+                    "landing_url": "http://mticket.interpark.com/Place/Detail?placeCode=02169"
+                }
+            ],
+            "snippet": "예매가능 공연(16) · 국립창극단 〈이날치傳〉 · 레미제라블 · 2024 국립극장 〈완창판소리〉 11월 · 관현악시리즈Ⅱ 〈음악 오디세이:천하제일상〉 · 국립극장 〈마당놀이 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 4,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Wikipedia",
+            "displayed_link": "https://ko.wikipedia.org › wiki",
+            "title": "국립중앙극장 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B7%B9%EC%9E%A5",
+            "snippet": "국립중앙극장(國立中央劇場, National Theater of Korea)은 민족예술의 발전과 연극문화의 향상에 관한 사무를 관장하는 대한민국 문화체육 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B7%B9%EC%9E%A5",
+                "alt": "국립극장(출처: ko.wikipedia.org)"
+            }
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 5,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Instagram",
+            "displayed_link": "https://www.instagram.com › nton...",
+            "title": "국립극장 (@ntong_ntong)",
+            "url": "https://www.instagram.com/ntong_ntong/",
+            "snippet": "국립극장의 소식, 다양한 채널을 통해 만나보세요 · 3,280 posts · 29,689 followers · 1,487 following ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 6,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "국립극장진흥재단",
+            "displayed_link": "http://www.ntokfoundation.or.kr",
+            "title": "국립극장진흥재단",
+            "url": "http://www.ntokfoundation.or.kr/",
+            "snippet": "(재)국립극장진흥재단은 국립중앙극장의 진흥을 위한 사업지원, 위탁시설 관리∙운영 및 개선, 후원금 모집 및 운영, 기타 법인의 설립 목적 달성을 위한 각종 부대사업을 ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 7,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "KOPIS",
+            "displayed_link": "https://www.kopis.or.kr › prfplc",
+            "title": "국립극장",
+            "url": "https://www.kopis.or.kr/por/db/prfplc/prfplcView.do?menuId=MNU_00021&mt10Id=FC000003",
+            "snippet": "국립창극단, 작은 창극 시리즈 · 일시 : 2024.12.18~2024.12.22 · 장소 : 국립극장 달오름극장 · 출연진 :김미진, 최호성, 최용석, 박성우, 조유아, 김수인, 박경민 등 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 8,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "YouTube",
+            "displayed_link": "https://www.youtube.com › ntong2",
+            "title": "국립극장 National Theater of Korea",
+            "url": "https://www.youtube.com/user/ntong2",
+            "snippet": "국립극장 Coming Soon · '날치답게' 살다 간 조선 최고 소리꾼 | 국립창극단 '이날치傳' · 당신의 음악에 투표하세요! | 국립국악관현악단 관현악시리즈Ⅱ '음악 오디세이: ..."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 9,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "한국민족문화대백과사전",
+            "displayed_link": "https://encykorea.aks.ac.kr › Article",
+            "title": "국립극장(國立劇場) - 한국민족문화대백과사전",
+            "url": "https://encykorea.aks.ac.kr/Article/E0006207",
+            "snippet": "국립극장은 1950년에 민족예술의 발전을 위해 국가에서 설립한 극장으로 정식 명칭은 중앙국립극장(中央國立劇場)이다."
+        },
+        {
+            "sequence": 15,
+            "type": "twitter",
+            "subtype": "single_channel",
+            "ved": {
+                "type": 17529
+            },
+            "channel_name": "국립극장",
+            "url": "https://twitter.com/ntok_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "carousels": [
+                {
+                    "channel_name": "국립극장",
+                    "date": "1시간 전",
+                    "url": "https://twitter.com/ntok_/status/1857237546956390601?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "2024-2025 국립극장 레퍼토리시즌\n2025 상반기 티켓 오픈✨\n\n📍티켓 오픈 일정📍\n- 패키지 티켓 : 2024.11.15.(금) 14:00\n- 일반 티켓 : 2024.11.19.(화) 14:00\n\n💡24/25 레퍼토리시즌 살펴보기\n\n-시즌 프로그램 바로보기bit.ly/2ZMDjph-패키지 자세히보기bit.ly/2DVVBf4예매…"
+                },
+                {
+                    "channel_name": "국립극장",
+                    "date": "14시간 전",
+                    "url": "https://twitter.com/ntok_/status/1857045803577090417?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "마음을 보는 자 광대다\n마음을 여는 자 광대다\n\n‘날치답게’ 살다 간 조선 최고 소리꾼\n이날치의 파란만장한 삶을 소재로 한 작품\n\n창극 <이날치傳>의 막이 올랐습니다🪭\n\n국립창극단 <이날치傳>\n2024.11.14.(목)-11.21.(목)\n국립극장 달오름"
+                },
+                {
+                    "channel_name": "국립극장",
+                    "date": "20시간 전",
+                    "url": "https://twitter.com/ntok_/status/1856949541079323000?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "국립국악관현악단 X 천하제일상 거상\n\n실시간 현장 투표로 진행되는\n작곡 대전 게임 콘서트🎮🗳\n\n국악관현악으로 재탄생하는 게임 속 BGM과\n필드별 테마곡이 궁금하시다면?\n\n🎼프로그램🎼\n━━━━━━━━━━━━━━━━━━━\n▪️국악관현악을 위한 ‘새로운 세계’, 작곡 손다혜\n▪️조선필드…"
+                },
+                {
+                    "channel_name": "국립극장",
+                    "date": "2일 전",
+                    "url": "https://twitter.com/ntok_/status/1856689567019208763?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "[이벤트] #연극_몬스터콜스 #이벤트\n\n☝️이벤트 하나\n기댈 곳 없던 10대 소년 코너에게\n몬스터가 찾아온 시간은 언제일까요?\n\n댓글을 통해 정답을 맞춰주신 분들 중\n다섯 분께 첫 공연 초대권(1인 2매)를 드립니다\n\n🔍공연 소개 카드뉴스와 포스터 속 숫자를 참고해 주세요bit.ly/4fMKsK7…"
+                },
+                {
+                    "channel_name": "국립극장",
+                    "date": "2일 전",
+                    "url": "https://twitter.com/ntok_/status/1856683289740030170?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "영국 최고 아동문학상 수상작\n소설 『몬스터 콜스』 원작\n\n연극 <몬스터 콜스>를\n카드 뉴스를 통해 미리 만나보세요🔍\n\n#각색_박지선 #연출_민새롬\n\n국립극장 기획공연 <몬스터 콜스>\n2024.12.5.(목)-12.8.(일)\n국립극장 달오름\n\n예매바로가기bit.ly/3YiVbVK"
+                }
+            ]
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 10,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "국가기록포털",
+            "displayed_link": "https://www.archives.go.kr › next",
+            "title": "국립중앙극장",
+            "url": "https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=005791&pageFlag=&sitePage=",
+            "snippet": "1950년 민족예술의 발전을 위해 국가에서 설립한 극장으로 정식 명칭은 중앙국립극장이며, 현재 서울특별시 중구 장충동에 있다. 순수 무대 예술만을 사업 대상으로 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 11,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "플레이 DB",
+            "displayed_link": "http://www.playdb.co.kr › placedb",
+            "title": "국립극장 하늘극장",
+            "url": "http://www.playdb.co.kr/placedb/PlacedbInfo.asp?PlacecCD=24",
+            "snippet": "지도 컨트롤러 범례 · 버스 420(파랑) 국립극장 하차 144, 301, 407, 420, 7212 '장충동. · 지하철 3호선 동대입구역(6번 출구, 국립극장까지 도보 15분 소요) → '동대입 ..."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 12,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "국립극단",
+            "displayed_link": "https://www.ntck.or.kr › info",
+            "title": "티켓예매",
+            "url": "https://www.ntck.or.kr/ko/performance/info",
+            "snippet": "공연일자. 2024.11.16 ~ 2024.11.17 · 공연시간. 11.16.(토) 15시, 19시 30분 | 11.17.(일) 13시, 17시 30분 · 입장권. 전석 무료(지정석/1인 4매 한) · 장소. 명동예술극장."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 13,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Japan National Tourism Organization",
+            "displayed_link": "https://www.japan.travel › spot",
+            "title": "국립극장",
+            "url": "https://www.japan.travel/ko/spot/1719/",
+            "snippet": "전통 일본 공연 예술을 실감나게 느낄 수 있는 곳. 국립극장은 일본의 고대 전통 공연예술의 보존과 진흥을 위해 1966년 건립되었습니다. 공연예술에 관심이 있다면 누구나 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 14,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "NAVER",
+            "displayed_link": "https://blog.naver.com › shinydays22",
+            "title": "국립극장 공연 전에 갈 수 있는 카페, 식당, 편의점 완벽 정리 - 네이버블로그",
+            "url": "https://blog.naver.com/shinydays22/223326856016",
+            "date": "2024. 1. 18.",
+            "snippet": "2024. 1. 18. — 이곳은 무인으로 운영되는데 즉석라면과 컵라면, 컵밥 등을 먹을 수 있는 곳이다. 지난 번엔 일찍 가서 뮤덕이랑 ..."
+        },
+        {
+            "sequence": 21,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "_func": "_kp_undefined",
+                    "ved": {
+                        "type": 191819
+                    }
+                }
+            ]
+        },
+        {
+            "sequence": 22,
+            "type": "related_searches",
+            "ved": {
+                "type": 54107
+            },
+            "items": [
+                {
+                    "query": "국립극장 영어로"
+                },
+                {
+                    "query": "국립극장 공연일정"
+                },
+                {
+                    "query": "국립극장 예매"
+                },
+                {
+                    "query": "국립극장 식당"
+                },
+                {
+                    "query": "국립극장 해오름"
+                },
+                {
+                    "query": "국립극장 셔틀버스"
+                }
+            ]
+        }
+    ]
+}

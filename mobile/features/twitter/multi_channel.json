@@ -1,0 +1,444 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "8edd7aba-6bf2-4d41-be8a-0fbe82fc48ca",
+        "sub_id": 0,
+        "requested_time": "2024-11-15T02:49:31.899Z",
+        "q": "브라우저 사전",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "sourceid=chrome&ie=UTF-8&q=%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80+%EC%82%AC%EC%A0%84&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20",
+        "html_url": "http://node0116.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/241115/2411151149/GG%09M%09ko%09kr%093205bfd2f66fba440135878dc8ed331f0007%09South%20Korea%0920241115024931899.html",
+        "json_url": "http://node0116.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/241115/2411151149/GG%09M%09ko%09kr%093205bfd2f66fba440135878dc8ed331f0007%09South%20Korea%0920241115024931899.json",
+        "crawl_start_time": "2024-11-15T02:49:33.195Z",
+        "crawl_end_time": "2024-11-15T02:49:43.314Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "cool",
+            "domain": "wp",
+            "purpose": "download_serp"
+        },
+        "crawl_elapsed_time": 10.11
+    },
+    "information": {
+        "version": "6.4.0.master",
+        "displayed_query": "브라우저 사전",
+        "parsed_time": "2024-11-15T02:49:44.177Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "_func": "header",
+                    "ved": {
+                        "type": 106517
+                    },
+                    "title": "영한사전"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "_func": "description",
+                    "ved": {
+                        "type": 4174
+                    },
+                    "attrid": "VisualDigestDescription"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "translation",
+            "ved": {
+                "type": 194140
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "position": 1,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "네이버 영어사전",
+            "displayed_link": "https://en.dict.naver.com",
+            "title": "네이버 영어사전",
+            "url": "https://en.dict.naver.com/",
+            "snippet": "미국/영국식 발음, 여러 종류의 출판사 사전 뜻풀이, 풍부한 유의어/반의어, 대표사전 설정 기능, 상세검색 기능, 영어 단어장 제공.",
+            "refinements": [
+                {
+                    "text": "English-Korean Thesaurus"
+                },
+                {
+                    "text": "Naver English Dictionary"
+                },
+                {
+                    "text": "Best: Open Dictionary PRO"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "position": 2,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "네이버 사전",
+            "displayed_link": "https://dict.naver.com",
+            "title": "네이버 사전 (NAVER dictionary)",
+            "url": "https://dict.naver.com/",
+            "snippet": "영어, 국어, 한자, 일본어, 중국어를 포함한 67종 언어로 총 3000만 표제어를 제공하는 네이버사전.",
+            "refinements": [
+                {
+                    "text": "네이버 영어사전"
+                },
+                {
+                    "text": "네이버 국어사전"
+                },
+                {
+                    "text": "네이버 일본어사전"
+                },
+                {
+                    "text": "네이버 한자사전"
+                },
+                {
+                    "text": "네이버 중국어사전"
+                },
+                {
+                    "text": "프랑스어사전"
+                },
+                {
+                    "text": "베트남어사전"
+                }
+            ],
+            "missing_words": [
+                "브라우저"
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 3,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "네이버 사전",
+            "displayed_link": "https://dict.naver.com › kofrdict",
+            "title": "영어사전",
+            "url": "https://dict.naver.com/kofrdict/",
+            "snippet": "미국/영국식 발음, 여러 종류의 출판사 사전 뜻풀이, 풍부한 유의어/반의어, 대표사전 설정 기능, 상세검색 기능, 영어 단어장 제공."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 4,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Chrome Web Store",
+            "displayed_link": "https://chromewebstore.google.com › ...",
+            "title": "Tooltip dictionary - 툴팁 영한사전 - Chrome Web Store",
+            "url": "https://chromewebstore.google.com/detail/tooltip-dictionary-%ED%88%B4%ED%8C%81-%EC%98%81%ED%95%9C%EC%82%AC/dlabodjigcmnanaldmfkpflpopgmdhii",
+            "snippet": "툴팁 영한사전입니다. 영어 단어에 커서를 올려두면 단어검색, 영어 문장을 드래그하면 번역 기능을 사용할 수 있습니다."
+        },
+        {
+            "sequence": 8,
+            "type": "twitter",
+            "subtype": "multi_channel",
+            "ved": {
+                "type": 17529
+            },
+            "url": "https://twitter.com/storywiz_kt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "carousels": [
+                {
+                    "channel_name": "storywiz_kt",
+                    "date": "X (Twitter) · 14분 전",
+                    "url": "https://twitter.com/storywiz_kt/status/1857251115206897932?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "#RT + #팔로우 이벤트\n\n첫사랑의 상처를 안고 대학에 입학한 미정,\n그곳에서 옛사랑과 꼭 닮은 선배 소원을 만난다.\n아픔을 피하려던 미정은 소원에게 점점 마음을 열고 성장해 가는데…!\n\n웹툰 『불편해요, 선배님!』 AI챗봇 공개 이벤트 \n🔗bit.ly/3C81jc3"
+                },
+                {
+                    "channel_name": "yes24_official",
+                    "date": "X (Twitter) · 3시간 전",
+                    "url": "https://twitter.com/yes24_official/status/1857214948264562985?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "나 고흐 작품 들고 다니는 사람이야~\n👜소장가치 뿜뿜 명화 텀블러 (2 color)\n\n11월 굿즈 구경하기👉ye4.kr/j7Q5Q#RT + #팔로우 1분께 이 굿즈 보내드려요!\n(11/28 타래로 당첨자 발표)"
+                },
+                {
+                    "channel_name": "dw_ci_notice",
+                    "date": "X (Twitter) · 4시간 전",
+                    "url": "https://twitter.com/dw_ci_notice/status/1857196821426434326?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "《천마는 아이돌이 되었다》 29화가 업로드 되었습니다!😘\n카카오 에서 만나요~💛\n\n카카오페이지▶page.kakao.com/conte…카카오웹툰▶webtoon.kakao.com/co…#판타지 #아이돌물 #무협물"
+                },
+                {
+                    "channel_name": "MASCOZ_Official",
+                    "date": "X (Twitter) · 15시간 전",
+                    "url": "https://twitter.com/MASCOZ_Official/status/1857023366722458097?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "<💑 옆자리를 부탁해 #이벤트 💑>\n\n날씨가 쓸쓸~해진 요즘, 옆구리가 시린\n여러분을 위해 마스코즈가 준비한 이벤트🎁\n#RT #팔로우 이벤트도 함께 진행중!✨\n\n❗ 참여 조건 ❗\n마스코즈 아바타로 참여한다면 누구나!\n버튜버가 아니어도 OK⭐\n\n✅ 이벤트 참여 방법\n1️⃣ 본인의 옆자리를 채워줄 아바타를…"
+                },
+                {
+                    "channel_name": "cellfusionc_kr",
+                    "date": "X (Twitter) · 18시간 전",
+                    "url": "https://twitter.com/cellfusionc_kr/status/1856982053327442074?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "#수능끝 #팔로우 #RT이벤트\n\n수능 끝!!! 💛수험생 여러분 모두 너무 고생하셨습니다💛\n써니가 가져온 🥳이벤트🥳\n메이크업 전 필수템인 '톤업 선베이스' 가볍게 \n챱챱챱 바르시고~~~ *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚…"
+                },
+                {
+                    "channel_name": "aladinbook",
+                    "date": "X (Twitter) · 21시간 전",
+                    "url": "https://twitter.com/aladinbook/status/1856944450322550806?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "11월 두 번째 특별선물 3/3\n선물 3. 2025 네컷사진 다이어리 2종 📒\n🔗aladin.kr/ei/nFrmo추억은 눈에 보일 때 더 강해지는 법 💖\n앞면 투명창에 내 최애 네컷사진 보관하기!\n\n✔ 스누피와 우드스탁/스누피와 친구들\n\n#팔로우, #RT 시 추첨 증정 (2명, 디자인 랜덤)\n ⤷ 기간 : ~11/29, 발표 :…"
+                },
+                {
+                    "channel_name": "haksan_comic",
+                    "date": "X (Twitter) · 22시간 전",
+                    "url": "https://twitter.com/haksan_comic/status/1856925524238766293?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "snippet": "<이 사진을 보고 뭔가가 떠오른다면 당신은 '덕후'입니다 #팔로우이벤트 >\n\n한 컷만 봐도\n알 수 있잖아~🎵\n \n딱! 한 장으로도 찐하게 느껴지는 이 작품들..\n무엇인지 알아보시겠어요?\n \n그런 당신은\n\"찐 덕후\"입니다.\n \n✨팔로우 이벤트✨\n학산 공식트위터(@haksan_comic)  #팔로우 하고\n댓글로 모든…"
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "position": 5,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Chrome Web Store",
+            "displayed_link": "https://chromewebstore.google.com › ...",
+            "title": "네이버 영어사전 (Naver English Dictionary) - Chrome Web Store",
+            "url": "https://chromewebstore.google.com/detail/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%EC%96%B4%EC%82%AC%EC%A0%84-naver-english-di/jfibpeiddefellcfgnijpcpddoimbdij",
+            "snippet": "영어 단어의 뜻과 예문을 쉽게 찾을 수 있습니다. [4.4 업데이트: 2022.07.24] - 주요 버그 수정 - 변형된 단어 제안 기능 추가 [4.2 업데이트: 2022.05.08] - 사전 ..."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "position": 6,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "다음 어학사전",
+            "displayed_link": "https://dic.daum.net",
+            "title": "다음 어학사전",
+            "url": "https://dic.daum.net/",
+            "snippet": "다음 어학사전으로 모르는 단어와 문장을 손쉽게 찾아보세요. PC웹, 모바일, 태블릿 PC에서 편리하게 사용하실 수 있습니다.",
+            "missing_words": [
+                "브라우저"
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 7,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Cambridge University Press & Assessment",
+            "displayed_link": "https://dictionary.cambridge.org › ...",
+            "title": "캠브리지영어사전 - Cambridge University Press & Assessment",
+            "url": "https://dictionary.cambridge.org/ko/",
+            "date": "4일 전",
+            "snippet": "4일 전 — 가장 인기 있는 영어 학습자용 사전 및 유의어 사전. 단어의 의미와 정의를 발음 및 번역과 함께 제공."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 8,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Google",
+            "displayed_link": "https://chrome.google.com › detail",
+            "title": "번역기, 사전 - 정확한 번역 - Chrome 웹 스토어",
+            "url": "https://chrome.google.com/webstore/detail/translator-pro-quick-tran/bebmphofpgkhclocdbgomhnjcpelbenh?sid=4550df&hl=ko",
+            "snippet": "Google 번역의 신경망 기계 번역 알고리즘이 지원되며 프랑스어, 독일어, 스페인어, 영어를 비롯한 97개 이상의 다양한 언어를 지원하여 정확한 번역을 제공합니다. 더블 ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 9,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Daum",
+            "displayed_link": "https://small.dic.daum.net › ...",
+            "title": "다음 영어사전 (Daum Korean English dictionary)",
+            "url": "https://small.dic.daum.net/index.do?dic=eng",
+            "snippet": "영어사전. 단어검색. 단어, 문장을 검색하세요. 언어 사전 선택. 전체 · 영어 · English · 한국어 · 일본어 · 중국어 · 한자. 사전 전체펼침. 사전 전체 리스트."
+        },
+        {
+            "sequence": 14,
+            "type": "related_searches",
+            "ved": {
+                "type": 54107
+            },
+            "items": [
+                {
+                    "query": "네이버 사전"
+                },
+                {
+                    "query": "영어사전"
+                },
+                {
+                    "query": "네이버 영어사전"
+                },
+                {
+                    "query": "네이버 영어사전 앱"
+                },
+                {
+                    "query": "국어사전"
+                },
+                {
+                    "query": "한영사전 구글"
+                }
+            ]
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "position": 10,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "잉글리쉬 큐브",
+            "displayed_link": "https://www.englishcube.net › e_p...",
+            "title": "웹브라우저의 사전기능을 적극 활용하자",
+            "url": "https://www.englishcube.net/e_pds_view.php?uid=24",
+            "snippet": "사전 사이트에 따로 접속하지 않아도 바로 사전을 참고할 수 있으므로 최대한 빠르게 읽어나가는 것이 좋습니다. 100% 우리말로 해석하기 보다는 전반적인 문맥을 이해할 ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 11,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "한국어기초사전",
+            "displayed_link": "https://krdict.korean.go.kr",
+            "title": "한국어기초사전",
+            "url": "https://krdict.korean.go.kr/",
+            "date": "2023. 8. 22.",
+            "snippet": "2023. 8. 22. — 사용하시는 웹 브라우저의 캐시를 전체 삭제하여 주시기 바랍니다. <예시 방법> - 크롬(Chrome) 브라우저 ... 뜻풀이를 11개 언어로 번역한 사전으로"
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 12,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Microsoft Community",
+            "displayed_link": "https://answers.microsoft.com › all",
+            "title": "마이크로소프트 엣지 브라우저 사전 기능",
+            "url": "https://answers.microsoft.com/ko-kr/microsoftedge/forum/all/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C/4300f71e-5cb6-42ba-bba8-e6bfa1fdb5bd",
+            "snippet": "마이크로소프트 엣지 브라우저 사전 기능. 마이크로소프트 엣지 브라우저를 이용하며 영어 단어를 더블클릭하면 영영사전이 팝업되어 유용히 잘 사용 중이었습니다."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "position": 13,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Wiktionary",
+            "displayed_link": "https://ko.wiktionary.org › wiki",
+            "title": "브라우저",
+            "url": "https://ko.wiktionary.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80",
+            "snippet": "명사 · 갈리시아어(gl): navegador web · 그루지야어(ka): ბრაუზერი(brauzeri) · 그리스어(el): φυλλομετρητής · 네덜란드어(nl): browser, bladerprogramma · 노르웨이어(no): ..."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "position": 14,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "NAVER",
+            "displayed_link": "https://en.dict.naver.com › ...",
+            "title": "한국어 해설로 쉬워졌다! 영어 유의어사전 오픈!",
+            "url": "https://en.dict.naver.com/?version=3/",
+            "snippet": "프라임 영한사전 제6판 (동아출판); 올인올 영한사전 (YBM NET); 신영한대사전 (교학사); 슈프림 영한대사전 (민중서관); 프렌딕 레벨 영한사전; ET-house 능률 한영사전 ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "position": 15,
+            "ved": {
+                "type": 311
+            },
+            "site_name": "YouTube",
+            "displayed_link": "https://www.youtube.com › watch",
+            "title": "엔터 한 번에, 8개의 사전 검색하기! (feat. Muldic)",
+            "url": "https://www.youtube.com/watch?v=Ps8SY006z20",
+            "missing_words": [
+                "브라우저"
+            ],
+            "thumbnail": {
+                "type": "direct_video",
+                "date": "2020. 2. 21."
+            }
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 16,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "한글과컴퓨터",
+            "displayed_link": "https://help.hancom.com › dictionary",
+            "title": "인터넷 사전",
+            "url": "https://help.hancom.com/hoffice/multi/ko_kr/hwp/tools/dictionary/dictionary(internet).htm",
+            "snippet": "단어를 입력한 다음 [인터넷 사전] 단추를 누르면 웹 브라우저 창에 Daum 어학사전이 나타납니다. Daum 어학사전을 이용하면 국어, 영어, 한자, 일본어, ..."
+        },
+        {
+            "sequence": 22,
+            "type": "organic_results",
+            "position": 17,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "funissu.com",
+            "displayed_link": "https://funissu.com › chrome-brow...",
+            "title": "크롬 브라우저 영어사전 추천 - 네이버 영어사전 설치 및 사용법",
+            "url": "https://funissu.com/chrome-browser-naver-english-dictionary/",
+            "date": "2024. 2. 21.",
+            "snippet": "2024. 2. 21. — 크롬 웹스토어에서 “네이버 영어사전”으로 검색 후 “네이버 영어사전” 프로그램을 선택해서 크롬에 추가 버튼을 클릭합니다. 비슷한 다른 확장 프로그램이 ..."
+        },
+        {
+            "sequence": 23,
+            "type": "organic_results",
+            "position": 18,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Cambridge Dictionary",
+            "displayed_link": "https://dictionary.cambridge.org › ...",
+            "title": "영어로 browser의 뜻",
+            "url": "https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/browser",
+            "snippet": "영어로 browser의 뜻 · browser noun [C] (PROGRAM) · browser noun [C] (PERSON)."
+        },
+        {
+            "sequence": 24,
+            "type": "organic_results",
+            "position": 19,
+            "ved": {
+                "type": 22
+            },
+            "site_name": "Wiktionary",
+            "displayed_link": "https://ko.wiktionary.org › wiki",
+            "title": "browser - 위키낱말사전",
+            "url": "https://ko.wiktionary.org/wiki/browser",
+            "snippet": "(컴퓨터) 브라우저. 네덜란드어. 편집. 어원: 위의 ..."
+        }
+    ]
+}
